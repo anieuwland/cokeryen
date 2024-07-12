@@ -1,0 +1,38 @@
+<div style="position: relative;">
+  <span id="return"><a href="/" title="Terug naar de hoofdpagina">⮐</a></span>
+</div>
+<article id="recipeSection">
+  <div id="recipeHeader">
+    <div style="display: flex;">
+      <img src="/assets/notabel.jpg" style="max-width: 400px; max-height: 400px;" />
+    </div>
+    <div id="recipeIntro">
+      <h2>{{recipe.title}}</h2>
+      <div style="flex-direction: column; gap: 2px;">
+        <p class="author"><a class="author" href="/boeken/{{book.ref}}">{{book.title}}</a></p>
+        <p class="author"><a class="author" href="/koks/Vander_noot">{{book.person}}</a>&nbsp;&mdash;&nbsp;<a class="author"
+            href="/transcribenten/{{book.transcriber}}">{{book.transcriber}}</a></p>
+      </div>
+      <div id="recipeStatistics">
+        <div class="recipeStatistic">
+          <span>{{book.year}}</span>
+          <span>gepubliceerd</span>
+        </div>
+        <div class="recipeStatistic inverted rounded">
+          <span>{{getNameSymbol()}}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="height: 1px; background: #cfcfcf;"></div>
+
+  <div id="recipeInstructions">
+    <p>{{recipe.instructions}}</p>
+  </div>
+</article>
+<!--
+  <a href="https://www.yummly.com/recipe/Cornmeal-Pancakes-with-Peach-Compote-9379826">Voorbeeld</a>
+  <a href="https://www.dbnl.org/tekst/_not001nota01_01/_not001nota01_01_0001.php">notabel beockxen</a>
+https://www.deslegte.com/images/cached/resample/jpg/data/uploads/954/1505/cms_visual_1527285.jpg_1608113140000_954x1505-92579279bd.jpg
+  -->

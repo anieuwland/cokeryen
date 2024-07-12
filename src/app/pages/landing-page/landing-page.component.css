@@ -1,0 +1,38 @@
+#centerColumn {
+    margin: 96px auto 256px;
+}
+
+#bookTeaserContainer {
+    flex-direction: row; 
+    justify-content: space-between; 
+    gap: 16px; 
+    flex-wrap: wrap;
+}
+
+book-teaser {
+    flex-basis: calc((100% - 16px)/2);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+#centerColumn {
+    box-sizing: content-box;
+    width: 984px;
+    gap: 16px;
+    flex-direction: column;
+}
+
+#recipes {
+    gap: 16px;
+    justify-content: space-between;
+}
+
+#recipes > div {
+    width: calc(100% / 3 - 16px);
+    flex-direction: column;
+    gap: 16px;
+}
+
+recipe-teaser {
+    box-sizing: border-box;
+}

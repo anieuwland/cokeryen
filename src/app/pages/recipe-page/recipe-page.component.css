@@ -1,0 +1,26 @@
+#centerColumn {
+    flex-direction: column; 
+    width: 790px; 
+    background: white;
+    margin: 0px auto 256px;
+    padding: 96px;
+    /* border: 1px solid #cfcfcf; */
+    border-radius: 8px;
+    color: #4a4a4a;
+}
+
+#bookTeaserContainer {
+    flex-direction: row; 
+    justify-content: space-between; 
+    gap: 16px; 
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    width: 984px;
+    margin: 104px auto 16px;
+}
+
+book-teaser {
+    flex-basis: calc((100% - 16px)/2);
+    border-radius: 8px;
+    overflow: hidden;
+}

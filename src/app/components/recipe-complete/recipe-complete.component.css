@@ -1,0 +1,101 @@
+#return {
+    position: absolute;
+    right: 0px;
+    top: -64px;
+    font-size: 20pt;
+}
+
+#return a {
+    text-decoration: none;
+}
+
+#return a:hover {
+    text-decoration: underline;
+}
+
+#centerColumn {
+    flex-direction: column; 
+    width: 790px; 
+    background: white;
+    margin: 96px auto 256px;
+    padding: 96px;
+    /* border: 1px solid #cfcfcf; */
+    border-radius: 8px;
+}
+
+#recipeSection {
+    flex-direction: column;
+    gap: 64px;
+}
+
+#recipeHeader {
+    flex-direction: row-reverse;
+    gap: 32px;
+}
+
+#recipeHeader h2 {
+    font-size: 28pt;
+}
+
+#recipeSection .author {
+    color: #aaa;
+}
+
+p.author {
+    line-height: 1.2;
+}
+
+a.author {
+    color: #aaa;
+    text-decoration: none;
+    font-variant: small-caps;
+}
+
+a.author:hover {
+    color: #888;
+    text-decoration: underline;
+}
+
+#recipeIntro {
+    flex-direction: column; 
+    gap: 8px;
+}
+
+#recipeStatistics {
+    justify-content: space-evenly;
+}
+
+#recipeIntro *:last-child {
+    margin-top: auto;
+    margin-top: auto;
+}
+
+.recipeStatistic {
+    flex-direction: column;
+    text-align: center;
+    /* color: #512630; */
+    /* color: #e88230; */
+    color: #8b5161;
+}
+
+.recipeStatistic span:first-child {
+    font-size: 26pt;
+    font-weight: bold;
+}
+
+.inverted {
+    color: white;
+    /* background: #4a4a4a; */
+    /* background: #512630; */
+    /* background: #e88230; */
+    background: #8b5161;
+    padding: 12px;
+}
+
+.rounded {
+    border-radius: 32px;
+}
+
+#recipeInstructions p {
+    line-height: 2;
+}

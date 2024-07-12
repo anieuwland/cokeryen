@@ -1,0 +1,18 @@
+server {
+    listen 80;
+
+    location /health {
+        add_header Content-Type application/json;
+        return 200 '"Operating"';
+    }
+
+    location /assets/env.js {
+        add_header Content-Type text/javascript;
+        return 200 'var ENV = {"SRV_URL": "${SRV_URL}"}';
+    }
+
+    location / {
+        root   /usr/share/nginx/html;
+        try_files $uri $uri/ /index.html;
+    }
+}

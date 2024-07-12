@@ -1,0 +1,79 @@
+<div id="container">
+  <div id="centerColumn">
+    <div id="bookTeaserContainer">
+      <book-teaser style="background: green;">
+        <span year>1514</span>
+        <span title>Een notabel boecxken van cokeryen</span>
+      </book-teaser>
+      <book-teaser style="background: #8b5161;">
+        <span year>1593</span>
+        <span title>Eenen seer schoonen ende excellenten Cocboeck</span>
+      </book-teaser>
+      <book-teaser style="background: hwb(46 26% 8%); color: #4a4a4a">
+        <span year>1669</span>
+        <span title>Eenen seer schoonen ende excellenten Cocboeck</span>
+      </book-teaser>
+      <book-teaser style="background: #e88230;">
+        <span year>1752</span>
+        <span title>De volmaakte Hollandsche keuken-meid</span>
+      </book-teaser>
+    </div>
+    
+    <div id="recipes">
+      <div>
+        <ng-container *ngFor="let recipe of recipes; let i = index">
+          <recipe-teaser *ngIf="i % 3 === 0" [recipe]="recipe[0]" [book]="recipe[1]"></recipe-teaser>
+        </ng-container> 
+      </div>
+      <div>
+        <ng-container *ngFor="let recipe of recipes; let i = index">
+          <recipe-teaser *ngIf="i % 3 === 1" [recipe]="recipe[0]" [book]="recipe[1]"></recipe-teaser>
+        </ng-container> 
+      </div>
+      <div>
+        <ng-container *ngFor="let recipe of recipes; let i = index">
+          <recipe-teaser *ngIf="i % 3 === 2" [recipe]="recipe[0]" [book]="recipe[1]"></recipe-teaser>
+        </ng-container> 
+      </div>
+
+      <!-- <div>
+        <ng-container *ngFor="let recipe of recipes; let i = index; let even = even">
+          <recipe-teaser *ngIf="even" [recipe]="recipe[0]" [book]="recipe[1]"></recipe-teaser>
+        </ng-container> 
+      </div>
+      <div>
+        <ng-container *ngFor="let recipe of recipes; let i = index; let odd = odd">
+          <recipe-teaser *ngIf="odd" [recipe]="recipe[0]" [book]="recipe[1]"></recipe-teaser>
+        </ng-container> 
+      </div> -->
+    </div>
+  </div>
+</div>
+
+
+<!--
+  <p>Website naam / navigatie</p>
+  
+  <p>Honderden vergeten, historische en excentrieke recepten!</p>
+  
+  <div>
+    <p>Uitgelicht recept</p>
+  </div>
+  
+  <p>boeken</p>
+  
+  <ul>
+    <li>Catchy Headline: number, specific, strong words</li>
+    <li><a href="recepten">In den eersten wildi maken een wit bruwet tot capuynen ofte tot kieckenen oft tot
+        calfvleessce</a></li>
+  </ul>
+-->
+
+
+<!--
+
+Power words
+https://optinmonster.com/700-power-words-that-will-boost-your-conversions/
+
+
+-->

@@ -1,0 +1,23 @@
+.bookTeaser {
+    padding: 8px; 
+    gap: 8px; 
+    font-weight: bold; 
+    background: inherit;
+    /* flex-basis: calc((100% - 16px)/2 - 16px); */
+    /* border-radius: 8px; */
+}
+
+/* .bookTeaser:nth-child(2n + 1) {
+    flex-direction: row-reverse;
+} */
+
+.bookTeaser p:first-child {
+    border-radius: 8px; 
+    padding: 4px 8px; 
+    border-radius: 8px; 
+    align-self: first baseline;
+}
+
+.bookTeaser p:nth-child(2) {
+    align-self: center;
+}

@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Humanistic";
+    src: url(/fonts/humanistic.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "HumanisticCursive";
+    src: url(/fonts/humanistic-cursive.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "IndiraK";
+    src: url(/fonts/indira-k.ttf) format("truetype");
+}
+
+h1, h2, h3 { 
+    font-family: IndiraK, serif;
+}
+
+h1, h2, h3, div, p, section,article {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    /* color: #4a4a4a; */
+}
+
+p {
+    font-size: 12pt;
+    line-height: 1.667;
+}
+
+html {
+    background: #bfbf58;
+    color: white;
+}
+
+.box {
+    background: white;
+    color: #4a4a4a;
+}
+
+a {
+    text-decoration: none;
+    color: #4a4a4a;
+}
+
+a:hover {
+    text-decoration: underline;
+}
