@@ -13,16 +13,6 @@
     text-decoration: underline;
 }
 
-#centerColumn {
-    flex-direction: column; 
-    width: 790px; 
-    background: white;
-    margin: 96px auto 256px;
-    padding: 96px;
-    /* border: 1px solid #cfcfcf; */
-    border-radius: 8px;
-}
-
 #recipeSection {
     flex-direction: column;
     gap: 64px;
@@ -31,6 +21,10 @@
 #recipeHeader {
     flex-direction: row-reverse;
     gap: 32px;
+}
+
+#recipeHeader > *:nth-child(2) {
+    flex-grow: 2;
 }
 
 #recipeHeader h2 {

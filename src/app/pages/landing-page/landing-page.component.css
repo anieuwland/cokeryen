@@ -15,9 +15,15 @@ book-teaser {
     overflow: hidden;
 }
 
+@media screen and (max-width: 560px) {
+    book-teaser {
+        flex-basis: 100%;
+    }
+}
+
 #centerColumn {
     box-sizing: content-box;
-    width: 984px;
+    width: 100%;
     gap: 16px;
     flex-direction: column;
 }
@@ -33,6 +39,23 @@ book-teaser {
     gap: 16px;
 }
 
+
+@media screen and (max-width: 700px) {
+    #recipes {
+        flex-direction: column;
+    }
+
+    #recipes > div {
+        width: calc(100%);
+    }
+}
+
 recipe-teaser {
     box-sizing: border-box;
+}
+
+@media screen and (max-width: 1000px) {
+    #centerColumn {
+        margin-top: 16px;
+    }
 }

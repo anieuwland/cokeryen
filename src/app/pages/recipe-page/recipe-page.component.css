@@ -1,6 +1,6 @@
 #centerColumn {
     flex-direction: column; 
-    width: 790px; 
+    /* width: 790px;  */
     background: white;
     margin: 0px auto 256px;
     padding: 96px;
@@ -15,12 +15,18 @@
     gap: 16px; 
     flex-wrap: wrap;
     box-sizing: border-box;
-    width: 984px;
-    margin: 104px auto 16px;
+    width: 100%;
+    margin: 96px auto 16px;
 }
 
 book-teaser {
     flex-basis: calc((100% - 16px)/2);
     border-radius: 8px;
     overflow: hidden;
+}
+
+@media screen and (max-width: 1000px) {
+    #bookTeaserContainer {
+        margin-top: 16px;
+    }
 }
