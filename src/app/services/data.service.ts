@@ -37,4 +37,15 @@ export interface Recipe {
   title: string,
   bookRef: string,
   instructions: string,
+  modernized: Modernization | undefined,
 };
+
+export interface Modernization {
+  title: string,
+  recipe: string,
+  visualized: string,
+  ingredients: [string, string][],
+  tags: string[],
+  original: string,
+  image_url: string,
+}

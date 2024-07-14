@@ -1,8 +1,4 @@
-export interface Recipe {
-    id: number,
-    title: string,
-    bookRef: string,
-    instructions: string,
-};
+import { Recipe } from "./services/data.service";
+
 
 export const RECIPES: Recipe[] = (<any>window).RECIPES;

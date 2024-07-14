@@ -1,8 +1,11 @@
 #return {
     position: absolute;
     right: 0px;
-    top: -64px;
+    top: -1px;
     font-size: 20pt;
+    background: white;
+    padding: 2px 0px 2px 12px;
+    border-bottom-left-radius: 8px;
 }
 
 #return a {
@@ -15,12 +18,66 @@
 
 #recipeSection {
     flex-direction: column;
-    gap: 64px;
 }
 
 #recipeHeader {
-    flex-direction: row-reverse;
     gap: 32px;
+}
+
+@media screen and (max-width: 700px) {
+    #return {
+        top: -32px;
+        right: -32px;
+        z-index: 10;
+        border-top-right-radius: 8px;
+        padding: 6px 12px 2px;
+    }
+
+    #recipeSection {
+        gap: 32px;
+    }
+
+    #recipeHeader {
+        flex-direction: column;
+    }
+
+    #recipeHeader > div > img {
+        max-width: calc(100% + 64px);
+        max-height: calc(100% + 64px);
+        position: relative;
+        top: -32px;
+        left: -32px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        margin-bottom: -32px;
+    }
+
+    #recipeStatistics {
+        margin-top: 16px !important;
+    }
+
+    #recipeInstructions {
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    #recipeSection {
+        gap: 96px;
+    }
+
+    #recipeHeader {
+        flex-direction: row-reverse;
+    }
+
+    #recipeHeader > div > img {
+        max-width: 400px;
+        max-height: 400px;
+    }
+
+    #recipeInstructions {
+        flex-direction: row-reverse;
+    }
 }
 
 #recipeHeader > *:nth-child(2) {

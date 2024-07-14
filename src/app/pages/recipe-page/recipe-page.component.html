@@ -1,21 +1,24 @@
-<div id="bookTeaserContainer">
-    <book-teaser style="background: green;">
-        <span year>1514</span>
-        <span title>Een notabel boecxken van cokeryen</span>
-    </book-teaser>
-    <book-teaser style="background: #8b5161;">
-        <span year>1593</span>
-        <span title>Eenen seer schoonen ende excellenten Cocboeck</span>
-    </book-teaser>
-    <book-teaser style="background: hwb(46 26% 8%); color: #4a4a4a">
-        <span year>1669</span>
-        <span title>Eenen seer schoonen ende excellenten Cocboeck</span>
-    </book-teaser>
-    <book-teaser style="background: #e88230;">
-        <span year>1752</span>
-        <span title>De volmaakte Hollandsche keuken-meid</span>
-    </book-teaser>
-</div>
-<div id="centerColumn">
-    <recipe-complete *ngIf="recipe && book" [recipe]="recipe" [book]="book"></recipe-complete>
+<div style="flex-direction: column; gap: 16px;">
+    <div id="bookTeaserContainer">
+        <book-teaser style="background: green;">
+            <span year>1514</span>
+            <span title>Een notabel boecxken van cokeryen</span>
+        </book-teaser>
+        <book-teaser style="background: #8b5161;">
+            <span year>1593</span>
+            <span title>Eenen seer schoonen ende excellenten Cocboeck</span>
+        </book-teaser>
+        <book-teaser style="background: hwb(46 26% 8%); color: #4a4a4a">
+            <span year>1669</span>
+            <span title>De verstandige kock</span>
+        </book-teaser>
+        <book-teaser style="background: #e88230;">
+            <span year>1752</span>
+            <span title>De volmaakte Hollandsche keuken-meid</span>
+        </book-teaser>
+    </div>
+    <toolbar (modernize)="modernized = $event"></toolbar>
+    <div id="centerColumn">
+        <recipe-complete *ngIf="recipe && book" [recipe]="recipe" [book]="book" [modernize]="modernized"></recipe-complete>
+    </div>
 </div>

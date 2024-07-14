@@ -1,5 +1,4 @@
 import { Pipe, PipeTransform } from '@angular/core';
-import { Recipe } from '../app.recipes';
 
 @Pipe({
   name: 'recipeShortInstructions',
@@ -7,8 +6,8 @@ import { Recipe } from '../app.recipes';
 })
 export class RecipeShortInstructionsPipe implements PipeTransform {
 
-  transform(recipe: Recipe): string {
-    return recipe.instructions.split(' ', 40).map(word => word.trim()).join(' ');
+  transform(instructions: string): string {
+    return instructions.split(' ', 40).map(word => word.trim()).join(' ');
   }
 
 }

@@ -3,7 +3,7 @@
     /* width: 790px;  */
     background: white;
     margin: 0px auto 256px;
-    padding: 96px;
+    padding: 32px;
     /* border: 1px solid #cfcfcf; */
     border-radius: 8px;
     color: #4a4a4a;
@@ -16,13 +16,29 @@
     flex-wrap: wrap;
     box-sizing: border-box;
     width: 100%;
-    margin: 96px auto 16px;
+    margin: 96px auto 0px;
 }
 
-book-teaser {
-    flex-basis: calc((100% - 16px)/2);
-    border-radius: 8px;
-    overflow: hidden;
+@media screen and (min-width: 700px) {
+    #centerColumn {
+        padding: 96px;
+    }
+
+    book-teaser {
+        flex-basis: calc((100% - 16px)/2);
+        border-radius: 8px;
+        overflow: hidden;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    #centerColumn {
+        padding: 32px;
+    }
+
+    book-teaser {
+        flex-basis: 100%;
+    }
 }
 
 @media screen and (max-width: 1000px) {

@@ -1,16 +1,18 @@
 import { Component, Input } from '@angular/core';
 import { Book, Recipe } from '../../services/data.service';
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'recipe-complete',
   standalone: true,
-  imports: [],
+  imports: [CommonModule],
   templateUrl: './recipe-complete.component.html',
   styleUrl: './recipe-complete.component.css'
 })
 export class RecipeCompleteComponent {
   @Input() recipe!: Recipe;
   @Input() book!: Book;
+  @Input() modernize: boolean = false;
 
   constructor() {}
 

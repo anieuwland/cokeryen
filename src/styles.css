@@ -41,7 +41,7 @@ html {
     }
 }
 
-p {
+p, li {
     font-size: 12pt;
     line-height: 1.667;
 }

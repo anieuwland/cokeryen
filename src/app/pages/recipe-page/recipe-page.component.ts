@@ -4,6 +4,7 @@ import { BookTeaserComponent } from '../../components/book-teaser/book-teaser.co
 import { Book, DataService, Recipe } from '../../services/data.service';
 import { RECIPES } from '../../app.recipes';
 import { CommonModule } from '@angular/common';
+import { ToolbarComponent } from "../../components/toolbar/toolbar.component";
 
 @Component({
   selector: 'recipe-page',
@@ -12,13 +13,15 @@ import { CommonModule } from '@angular/common';
     RecipeCompleteComponent,
     BookTeaserComponent,
     CommonModule,
-  ],
+    ToolbarComponent,
+],
   templateUrl: './recipe-page.component.html',
   styleUrl: './recipe-page.component.css'
 })
 export class RecipePage {
   @Input() bookRef!: string;
   @Input() recipeId!: string;
+  modernized: boolean = false;
 
   public recipe: Recipe | null = null;
   public book: Book | null = null;

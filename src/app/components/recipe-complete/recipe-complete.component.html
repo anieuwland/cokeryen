@@ -4,10 +4,11 @@
 <article id="recipeSection">
   <div id="recipeHeader">
     <div style="display: flex;">
-      <img src="/assets/notabel.jpg" style="max-width: 400px; max-height: 400px;" />
+      <img src="/assets/gerechten/{{recipe.bookRef}}/{{recipe.bookRef}}-{{recipe.id}}.jpg" *ngIf="recipe.bookRef === 'Noot1514'" />
+      <img src="/assets/notabel.jpg" *ngIf="recipe.bookRef !== 'Noot1514'" />
     </div>
     <div id="recipeIntro">
-      <h2>{{recipe.title}}</h2>
+      <h2>{{modernize && recipe.modernized ? recipe.modernized.title : recipe.title}}</h2>
       <div style="flex-direction: column; gap: 2px;">
         <p class="author"><a class="author" href="/boeken/{{book.ref}}">{{book.title}}</a></p>
         <p class="author"><a class="author" href="/koks/Vander_noot">{{book.person}}</a>&nbsp;&mdash;&nbsp;<a class="author"
@@ -27,8 +28,25 @@
 
   <div style="height: 1px; background: #cfcfcf;"></div>
 
-  <div id="recipeInstructions">
-    <p>{{recipe.instructions}}</p>
+  <div style="flex-direction: column;">
+    <div id="recipeInstructions" style="gap: 48px;">
+      <div style="flex-direction: column;" *ngIf="modernize && recipe.modernized">
+        <h3>Ingrediënten</h3>
+        <ul style="margin: 0px 0px 0px 16px; padding: 0px; min-width: 200px;">
+          <li *ngFor="let ingr of recipe.modernized.ingredients">{{ingr[1]}} <span *ngIf="ingr[0]">({{ingr[0]}})</span></li>
+        </ul>
+      </div>
+      <div style="flex-direction: column;">
+        <h3>Handelingen</h3>
+        <p *ngFor="let par of (modernize && recipe.modernized ? recipe.modernized.recipe : recipe.instructions).split('\n')">{{par}}</p>
+      </div>
+    </div>
+  
+    <div style="margin-top: 16px;">
+      <ul style="display: flex; flex-direction: row; list-style: none; column-gap: 16px; margin: 0px; padding: 0px; flex-wrap: wrap;">
+        <li *ngFor="let tag of recipe?.modernized?.tags ?? []">#{{tag}}</li>
+      </ul>
+    </div>
   </div>
 </article>
 <!--
