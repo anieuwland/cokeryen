@@ -7,7 +7,7 @@
       <book-teaser style="background: #e88230;" [book]="books['ESVELDT1752']"></book-teaser>
     </div>
 
-    <toolbar (modernize)="modernized = $event" [modernizableBook]="bookRef ? books[bookRef].modernized : false"></toolbar>
+    <toolbar (modernize)="modernized = $event" [modernizableBook]="bookRef ? books[bookRef].modernized : true"></toolbar>
     
     <div id="recipes">
       <div>

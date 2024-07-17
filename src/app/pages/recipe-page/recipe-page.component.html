@@ -5,7 +5,7 @@
         <book-teaser style="background: hwb(46 26% 8%); color: #4a4a4a" [book]="books['N1669']"></book-teaser>
         <book-teaser style="background: #e88230;" [book]="books['ESVELDT1752']"></book-teaser>
     </div>
-    <toolbar (modernize)="modernized = $event"></toolbar>
+    <toolbar (modernize)="modernized = $event" [modernizableBook]="!(!(recipe?.modernized))"></toolbar> 
     <div id="centerColumn">
         <recipe-complete *ngIf="recipe && book" [recipe]="recipe" [book]="book" [modernize]="modernized"></recipe-complete>
     </div>
