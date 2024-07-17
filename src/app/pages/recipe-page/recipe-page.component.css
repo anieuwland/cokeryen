@@ -1,8 +1,14 @@
+#top {
+    flex-direction: column; 
+    gap: 16px;
+    margin-bottom: 256px;
+}
+
 #centerColumn {
     flex-direction: column; 
     /* width: 790px;  */
     background: white;
-    margin: 0px auto 256px;
+    margin: 0px auto;
     padding: 32px;
     /* border: 1px solid #cfcfcf; */
     border-radius: 8px;
@@ -24,6 +30,10 @@
         padding: 96px;
     }
 
+    .comment {
+        padding: 32px 96px; 
+    }
+
     book-teaser {
         flex-basis: calc((100% - 16px)/2);
         border-radius: 8px;
@@ -36,6 +46,10 @@
         padding: 32px;
     }
 
+    .comment {
+        padding: 32px;
+    }
+
     book-teaser {
         flex-basis: 100%;
     }
@@ -45,4 +59,13 @@
     #bookTeaserContainer {
         margin-top: 16px;
     }
+}
+
+.comment {
+    flex-direction: column; 
+    background: white; 
+    border-radius: 8px; 
+    color: #4d4d4d; 
+    margin-bottom: 96px; 
+    gap: 16px;
 }

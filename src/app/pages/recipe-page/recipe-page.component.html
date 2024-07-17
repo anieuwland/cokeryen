@@ -1,12 +1,24 @@
-<div style="flex-direction: column; gap: 16px;">
+<div id="top">
     <div id="bookTeaserContainer">
         <book-teaser style="background: green;" [book]="books['Noot1514']"></book-teaser>
         <book-teaser style="background: #8b5161;" [book]="books['Baten1593']"></book-teaser>
         <book-teaser style="background: hwb(46 26% 8%); color: #4a4a4a" [book]="books['N1669']"></book-teaser>
         <book-teaser style="background: #e88230;" [book]="books['ESVELDT1752']"></book-teaser>
     </div>
-    <toolbar (modernize)="modernized = $event" [modernizableBook]="!(!(recipe?.modernized))"></toolbar> 
+    <toolbar (modernize)="modernized = $event" [modernizableBook]="!(!(recipe?.modernized))"></toolbar>
     <div id="centerColumn">
-        <recipe-complete *ngIf="recipe && book" [recipe]="recipe" [book]="book" [modernize]="modernized"></recipe-complete>
+        <recipe-complete *ngIf="recipe && book" [recipe]="recipe" [book]="book"
+            [modernize]="modernized"></recipe-complete>
+    </div>
+
+    <div class="comment" *ngIf="recipe?.id === 1">
+        <p style="font-variant: small-caps; color: #aaa; flex-direction: row-reverse;">
+            <span>17 juli 2024</span>
+             &nbsp;&mdash;&nbsp; 
+            <span style="font-weight: bold;">Terranova</span>
+        </p>
+        <p>Zelf gemaakt en was echt lekker! Ook veel makkelijker dan gedacht. Wel citroensap gebruikt ipv verjus
+            en de amandelen voorgemalen gekocht (amandelmeel). Bij mij was de saus wel veel dikker/stuk</p>
+        <img src="/assets/usercontent/0123456789abcdef.jpg" style="max-width: 100%;" />
     </div>
 </div>
