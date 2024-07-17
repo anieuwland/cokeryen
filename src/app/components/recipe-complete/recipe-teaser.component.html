@@ -3,7 +3,7 @@
   <p class="author"><a class="author" href="/boeken/{{recipe.bookRef}}">{{book.title}}</a></p>
   <h2><a routerLink="/recepten/{{recipe.bookRef}}/{{recipe.id}}">{{modernize && recipe.modernized ? recipe.modernized.title : recipe.title}}</a></h2>
   <img src="/assets/gerechten/{{recipe.bookRef}}/{{recipe.bookRef}}-{{recipe.id}}.jpg" style="width: calc(100% + 64px); position: relative; left:-32px; margin: 8px 0px;"
-    *ngIf="recipe.bookRef === 'Noot1514'" />
+    *ngIf="['Noot1514', 'N1669'].indexOf(recipe.bookRef) >= 0" />
   <!--<p><span>{{(modernize && recipe.modernized ? recipe.modernized.recipe : recipe.instructions) | recipeShortInstructions}} <a href="/recepten/{{recipe.bookRef}}/{{recipe.bookRef}}">➤</a></span>
   </p>-->
 

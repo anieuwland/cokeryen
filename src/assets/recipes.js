@@ -10007,1171 +10007,9663 @@ var RECIPES = [
   "id": 473,
   "title": "Van rauwe saladen te bereyden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt kroppen, latouwe, krulsalaet, vette ofte koornsalaet, oock de uytspruytsels van de paerdebloemen oft wilde sichoreye, oock uytspruytsels van sichoreywortels, endivie, of roode-en wittekool, of comcommers, 'tgeen men best heeft ofte in de tijdt is. En een van alle wel schoongemaeckt zijnde, wordt met goede olie van olijven, azijn en zout gegeten. Over de sommige worden gebruyckt toekruyden, yder tot believen, doch de gemeene zijn kars, nepte, porseleyn, pimpernel, raket, dragon, boteris. Oock doet men daer wel over de bloemen van buglos, bernagie, roosen en goudtsbloemen. Men eet dese sala oock wel met gesmolten boter en azijn, tesamen gewelt, in plaets van olie en azijn, tot yders believen.\n"
+  "instructions": "\nNeemt kroppen, latouwe, krulsalaet, vette ofte koornsalaet, oock de uytspruytsels van de paerdebloemen oft wilde sichoreye, oock uytspruytsels van sichoreywortels, endivie, of roode-en wittekool, of comcommers, 'tgeen men best heeft ofte in de tijdt is. En een van alle wel schoongemaeckt zijnde, wordt met goede olie van olijven, azijn en zout gegeten. Over de sommige worden gebruyckt toekruyden, yder tot believen, doch de gemeene zijn kars, nepte, porseleyn, pimpernel, raket, dragon, boteris. Oock doet men daer wel over de bloemen van buglos, bernagie, roosen en goudtsbloemen. Men eet dese sala oock wel met gesmolten boter en azijn, tesamen gewelt, in plaets van olie en azijn, tot yders believen.\n",
+  "modernized": {
+   "title": "Verse Salades Bereiden",
+   "recipe": "Neem kropsla, krulsla, veldsla of kervel, ook de jonge scheuten van paardenbloemen of wilde cichorei, ook scheuten van cichoreiwortels, andijvie, of rode- en wittekool, of komkommers, wat je het beste hebt of wat er in het seizoen is. Maak alles goed schoon en eet het met goede olijfolie, azijn en zout. Sommige mensen voegen kruiden toe naar eigen smaak, maar veelgebruikte zijn kervel, waterkers, postelein, pimpernel, rucola, dragon en boterbloem. Daarnaast kunnen ook bloemen zoals slangenkruid, bernagie, rozen en goudsbloemen over de salade worden gestrooid. Een alternatief is om de salade te eten met gesmolten boter en azijn in plaats van olijfolie en azijn, afhankelijk van ieders voorkeur.",
+   "ingredients": [
+    [
+     "1",
+     "kropsla"
+    ],
+    [
+     "1",
+     "krulsla"
+    ],
+    [
+     "1",
+     "veldsla"
+    ],
+    [
+     "",
+     "paardenbloem scheuten"
+    ],
+    [
+     "",
+     "wilde cichorei scheuten"
+    ],
+    [
+     "",
+     "cichoreiwortel scheuten"
+    ],
+    [
+     "1",
+     "andijvie"
+    ],
+    [
+     "1",
+     "rodekool"
+    ],
+    [
+     "1",
+     "wittekool"
+    ],
+    [
+     "1",
+     "komkommer"
+    ],
+    [
+     "30 ml",
+     "olijfolie"
+    ],
+    [
+     "15 ml",
+     "azijn"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "kervel"
+    ],
+    [
+     "",
+     "waterkers"
+    ],
+    [
+     "",
+     "postelein"
+    ],
+    [
+     "",
+     "pimpernel"
+    ],
+    [
+     "",
+     "rucola"
+    ],
+    [
+     "",
+     "dragon"
+    ],
+    [
+     "",
+     "boterbloem"
+    ],
+    [
+     "",
+     "slangenkruid bloemen"
+    ],
+    [
+     "",
+     "bernagie bloemen"
+    ],
+    [
+     "",
+     "rozen bloemen"
+    ],
+    [
+     "",
+     "goudsbloemen"
+    ]
+   ],
+   "visualized": "A colorful and fresh mixed salad made with leafy greens, including butterhead lettuce, curly lettuce, lamb's lettuce, and various edible flower garnishes. The salad is lightly drizzled with olive oil and vinegar, and sprinkled with salt. Visible ingredients include young dandelion shoots, wild chicory shoots, and chicory root sprouts, as well as a mix of red and white cabbage, endive, and cucumbers. The dish is garnished with various herbs like chervil, watercress, purslane, and others. Some vibrant flowers like borage, roses, and marigolds are also visible atop the salad. The salad is presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "salade",
+    "groente",
+    "vegetarisch",
+    "bijgerecht"
+   ],
+   "original": "Van rauwe saladen te bereyden\n\n\nNeemt kroppen, latouwe, krulsalaet, vette ofte koornsalaet, oock de uytspruytsels van de paerdebloemen oft wilde sichoreye, oock uytspruytsels van sichoreywortels, endivie, of roode-en wittekool, of comcommers, 'tgeen men best heeft ofte in de tijdt is. En een van alle wel schoongemaeckt zijnde, wordt met goede olie van olijven, azijn en zout gegeten. Over de sommige worden gebruyckt toekruyden, yder tot believen, doch de gemeene zijn kars, nepte, porseleyn, pimpernel, raket, dragon, boteris. Oock doet men daer wel over de bloemen van buglos, bernagie, roosen en goudtsbloemen. Men eet dese sala oock wel met gesmolten boter en azijn, tesamen gewelt, in plaets van olie en azijn, tot yders believen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-xr6SEB3tQkKqxLdEvDV1Oggz.png?st=2024-07-17T19%3A13%3A38Z&se=2024-07-17T21%3A13%3A38Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T00%3A39%3A05Z&ske=2024-07-18T00%3A39%3A05Z&sks=b&skv=2023-11-03&sig=MYvoT67xHcTsJ95r/FylJWRfqOal8E/lcgDp3EHW7mQ%3D"
+  }
  },
  {
   "id": 474,
   "title": "Om salaet van sellery te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt sellery, suyvertse en haelt het punt van 't mes door de struycken heen. Dan, in kout water gheleydt, sal schoon krullen. Dan gegeten met olie, peper en zout. De sommige nemen azijn ofte een versche limoen daerover gedruckt.\n"
+  "instructions": "\nNeemt sellery, suyvertse en haelt het punt van 't mes door de struycken heen. Dan, in kout water gheleydt, sal schoon krullen. Dan gegeten met olie, peper en zout. De sommige nemen azijn ofte een versche limoen daerover gedruckt.\n",
+  "modernized": {
+   "title": "Selderijsalade",
+   "recipe": "Neem selderij, snijd de stengels fijn en verwijder de blaadjes. Leg de gesneden selderij in koud water, zodat het schoon krult. Serveer met olie, peper en zout. Sommige mensen voegen azijn of een verse limoen toe, uitgeperst over de salade.",
+   "ingredients": [
+    [
+     "200 gram",
+     "selderij"
+    ],
+    [
+     "1 eetlepel",
+     "olie"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "1 eetlepel",
+     "azijn"
+    ],
+    [
+     "",
+     "limoen"
+    ]
+   ],
+   "visualized": "A three-quarters angle photo of a celery salad with finely chopped celery stalks, curling slightly from being soaked in cold water. The salad is dressed with a light drizzle of oil and sprinkled with black pepper and salt. There is a wedge of lime on the side, and a small amount of vinegar is visible pooling at the bottom of the bowl. The salad is fresh, vibrant green with a slightly glossy appearance due to the oil. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vegetarisch",
+    "salade",
+    "bijgerecht"
+   ],
+   "original": "Om salaet van sellery te maken\n\n\nNeemt sellery, suyvertse en haelt het punt van 't mes door de struycken heen. Dan, in kout water gheleydt, sal schoon krullen. Dan gegeten met olie, peper en zout. De sommige nemen azijn ofte een versche limoen daerover gedruckt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-xHY48iTqSTWDlxHfhG41COU7.png?st=2024-07-17T19%3A13%3A59Z&se=2024-07-17T21%3A13%3A59Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A52%3A02Z&ske=2024-07-18T11%3A52%3A02Z&sks=b&skv=2023-11-03&sig=AGhkWiR0AIb4tjRvnfVSwMn8jrDjgp6jMnfJjVDGpDo%3D"
+  }
  },
  {
   "id": 475,
   "title": "Om salaet van artisiocken te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt artisiocken, suyvertse van de blaren en van alle onreynigheyt dat de bodem suyver is. Dan in stucken gesneden en met peper, zout, suycker, oly en azijn gegeten. Radijs wort gewassen, geschrabt en alleen met zout gegeten.\n"
+  "instructions": "\nNeemt artisiocken, suyvertse van de blaren en van alle onreynigheyt dat de bodem suyver is. Dan in stucken gesneden en met peper, zout, suycker, oly en azijn gegeten. Radijs wort gewassen, geschrabt en alleen met zout gegeten.\n",
+  "modernized": {
+   "title": "Salade van artisjokken",
+   "recipe": "Neem artisjokken en verwijder de bladeren en alle onzuiverheden zodat de bodem schoon is. Snijd dan in stukken. Eet met peper, zout, suiker, olie en azijn.\n\nWas radijs, schraap schoon en eet alleen met zout.",
+   "ingredients": [
+    [
+     "4",
+     "artisjokken"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "3 el",
+     "olie"
+    ],
+    [
+     "2 el",
+     "azijn"
+    ],
+    [
+     "100 g",
+     "radijs"
+    ]
+   ],
+   "visualized": "A fresh artichoke salad served on a white plate. The artichoke hearts are cut into chunks and sprinkled with pepper, salt, and sugar. They are lightly drizzled with oil and vinegar. Next to the artichokes are radishes, freshly scrubbed and seasoned with salt. The dish is displayed from a three-quarters angle, shot with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "salade",
+    "vegetarisch",
+    "groente",
+    "bijgerecht"
+   ],
+   "original": "Om salaet van artisiocken te maken\n\n\nNeemt artisiocken, suyvertse van de blaren en van alle onreynigheyt dat de bodem suyver is. Dan in stucken gesneden en met peper, zout, suycker, oly en azijn gegeten. Radijs wort gewassen, geschrabt en alleen met zout gegeten.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-M3HLg5kR5iTt2c4gfx26Ftuw.png?st=2024-07-17T19%3A14%3A22Z&se=2024-07-17T21%3A14%3A22Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A52%3A26Z&ske=2024-07-18T13%3A52%3A26Z&sks=b&skv=2023-11-03&sig=/YCUCN55YUMovIOTtIU5BDWYehEoe1rjnJdZpuAdtSA%3D"
+  }
  },
  {
   "id": 476,
   "title": "Om alderhande gekookte sala te prepareren",
   "bookRef": "N1669",
-  "instructions": "\nMen neemt de herten van de kroppen, een weynigh gekoockt, of sichoraywortelen, of bietwortelen of kroten, of steelen van porseleyn, of steelen van biet, naerdatse wel geschilt zijn, of jonge groene Turckse of klimbonen, gaergekoockt, ofte uytspruytsels van hop, uytspruytsels van vlier, ajuyn of loock, oock wel roode- of wittekool, fijngescherft en een walletje opgekoockt, yder na sijn appetijt. En een van allen wel gekoockt, wort bereyt met olie van olijven, azijn, zout, peper. Tot de sommige neemt men oock suyker of korenten, naer believen.\n\n"
+  "instructions": "\nMen neemt de herten van de kroppen, een weynigh gekoockt, of sichoraywortelen, of bietwortelen of kroten, of steelen van porseleyn, of steelen van biet, naerdatse wel geschilt zijn, of jonge groene Turckse of klimbonen, gaergekoockt, ofte uytspruytsels van hop, uytspruytsels van vlier, ajuyn of loock, oock wel roode- of wittekool, fijngescherft en een walletje opgekoockt, yder na sijn appetijt. En een van allen wel gekoockt, wort bereyt met olie van olijven, azijn, zout, peper. Tot de sommige neemt men oock suyker of korenten, naer believen.\n\n",
+  "modernized": {
+   "title": "Gekookte salades",
+   "recipe": "Men neemt de harten van sla, een beetje gekookt, of chicoreiwortels, of bietwortels, of kroten, of stelen van duizendschoon, of stelen van biet, mits ze goed geschild zijn, of jonge groene Turkse of klimmende bonen, gaargekookt, of uitspruitsels van hop, uitspruitsels van vlier, ui of knoflook, ook wel rode of witte kool, fijn gesneden en een beetje gekookt, alles naar smaak.\n\nEn een van allen goed gekookt, wordt bereid met olijfolie, azijn, zout, peper. Naar wens voegt men ook suiker of krenten toe.",
+   "ingredients": [
+    [
+     "200 g",
+     "harten van sla"
+    ],
+    [
+     "100 g",
+     "chicoreiwortels"
+    ],
+    [
+     "100 g",
+     "bietwortels"
+    ],
+    [
+     "100 g",
+     "kroten"
+    ],
+    [
+     "100 g",
+     "stelen van duizendschoon"
+    ],
+    [
+     "100 g",
+     "stelen van biet"
+    ],
+    [
+     "200 g",
+     "jonge groene bonen"
+    ],
+    [
+     "100 g",
+     "hopuitspruitsels"
+    ],
+    [
+     "100 g",
+     "vlieruitspruitsels"
+    ],
+    [
+     "1",
+     "ui"
+    ],
+    [
+     "2 tenen",
+     "knoflook"
+    ],
+    [
+     "100 g",
+     "rode kool"
+    ],
+    [
+     "25 ml",
+     "olijfolie"
+    ],
+    [
+     "25 ml",
+     "azijn"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "",
+     "krenten"
+    ]
+   ],
+   "visualized": "A vibrant and colorful cooked salad featuring a mix of ingredients like lightly cooked lettuce hearts, chicory roots, beet roots, and turnips. The salad also includes spears of Turkse or climbing beans, hop sprouts, elderberry shoots, finely chopped red cabbage, onions, and garlic. Brightly garnished with olive oil, vinegar, a sprinkle of salt and pepper, and optionally sugar or currants. The dish is presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vegetarisch",
+    "groente",
+    "salade",
+    "bijgerecht"
+   ],
+   "original": "Om alderhande gekookte sala te prepareren\n\n\nMen neemt de herten van de kroppen, een weynigh gekoockt, of sichoraywortelen, of bietwortelen of kroten, of steelen van porseleyn, of steelen van biet, naerdatse wel geschilt zijn, of jonge groene Turckse of klimbonen, gaergekoockt, ofte uytspruytsels van hop, uytspruytsels van vlier, ajuyn of loock, oock wel roode- of wittekool, fijngescherft en een walletje opgekoockt, yder na sijn appetijt. En een van allen wel gekoockt, wort bereyt met olie van olijven, azijn, zout, peper. Tot de sommige neemt men oock suyker of korenten, naer believen.\n\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-pd0f26QcuHRv1xK0nsWVC1Ah.png?st=2024-07-17T19%3A15%3A03Z&se=2024-07-17T21%3A15%3A03Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A45%3A22Z&ske=2024-07-18T13%3A45%3A22Z&sks=b&skv=2023-11-03&sig=FbE2EfbgWnpkFDAqkJiB%2B%2BBwoZeGeEgDyuNDjQmPRUo%3D"
+  }
  },
  {
   "id": 477,
   "title": "Om peulen te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt peulen, haelt de draden ter zijden af en doet die dan in een platte pot. Doet weynigh water daerop. Schut die dickmaels om en boter daerby. Laet het t'samen stoven. Somtijdts doet men daer groene petercely by, kleyngescherft. Is heel goet.\n"
+  "instructions": "\nNeemt peulen, haelt de draden ter zijden af en doet die dan in een platte pot. Doet weynigh water daerop. Schut die dickmaels om en boter daerby. Laet het t'samen stoven. Somtijdts doet men daer groene petercely by, kleyngescherft. Is heel goet.\n",
+  "modernized": {
+   "title": "Gestovede Peulen",
+   "recipe": "Neem peulen en verwijder de draden aan de zijkanten. Doe de peulen in een platte pot en voeg een beetje water toe.\n\nRoer regelmatig en voeg boter toe. Laat het geheel stoven. Soms wordt er fijngehakte peterselie toegevoegd. Dit is erg lekker.",
+   "ingredients": [
+    [
+     "500 gram",
+     "peulen"
+    ],
+    [
+     "200 ml",
+     "water"
+    ],
+    [
+     "50 gram",
+     "boter"
+    ],
+    [
+     "",
+     "peterselie"
+    ]
+   ],
+   "visualized": "A dish of stewed peas in a shallow pot with a small amount of liquid. Green peas are visible and mixed with melted butter and finely chopped parsley. The dish looks creamy and slightly glossy from the butter. It is presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "groente",
+    "bijgerecht"
+   ],
+   "original": "Om peulen te stoven\n\n\nNeemt peulen, haelt de draden ter zijden af en doet die dan in een platte pot. Doet weynigh water daerop. Schut die dickmaels om en boter daerby. Laet het t'samen stoven. Somtijdts doet men daer groene petercely by, kleyngescherft. Is heel goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-7wwYZp28cLDC7tyabY2T0F5W.png?st=2024-07-17T19%3A15%3A21Z&se=2024-07-17T21%3A15%3A21Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A18%3A34Z&ske=2024-07-18T13%3A18%3A34Z&sks=b&skv=2023-11-03&sig=/bejZqAfxntdJ6T2Ux88bOqG1QsD3vIsVezUF9i3kjU%3D"
+  }
  },
  {
   "id": 478,
   "title": "Om somerrapen te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt rapen aen rijmpjes kleyngesneden, dan in een platte pot ghedaen met een half kommetje water daerop. Latet soo een weynigh stoven met boter daerby ende dickmaels omgeschudt.\n"
+  "instructions": "\nNeemt rapen aen rijmpjes kleyngesneden, dan in een platte pot ghedaen met een half kommetje water daerop. Latet soo een weynigh stoven met boter daerby ende dickmaels omgeschudt.\n",
+  "modernized": {
+   "title": "Gesmoorde Zomerknolletjes",
+   "recipe": "Neem zomerknolletjes en snijd ze in kleine stukjes. Doe ze in een platte pot met een half kommetje water. Laat ze een tijdje stoven met boter erbij en schud regelmatig om.",
+   "ingredients": [
+    [
+     "500 g",
+     "zomerknolletjes"
+    ],
+    [
+     "100 ml",
+     "water"
+    ],
+    [
+     "50 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A dish of stewed summer turnips cut into small pieces, in a shallow pot with some water and butter. The turnips appear moist and slightly glazed from the butter. The color of the turnips is vibrant and contrasts with the light golden hue of the butter. The turnips are tender and evenly cooked. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "groente",
+    "bijgerecht",
+    "stoofpot"
+   ],
+   "original": "Om somerrapen te stoven\n\n\nNeemt rapen aen rijmpjes kleyngesneden, dan in een platte pot ghedaen met een half kommetje water daerop. Latet soo een weynigh stoven met boter daerby ende dickmaels omgeschudt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-32I6C3Mfw0Ozz2xS6J7Ig3n0.png?st=2024-07-17T19%3A15%3A44Z&se=2024-07-17T21%3A15%3A44Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T17%3A54%3A41Z&ske=2024-07-18T17%3A54%3A41Z&sks=b&skv=2023-11-03&sig=C//k9hweqwOG859t4PmIxYLumaKdwxtn8YXhrt7e6mI%3D"
+  }
  },
  {
   "id": 479,
   "title": "Om somerrapen te stoven op een ander manier",
   "bookRef": "N1669",
-  "instructions": "\nNeemt de rapen als die gesneden zijn. Koocktse eerst op met water ten naesten by gaer, dan uytgegoten op een vergiettest. De boter met weynigh suycker eerst opgekoockt, dan de rapen daerby gedaen en wel omgeschudt. Is goet.\n"
+  "instructions": "\nNeemt de rapen als die gesneden zijn. Koocktse eerst op met water ten naesten by gaer, dan uytgegoten op een vergiettest. De boter met weynigh suycker eerst opgekoockt, dan de rapen daerby gedaen en wel omgeschudt. Is goet.\n",
+  "modernized": {
+   "title": "Gestoofde zomerraapjes",
+   "recipe": "Neem de rapen en snijd ze in stukken. Kook ze eerst in water tot ze bijna gaar zijn, giet ze daarna af in een vergiet. Smelt de boter met een beetje suiker, voeg vervolgens de rapen toe en roer goed door. Heerlijk.",
+   "ingredients": [
+    [
+     "500 g",
+     "zomerraapjes"
+    ],
+    [
+     "",
+     "water"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "1 tl",
+     "suiker"
+    ]
+   ],
+   "visualized": "A delicious serving of cubed summer turnips, glazed in a buttery sauce with a hint of sugar. The turnips are golden brown, slightly caramelized, and glistening with a glossy finish. The dish is presented on a simple white plate from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "groente",
+    "bijgerecht",
+    "gestoofd"
+   ],
+   "original": "Om somerrapen te stoven op een ander manier\n\n\nNeemt de rapen als die gesneden zijn. Koocktse eerst op met water ten naesten by gaer, dan uytgegoten op een vergiettest. De boter met weynigh suycker eerst opgekoockt, dan de rapen daerby gedaen en wel omgeschudt. Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-AvBZIxMn3iWtordo1wB8g1cY.png?st=2024-07-17T19%3A16%3A07Z&se=2024-07-17T21%3A16%3A07Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A58%3A51Z&ske=2024-07-18T12%3A58%3A51Z&sks=b&skv=2023-11-03&sig=U8np9fANSek/7kwZcWQX%2B%2BtACTQ39Kw2SpSQ2wRqW0w%3D"
+  }
  },
  {
   "id": 480,
   "title": "Om tuynboonen, klim- of Turckse boonen te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt tuyn- of Turckse bonen, gesneden. Die opgekoockt totdatse gaer zijn, dan uytgegoten om te verlecken. Neemt dan gescherfde petercely met boter en zout, een lepel of twee hamelesop, t'samen in de pot gedaen dat het wat doorstooft. Dan de boonen daerby gedaen, dickmaels omgeschudt. Men neemt oock wel wat boonkruyt daerby, elck na sijn believen.\n"
+  "instructions": "\nNeemt tuyn- of Turckse bonen, gesneden. Die opgekoockt totdatse gaer zijn, dan uytgegoten om te verlecken. Neemt dan gescherfde petercely met boter en zout, een lepel of twee hamelesop, t'samen in de pot gedaen dat het wat doorstooft. Dan de boonen daerby gedaen, dickmaels omgeschudt. Men neemt oock wel wat boonkruyt daerby, elck na sijn believen.\n",
+  "modernized": {
+   "title": "Tuinbonen of Snijbonen Stoven",
+   "recipe": "Neem gesneden tuinbonen of snijbonen. Kook deze tot ze gaar zijn en giet ze af. Laat ze uitlekken.\n\nNeem dan gesnipperde peterselie met boter en zout, en voeg een of twee lepels hamletsop toe. Doe alles in een pan en laat het even stoven.\n\nVoeg de bonen toe en roer het geheel regelmatig om.\n\nJe kunt eventueel ook wat bonenkruid toevoegen, naar eigen smaak.",
+   "ingredients": [
+    [
+     "500 gram",
+     "tuinbonen of snijbonen"
+    ],
+    [
+     "2 eetlepels",
+     "boter"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "2 eetlepels",
+     "hamletsop"
+    ],
+    [
+     "1 eetlepel",
+     "gesnipperde peterselie"
+    ],
+    [
+     "",
+     "bonenkruid"
+    ]
+   ],
+   "visualized": "A dish of stewed green beans with a garnish of parsley. The green beans are glistening with butter and should look tender and slightly glossy. The hamlet broth should add a subtle sheen to the vegetables. Served from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "groente",
+    "bijgerecht",
+    "stoofschotel",
+    "traditioneel"
+   ],
+   "original": "Om tuynboonen, klim- of Turckse boonen te stoven\n\n\nNeemt tuyn- of Turckse bonen, gesneden. Die opgekoockt totdatse gaer zijn, dan uytgegoten om te verlecken. Neemt dan gescherfde petercely met boter en zout, een lepel of twee hamelesop, t'samen in de pot gedaen dat het wat doorstooft. Dan de boonen daerby gedaen, dickmaels omgeschudt. Men neemt oock wel wat boonkruyt daerby, elck na sijn believen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-AAETqKmggYZzKE28doNNQGOt.png?st=2024-07-17T19%3A16%3A33Z&se=2024-07-17T21%3A16%3A33Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A28%3A14Z&ske=2024-07-18T11%3A28%3A14Z&sks=b&skv=2023-11-03&sig=HAN2Glk5gUwSm7lK7sHwxtoitMLdXoDbF12CvvrqTXE%3D"
+  }
  },
  {
   "id": 481,
   "title": "Om warmoes te koken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt schoon putwater, doet een of twee oubacke ronde wittebrooden daerin naerdat ghy veel gelieft te koken. Hanght'et over 't vuur en scherft terwijl het moes van kervel, biet, wat foeliebladers, bernagie of buglosse, de eerste bladerkens van zwarte aelbesien en van goutsbloemen, oock parey en kattekruydt, een weynigh spenagie, maer geen suringh, die sou het te vael maken. Als het kleyngescherft is en het water met het broodt een wijl gesoden hebbende tot het aen stucken is, doet het dan daerin en latet soo gaerkoken. Dan boter en zout, naer u believen.\n"
+  "instructions": "\nNeemt schoon putwater, doet een of twee oubacke ronde wittebrooden daerin naerdat ghy veel gelieft te koken. Hanght'et over 't vuur en scherft terwijl het moes van kervel, biet, wat foeliebladers, bernagie of buglosse, de eerste bladerkens van zwarte aelbesien en van goutsbloemen, oock parey en kattekruydt, een weynigh spenagie, maer geen suringh, die sou het te vael maken. Als het kleyngescherft is en het water met het broodt een wijl gesoden hebbende tot het aen stucken is, doet het dan daerin en latet soo gaerkoken. Dan boter en zout, naer u believen.\n",
+  "modernized": {
+   "title": "Warmoes koken",
+   "recipe": "Neem schoon water en voeg \u00e9\u00e9n of twee oude ronde witte broden toe, afhankelijk van uw voorkeur. Breng het aan de kook en snijd ondertussen de groente fijn: kervel, biet, wat foeliebladeren, bernagie of buglosse, de eerste blaadjes van zwarte aalbes en goudsbloemen, evenals peterselie en kattenkruid. Voeg een beetje spinazie toe, maar geen zuring, want dat zou het te zuur maken. Wanneer de broden en het water enige tijd hebben gekookt tot het brood uit elkaar valt, voeg de fijngesneden groente toe en laat het geheel gaar koken. Voeg naar smaak boter en zout toe.",
+   "ingredients": [
+    [
+     "1 liter",
+     "water"
+    ],
+    [
+     "2",
+     "oude ronde witte broden"
+    ],
+    [
+     "",
+     "kervel"
+    ],
+    [
+     "1",
+     "biet"
+    ],
+    [
+     "",
+     "foeliebladeren"
+    ],
+    [
+     "",
+     "bernagie"
+    ],
+    [
+     "",
+     "buglosse"
+    ],
+    [
+     "",
+     "eerste blaadjes van zwarte aalbes"
+    ],
+    [
+     "",
+     "goudsbloemen"
+    ],
+    [
+     "",
+     "peterselie"
+    ],
+    [
+     "",
+     "kattenkruid"
+    ],
+    [
+     "",
+     "spinazie"
+    ],
+    [
+     "",
+     "boter"
+    ],
+    [
+     "",
+     "zout"
+    ]
+   ],
+   "visualized": "A hearty vegetable stew with bits of bread soaked and broken down, giving the broth a thicker texture. The stew includes various finely chopped green vegetables like chervil, beetroot, leaves of black currant, borage, and others. There are visible chunks of beetroot and small green flecks of herbs, all melded together in a clear, slightly thickened broth. From a three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "groente",
+    "soep",
+    "oud-Hollands",
+    "hoofdgerecht",
+    "gezond"
+   ],
+   "original": "Om warmoes te koken\n\n\nNeemt schoon putwater, doet een of twee oubacke ronde wittebrooden daerin naerdat ghy veel gelieft te koken. Hanght'et over 't vuur en scherft terwijl het moes van kervel, biet, wat foeliebladers, bernagie of buglosse, de eerste bladerkens van zwarte aelbesien en van goutsbloemen, oock parey en kattekruydt, een weynigh spenagie, maer geen suringh, die sou het te vael maken. Als het kleyngescherft is en het water met het broodt een wijl gesoden hebbende tot het aen stucken is, doet het dan daerin en latet soo gaerkoken. Dan boter en zout, naer u believen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-ek62cD10ahiUCYJynAURtfzi.png?st=2024-07-17T19%3A17%3A03Z&se=2024-07-17T21%3A17%3A03Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A20%3A42Z&ske=2024-07-18T13%3A20%3A42Z&sks=b&skv=2023-11-03&sig=zsov9/fcpQCt6F9%2BxHxTpX2o5/wlzr/RDwfZjE1p3gM%3D"
+  }
  },
  {
   "id": 482,
   "title": "Om alderley groen te stoven",
   "bookRef": "N1669",
-  "instructions": "\nMen neemt spenagie, kropsala, endivie, biet, surckel, of spruyten van kool, ofte porseleyn. Dit, een van allen wel murruw gekoockt zijnde, wordt gestooft met boter, foelie, notemuskaet en zout.\n"
+  "instructions": "\nMen neemt spenagie, kropsala, endivie, biet, surckel, of spruyten van kool, ofte porseleyn. Dit, een van allen wel murruw gekoockt zijnde, wordt gestooft met boter, foelie, notemuskaet en zout.\n",
+  "modernized": {
+   "title": "Groenten Stoven",
+   "recipe": "Neem spinazie, kropsla, andijvie, biet, zuring of spruiten van kool, of postelein. Kook \u00e9\u00e9n van deze groenten goed gaar. Stoof daarna de groente met boter, foelie, nootmuskaat en zout.",
+   "ingredients": [
+    [
+     "400 gram",
+     "spinazie"
+    ],
+    [
+     "200 gram",
+     "kropsla"
+    ],
+    [
+     "200 gram",
+     "andijvie"
+    ],
+    [
+     "200 gram",
+     "biet"
+    ],
+    [
+     "200 gram",
+     "zuring"
+    ],
+    [
+     "200 gram",
+     "spruitjes"
+    ],
+    [
+     "200 gram",
+     "postelein"
+    ],
+    [
+     "50 gram",
+     "boter"
+    ],
+    [
+     "1 theelepel",
+     "foelie"
+    ],
+    [
+     "1 theelepel",
+     "nootmuskaat"
+    ],
+    [
+     "1 theelepel",
+     "zout"
+    ]
+   ],
+   "visualized": "A deliciously stewed mix of green vegetables including spinach, lettuce, endive, beetroot leaves, sorrel, Brussels sprouts, and purslane. The vegetables are tender and glistening slightly from the butter, and the dish is dusted with nutmeg and a touch of salt. The vegetables are artfully arranged in a shallow bowl, with flecks of mace visible across the surface. The photo should capture the dish from a three-quarters angle using a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vegetarisch",
+    "groente",
+    "bijgerecht",
+    "stoven"
+   ],
+   "original": "Om alderley groen te stoven\n\n\nMen neemt spenagie, kropsala, endivie, biet, surckel, of spruyten van kool, ofte porseleyn. Dit, een van allen wel murruw gekoockt zijnde, wordt gestooft met boter, foelie, notemuskaet en zout.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-QUUcKfLVptJPNexi3rFVD8ZR.png?st=2024-07-17T19%3A17%3A30Z&se=2024-07-17T21%3A17%3A30Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A38%3A27Z&ske=2024-07-18T11%3A38%3A27Z&sks=b&skv=2023-11-03&sig=Zwg2DdnyQHE1fkISkAN5idO2Ul3WPw2I3SElSzCQ%2BXw%3D"
+  }
  },
  {
   "id": 483,
   "title": "Om een kervelsopje te maken",
   "bookRef": "N1669",
-  "instructions": "\nVerleest vast en kapt de kervel heel kleyn. Koocktse dan in soetemelck totdatse gaer is. Doet er dan 2 of 3 eyeren in en een goet stuck boter, maer met de eyeren en boter moet het niet koken. Snijt dan wittebroodt in een schotel en giet het daer t'samen op.\n"
+  "instructions": "\nVerleest vast en kapt de kervel heel kleyn. Koocktse dan in soetemelck totdatse gaer is. Doet er dan 2 of 3 eyeren in en een goet stuck boter, maer met de eyeren en boter moet het niet koken. Snijt dan wittebroodt in een schotel en giet het daer t'samen op.\n",
+  "modernized": {
+   "title": "Kervelsoepje",
+   "recipe": "Was en snijd de kervel heel fijn.\nKook het vervolgens in melk totdat het gaar is.\nVoeg dan 2 of 3 eieren en een stuk boter toe, maar laat het mengsel niet meer koken.\nSnijd daarna witbrood in een schotel en giet de soep eroverheen.",
+   "ingredients": [
+    [
+     "200 ml",
+     "melk"
+    ],
+    [
+     "100 g",
+     "kervel"
+    ],
+    [
+     "3",
+     "eieren"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "4 sneetjes",
+     "witbrood"
+    ]
+   ],
+   "visualized": "A bowl of kervelsoepje, a creamy chervil soup, with finely chopped green chervil floating in a light milk base. Soft pieces of white bread are soaked in the soup, slightly protruding from the surface. A small pat of melted butter glistens on top. Serve from a three-quarters angle with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "soep",
+    "groente",
+    "hoofdgerecht",
+    "vegetarisch"
+   ],
+   "original": "Om een kervelsopje te maken\n\n\nVerleest vast en kapt de kervel heel kleyn. Koocktse dan in soetemelck totdatse gaer is. Doet er dan 2 of 3 eyeren in en een goet stuck boter, maer met de eyeren en boter moet het niet koken. Snijt dan wittebroodt in een schotel en giet het daer t'samen op.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-unz7egXH6jMu5MBVBsNpnKAX.png?st=2024-07-17T19%3A17%3A59Z&se=2024-07-17T21%3A17%3A59Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A27%3A07Z&ske=2024-07-18T13%3A27%3A07Z&sks=b&skv=2023-11-03&sig=DTQ%2BRHKH4Eut4JRJ5goS%2BJsVgPgcGscf36nN0VsIQXI%3D"
+  }
  },
  {
   "id": 484,
   "title": "Om aelbessensop te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt roode aelbessen. Doetse van de steelen. Neemt Rinse wijn, een weynigh water en een weynigh boter, met suycker soet gemaeckt. Dan wittebroot in een schotel gedaen en daerover ghegoten, dat het broodt weeck wordt, en dan suycker en caneel daerover gestroyt.\n"
+  "instructions": "\nNeemt roode aelbessen. Doetse van de steelen. Neemt Rinse wijn, een weynigh water en een weynigh boter, met suycker soet gemaeckt. Dan wittebroot in een schotel gedaen en daerover ghegoten, dat het broodt weeck wordt, en dan suycker en caneel daerover gestroyt.\n",
+  "modernized": {
+   "title": "Rode Bessensaus",
+   "recipe": "Neem rode aalbessen. Verwijder de steeltjes. Neem rode wijn, een beetje water en een beetje boter, zoet gemaakt met suiker. Plaats wit brood in een schotel en giet het mengsel erover zodat het brood week wordt. Strooi daarna suiker en kaneel erover.",
+   "ingredients": [
+    [
+     "400 g",
+     "rode aalbessen"
+    ],
+    [
+     "200 ml",
+     "rode wijn"
+    ],
+    [
+     "50 ml",
+     "water"
+    ],
+    [
+     "20 g",
+     "boter"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "4 sneetjes",
+     "wit brood"
+    ],
+    [
+     "10 g",
+     "kaneel"
+    ]
+   ],
+   "visualized": "A rich red sauce made from red currants poured over slices of white bread. The dish is sprinkled with sugar and cinnamon. The sauce glistens and the bread looks soft yet intact. It is photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "saus",
+    "zoet"
+   ],
+   "original": "Om aelbessensop te maken\n\n\nNeemt roode aelbessen. Doetse van de steelen. Neemt Rinse wijn, een weynigh water en een weynigh boter, met suycker soet gemaeckt. Dan wittebroot in een schotel gedaen en daerover ghegoten, dat het broodt weeck wordt, en dan suycker en caneel daerover gestroyt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-y73b5DayuCIXJKGlyZdkrYqY.png?st=2024-07-17T19%3A18%3A20Z&se=2024-07-17T21%3A18%3A20Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T08%3A17%3A17Z&ske=2024-07-18T08%3A17%3A17Z&sks=b&skv=2023-11-03&sig=7xP7t0Jz5dwG2cV/IR8qT/1s8pSpJrcSkLU4xL7n4Dc%3D"
+  }
  },
  {
   "id": 485,
   "title": "Om bloem- en savoykool te stoven",
   "bookRef": "N1669",
-  "instructions": "\nMen neemt bloem- ofte savoykool naer 't gesuyvert en murruw gekoockt is, en stooftse met hamelepap, heele peper, notemuskaet, sout - sonder te vergeten de excellente boter van Hollandt. Men doet oock wel een doyer van een ey , hartgekookt en murruw gewreven, daeronder.\n"
+  "instructions": "\nMen neemt bloem- ofte savoykool naer 't gesuyvert en murruw gekoockt is, en stooftse met hamelepap, heele peper, notemuskaet, sout - sonder te vergeten de excellente boter van Hollandt. Men doet oock wel een doyer van een ey , hartgekookt en murruw gewreven, daeronder.\n",
+  "modernized": {
+   "title": "Gestovende Bloemkool of Savooiekool",
+   "recipe": "Neem bloemkool of savooiekool nadat deze schoongemaakt en zacht gekookt is. Stoof het met een broodpapje, hele peperkorrels, nootmuskaat, zout en de excellente boter van Holland. Voeg een dooier van een hardgekookt ei toe en meng dit goed.",
+   "ingredients": [
+    [
+     "1",
+     "bloemkool of savooiekool"
+    ],
+    [
+     "200 ml",
+     "bouillon"
+    ],
+    [
+     "5 g",
+     "hele peperkorrels"
+    ],
+    [
+     "1 g",
+     "nootmuskaat"
+    ],
+    [
+     "5 g",
+     "zout"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "1",
+     "hardgekookt ei"
+    ]
+   ],
+   "visualized": "A bowl of tender braised cauliflower or savoy cabbage, mixed with a creamy bread paste. It is generously garnished with whole peppercorns and a sprinkle of nutmeg. The dish has flecks of melted Dutch butter and is topped with crumbled pieces of hard-boiled egg yolk. Photographed from a three-quarters angle with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "groente",
+    "bijgerecht",
+    "traditioneel",
+    "ouderwets"
+   ],
+   "original": "Om bloem- en savoykool te stoven\n\n\nMen neemt bloem- ofte savoykool naer 't gesuyvert en murruw gekoockt is, en stooftse met hamelepap, heele peper, notemuskaet, sout - sonder te vergeten de excellente boter van Hollandt. Men doet oock wel een doyer van een ey , hartgekookt en murruw gewreven, daeronder.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-lJv5ULOrQ7YQUQK587QSQt1c.png?st=2024-07-17T19%3A18%3A48Z&se=2024-07-17T21%3A18%3A48Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A05%3A20Z&ske=2024-07-18T12%3A05%3A20Z&sks=b&skv=2023-11-03&sig=twsKokf6YVKtW4MV3qBJN7slz/%2BMUCFD02drG79n5hU%3D"
+  }
  },
  {
   "id": 486,
   "title": "Om savoykool naer de Spaensche manier te prepareren",
   "bookRef": "N1669",
-  "instructions": "\nNeemt savoykool naerse wel murruw is gesoden, en in kleyne stucxkens in de schotel geleyt. Voort warm hamelesop, met wat peper opgekoockt, daerover gegoten, alsdan wel olie van olijven en sout over gedaen. Is smakelijck en goet.\n"
+  "instructions": "\nNeemt savoykool naerse wel murruw is gesoden, en in kleyne stucxkens in de schotel geleyt. Voort warm hamelesop, met wat peper opgekoockt, daerover gegoten, alsdan wel olie van olijven en sout over gedaen. Is smakelijck en goet.\n",
+  "modernized": {
+   "title": "Savooiekool op Spaanse wijze",
+   "recipe": "Neem savooiekool, kook deze gaar en snijd in kleine stukjes. Leg de stukjes op een schotel.\nWarm vervolgens wat bouillon op met wat peper en giet dit over de kool.\nVoeg tot slot olijfolie en zout naar smaak toe. Smakelijk en goed.",
+   "ingredients": [
+    [
+     "1",
+     "savooiekool"
+    ],
+    [
+     "500 ml",
+     "bouillon"
+    ],
+    [
+     "",
+     "zwarte peper"
+    ],
+    [
+     "50 ml",
+     "olijfolie"
+    ],
+    [
+     "",
+     "zout"
+    ]
+   ],
+   "visualized": "A dish of savoy cabbage prepared in the Spanish style. The cabbage is cut into small pieces and arranged neatly on a plate. A hot broth with a hint of pepper is poured over the cabbage. The dish is garnished with a generous drizzle of olive oil and a sprinkling of salt. Captured from a three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "groente",
+    "bijgerecht",
+    "gezond"
+   ],
+   "original": "Om savoykool naer de Spaensche manier te prepareren\n\n\nNeemt savoykool naerse wel murruw is gesoden, en in kleyne stucxkens in de schotel geleyt. Voort warm hamelesop, met wat peper opgekoockt, daerover gegoten, alsdan wel olie van olijven en sout over gedaen. Is smakelijck en goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-YsoLjcuPOCy3JKttx96em4Pr.png?st=2024-07-17T19%3A19%3A08Z&se=2024-07-17T21%3A19%3A08Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A32%3A28Z&ske=2024-07-18T13%3A32%3A28Z&sks=b&skv=2023-11-03&sig=hM9XLEoLnaYv6K9vNHzF0AFyuaqpYptam6eT2yZbvo0%3D"
+  }
  },
  {
   "id": 487,
   "title": "Van aspergies",
   "bookRef": "N1669",
-  "instructions": "\nAspergies worden slechts gekoockt, niet al te murruw, en dan gegeten met oly en azijn en peper, of anders met gesmolten boter en geraspte notemuskaten.\n"
+  "instructions": "\nAspergies worden slechts gekoockt, niet al te murruw, en dan gegeten met oly en azijn en peper, of anders met gesmolten boter en geraspte notemuskaten.\n",
+  "modernized": {
+   "title": "Asperges",
+   "recipe": "Asperges worden slechts gekookt, niet al te zacht, en dan gegeten met olie en azijn en peper, of anders met gesmolten boter en geraspte nootmuskaat.",
+   "ingredients": [
+    [
+     "500 g",
+     "asperges"
+    ],
+    [
+     "",
+     "olijfolie"
+    ],
+    [
+     "",
+     "azijn"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "zwarte peper"
+    ],
+    [
+     "",
+     "gesmolten boter"
+    ],
+    [
+     "",
+     "geraspte nootmuskaat"
+    ]
+   ],
+   "visualized": "A plate of lightly cooked asparagus spears arranged neatly. Some spears are drizzled with olive oil and vinegar with a sprinkle of black pepper, while others are topped with melted butter and grated nutmeg. The dish is presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "groente",
+    "bijgerecht",
+    "koken"
+   ],
+   "original": "Van aspergies\n\n\nAspergies worden slechts gekoockt, niet al te murruw, en dan gegeten met oly en azijn en peper, of anders met gesmolten boter en geraspte notemuskaten.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-xT09yQSZPt18lCMjbBkW15bw.png?st=2024-07-17T19%3A19%3A37Z&se=2024-07-17T21%3A19%3A37Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A34%3A34Z&ske=2024-07-18T12%3A34%3A34Z&sks=b&skv=2023-11-03&sig=JHlsoR9P9Ivl5EA8CVOi2SZIJyxrCutHlNlSrNcKXsE%3D"
+  }
  },
  {
   "id": 488,
   "title": "Diverse manier om aertisiocken te stoven als die wel gaer gesoden zijn",
   "bookRef": "N1669",
-  "instructions": "\nNeemt wat azijn en schoon water, boter en gestoten peper, noten en een weynigh gestoten beschuyt en suycker. Laet dit soo t'samen doorstoven.\n"
+  "instructions": "\nNeemt wat azijn en schoon water, boter en gestoten peper, noten en een weynigh gestoten beschuyt en suycker. Laet dit soo t'samen doorstoven.\n",
+  "modernized": {
+   "title": "Diverse manier om artisjokken te stoven als die wel gaar gekookt zijn",
+   "recipe": "Neem wat azijn en schoon water. Voeg boter, gemalen peper, noten en een beetje gemalen beschuit en suiker toe. Laat dit samen goed stoven.",
+   "ingredients": [
+    [
+     "50 ml",
+     "azijn"
+    ],
+    [
+     "200 ml",
+     "water"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "1 tl",
+     "gemalen peper"
+    ],
+    [
+     "100 g",
+     "noten"
+    ],
+    [
+     "20 g",
+     "gemalen beschuit"
+    ],
+    [
+     "1 tl",
+     "suiker"
+    ]
+   ],
+   "visualized": "A hearty dish of artichokes, sliced thinly, simmering in a light brown sauce. The sauce includes specks of crushed nuts, black pepper, and tiny bits of breadcrumbs. The surface of the sauce looks smooth and slightly glossy from the butter. The dish is garnished with a dusting of sugar, and it is steaming gently. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "groente",
+    "bijgerecht",
+    "stoofpot"
+   ],
+   "original": "Diverse manier om aertisiocken te stoven als die wel gaer gesoden zijn\n\n\nNeemt wat azijn en schoon water, boter en gestoten peper, noten en een weynigh gestoten beschuyt en suycker. Laet dit soo t'samen doorstoven.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-FpO6B9st8Ofn9WS0GN1HCFpA.png?st=2024-07-17T19%3A20%3A02Z&se=2024-07-17T21%3A20%3A02Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A45%3A15Z&ske=2024-07-18T13%3A45%3A15Z&sks=b&skv=2023-11-03&sig=CerNK81KCVdJ435jTagC5OA8RpcIXtWQIHergqVRkfM%3D"
+  }
  },
  {
   "id": 489,
   "title": "Een ander manier",
   "bookRef": "N1669",
-  "instructions": "\nAls de artisiocken wel gaer gesoden zijn, neemt een platten pot, doet'er wat hamelesop in met een scheutje Rense wijn, peper, foelie, noten, wat fijngestooten beschuyt, een weynigh zout en boter. Set'et te stoven met de artisiocken. Oock stooft men die wel met kruym van een oubacken wittebroodt in roode wijn geweeckt, kleyngewreven, en dan daer een weynigh azijn in en naer behooren suycker, kaneel, noten, peper en boter. Men eet oock artisiocken als sy gaer gesoden zijn, met een saus van boter en azijn en peper, of olie en azijn; peper en sout voor salaet.\n"
+  "instructions": "\nAls de artisiocken wel gaer gesoden zijn, neemt een platten pot, doet'er wat hamelesop in met een scheutje Rense wijn, peper, foelie, noten, wat fijngestooten beschuyt, een weynigh zout en boter. Set'et te stoven met de artisiocken. Oock stooft men die wel met kruym van een oubacken wittebroodt in roode wijn geweeckt, kleyngewreven, en dan daer een weynigh azijn in en naer behooren suycker, kaneel, noten, peper en boter. Men eet oock artisiocken als sy gaer gesoden zijn, met een saus van boter en azijn en peper, of olie en azijn; peper en sout voor salaet.\n",
+  "modernized": {
+   "title": "Artisjokken op verschillende manieren",
+   "recipe": "Als de artisjokken gaar gekookt zijn, neem dan een platte pot, doe er wat hamelessoep in met een scheutje Rhenser wijn, peper, foelie, noten, wat fijn gestoten beschuit, een beetje zout en boter. Laat het stoven met de artisjokken.\n\nOok stooft men artisjokken wel met kruim van oudbakken witbrood geweekt in rode wijn, fijngewreven, en dan een beetje azijn erbij en naar smaak suiker, kaneel, noten, peper en boter.\n\nMen eet artisjokken ook als ze gaar gekookt zijn, met een saus van boter en azijn en peper, of olie en azijn, peper en zout voor salade.",
+   "ingredients": [
+    [
+     "4",
+     "artisjokken"
+    ],
+    [
+     "500 ml",
+     "hamelessoep"
+    ],
+    [
+     "100 ml",
+     "Rhenser wijn"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "100 g",
+     "noten"
+    ],
+    [
+     "50 g",
+     "beschuit"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "4 sneetjes",
+     "oudbakken witbrood"
+    ],
+    [
+     "200 ml",
+     "rode wijn"
+    ],
+    [
+     "20 ml",
+     "azijn"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "10 g",
+     "kaneel"
+    ],
+    [
+     "30 ml",
+     "olie"
+    ]
+   ],
+   "visualized": "Picture a plate with well-cooked, whole artisjokken in a shallow dish. They are topped with a rich ham broth sauce, infused with Rhenser wine, finely ground biscuits, and spiced with pepper, nutmeg, and fine breadcrumbs. Nuts are visible throughout the dish. Another variation shows portions of artisjokken simmered with red wine-soaked breadcrumbs, flecked with cinnamon, sugar, vinegar, and pepper, glazed with a buttery sheen. The dish is viewed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "groente",
+    "hoofdgerecht",
+    "saus"
+   ],
+   "original": "Een ander manier\n\n\nAls de artisiocken wel gaer gesoden zijn, neemt een platten pot, doet'er wat hamelesop in met een scheutje Rense wijn, peper, foelie, noten, wat fijngestooten beschuyt, een weynigh zout en boter. Set'et te stoven met de artisiocken. Oock stooft men die wel met kruym van een oubacken wittebroodt in roode wijn geweeckt, kleyngewreven, en dan daer een weynigh azijn in en naer behooren suycker, kaneel, noten, peper en boter. Men eet oock artisiocken als sy gaer gesoden zijn, met een saus van boter en azijn en peper, of olie en azijn; peper en sout voor salaet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-ODAWzuEvgXbYV4WRutfMXSHv.png?st=2024-07-17T19%3A20%3A33Z&se=2024-07-17T21%3A20%3A33Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A48%3A31Z&ske=2024-07-18T13%3A48%3A31Z&sks=b&skv=2023-11-03&sig=%2BkDNh87EstVF7Tau/%2BJtM0pT1MaDUsaDnmkizLV4h1Y%3D"
+  }
  },
  {
   "id": 490,
   "title": "Om schapenvleesch te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt schapenvleesch in groote stucken gehackt, wel gekoockt en geschuymt. Doet'erby lange stucken van pinghsternakelen en voorts alderley moeskruyt, grofgehackt, en wat peper en sout. Dit soo t'samen kokende en stovende tot het schapevleesch wel gaer is. Dan met sop en al opgeschept in een schotel, daer tevooren terwenbroot in gesneden is.\n"
+  "instructions": "\nNeemt schapenvleesch in groote stucken gehackt, wel gekoockt en geschuymt. Doet'erby lange stucken van pinghsternakelen en voorts alderley moeskruyt, grofgehackt, en wat peper en sout. Dit soo t'samen kokende en stovende tot het schapevleesch wel gaer is. Dan met sop en al opgeschept in een schotel, daer tevooren terwenbroot in gesneden is.\n",
+  "modernized": {
+   "title": "Gestooft schapenvlees",
+   "recipe": "Neem stukken schapenvlees, in grote stukken gehakt, goed gekookt en afgeschuimd.\n\nDoe er lange stukken pastinaak bij en verder allerlei bladgroenten, grofgehakt, en wat peper en zout.\n\nLaat dit samen koken en stoven tot het schapenvlees goed gaar is.\n\nSchep dan met soep en al op in een schotel waarin vooraf snee\u00ebn tarwebrood zijn gelegd.",
+   "ingredients": [
+    [
+     "800 g",
+     "schapenvlees"
+    ],
+    [
+     "400 g",
+     "pastinaak"
+    ],
+    [
+     "200 g",
+     "bladgroenten"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "4 sneetjes",
+     "tarwebrood"
+    ]
+   ],
+   "visualized": "A rustic dish showing chunks of stewed mutton with pieces of parsnip and coarse chopped leafy greens in a hearty broth. The stew is served in a dish where slices of whole wheat bread have been placed at the bottom. The dish has a homely, comforting appearance, with tender meat and vegetables clearly visible in the light broth. The angle is from a three-quarters view. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdgerecht",
+    "winter"
+   ],
+   "original": "Om schapenvleesch te stoven\n\n\nNeemt schapenvleesch in groote stucken gehackt, wel gekoockt en geschuymt. Doet'erby lange stucken van pinghsternakelen en voorts alderley moeskruyt, grofgehackt, en wat peper en sout. Dit soo t'samen kokende en stovende tot het schapevleesch wel gaer is. Dan met sop en al opgeschept in een schotel, daer tevooren terwenbroot in gesneden is.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-6nhSMcxJu3GMJVhmkUUpwnnc.png?st=2024-07-17T19%3A20%3A55Z&se=2024-07-17T21%3A20%3A55Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A57%3A17Z&ske=2024-07-18T13%3A57%3A17Z&sks=b&skv=2023-11-03&sig=muvbfIE57rI/X8Nm3qDfzfO1YP/BO/u0H0NGZl4/qtg%3D"
+  }
  },
  {
   "id": 491,
   "title": "Om een kalfsschinckel met groen kruyt te stoven",
   "bookRef": "N1669",
-  "instructions": "\nAls 't vlees - wel geschuymt en wat zout daerin - gaer is, doet er dan het gescherfde kruyt by van kervel, biet en wel suring, een hantvol of twee2 struyfkruyt, en wel boter. Is goet.\n\n 2 In de druk staat: twe.\n"
+  "instructions": "\nAls 't vlees - wel geschuymt en wat zout daerin - gaer is, doet er dan het gescherfde kruyt by van kervel, biet en wel suring, een hantvol of twee2 struyfkruyt, en wel boter. Is goet.\n\n 2 In de druk staat: twe.\n",
+  "modernized": {
+   "title": "Kalfsschenkel met groene kruiden stoven",
+   "recipe": "Als het vlees goed is afgeschuimd en wat zout is toegevoegd, doe er dan de gesneden kruiden bij: kervel, spinazie en voldoende zuring. Voeg ook een of twee handenvol gemengde kruiden en voldoende boter toe. Laat het geheel goed gaar worden.",
+   "ingredients": [
+    [
+     "600 gram",
+     "kalfsschenkel"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "50 gram",
+     "kervel"
+    ],
+    [
+     "50 gram",
+     "spinazie"
+    ],
+    [
+     "50 gram",
+     "zuring"
+    ],
+    [
+     "",
+     "gemengde kruiden"
+    ],
+    [
+     "50 gram",
+     "boter"
+    ]
+   ],
+   "visualized": "A cooked veal shank garnished with fresh green herbs such as chervil, spinach, and sorrel. The shank appears tender and is surrounded by a blend of butter and mixed herbs. The dish is presented from a three-quarters angle lens (Sigma 85 mm f/1.4).",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "stoofpot",
+    "kruidig",
+    "klassiek"
+   ],
+   "original": "Om een kalfsschinckel met groen kruyt te stoven\n\n\nAls 't vlees - wel geschuymt en wat zout daerin - gaer is, doet er dan het gescherfde kruyt by van kervel, biet en wel suring, een hantvol of twee2 struyfkruyt, en wel boter. Is goet.\n\n 2 In de druk staat: twe.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-pRACCRBhxId3uX5qnzK9vdOf.png?st=2024-07-17T19%3A21%3A15Z&se=2024-07-17T21%3A21%3A15Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A42%3A28Z&ske=2024-07-18T12%3A42%3A28Z&sks=b&skv=2023-11-03&sig=Lix3g6s80X4XuQFCNB3Zy7J2EVpKibrQ03mznTjqqCw%3D"
+  }
  },
  {
   "id": 492,
   "title": "Om geroockt vleesch met eyeren te roeren",
   "bookRef": "N1669",
-  "instructions": "\nScherft het vleesch soo kleyn als ghy keunt. Doet'et in de pan met boter. Latet heet werden. Dan daer eyeren by met peper en soo ondereengeroert. Men doet er oock wel wat comijn over.\n"
+  "instructions": "\nScherft het vleesch soo kleyn als ghy keunt. Doet'et in de pan met boter. Latet heet werden. Dan daer eyeren by met peper en soo ondereengeroert. Men doet er oock wel wat comijn over.\n",
+  "modernized": {
+   "title": "Roerei met gerookt vlees",
+   "recipe": "Snijd het vlees zo klein als je kunt. Doe het in de pan met boter. Laat het heet worden. Voeg dan eieren en peper toe en roer het door elkaar. Soms voegt men ook wat komijn toe.",
+   "ingredients": [
+    [
+     "200 g",
+     "gerookt vlees"
+    ],
+    [
+     "30 g",
+     "boter"
+    ],
+    [
+     "4",
+     "eieren"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "komijn"
+    ]
+   ],
+   "visualized": "A plate of scrambled eggs with small pieces of smoked meat. The eggs are fluffy and well-cooked, golden yellow in color. The smoked meat is finely chopped and evenly mixed into the scrambled eggs. There are specks of black pepper and a light dusting of cumin on top, giving a hint of spice. It must be from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "ontbijt",
+    "vlees",
+    "eieren"
+   ],
+   "original": "Om geroockt vleesch met eyeren te roeren\n\n\nScherft het vleesch soo kleyn als ghy keunt. Doet'et in de pan met boter. Latet heet werden. Dan daer eyeren by met peper en soo ondereengeroert. Men doet er oock wel wat comijn over.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-nu0IqN8TIKHBrxLmEdU3EZ9z.png?st=2024-07-17T19%3A21%3A35Z&se=2024-07-17T21%3A21%3A35Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A57%3A19Z&ske=2024-07-18T11%3A57%3A19Z&sks=b&skv=2023-11-03&sig=zx1qFXhWFlePOU3keqnrMTUln0Jgsd1RFmsInp8YtvE%3D"
+  }
  },
  {
   "id": 493,
   "title": "Om een Spaensche hutspot te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt schapen- ofte kalfsvleesch. Laet in stucxkens hacken als een lit van een duym. Geschuymt zijnde, laet'et wel murru koken. Dan, daer boter en gehackte pietercelie by doende, laet'et noch eens opkoken. Opgeschept zijnde, neemt men 2 of 3 doren van eyeren, in lamoensop kleyngeklopt, daer dan over gedaen. Is heel smakelijck.\n\n"
+  "instructions": "\nNeemt schapen- ofte kalfsvleesch. Laet in stucxkens hacken als een lit van een duym. Geschuymt zijnde, laet'et wel murru koken. Dan, daer boter en gehackte pietercelie by doende, laet'et noch eens opkoken. Opgeschept zijnde, neemt men 2 of 3 doren van eyeren, in lamoensop kleyngeklopt, daer dan over gedaen. Is heel smakelijck.\n\n",
+  "modernized": {
+   "title": "Spaansche Hutspot",
+   "recipe": "Neem schapenvlees of kalfsvlees en hak in stukjes ter grootte van een duimkootje. Laat het vlees koken en verwijder het schuim. Voeg boter en gehakte peterselie toe en laat opnieuw koken. Schep het gerecht op en meng dan de dooiers van 2 of 3 eieren met citroensap. Giet het eimengsel over het vlees. Het gerecht is zeer smakelijk.",
+   "ingredients": [
+    [
+     "600 g",
+     "schapenvlees of kalfsvlees"
+    ],
+    [
+     "30 g",
+     "boter"
+    ],
+    [
+     "20 g",
+     "peterselie"
+    ],
+    [
+     "2",
+     "eidooiers"
+    ],
+    [
+     "2 el",
+     "citroensap"
+    ]
+   ],
+   "visualized": "This dish features a hearty and rustic appearance. Small chunks of stewed lamb or veal are nestled in a lush, golden buttery sauce flecked with bright green parsley. A rich, creamy topping of lemon-infused egg yolk is lightly draped over the meat, adding a beautiful glossy finish. The entire presentation is served hot and emanates a comforting, savory aroma. Capture the dish from a three-quarters angle with a Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdgerecht",
+    "traditioneel",
+    "eigenlijk"
+   ],
+   "original": "Om een Spaensche hutspot te maken\n\n\nNeemt schapen- ofte kalfsvleesch. Laet in stucxkens hacken als een lit van een duym. Geschuymt zijnde, laet'et wel murru koken. Dan, daer boter en gehackte pietercelie by doende, laet'et noch eens opkoken. Opgeschept zijnde, neemt men 2 of 3 doren van eyeren, in lamoensop kleyngeklopt, daer dan over gedaen. Is heel smakelijck.\n\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-HB22lh4j087FS1LOhLWAysSe.png?st=2024-07-17T17%3A28%3A13Z&se=2024-07-17T19%3A28%3A13Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A00%3A53Z&ske=2024-07-18T13%3A00%3A53Z&sks=b&skv=2023-11-03&sig=nM1pQQYBImNp05i25rdn/NZqXWWbj/4AJHRIHYgvkDM%3D"
+  }
  },
  {
   "id": 494,
   "title": "Om een hoen te stoven met groen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een goet hoen, wel gesuyvert. Laet het met eenighe stucken schaepevleesch met weynigh sout koken. Halfgaer zijnde, doet daerby in een stoofpanne wat sausisen of kleene frickedillen, oock een goede handtvol endivie, salaet, suringh en sellery, oock aspergies. Vooral de boter niet te vergeten.\n"
+  "instructions": "\nNeemt een goet hoen, wel gesuyvert. Laet het met eenighe stucken schaepevleesch met weynigh sout koken. Halfgaer zijnde, doet daerby in een stoofpanne wat sausisen of kleene frickedillen, oock een goede handtvol endivie, salaet, suringh en sellery, oock aspergies. Vooral de boter niet te vergeten.\n",
+  "modernized": {
+   "title": "Gestoofde kip met groenten",
+   "recipe": "Neem een goede kip, goed schoongemaakt. Laat deze met enkele stukken schapenvlees en een beetje zout koken.\n\nAls de kip halfgaar is, doe deze dan in een stoofpan samen met wat saucijzen of kleine gehaktballetjes. Voeg ook een goede handvol andijvie, sla, zuring en selderij toe, evenals asperges. Vergeet vooral de boter niet.",
+   "ingredients": [
+    [
+     "1",
+     "kip"
+    ],
+    [
+     "200 gram",
+     "schapenvlees"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "200 gram",
+     "saucijzen"
+    ],
+    [
+     "200 gram",
+     "gehaktballetjes"
+    ],
+    [
+     "1 handvol",
+     "andijvie"
+    ],
+    [
+     "1 handvol",
+     "sla"
+    ],
+    [
+     "1 handvol",
+     "zuring"
+    ],
+    [
+     "1 handvol",
+     "selderij"
+    ],
+    [
+     "200 gram",
+     "asperges"
+    ],
+    [
+     "50 gram",
+     "boter"
+    ]
+   ],
+   "visualized": "A three-quarters angle shot of a stew in a rustic pot, featuring tender cooked chicken along with slices of sausage and small meatballs. The stew is mixed with vibrant green vegetables including endive, lettuce, sorrel, celery, and asparagus. A hint of melted butter is visible on top, giving a rich and savory appearance. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "groente",
+    "hoofdgerecht"
+   ],
+   "original": "Om een hoen te stoven met groen\n\n\nNeemt een goet hoen, wel gesuyvert. Laet het met eenighe stucken schaepevleesch met weynigh sout koken. Halfgaer zijnde, doet daerby in een stoofpanne wat sausisen of kleene frickedillen, oock een goede handtvol endivie, salaet, suringh en sellery, oock aspergies. Vooral de boter niet te vergeten.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-hCS9D4CVZX3ltRU4hpEjOeST.png?st=2024-07-17T17%3A28%3A49Z&se=2024-07-17T19%3A28%3A49Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T17%3A57%3A04Z&ske=2024-07-18T17%3A57%3A04Z&sks=b&skv=2023-11-03&sig=YhK14A1Q4ZFxmtggH%2BEE9mNau4jUxeQRq/t9dCz96AQ%3D"
+  }
  },
  {
   "id": 495,
   "title": "Om een hoen met suringh te stoven ",
   "bookRef": "N1669",
-  "instructions": "\nAls u hoen haest gaer is, neemt men schoongewassen suringh met wat heele foely en heele peper. Dan een gesouten lamoen, aen schijven gesneden en halfgaer opgekookt, met het bovenstaende daerby gedaen, en soo samen laten stoven met boter en verjuys. Is seer goet. Soo gy'er begeert sausisen en balletjens by te doen, is niet quaet.\n"
+  "instructions": "\nAls u hoen haest gaer is, neemt men schoongewassen suringh met wat heele foely en heele peper. Dan een gesouten lamoen, aen schijven gesneden en halfgaer opgekookt, met het bovenstaende daerby gedaen, en soo samen laten stoven met boter en verjuys. Is seer goet. Soo gy'er begeert sausisen en balletjens by te doen, is niet quaet.\n",
+  "modernized": {
+   "title": "Hoen met Zuring Stoofpot",
+   "recipe": "Wanneer de hoen bijna gaar is, neem dan schoongewassen zuring, hele foelie en hele peper. Voeg een gezouten citroen, in schijven gesneden en halfgaar gekookt, toe. Laat dit geheel samen stoven met boter en azijn. Dit gerecht is zeer goed. Als je wilt, kun je er ook nog saucijzen en balletjes aan toevoegen.",
+   "ingredients": [
+    [
+     "1",
+     "hoen"
+    ],
+    [
+     "100 g",
+     "zuring"
+    ],
+    [
+     "1",
+     "hele foelie"
+    ],
+    [
+     "1 tl",
+     "hele peperkorrels"
+    ],
+    [
+     "1",
+     "gezouten citroen"
+    ],
+    [
+     "4 el",
+     "boter"
+    ],
+    [
+     "2 el",
+     "azijn"
+    ],
+    [
+     "",
+     "saucijzen"
+    ],
+    [
+     "",
+     "balletjes"
+    ]
+   ],
+   "visualized": "A richly colored stewed chicken dish with visible pieces of green sorrel, whole foelie, and peppercorns. Slices of preserved lemon are interspersed throughout. The sauce should have a shiny, buttery consistency. The dish is photographed from a three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "hoofdgerechten",
+    "vlees",
+    "stoofpot"
+   ],
+   "original": "Om een hoen met suringh te stoven \n\n\nAls u hoen haest gaer is, neemt men schoongewassen suringh met wat heele foely en heele peper. Dan een gesouten lamoen, aen schijven gesneden en halfgaer opgekookt, met het bovenstaende daerby gedaen, en soo samen laten stoven met boter en verjuys. Is seer goet. Soo gy'er begeert sausisen en balletjens by te doen, is niet quaet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-1lqCn2cQPRvqgM3S0aVwRFav.png?st=2024-07-17T17%3A29%3A15Z&se=2024-07-17T19%3A29%3A15Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T00%3A26%3A33Z&ske=2024-07-18T00%3A26%3A33Z&sks=b&skv=2023-11-03&sig=AR3nM%2B24Hr9s2tbUAQHhiLZfvX13TErF%2B3lVdgM7/Qc%3D"
+  }
  },
  {
   "id": 496,
   "title": "Om een hoen met rijs te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNaer 't hoen in de stoofpanne halfgaer gekoockt is, doet men daer rijs by met foelie en wat peper, en bykans gaer zijnde, doet men daer schijven van soute lamoenen en boter by.\n"
+  "instructions": "\nNaer 't hoen in de stoofpanne halfgaer gekoockt is, doet men daer rijs by met foelie en wat peper, en bykans gaer zijnde, doet men daer schijven van soute lamoenen en boter by.\n",
+  "modernized": {
+   "title": "Kip met gestoofde rijst",
+   "recipe": "Nadat de kip in de stoofpan halfgaar gekookt is, voeg je daar rijst bij met foelie en wat peper. Als het bijna gaar is, doe je er schijven van ingelegde citroen en boter bij.",
+   "ingredients": [
+    [
+     "1",
+     "kip"
+    ],
+    [
+     "200 gram",
+     "rijst"
+    ],
+    [
+     "1",
+     "foelie"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "1",
+     "ingelegde citroen"
+    ],
+    [
+     "50 gram",
+     "boter"
+    ]
+   ],
+   "visualized": "A simmering dish of chicken and rice in a stew pot, with pieces of lemon and butter visible. The chicken is half-submerged in the creamy, spiced rice mixture. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "kip",
+    "rijst",
+    "stoofpot",
+    "hoofdgerecht"
+   ],
+   "original": "Om een hoen met rijs te stoven\n\n\nNaer 't hoen in de stoofpanne halfgaer gekoockt is, doet men daer rijs by met foelie en wat peper, en bykans gaer zijnde, doet men daer schijven van soute lamoenen en boter by.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-6utFEbtgEfc4n104MmK6FmLF.png?st=2024-07-17T17%3A29%3A35Z&se=2024-07-17T19%3A29%3A35Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A21%3A35Z&ske=2024-07-18T13%3A21%3A35Z&sks=b&skv=2023-11-03&sig=isPefdyyekTUA0LZr%2BWRLHm24%2B0l7S5D1Konl1k/T9M%3D"
+  }
  },
  {
   "id": 497,
   "title": "Om een hoen met bloemkool of gemeene olipodrigo te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een hoen, koockt'et bykans gaer en dan bloemkool, oock bykans gaergekoockt, en artisiocken onder de aert, oock eenmael opgekoockt, schapevleesch, oock bykans gaer, duyven, oock bykans gaer, endivie oock, schaepsvoeten oock, sellery oock, doch elck bysonder gekoockt. Neemt dan uwe stoofpan en doet dan alle daerby. Stooft'et tot bykans gaer is. Doet'er dan by kleyne frickedille, sausisen, foelie, notemuskaet, peper, en wel boter. Laet dan samen wel stoven tot gaer is. Opdissende, doet daerby verjuys, lamoensap ofte versche lamoenen, de schotelrant wel bestroyt met gestampte beschuyt.\n"
+  "instructions": "\nNeemt een hoen, koockt'et bykans gaer en dan bloemkool, oock bykans gaergekoockt, en artisiocken onder de aert, oock eenmael opgekoockt, schapevleesch, oock bykans gaer, duyven, oock bykans gaer, endivie oock, schaepsvoeten oock, sellery oock, doch elck bysonder gekoockt. Neemt dan uwe stoofpan en doet dan alle daerby. Stooft'et tot bykans gaer is. Doet'er dan by kleyne frickedille, sausisen, foelie, notemuskaet, peper, en wel boter. Laet dan samen wel stoven tot gaer is. Opdissende, doet daerby verjuys, lamoensap ofte versche lamoenen, de schotelrant wel bestroyt met gestampte beschuyt.\n",
+  "modernized": {
+   "title": "Hoen met Bloemkool en Diverse Ingredi\u00ebnten",
+   "recipe": "Neem een hoen en kook dit bijna gaar.\nKook bloemkool en artisjokken, beide eveneens bijna gaar.\nKook schapenvlees en duiven ook bijna gaar.\nKook andijvie en schapenvoeten apart.\nDoe vervolgens alle ingredi\u00ebnten in een stoofpan.\nStoof alles tot het bijna gaar is.\nVoeg dan kleine gehaktballen, saucijzen, foelie, nootmuskaat, peper en een goede hoeveelheid boter toe.\nLaat alles samen stoven tot het gaar is.\nBij het opdienen kun je verjus, citroensap of verse citroen toevoegen.\nBestrooi de randen van de schotel met gestampte beschuit.",
+   "ingredients": [
+    [
+     "1",
+     "hoen"
+    ],
+    [
+     "1",
+     "bloemkool"
+    ],
+    [
+     "4",
+     "artisjokken"
+    ],
+    [
+     "250 g",
+     "schapenvlees"
+    ],
+    [
+     "4",
+     "duiven"
+    ],
+    [
+     "200 g",
+     "andijvie"
+    ],
+    [
+     "4",
+     "schapenvoeten"
+    ],
+    [
+     "200 g",
+     "kleine gehaktballen"
+    ],
+    [
+     "200 g",
+     "saucijzen"
+    ],
+    [
+     "1 tl",
+     "foelie"
+    ],
+    [
+     "1 tl",
+     "nootmuskaat"
+    ],
+    [
+     "1 tl",
+     "peper"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "",
+     "verjus (optioneel)"
+    ],
+    [
+     "",
+     "citroensap of verse citroen"
+    ],
+    [
+     "",
+     "gestampte beschuit"
+    ]
+   ],
+   "visualized": "A rich, hearty stew served in a large ceramic dish. The stew contains various ingredients, including pieces of chicken, cauliflower florets, artichoke hearts, mutton chunks, and whole quail. There are also small meatballs and sausages scattered throughout, with visible flecks of nutmeg and pepper. The dish is topped with a light layer of melted butter. Garnished with crushed breadcrumbs around the edges. There is a sprinkle of lemon juice seen freshening up the dish. Photographed from a three-quarters angle using a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdgerecht"
+   ],
+   "original": "Om een hoen met bloemkool of gemeene olipodrigo te maken\n\n\nNeemt een hoen, koockt'et bykans gaer en dan bloemkool, oock bykans gaergekoockt, en artisiocken onder de aert, oock eenmael opgekoockt, schapevleesch, oock bykans gaer, duyven, oock bykans gaer, endivie oock, schaepsvoeten oock, sellery oock, doch elck bysonder gekoockt. Neemt dan uwe stoofpan en doet dan alle daerby. Stooft'et tot bykans gaer is. Doet'er dan by kleyne frickedille, sausisen, foelie, notemuskaet, peper, en wel boter. Laet dan samen wel stoven tot gaer is. Opdissende, doet daerby verjuys, lamoensap ofte versche lamoenen, de schotelrant wel bestroyt met gestampte beschuyt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-HW4qUn7CQFijzPrwtnrbbXZ2.png?st=2024-07-17T17%3A30%3A03Z&se=2024-07-17T19%3A30%3A03Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T00%3A26%3A26Z&ske=2024-07-18T00%3A26%3A26Z&sks=b&skv=2023-11-03&sig=m3WQdoAgs5eEbB8FamLrBU0ZwfJ4Q6JbC%2BFRJWbeo1I%3D"
+  }
  },
  {
   "id": 498,
   "title": "Om een poelett fricass\u00e9 te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een jongh hoen. Sommige stropender het vel af. Wascht het schoon en hacktet in stucken omtrent een halve vinger groot. Doet het in een platte pot en ruym overdoven van water, wel geschuymt, en dan wat zout en een weynigh heele peper daerby gedaen, en soo laten zieden totdat het gaer is. Giet er dan het sop meest af, en doet er dan wel boter in en gescherfde petercely en wat gestoten foelie of notemusschaet, en laet het soo t'samen frickaseeren en dickwils omroeren. Neemt dan limoensop en 4, 5, of 6 doren van eyeren, kleyngeklopt, en wat van 'tselve sop dat daer tevooren afgegoten is. Roert het ondereen. Giet het dan t'samen in den pot by het hoen op het vuur en roert het gestadigh, dat het t'samen eens opstooft. En dan terstont uyt den pot in een schotel gedaen en gehackte petercely op de rant gestroyt.\n"
+  "instructions": "\nNeemt een jongh hoen. Sommige stropender het vel af. Wascht het schoon en hacktet in stucken omtrent een halve vinger groot. Doet het in een platte pot en ruym overdoven van water, wel geschuymt, en dan wat zout en een weynigh heele peper daerby gedaen, en soo laten zieden totdat het gaer is. Giet er dan het sop meest af, en doet er dan wel boter in en gescherfde petercely en wat gestoten foelie of notemusschaet, en laet het soo t'samen frickaseeren en dickwils omroeren. Neemt dan limoensop en 4, 5, of 6 doren van eyeren, kleyngeklopt, en wat van 'tselve sop dat daer tevooren afgegoten is. Roert het ondereen. Giet het dan t'samen in den pot by het hoen op het vuur en roert het gestadigh, dat het t'samen eens opstooft. En dan terstont uyt den pot in een schotel gedaen en gehackte petercely op de rant gestroyt.\n",
+  "modernized": {
+   "title": "Fricassee van Kip",
+   "recipe": "Neem een jonge kip. Verwijder eventueel het vel. Was de kip schoon en hak deze in stukken van ongeveer anderhalve vinger groot. Doe de stukken kip in een platte pan en voeg ruim water toe, schuim goed af en voeg dan wat zout en een beetje hele peper toe. Laat dit koken totdat de kip gaar is.\n\nGiet dan het meeste vocht af en voeg boter, gesneden peterselie en wat gemalen foelie of nootmuskaat toe. Laat het geheel samen fricasseren en roer regelmatig om.\n\nNeem limoensap en 4-6 dooiers van eieren, klop deze goed, en voeg wat van het eerder afgegoten vocht toe. Roer het door elkaar en giet het dan samen in de pan bij de kip op het vuur. Roer voortdurend zodat het geheel goed mengt en warm wordt.\n\nGiet het dan onmiddellijk uit de pan op een schotel en strooi gehakte peterselie over de rand.",
+   "ingredients": [
+    [
+     "1",
+     "jonge kip"
+    ],
+    [
+     "",
+     "water"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "hele peper"
+    ],
+    [
+     "",
+     "boter"
+    ],
+    [
+     "",
+     "gesneden peterselie"
+    ],
+    [
+     "",
+     "gemalen foelie of nootmuskaat"
+    ],
+    [
+     "",
+     "limoensap"
+    ],
+    [
+     "4-6",
+     "eierdooiers"
+    ],
+    [
+     "",
+     "gehakte peterselie"
+    ]
+   ],
+   "visualized": "A beautiful fricassee made from tender chicken pieces cooked in light broth, served in a shallow dish. The chicken pieces are visibly tender and coated in a sauce made with butter, parsley and a hint of nutmeg. There is a slight creamy texture from the egg yolks and lime juice mixture. Chopped parsley is sprinkled artfully around the edges of the dish. The dish is seen from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofd",
+    "kruiden"
+   ],
+   "original": "Om een poelett fricass\u00e9 te maken\n\n\nNeemt een jongh hoen. Sommige stropender het vel af. Wascht het schoon en hacktet in stucken omtrent een halve vinger groot. Doet het in een platte pot en ruym overdoven van water, wel geschuymt, en dan wat zout en een weynigh heele peper daerby gedaen, en soo laten zieden totdat het gaer is. Giet er dan het sop meest af, en doet er dan wel boter in en gescherfde petercely en wat gestoten foelie of notemusschaet, en laet het soo t'samen frickaseeren en dickwils omroeren. Neemt dan limoensop en 4, 5, of 6 doren van eyeren, kleyngeklopt, en wat van 'tselve sop dat daer tevooren afgegoten is. Roert het ondereen. Giet het dan t'samen in den pot by het hoen op het vuur en roert het gestadigh, dat het t'samen eens opstooft. En dan terstont uyt den pot in een schotel gedaen en gehackte petercely op de rant gestroyt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-FmkiQvOUwz5Az10uk0UfMpio.png?st=2024-07-17T17%3A30%3A48Z&se=2024-07-17T19%3A30%3A48Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A09%3A07Z&ske=2024-07-18T13%3A09%3A07Z&sks=b&skv=2023-11-03&sig=SmoFAQs5zLoU%2BC1O8KVxXNgMN/S5cowd16R%2BUC4%2BJzU%3D"
+  }
  },
  {
   "id": 499,
   "title": "Om een hoen met oranjeschillen te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een hoen. Braet'et bykans murru. Treckt'et van de spit. Neemt oranjeschillen in quartieren gesneden. Ziedse murru in water. Neemt een schoone pot Rinse wijn, doet de oranjeschillen daerin en suycker om soet te maken. Doet dan het hoen daerin. Laet'et samen stoven tot genoegh is. Dan samen opgeschept en wel met caneelpoeyer bestroyt.\n"
+  "instructions": "\nNeemt een hoen. Braet'et bykans murru. Treckt'et van de spit. Neemt oranjeschillen in quartieren gesneden. Ziedse murru in water. Neemt een schoone pot Rinse wijn, doet de oranjeschillen daerin en suycker om soet te maken. Doet dan het hoen daerin. Laet'et samen stoven tot genoegh is. Dan samen opgeschept en wel met caneelpoeyer bestroyt.\n",
+  "modernized": {
+   "title": "Hoen met sinaasappelschillen stoven",
+   "recipe": "Neem een kip. Braad de kip bijna gaar. Haal de kip van het spit.\n\nNeem sinaasappelschillen in kwartjes gesneden en kook ze in water tot ze zacht zijn.\n\nNeem een schone pot met rode wijn, doe de sinaasappelschillen erin en voeg suiker toe om het zoet te maken.\n\nDoe dan de kip erin en laat alles samen sudderen tot het gaar is.\n\nServeer de kip en bestrooi met kaneelpoeder.",
+   "ingredients": [
+    [
+     "1",
+     "kip"
+    ],
+    [
+     "4",
+     "sinaasappelschillen"
+    ],
+    [
+     "200 ml",
+     "rode wijn"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "",
+     "kaneelpoeder"
+    ]
+   ],
+   "visualized": "A well-cooked chicken from a three-quarters angle, simmered with orange peels, and served on a plate. The dish is garnished with a sprinkle of cinnamon powder on top. The chicken appears tender with visible pieces of orange peels around it. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdgerecht"
+   ],
+   "original": "Om een hoen met oranjeschillen te stoven\n\n\nNeemt een hoen. Braet'et bykans murru. Treckt'et van de spit. Neemt oranjeschillen in quartieren gesneden. Ziedse murru in water. Neemt een schoone pot Rinse wijn, doet de oranjeschillen daerin en suycker om soet te maken. Doet dan het hoen daerin. Laet'et samen stoven tot genoegh is. Dan samen opgeschept en wel met caneelpoeyer bestroyt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-gDWoFx6i6HAT3pmT2aJXPmkZ.png?st=2024-07-17T17%3A31%3A16Z&se=2024-07-17T19%3A31%3A16Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A34%3A00Z&ske=2024-07-18T12%3A34%3A00Z&sks=b&skv=2023-11-03&sig=ju1yER%2BdNHaJqBoG1OAdqFVKOFiauZzlcaCFnBF0b7A%3D"
+  }
  },
  {
   "id": 500,
   "title": "Om een lamoenharsje te bereyden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt gehackt kalfsvleesch gelijck tot frikedillen. Doet daerin notemuskaet, peper en sout, alsoock schillen van een verse lamoen aen kleyne stuckjens gesneden. Doet by yeder pont vleesch een door van een ey, een gestoten beschuyt en menght het altesamen ondereen. Maeckt het dan op de forme van een groote frickedil of op de forme van een hart. Settet te stoven met weynigh water. Gaer zijnde, neemt'er 't vet af. Doet'erby verjuys, boter en schillen van een gesouten lamoen, die eerst in water opgekoockt is. Laet het samen noch eens opstoven; dan, opgedist, men doet'er een saus over van verjuys met dooren van eyren ondereengeklopt.\n"
+  "instructions": "\nNeemt gehackt kalfsvleesch gelijck tot frikedillen. Doet daerin notemuskaet, peper en sout, alsoock schillen van een verse lamoen aen kleyne stuckjens gesneden. Doet by yeder pont vleesch een door van een ey, een gestoten beschuyt en menght het altesamen ondereen. Maeckt het dan op de forme van een groote frickedil of op de forme van een hart. Settet te stoven met weynigh water. Gaer zijnde, neemt'er 't vet af. Doet'erby verjuys, boter en schillen van een gesouten lamoen, die eerst in water opgekoockt is. Laet het samen noch eens opstoven; dan, opgedist, men doet'er een saus over van verjuys met dooren van eyren ondereengeklopt.\n",
+  "modernized": {
+   "title": "Lamoenhart",
+   "recipe": "Neem gehakt kalfsvlees zoals voor frikadellen. Doe daarbij nootmuskaat, peper en zout, evenals de schillen van een verse citroen, fijn gesneden. Voeg per pond vlees een ei, een fijngewreven beschuit toe en meng alles goed door elkaar. Maak er dan de vorm van een grote frikadel of een hart van. Laat het stoven met een klein beetje water. Als het gaar is, verwijder je het vet. Voeg verjus, boter en de schillen van een gezouten citroen toe, welke eerst in water zijn gekookt. Laat het geheel nogmaals stoven; als het dan opgediend wordt, giet je er een saus overheen van verjus en geklopte eieren.",
+   "ingredients": [
+    [
+     "500 g",
+     "gehakt kalfsvlees"
+    ],
+    [
+     "1",
+     "citroen"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "1",
+     "ei"
+    ],
+    [
+     "1",
+     "beschuit"
+    ],
+    [
+     "",
+     "water"
+    ],
+    [
+     "100 ml",
+     "verjus"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "",
+     "schillen van een gezouten citroen"
+    ],
+    [
+     "2",
+     "eieren"
+    ]
+   ],
+   "visualized": "A neatly shaped meatloaf or heart-shaped serving of minced veal seasoned with nutmeg, pepper, and salt, dotted with small pieces of lemon zest. The dish is glistening slightly with a sauce made from verjus and eggs, poured over the top. From a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "oven",
+    "stoofgerecht",
+    "comfortfood"
+   ],
+   "original": "Om een lamoenharsje te bereyden\n\n\nNeemt gehackt kalfsvleesch gelijck tot frikedillen. Doet daerin notemuskaet, peper en sout, alsoock schillen van een verse lamoen aen kleyne stuckjens gesneden. Doet by yeder pont vleesch een door van een ey, een gestoten beschuyt en menght het altesamen ondereen. Maeckt het dan op de forme van een groote frickedil of op de forme van een hart. Settet te stoven met weynigh water. Gaer zijnde, neemt'er 't vet af. Doet'erby verjuys, boter en schillen van een gesouten lamoen, die eerst in water opgekoockt is. Laet het samen noch eens opstoven; dan, opgedist, men doet'er een saus over van verjuys met dooren van eyren ondereengeklopt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-IKLROXRYRKZT2jhFF2desMPu.png?st=2024-07-17T17%3A31%3A39Z&se=2024-07-17T19%3A31%3A39Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T08%3A25%3A34Z&ske=2024-07-18T08%3A25%3A34Z&sks=b&skv=2023-11-03&sig=rCr6/7nALrS42gmDNnQaHdE5vV3ykwisfJbA1phVLUM%3D"
+  }
  },
  {
   "id": 501,
   "title": "Om hoenderen en duyfkens met speck te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt groen edel vleeschkruyt met speck, kleyngehackt, peper, gember en nagelpoeder daerby. Steeckt dat in den buyck. Lardeertse oock met speck en setse met water en boter te stoven. Doet er specerye in. Laet'et alsoo stoven tot het genoegh is. Eer gy die opdist, doet'er wat Rijnse wijn of azijn by en laet'et eens opwellen.\n"
+  "instructions": "\nNeemt groen edel vleeschkruyt met speck, kleyngehackt, peper, gember en nagelpoeder daerby. Steeckt dat in den buyck. Lardeertse oock met speck en setse met water en boter te stoven. Doet er specerye in. Laet'et alsoo stoven tot het genoegh is. Eer gy die opdist, doet'er wat Rijnse wijn of azijn by en laet'et eens opwellen.\n",
+  "modernized": {
+   "title": "Kip en duif gestoofd met spek",
+   "recipe": "Neem vers groen kruid met spek, fijngehakt, peper, gember en kruidnagelpoeder erbij. Stop dit in de buik van de kip en duif. Lardeer ze ook met spek en zet ze met water en boter om te stoven. Voeg er specerijen aan toe. Laat het stoven tot het gaar is. Voeg voor het opdienen wat Rijnse wijn of azijn toe en laat het nog even opwarmen.",
+   "ingredients": [
+    [
+     "1",
+     "kip"
+    ],
+    [
+     "1",
+     "duif"
+    ],
+    [
+     "2 theelepels",
+     "groen kruid"
+    ],
+    [
+     "50 gram",
+     "spek"
+    ],
+    [
+     "1 theelepel",
+     "peper"
+    ],
+    [
+     "1 theelepel",
+     "gember"
+    ],
+    [
+     "1 theelepel",
+     "kruidnagelpoeder"
+    ],
+    [
+     "500 ml",
+     "water"
+    ],
+    [
+     "50 gram",
+     "boter"
+    ],
+    [
+     "2 eetlepels",
+     "Rijnse wijn"
+    ],
+    [
+     "",
+     "specerijen"
+    ]
+   ],
+   "visualized": "A three-quarters angle photo of a rustic dish featuring a whole chicken and a whole pigeon, both stuffed and larded with speck. The meats are tender and glistening, with visible fine herbs and spices. Surrounding the chicken and pigeon is a rich broth made of butter and water, highlighted by a hint of Rhein wine or vinegar. The dish has a homely, hearty appearance with an inviting color palette. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdgerecht",
+    "spek",
+    "kruidig"
+   ],
+   "original": "Om hoenderen en duyfkens met speck te stoven\n\n\nNeemt groen edel vleeschkruyt met speck, kleyngehackt, peper, gember en nagelpoeder daerby. Steeckt dat in den buyck. Lardeertse oock met speck en setse met water en boter te stoven. Doet er specerye in. Laet'et alsoo stoven tot het genoegh is. Eer gy die opdist, doet'er wat Rijnse wijn of azijn by en laet'et eens opwellen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-3SAEh9YWEWSlenJPJm4sIz8S.png?st=2024-07-17T17%3A32%3A09Z&se=2024-07-17T19%3A32%3A09Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A41%3A30Z&ske=2024-07-18T13%3A41%3A30Z&sks=b&skv=2023-11-03&sig=Ue/jgEZDr2bLM37zTXadOo4gjJg92SeJi6xgT/fAAZ0%3D"
+  }
  },
  {
   "id": 502,
   "title": "Om duyven te vullen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt petercely en kaptse kleyn, en roert er een ey in, en boter, gember, suycker en korenten. Doet dit in de duyf.\n"
+  "instructions": "\nNeemt petercely en kaptse kleyn, en roert er een ey in, en boter, gember, suycker en korenten. Doet dit in de duyf.\n",
+  "modernized": {
+   "title": "Gevulde Duiven",
+   "recipe": "Neem een bosje peterselie en hak het fijn.\nRoer er een ei, wat boter, geraspte gember, suiker en krenten doorheen.\nDoe dit mengsel in de duif.\nBraad de duif in de oven tot hij gaar is.",
+   "ingredients": [
+    [
+     "1 bosje",
+     "peterselie"
+    ],
+    [
+     "1",
+     "ei"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "1 tl",
+     "geraspte gember"
+    ],
+    [
+     "1 tl",
+     "suiker"
+    ],
+    [
+     "50 g",
+     "krenten"
+    ],
+    [
+     "4",
+     "duiven"
+    ]
+   ],
+   "visualized": "A three-quarters angle photo of a roasted stuffed pigeon. The pigeon has a golden-brown, crispy skin, and it's garnished with fresh parsley and tiny bits of currants. There are visible stuffing ingredients slightly peeking out of the cavity, including chopped parsley, an egg mixture, and currants. The dish is served on a rustic, white plate that enhances the contrast of the richly colored pigeon. The lighting should be natural, giving a warm and hearty feel to the dish. Sigma 85 mm f/1.4.",
+   "tags": [
+    "gevogelte",
+    "hoofdgerecht",
+    "vulling",
+    "traditioneel"
+   ],
+   "original": "Om duyven te vullen\n\n\nNeemt petercely en kaptse kleyn, en roert er een ey in, en boter, gember, suycker en korenten. Doet dit in de duyf.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-tV4WueKdNnaj4W2XT5cHBY1l.png?st=2024-07-17T17%3A32%3A38Z&se=2024-07-17T19%3A32%3A38Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T00%3A29%3A59Z&ske=2024-07-18T00%3A29%3A59Z&sks=b&skv=2023-11-03&sig=oos4gjU2Zm6jDKM1Nz1K0K1EwkJb1/3hrYwdSl6IJeA%3D"
+  }
  },
  {
   "id": 503,
   "title": "Om jonge hoenderen, kalkoenen of endtvogels aerdigh te koken",
   "bookRef": "N1669",
-  "instructions": "\nWanneerse van haer ingewant wel gesuyvert en gewassen zijn, vultse en proptse op met petercelie. Koocktse dan slechts met sout en water totse gaer zijn. Neemt eenen stenen pan, doet daer wat verjuys en sout in. En als de boter gesmolten is, neemt dan de petercelie uyt 't hoen, kerftse kleyn, doetse in 't verjuys en boter, en roert het wel ondereen. Leght het dan samen in een schotel, en het hoen of endtvogel - wat het soude mogen zijn - daerop. Is gants delikaet.\n"
+  "instructions": "\nWanneerse van haer ingewant wel gesuyvert en gewassen zijn, vultse en proptse op met petercelie. Koocktse dan slechts met sout en water totse gaer zijn. Neemt eenen stenen pan, doet daer wat verjuys en sout in. En als de boter gesmolten is, neemt dan de petercelie uyt 't hoen, kerftse kleyn, doetse in 't verjuys en boter, en roert het wel ondereen. Leght het dan samen in een schotel, en het hoen of endtvogel - wat het soude mogen zijn - daerop. Is gants delikaet.\n",
+  "modernized": {
+   "title": "Gekookte Hoender of Kalkoen met Peterseliesaus",
+   "recipe": "Wanneer de jonge hoenderen, kalkoenen of eenden van hun ingewanden zijn ontdaan en goed gewassen, vul ze dan met peterselie. Kook ze vervolgens met alleen zout en water tot ze gaar zijn. Neem een stenen pan en doe er wat verjus en zout in. Zodra de boter is gesmolten, haal dan de peterselie uit de hoender, hak deze fijn en voeg het toe aan de verjus en boter, en roer goed door. Leg de saus vervolgens in een schaal, en plaats de hoender of eend erop. Het is zeer delicaat.",
+   "ingredients": [
+    [
+     "2",
+     "jonge hoenderen of kalkoenen"
+    ],
+    [
+     "100 g",
+     "peterselie"
+    ],
+    [
+     "1 l",
+     "water"
+    ],
+    [
+     "10 g",
+     "zout"
+    ],
+    [
+     "50 ml",
+     "verjus"
+    ],
+    [
+     "50 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A rustic platter with two boiled young chickens or turkeys, delicately covered with a green parsley sauce. The sauce has tiny, visible bits of finely chopped parsley, mixed with a slightly thickened buttery verjus base. The dish appears moist and appetizing, with light steam suggesting warmth. The overall feel is homely yet refined, with the poultry placed at the center and the sauce elegantly pooled around. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "gevogelte",
+    "saus",
+    "hoofdgerecht"
+   ],
+   "original": "Om jonge hoenderen, kalkoenen of endtvogels aerdigh te koken\n\n\nWanneerse van haer ingewant wel gesuyvert en gewassen zijn, vultse en proptse op met petercelie. Koocktse dan slechts met sout en water totse gaer zijn. Neemt eenen stenen pan, doet daer wat verjuys en sout in. En als de boter gesmolten is, neemt dan de petercelie uyt 't hoen, kerftse kleyn, doetse in 't verjuys en boter, en roert het wel ondereen. Leght het dan samen in een schotel, en het hoen of endtvogel - wat het soude mogen zijn - daerop. Is gants delikaet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-unhV6VSAGLwaPxSway5UvJvf.png?st=2024-07-17T17%3A33%3A07Z&se=2024-07-17T19%3A33%3A07Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A44%3A12Z&ske=2024-07-18T13%3A44%3A12Z&sks=b&skv=2023-11-03&sig=X5U0cyguHbdNKbeqyLhW0a0U382oAh1ENw49tcLbU%2B4%3D"
+  }
  },
  {
   "id": 504,
   "title": "Om jonge levendige duyven in een uur of anderhalf te prepareren",
   "bookRef": "N1669",
-  "instructions": "\nNeemt duyven die den hals afgesneden zijn. Doetse in een emmer kout regenwater. Naer een groot half uur in gelegen te hebben, broeyt de veeren met heet water af. Schoongemaeckt zijnde, snijdtse in stucken en dan in een diepe pan met water anderhalf uur gekoockt. 't Water afgegoten zijnde, fruytse in boter. Doet er een saus op van boter, gekerfde petercelie, doren van eyeren met verjuys, foelie en notemuskaten. Probatum est.\nDesgelijcks kan men doen met hoenderen, capuynen, kalkoenen, konijnen en fesanten, als andere dat altesamen jonck is.\n"
+  "instructions": "\nNeemt duyven die den hals afgesneden zijn. Doetse in een emmer kout regenwater. Naer een groot half uur in gelegen te hebben, broeyt de veeren met heet water af. Schoongemaeckt zijnde, snijdtse in stucken en dan in een diepe pan met water anderhalf uur gekoockt. 't Water afgegoten zijnde, fruytse in boter. Doet er een saus op van boter, gekerfde petercelie, doren van eyeren met verjuys, foelie en notemuskaten. Probatum est.\nDesgelijcks kan men doen met hoenderen, capuynen, kalkoenen, konijnen en fesanten, als andere dat altesamen jonck is.\n",
+  "modernized": {
+   "title": "Jonge Levendige Duiven in Anderhalf Uur",
+   "recipe": "Neem duiven die de hals afgesneden hebben. Doe ze in een emmer koud regenwater. \n\nNa een half uur weken, dompel de veren in heet water en pluk ze. Maak de duiven schoon, snijd ze in stukken en kook ze dan anderhalf uur in een diepe pan met water. Giet het water af en bak de duiven in boter. \n\nMaak een saus van boter, fijngehakte peterselie, dooiers van eieren, verjus, foelie en nootmuskaat.",
+   "ingredients": [
+    [
+     "4",
+     "duiven"
+    ],
+    [
+     "2 liters",
+     "water"
+    ],
+    [
+     "150 grams",
+     "boter"
+    ],
+    [
+     "50 grams",
+     "peterselie"
+    ],
+    [
+     "2",
+     "eierdooiers"
+    ],
+    [
+     "50 ml",
+     "verjus"
+    ],
+    [
+     "1/4 theelepel",
+     "foelie"
+    ],
+    [
+     "1/4 theelepel",
+     "nootmuskaat"
+    ]
+   ],
+   "visualized": "A dish of tender, golden-brown roasted pigeons, cut into pieces, laying in a rich buttery sauce. The sauce features visibly chopped parsley and has a creamy consistency with a golden hue from the egg yolks. The dish is garnished with a sprinkle of freshly grated nutmeg and mace. The meal is served from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "saus",
+    "hoofdgerecht"
+   ],
+   "original": "Om jonge levendige duyven in een uur of anderhalf te prepareren\n\n\nNeemt duyven die den hals afgesneden zijn. Doetse in een emmer kout regenwater. Naer een groot half uur in gelegen te hebben, broeyt de veeren met heet water af. Schoongemaeckt zijnde, snijdtse in stucken en dan in een diepe pan met water anderhalf uur gekoockt. 't Water afgegoten zijnde, fruytse in boter. Doet er een saus op van boter, gekerfde petercelie, doren van eyeren met verjuys, foelie en notemuskaten. Probatum est.\nDesgelijcks kan men doen met hoenderen, capuynen, kalkoenen, konijnen en fesanten, als andere dat altesamen jonck is.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-ZGUDaGXpOXmczT2tGCn4xcSF.png?st=2024-07-17T17%3A33%3A39Z&se=2024-07-17T19%3A33%3A39Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A45%3A57Z&ske=2024-07-18T13%3A45%3A57Z&sks=b&skv=2023-11-03&sig=zqBUw/B/ABO25LE8QWw5MX9sTQ9bWBQ5xeBDgmzTAaM%3D"
+  }
  },
  {
   "id": 505,
   "title": "Om een dyeharst te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een gaergekoockte dyharst. Doetse in de stoofpan. Doet'er ghesouten lamoenen - in schijven gesneden - by, wat foelie, boter, notemuskaet en geraspt wittebroodt en doren van eyeren. Sommige nemen oock gehackte petercelie daerby.\n"
+  "instructions": "\nNeemt een gaergekoockte dyharst. Doetse in de stoofpan. Doet'er ghesouten lamoenen - in schijven gesneden - by, wat foelie, boter, notemuskaet en geraspt wittebroodt en doren van eyeren. Sommige nemen oock gehackte petercelie daerby.\n",
+  "modernized": {
+   "title": "Gestoofde dyharst",
+   "recipe": "Neem een gaargekookte dyharst. Doe deze in een stoofpan.\nVoeg gezouten citroenschijven toe, wat foelie, boter, nootmuskaat en geraspt wit brood en dooiers van eieren. Sommige mensen voegen ook gehakte peterselie toe.",
+   "ingredients": [
+    [
+     "500 g",
+     "dyharst"
+    ],
+    [
+     "2",
+     "citroenen (in schijven gesneden)"
+    ],
+    [
+     "1",
+     "snuifje foelie"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "100 g",
+     "geraspt wit brood"
+    ],
+    [
+     "2",
+     "eidooiers"
+    ],
+    [
+     "30 g",
+     "gehakte peterselie"
+    ]
+   ],
+   "visualized": "A three-quarters angle view of a stewed dyharst in a large pan. The dyharst is tender and golden brown, surrounded by lemon slices, sprinkled with breadcrumbs, and garnished with herbs and butter. The final touch includes some visibly chopped parsley and a hint of nutmeg on top. Shot with a Sigma 85 mm f/1.4 lens for a sharp, detailed look.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdgerecht"
+   ],
+   "original": "Om een dyeharst te stoven\n\n\nNeemt een gaergekoockte dyharst. Doetse in de stoofpan. Doet'er ghesouten lamoenen - in schijven gesneden - by, wat foelie, boter, notemuskaet en geraspt wittebroodt en doren van eyeren. Sommige nemen oock gehackte petercelie daerby.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-OkI4Ng1iFz5ZSTuB0JLUTAZA.png?st=2024-07-17T17%3A34%3A00Z&se=2024-07-17T19%3A34%3A00Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A47%3A59Z&ske=2024-07-18T13%3A47%3A59Z&sks=b&skv=2023-11-03&sig=oxMDHVSTgN0ujqaRCfZLy1CmxKFMN9SEb7w8XJ%2BDyiQ%3D"
+  }
  },
  {
   "id": 506,
   "title": "Om een gesprenghde dyeharst op de Engelse manier met een saus te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt petercelie. Scherftse kleyn en doet die in wat boter. Laetse maer eens opkoken en neemt dan een half vierendeel Spaense cappers en wat peper. Doetet ondereen. 't Is een goede saus om vlees in te dopen.\n"
+  "instructions": "\nNeemt petercelie. Scherftse kleyn en doet die in wat boter. Laetse maer eens opkoken en neemt dan een half vierendeel Spaense cappers en wat peper. Doetet ondereen. 't Is een goede saus om vlees in te dopen.\n",
+  "modernized": {
+   "title": "Engelse Saus voor Vlees",
+   "recipe": "Neem peterselie. Hak het fijn en doe het in wat boter. Laat het even opkoken en voeg dan een kwart kopje Spaanse kappertjes en wat peper toe. Meng alles goed door elkaar. Het is een goede saus om vlees in te dopen.",
+   "ingredients": [
+    [
+     "50 g",
+     "peterselie"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "60 ml",
+     "Spaanse kappertjes"
+    ],
+    [
+     "",
+     "peper"
+    ]
+   ],
+   "visualized": "A small bowl of freshly made English-style sauce with finely chopped parsley in melted butter, Spanish capers, and pepper. The sauce has a rich, green hue from the parsley and capers, with small flecks of black from the pepper. The texture looks smooth and creamy. The bowl is positioned in the center, viewed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "vlees",
+    "kruidig"
+   ],
+   "original": "Om een gesprenghde dyeharst op de Engelse manier met een saus te maken\n\n\nNeemt petercelie. Scherftse kleyn en doet die in wat boter. Laetse maer eens opkoken en neemt dan een half vierendeel Spaense cappers en wat peper. Doetet ondereen. 't Is een goede saus om vlees in te dopen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-lBzQivsJwZjQJ4tC7vEcIs2G.png?st=2024-07-17T17%3A34%3A24Z&se=2024-07-17T19%3A34%3A24Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A06%3A59Z&ske=2024-07-18T13%3A06%3A59Z&sks=b&skv=2023-11-03&sig=2nem37%2B/udIA4VTuLrK53O1LgF0JIXY4CEK3bKw5VfI%3D"
+  }
  },
  {
   "id": 507,
   "title": "Om een schapendyeharst of hutspot met artisiocken te stooven",
   "bookRef": "N1669",
-  "instructions": "\nAls 't vlees gaer is, soo giet een deel sop af met het vet en doet dan de boom van de artesiocken - die eerst in water murru gesoden zijn - daerby met een goet stuck boter en wat heele peper en foelie, en laet't soo samen opstooven.\n\n"
+  "instructions": "\nAls 't vlees gaer is, soo giet een deel sop af met het vet en doet dan de boom van de artesiocken - die eerst in water murru gesoden zijn - daerby met een goet stuck boter en wat heele peper en foelie, en laet't soo samen opstooven.\n\n",
+  "modernized": {
+   "title": "Schapenvleesstoofpot met artisjokken",
+   "recipe": "Als het vlees gaar is, giet dan een deel van de bouillon af samen met het vet. Voeg vervolgens de artisjokkenharten toe - die eerder in licht gezouten water zijn gekookt - samen met een goed stuk boter, wat hele peperkorrels en foelie, en laat het geheel sudderen.",
+   "ingredients": [
+    [
+     "500 g",
+     "schapenvlees"
+    ],
+    [
+     "2",
+     "artisjokken"
+    ],
+    [
+     "200 ml",
+     "bouillon"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "",
+     "hele peperkorrels"
+    ],
+    [
+     "",
+     "foelie"
+    ]
+   ],
+   "visualized": "A hearty stew featuring chunks of tender lamb and artichoke hearts cooked together, with a rich broth visible and flecks of whole peppercorns and foelie. The dish is finished with melted butter forming a slight sheen on the stew's surface. The stew is shown in a rustic pot from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdgerecht",
+    "artisjokken"
+   ],
+   "original": "Om een schapendyeharst of hutspot met artisiocken te stooven\n\n\nAls 't vlees gaer is, soo giet een deel sop af met het vet en doet dan de boom van de artesiocken - die eerst in water murru gesoden zijn - daerby met een goet stuck boter en wat heele peper en foelie, en laet't soo samen opstooven.\n\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-RrY6NA0cnQk0sb27ljhjHoui.png?st=2024-07-17T17%3A34%3A54Z&se=2024-07-17T19%3A34%3A54Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T17%3A52%3A55Z&ske=2024-07-18T17%3A52%3A55Z&sks=b&skv=2023-11-03&sig=ZoQnBOZ4Fz06JGeZqRnAy31ocfGWU/YWgWhX8rtN95E%3D"
+  }
  },
  {
   "id": 508,
   "title": "Om een schapendyeharst of hutspot met spersies te stoven",
   "bookRef": "N1669",
-  "instructions": "\nAls 't vlees gaer is, doetet vet schoon af. Soo neemt stoofspersies, breeckt die af soo veer die mals zijn, in kleyne stuckjens en schoongewassen by 't vlees gedaen, en soo in 't sop gekoockt. Als 't gaer is, doet'er dan boter met eenige stuckjens notemuscaet by en laet'et soo stoven, en dan met leepelen gegeten. Sommige doen daer wat limoen in of een handtvol of twee suringh. Soo men dit met heele spergies wil stoven die men om de schotel wil leggen, soo moeten de spergies eerst in water opghesoden zijn, ten naesten by gaer, ende dan by het vlees ghedaen als het vet wel van het sop genomen is.\n"
+  "instructions": "\nAls 't vlees gaer is, doetet vet schoon af. Soo neemt stoofspersies, breeckt die af soo veer die mals zijn, in kleyne stuckjens en schoongewassen by 't vlees gedaen, en soo in 't sop gekoockt. Als 't gaer is, doet'er dan boter met eenige stuckjens notemuscaet by en laet'et soo stoven, en dan met leepelen gegeten. Sommige doen daer wat limoen in of een handtvol of twee suringh. Soo men dit met heele spergies wil stoven die men om de schotel wil leggen, soo moeten de spergies eerst in water opghesoden zijn, ten naesten by gaer, ende dan by het vlees ghedaen als het vet wel van het sop genomen is.\n",
+  "modernized": {
+   "title": "Hutspot met asperges",
+   "recipe": "Als het vlees gaar is, schep het vet eraf.\n\nNeem asperges, breek de malsere delen in kleine stukjes en was ze goed.\n\nDoe de aspergestukjes bij het vlees en kook ze in de bouillon. \n\nAls het gaar is, voeg boter en enkele stukjes nootmuskaat toe en laat het stoven. \n\nServeer met een lepel. \n\nSommige mensen voegen wat limoen of een handvol zuring toe.\n\nAls je hele asperges wilt stoven die om de schaal gelegd kunnen worden, kook de asperges dan eerst bijna gaar in water en voeg ze daarna toe aan het vlees wanneer het vet uit de bouillon is gehaald.",
+   "ingredients": [
+    [
+     "300 g",
+     "vlees"
+    ],
+    [
+     "200 g",
+     "asperges"
+    ],
+    [
+     "500 ml",
+     "bouillon"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "",
+     "limoen (optioneel)"
+    ],
+    [
+     "",
+     "zuring (optioneel)"
+    ]
+   ],
+   "visualized": "A hearty Dutch hutspot featuring tender pieces of meat and fresh asparagus chunks in a rich broth with melted butter and nutmeg. The dish is served in a deep bowl, with some whole asparagus spears around the edges. The broth is golden and glistening, with visible chunks of tender meat and asparagus. A few stray leaves of sorrel and a squeeze of lime can be seen garnishing the dish. Captured from a three-quarters angle. Sigma 85mm f/1.4.",
+   "tags": [
+    "stoofpot",
+    "vlees",
+    "groente"
+   ],
+   "original": "Om een schapendyeharst of hutspot met spersies te stoven\n\n\nAls 't vlees gaer is, doetet vet schoon af. Soo neemt stoofspersies, breeckt die af soo veer die mals zijn, in kleyne stuckjens en schoongewassen by 't vlees gedaen, en soo in 't sop gekoockt. Als 't gaer is, doet'er dan boter met eenige stuckjens notemuscaet by en laet'et soo stoven, en dan met leepelen gegeten. Sommige doen daer wat limoen in of een handtvol of twee suringh. Soo men dit met heele spergies wil stoven die men om de schotel wil leggen, soo moeten de spergies eerst in water opghesoden zijn, ten naesten by gaer, ende dan by het vlees ghedaen als het vet wel van het sop genomen is.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-eKPLVKljyTG8yApYZTQQQ8dx.png?st=2024-07-17T17%3A35%3A24Z&se=2024-07-17T19%3A35%3A24Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A42%3A31Z&ske=2024-07-18T13%3A42%3A31Z&sks=b&skv=2023-11-03&sig=R4zQ/tSpFUnjgaFEzsptmW8TkMoKSuslObbqqD1XyY0%3D"
+  }
  },
  {
   "id": 509,
   "title": "Saus tot een gesoden dyharst te maken",
   "bookRef": "N1669",
-  "instructions": "\nEen schapendyharst, wel gekoockt. Neemt dan een weynigh petercelie, kleyngesneden, een gestoten beschuyt, wat suycker en azijn, ondereengeroert. Set dat in een sausiertje daerby. Is seer goet en aengenaem daertoe gegeten.\n"
+  "instructions": "\nEen schapendyharst, wel gekoockt. Neemt dan een weynigh petercelie, kleyngesneden, een gestoten beschuyt, wat suycker en azijn, ondereengeroert. Set dat in een sausiertje daerby. Is seer goet en aengenaem daertoe gegeten.\n",
+  "modernized": {
+   "title": "Saus voor gesmoorde schapendij",
+   "recipe": "Een goed gekookte schapendij. Neem dan een beetje fijngesneden peterselie, een fijngehakte beschuit, wat suiker en azijn, en meng dit goed door elkaar. Zet dit in een sauskom erbij. Dit is zeer goed en aangenaam om erbij te eten.",
+   "ingredients": [
+    [
+     "1",
+     "schapendij"
+    ],
+    [
+     "1 eetlepel",
+     "fijngesneden peterselie"
+    ],
+    [
+     "1",
+     "fijngehakte beschuit"
+    ],
+    [
+     "1 theelepel",
+     "suiker"
+    ],
+    [
+     "1 eetlepel",
+     "azijn"
+    ]
+   ],
+   "visualized": "The dish shows a well-cooked lamb leg, served alongside a sauce made of finely chopped parsley, finely crushed rusk, a teaspoon of sugar, and a tablespoon of vinegar all mixed together and placed in a small sauce dish. There is a clear contrast between the tender, juicy lamb and the vibrant, fresh green parsley in the sauce. Must be from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "saus",
+    "bijgerecht"
+   ],
+   "original": "Saus tot een gesoden dyharst te maken\n\n\nEen schapendyharst, wel gekoockt. Neemt dan een weynigh petercelie, kleyngesneden, een gestoten beschuyt, wat suycker en azijn, ondereengeroert. Set dat in een sausiertje daerby. Is seer goet en aengenaem daertoe gegeten.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-fjaT2OMOOe5blPa3EYZupxqV.png?st=2024-07-17T17%3A35%3A49Z&se=2024-07-17T19%3A35%3A49Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A28%3A08Z&ske=2024-07-18T13%3A28%3A08Z&sks=b&skv=2023-11-03&sig=XU/gpHRynPVdkvoWad2RRHW6YJox2GWjF6I8OpqJkyA%3D"
+  }
  },
  {
   "id": 510,
   "title": "Om frickedillen te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt kalfsvleesch met kalfsvet gehackt. Doet daerby foelie, noten, sout, peper. Kneedet wel ondereen. Dan kondt ghy daervan maken soo groot en kleyn als 't u belieft, oock heel in de panne braden. Veele nemen een weynigh van de uytterste schilletjes - dun afgeschilt - van orangieappelen of lamoenen, en daer heel kleyn onder gekerft. Geeft een heel goede geur en smakelijck.\n"
+  "instructions": "\nNeemt kalfsvleesch met kalfsvet gehackt. Doet daerby foelie, noten, sout, peper. Kneedet wel ondereen. Dan kondt ghy daervan maken soo groot en kleyn als 't u belieft, oock heel in de panne braden. Veele nemen een weynigh van de uytterste schilletjes - dun afgeschilt - van orangieappelen of lamoenen, en daer heel kleyn onder gekerft. Geeft een heel goede geur en smakelijck.\n",
+  "modernized": {
+   "title": "Frikandellen",
+   "recipe": "Neem kalfsvlees met kalfsvet en hak het fijn. Voeg daarbij foelie, nootmuskaat, zout en peper toe. Kneed het geheel goed door. Dan kun je er frikandellen van maken zo groot of klein als je wilt, ook heel in de pan braden. Veel mensen nemen een beetje van de buitenste schilletjes - dun geschild - van sinaasappels of citroenen, en snijden dat heel klein erdoorheen. Dit geeft een zeer goede geur en smaak.",
+   "ingredients": [
+    [
+     "500 gram",
+     "kalfsvlees"
+    ],
+    [
+     "100 gram",
+     "kalfsvet"
+    ],
+    [
+     "1/2 theelepel",
+     "foelie"
+    ],
+    [
+     "1/2 theelepel",
+     "nootmuskaat"
+    ],
+    [
+     "1 theelepel",
+     "zout"
+    ],
+    [
+     "1/2 theelepel",
+     "peper"
+    ],
+    [
+     "",
+     "sinaasappelschil of citroenschil"
+    ]
+   ],
+   "visualized": "A plate with several frikandellen, which are elongated, browned meat sausages. They have a crispy exterior and are evenly browned from being fried. The texture is smooth and the color is a deep golden brown. From a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "frituren"
+   ],
+   "original": "Om frickedillen te maken\n\n\nNeemt kalfsvleesch met kalfsvet gehackt. Doet daerby foelie, noten, sout, peper. Kneedet wel ondereen. Dan kondt ghy daervan maken soo groot en kleyn als 't u belieft, oock heel in de panne braden. Veele nemen een weynigh van de uytterste schilletjes - dun afgeschilt - van orangieappelen of lamoenen, en daer heel kleyn onder gekerft. Geeft een heel goede geur en smakelijck.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-5uoT7ZcWafX7fFRRph7FBUxG.png?st=2024-07-17T17%3A36%3A25Z&se=2024-07-17T19%3A36%3A25Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A12%3A10Z&ske=2024-07-18T13%3A12%3A10Z&sks=b&skv=2023-11-03&sig=tchesvM/Zt24Yhi4XSAdTxBRnATdvFoTSq41knunaXI%3D"
+  }
  },
  {
   "id": 511,
   "title": "Om frickedillen te maken sonder net",
   "bookRef": "N1669",
-  "instructions": "\nNeemt gekapt kalfsvleesch, gestoten peper, foelie, notemuskaet, wat gestoten beschuyt, eyeren, maer laet de helft van 't wit van de eyeren daeruyt blijven. Kneet dit ondereen en maeckt er lankwerpige frickedellen af en wenteltse in het wit van de eyeren. En als 't water ziedt, doetse dan in den pot gaerkoken, en dan in de boter gefruyt. Zijn heel goet.\n"
+  "instructions": "\nNeemt gekapt kalfsvleesch, gestoten peper, foelie, notemuskaet, wat gestoten beschuyt, eyeren, maer laet de helft van 't wit van de eyeren daeruyt blijven. Kneet dit ondereen en maeckt er lankwerpige frickedellen af en wenteltse in het wit van de eyeren. En als 't water ziedt, doetse dan in den pot gaerkoken, en dan in de boter gefruyt. Zijn heel goet.\n",
+  "modernized": {
+   "title": "Frikandellen zonder net",
+   "recipe": "Neem gehakt kalfsvlees, gemalen peper, foelie, nootmuskaat, wat gemalen beschuit en eieren, maar laat de helft van het wit van de eieren weg. Kneed dit door elkaar en maak er langwerpige frikandellen van. Wentel ze in het eiwit. Kook ze in kokend water en bak ze daarna in boter. Ze zijn heel goed.",
+   "ingredients": [
+    [
+     "500 g",
+     "gehakt kalfsvlees"
+    ],
+    [
+     "1 tl",
+     "gemalen peper"
+    ],
+    [
+     "1/2 tl",
+     "foelie"
+    ],
+    [
+     "1/2 tl",
+     "nootmuskaat"
+    ],
+    [
+     "50 g",
+     "gemalen beschuit"
+    ],
+    [
+     "2",
+     "eieren"
+    ],
+    [
+     "",
+     "boter"
+    ]
+   ],
+   "visualized": "A three-quarters angle of golden-brown frikandellen, cylindrical and slightly elongated, sizzling in a frying pan with butter. The surface looks crispy and appetizing, with small bits of herbs visible. The texture of the frikandellen appears slightly coarse, indicating a homemade preparation. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "gebakken"
+   ],
+   "original": "Om frickedillen te maken sonder net\n\n\nNeemt gekapt kalfsvleesch, gestoten peper, foelie, notemuskaet, wat gestoten beschuyt, eyeren, maer laet de helft van 't wit van de eyeren daeruyt blijven. Kneet dit ondereen en maeckt er lankwerpige frickedellen af en wenteltse in het wit van de eyeren. En als 't water ziedt, doetse dan in den pot gaerkoken, en dan in de boter gefruyt. Zijn heel goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-AeR0AF78M3bHvinsHdB7btqz.png?st=2024-07-17T17%3A36%3A53Z&se=2024-07-17T19%3A36%3A53Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A45%3A13Z&ske=2024-07-18T13%3A45%3A13Z&sks=b&skv=2023-11-03&sig=WUkIQh1awEyNIskKzX4mRhsRyuuvB%2Bkcy06CzvChUNY%3D"
+  }
  },
  {
   "id": 512,
   "title": "Om frickedillen in kropsalaet te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt gehackt kalfsvlees met kalfsvet, wat vetter als ordinaris, en dat wel ghekruydt met noten en een weynigh foelie, peper en sout na behooren. Kneet wel ondereen. Neemt dan sooveel van de malste kroppen salaet als 't u belieft en suyvert die van de buytenste bladeren. En dan schoon uytgewassen en de krop van binnen de bladers wat opengedaen. Neemt dan sooveel eyeren3 als ghy kroppen hebt. Maeckt oock sooveel frickedillekens en doet in 't midden van yder den door van een ey. Legt dan in de krop en bint hem met een draet toe, en als 't water koockt, doet'et in de pot. Als het gaer is, kondt dan in 't sop een weynigh fijngestooten beschuyt doen en wat boter, wat kruysbessen of onrijpe druyven, verjuys, naer elck sijn believen.\n\n 3 In de druk staat: eyren.\n"
+  "instructions": "\nNeemt gehackt kalfsvlees met kalfsvet, wat vetter als ordinaris, en dat wel ghekruydt met noten en een weynigh foelie, peper en sout na behooren. Kneet wel ondereen. Neemt dan sooveel van de malste kroppen salaet als 't u belieft en suyvert die van de buytenste bladeren. En dan schoon uytgewassen en de krop van binnen de bladers wat opengedaen. Neemt dan sooveel eyeren3 als ghy kroppen hebt. Maeckt oock sooveel frickedillekens en doet in 't midden van yder den door van een ey. Legt dan in de krop en bint hem met een draet toe, en als 't water koockt, doet'et in de pot. Als het gaer is, kondt dan in 't sop een weynigh fijngestooten beschuyt doen en wat boter, wat kruysbessen of onrijpe druyven, verjuys, naer elck sijn believen.\n\n 3 In de druk staat: eyren.\n",
+  "modernized": {
+   "title": "Frikadellen in Kropsla",
+   "recipe": "Neem gekruid kalfsgehakt met kalfsvet, iets vetter dan gewoonlijk, en kruid het met nootmuskaat, een beetje foelie, peper en zout naar smaak. Kneed het goed door elkaar. Neem zoveel als je wilt van de malste kroppen sla en verwijder de buitenste bladeren. Was de sla goed en maak de bladeren aan de binnenkant iets open. Neem dan zoveel eieren als je kroppen sla hebt. Maak ook evenveel frikadellen en doe in het midden van elke frikadel het dooiergedeelte van een ei. Leg ze dan in de krop en bind de krop met een draad dicht. Wanneer het water kookt, doe de kroppen in de pot. Wanneer ze gaar zijn, kun je een beetje fijngestampte beschuit, wat boter en wat kruisbessen of onrijpe druiven toevoegen aan het vocht, en verjus naar eigen smaak.",
+   "ingredients": [
+    [
+     "500 g",
+     "gekruid kalfsgehakt"
+    ],
+    [
+     "100 g",
+     "kalfsvet"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "kroppen sla"
+    ],
+    [
+     "4",
+     "eieren"
+    ],
+    [
+     "",
+     "beschuit"
+    ],
+    [
+     "",
+     "boter"
+    ],
+    [
+     "",
+     "kruisbessen of onrijpe druiven"
+    ],
+    [
+     "",
+     "verjus"
+    ]
+   ],
+   "visualized": "A dish made with boiled lettuce, stuffed with frikadellen, placed on a plate. The lettuce is tender and slightly translucent, tied together with a string. Inside, the frikadellen are visible with a soft, rich yolk at the center. Accompanying the dish is a sauce made from verjus, butter, and finely crushed biscuits, garnished with green gooseberries or unripe grapes. The dish should be shown from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "groente"
+   ],
+   "original": "Om frickedillen in kropsalaet te maken\n\n\nNeemt gehackt kalfsvlees met kalfsvet, wat vetter als ordinaris, en dat wel ghekruydt met noten en een weynigh foelie, peper en sout na behooren. Kneet wel ondereen. Neemt dan sooveel van de malste kroppen salaet als 't u belieft en suyvert die van de buytenste bladeren. En dan schoon uytgewassen en de krop van binnen de bladers wat opengedaen. Neemt dan sooveel eyeren3 als ghy kroppen hebt. Maeckt oock sooveel frickedillekens en doet in 't midden van yder den door van een ey. Legt dan in de krop en bint hem met een draet toe, en als 't water koockt, doet'et in de pot. Als het gaer is, kondt dan in 't sop een weynigh fijngestooten beschuyt doen en wat boter, wat kruysbessen of onrijpe druyven, verjuys, naer elck sijn believen.\n\n 3 In de druk staat: eyren.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-bRow3dN660jm6OXflzGGOGnZ.png?st=2024-07-17T17%3A37%3A27Z&se=2024-07-17T19%3A37%3A27Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A35%3A18Z&ske=2024-07-18T13%3A35%3A18Z&sks=b&skv=2023-11-03&sig=cX%2BUSajxsjfE0Gb3Ni94DEIvz1v6USRQ6kMAMycWrSI%3D"
+  }
  },
  {
   "id": 513,
   "title": "Om frickedillen noch anders te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt als boven verhaelt, doch de lamoenen- of orangieschillen daeruyt latende, neemt men een stucxken speck, langhwerpigh gesneden, met ongekerfde pietercelie bekleet, matelijck dick. Dat in 't midden van de frickedillen geleyt. Wort dan gekoockt en geprepareert als 't behoort. Geeft goede smaeck. Oock kan men wel kalfsvet voor 't speck nemen.\n"
+  "instructions": "\nNeemt als boven verhaelt, doch de lamoenen- of orangieschillen daeruyt latende, neemt men een stucxken speck, langhwerpigh gesneden, met ongekerfde pietercelie bekleet, matelijck dick. Dat in 't midden van de frickedillen geleyt. Wort dan gekoockt en geprepareert als 't behoort. Geeft goede smaeck. Oock kan men wel kalfsvet voor 't speck nemen.\n",
+  "modernized": {
+   "title": "Frickedillen met Spek en Peterselie",
+   "recipe": "Neem zoals eerder beschreven, maar laat de limoenen- of sinaasappelschillen weg.\nNeem een stukje spek, langwerpig gesneden, en bedek dit met ongekerfde peterselie, redelijk dik.\nPlaats dit in het midden van de frickedillen.\nKook en bereid zoals eerder beschreven.\nGeeft een goede smaak. Je kunt ook kalfsvet in plaats van spek gebruiken.",
+   "ingredients": [
+    [
+     "",
+     "speck"
+    ],
+    [
+     "",
+     "ongekerfde peterselie"
+    ],
+    [
+     "",
+     "frickedillen"
+    ],
+    [
+     "",
+     "kalfsvet"
+    ]
+   ],
+   "visualized": "A dish of frickedillen from a three-quarters angle, filled with slices of bacon and covered with uncut parsley, captured with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "kruidig"
+   ],
+   "original": "Om frickedillen noch anders te maken\n\n\nNeemt als boven verhaelt, doch de lamoenen- of orangieschillen daeruyt latende, neemt men een stucxken speck, langhwerpigh gesneden, met ongekerfde pietercelie bekleet, matelijck dick. Dat in 't midden van de frickedillen geleyt. Wort dan gekoockt en geprepareert als 't behoort. Geeft goede smaeck. Oock kan men wel kalfsvet voor 't speck nemen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-Nswtx0xVA3wN8AgEHDSoORD8.png?st=2024-07-17T17%3A38%3A05Z&se=2024-07-17T19%3A38%3A05Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T00%3A33%3A28Z&ske=2024-07-18T00%3A33%3A28Z&sks=b&skv=2023-11-03&sig=xAM0Jkod5DkWUWmYcFGSPiwi5JiAbRL7lft5ZtQWEsA%3D"
+  }
  },
  {
   "id": 514,
   "title": "Om een achterbout met sausisen te prepareren",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een bout, lardeert die dicht met sausisen. Gebraden zijnde, doet men in de boter schijven van versche limoen, oock wat pijpkaneel en nagelen, gestooten, en daerover gedaen. Is goet.\n\n"
+  "instructions": "\nNeemt een bout, lardeert die dicht met sausisen. Gebraden zijnde, doet men in de boter schijven van versche limoen, oock wat pijpkaneel en nagelen, gestooten, en daerover gedaen. Is goet.\n\n",
+  "modernized": {
+   "title": "Gebraden achterbout met saucijzen en citroensaus",
+   "recipe": "Neem een bout en lardeer deze dicht met saucijzen. \n\nWanneer de bout gebraden is, voeg schijven van verse citroen toe in de boter. \n\nDoe er ook wat gemalen kaneelstokjes en kruidnagels bij. Het is erg lekker.",
+   "ingredients": [
+    [
+     "1 kg",
+     "achterbout"
+    ],
+    [
+     "200 g",
+     "saucijzen"
+    ],
+    [
+     "2",
+     "citroenen"
+    ],
+    [
+     "1 tl",
+     "kaneelstokjes (gemalen)"
+    ],
+    [
+     "1 tl",
+     "kruidnagels (gemalen)"
+    ]
+   ],
+   "visualized": "A roasted leg of meat studded with sausages, served on a platter. The meat is beautifully caramelized and glistening. Slices of fresh lemon are scattered around and on top of the meat along with a sprinkling of ground cinnamon and clove spices. The dish is presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "oven"
+   ],
+   "original": "Om een achterbout met sausisen te prepareren\n\n\nNeemt een bout, lardeert die dicht met sausisen. Gebraden zijnde, doet men in de boter schijven van versche limoen, oock wat pijpkaneel en nagelen, gestooten, en daerover gedaen. Is goet.\n\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-52KV55zyMMHCnOQOh8KbIols.png?st=2024-07-17T17%3A38%3A38Z&se=2024-07-17T19%3A38%3A38Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A21%3A33Z&ske=2024-07-18T12%3A21%3A33Z&sks=b&skv=2023-11-03&sig=Szj7REmsjU4pqUuKUJ34%2BSvbFHnAM3qzDnQAF3vo4w0%3D"
+  }
  },
  {
   "id": 515,
   "title": "Gebraden hoenderen met een sause op de Franse manier",
   "bookRef": "N1669",
-  "instructions": "\nNeemt heel jonge ajuyn (van de kleynste bollekens), geschilt, in water een walletjen opgesoden en 't water dan schoon afgegoten. En boter uyt de braedtpan daerin gedaen met wat verjuys of lamoensap en peper met een weynigh notemuschaet ondereengeroert, tot het aen de soode komt. En dan over de hoenderen gedaen.\n"
+  "instructions": "\nNeemt heel jonge ajuyn (van de kleynste bollekens), geschilt, in water een walletjen opgesoden en 't water dan schoon afgegoten. En boter uyt de braedtpan daerin gedaen met wat verjuys of lamoensap en peper met een weynigh notemuschaet ondereengeroert, tot het aen de soode komt. En dan over de hoenderen gedaen.\n",
+  "modernized": {
+   "title": "Gebraden Kip met Franse Saus",
+   "recipe": "Neem heel jonge uitjes (van de kleinste bolletjes), schil ze en kook ze kort in water. Giet het water af. Doe boter in de braadpan en voeg wat verjus of citroensap toe, samen met peper en een beetje nootmuskaat. Roer dit door elkaar tot het aan de kook komt. Giet de saus over de kip.",
+   "ingredients": [
+    [
+     "200 g",
+     "zeer jonge uitjes"
+    ],
+    [
+     "30 g",
+     "boter"
+    ],
+    [
+     "2 el",
+     "verjus of citroensap"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "600 g",
+     "gebakken kip"
+    ]
+   ],
+   "visualized": "A beautifully browned roasted chicken is placed on a plate, covered in a glossy French-style sauce. The sauce appears slightly thick, with visible small onions scattered across the chicken. The chicken skin looks crispy and golden brown. The dish is garnished sparingly with grated nutmeg. Photos from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "kip",
+    "saus",
+    "hoofdgerecht"
+   ],
+   "original": "Gebraden hoenderen met een sause op de Franse manier\n\n\nNeemt heel jonge ajuyn (van de kleynste bollekens), geschilt, in water een walletjen opgesoden en 't water dan schoon afgegoten. En boter uyt de braedtpan daerin gedaen met wat verjuys of lamoensap en peper met een weynigh notemuschaet ondereengeroert, tot het aen de soode komt. En dan over de hoenderen gedaen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-Ta2WA0RvlMPguAQmrkO9APdd.png?st=2024-07-17T17%3A39%3A11Z&se=2024-07-17T19%3A39%3A11Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A20%3A59Z&ske=2024-07-18T12%3A20%3A59Z&sks=b&skv=2023-11-03&sig=LI1yjVJAyG72aNvmYu2KTfZ1YPob2dgApOywvzhKj48%3D"
+  }
  },
  {
   "id": 516,
   "title": "Om een capuyn of hoen met oesters te vullen en braden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een goeden capuyn, van binnen gesuyvert zijnde, dan oesters en wat fijngestoten beschuyt, peper, foelie, notenpoeyer en een dun schijfken of drie versche lamoenen. Dat t'samen gemenght, daermede gevult. Gebraden zijnde, gebruyckt men tot saus niet als het braetvet uyt de pan, en wordt goet gevonden.\n"
+  "instructions": "\nNeemt een goeden capuyn, van binnen gesuyvert zijnde, dan oesters en wat fijngestoten beschuyt, peper, foelie, notenpoeyer en een dun schijfken of drie versche lamoenen. Dat t'samen gemenght, daermede gevult. Gebraden zijnde, gebruyckt men tot saus niet als het braetvet uyt de pan, en wordt goet gevonden.\n",
+  "modernized": {
+   "title": "Gevulde kapoen met oesters",
+   "recipe": "Neem een goede kapoen en maak de binnenkant schoon.\nMeng oesters, wat fijn gestoten beschuit, peper, foelie, notenpoeder en een of drie dunne schijfjes verse citroen samen.\nVul de kapoen met dit mengsel.\nBraadt de gevulde kapoen in de oven totdat deze gaar is.\nGebruik het braadvet uit de pan als saus voor de kapoen.",
+   "ingredients": [
+    [
+     "1",
+     "kapon"
+    ],
+    [
+     "200 g",
+     "oesters"
+    ],
+    [
+     "50 g",
+     "fijn gestoten beschuit"
+    ],
+    [
+     "1 tl",
+     "peper"
+    ],
+    [
+     "1 tl",
+     "foelie"
+    ],
+    [
+     "1 tl",
+     "notenpoeder"
+    ],
+    [
+     "3",
+     "dunne schijfjes citroen"
+    ]
+   ],
+   "visualized": "A roasted capon stuffed with oysters is presented from a three-quarters angle. The capon has a golden brown, crispy skin, with some of the stuffing slightly visible through a cut. The stuffing includes identifiable pieces of oysters, breadcrumbs, and spices. The dish is garnished with thin slices of lemon around it, and a small amount of roasting juices is drizzled over the top and gathered at the sides. The lighting highlights the texture of the skin and stuffing. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofd"
+   ],
+   "original": "Om een capuyn of hoen met oesters te vullen en braden\n\n\nNeemt een goeden capuyn, van binnen gesuyvert zijnde, dan oesters en wat fijngestoten beschuyt, peper, foelie, notenpoeyer en een dun schijfken of drie versche lamoenen. Dat t'samen gemenght, daermede gevult. Gebraden zijnde, gebruyckt men tot saus niet als het braetvet uyt de pan, en wordt goet gevonden.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-h6bQcpzMHZfguV2MmTb2GR0e.png?st=2024-07-17T17%3A39%3A44Z&se=2024-07-17T19%3A39%3A44Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A11%3A11Z&ske=2024-07-18T13%3A11%3A11Z&sks=b&skv=2023-11-03&sig=4T0PKyfu5UfJDJtEMqb1CAKq4ZQjiio9EWuZy9tezK8%3D"
+  }
  },
  {
   "id": 517,
   "title": "Om een endtvogel te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een endtvogel. Laet met sout gaerkoken. Neemt dan van 'tselve sop. Doet'erin boter, peper, en ajuyn in schijven gesneden, en wat gekorven vleeskruyt. Laet samen zieden tot het kruyt en ajuyn genoegh is. Dan den vogel daerin gedaen met azijn en suycker. Laet'et stooven tot gaer en bequaem is.\n"
+  "instructions": "\nNeemt een endtvogel. Laet met sout gaerkoken. Neemt dan van 'tselve sop. Doet'erin boter, peper, en ajuyn in schijven gesneden, en wat gekorven vleeskruyt. Laet samen zieden tot het kruyt en ajuyn genoegh is. Dan den vogel daerin gedaen met azijn en suycker. Laet'et stooven tot gaer en bequaem is.\n",
+  "modernized": {
+   "title": "Gestoofde Eend",
+   "recipe": "Neem een eend. Laat deze met zout gaar koken.\nNeem vervolgens van dezelfde bouillon. Doe erin boter, peper en in schijven gesneden ui, en wat gemengd vlees- kruiden.\nLaat samen koken tot de kruiden en ui zacht genoeg zijn. Doe dan de eend erbij met azijn en suiker. Laat het stoven tot het gaar en zacht is.",
+   "ingredients": [
+    [
+     "1",
+     "eend"
+    ],
+    [
+     "1 liter",
+     "water"
+    ],
+    [
+     "10 g",
+     "zout"
+    ],
+    [
+     "200 g",
+     "boter"
+    ],
+    [
+     "10 g",
+     "peper"
+    ],
+    [
+     "2",
+     "uien"
+    ],
+    [
+     "5 g",
+     "gemengd vlees- kruiden"
+    ],
+    [
+     "50 ml",
+     "azijn"
+    ],
+    [
+     "10 g",
+     "suiker"
+    ]
+   ],
+   "visualized": "A whole stewed duck cooked in a rich broth, with visible slices of onion and spices mixed in a flavorful sauce. The dish should look rustic and hearty, with a glossy finish from the butter and juices. The duck should appear tender and succulent, with a side view of the meat showing its texture. The sauce should be slightly thick, enveloping the duck and vegetables. The setting should include the stewed duck presented in a traditional Dutch pot. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "stoofpot"
+   ],
+   "original": "Om een endtvogel te stoven\n\n\nNeemt een endtvogel. Laet met sout gaerkoken. Neemt dan van 'tselve sop. Doet'erin boter, peper, en ajuyn in schijven gesneden, en wat gekorven vleeskruyt. Laet samen zieden tot het kruyt en ajuyn genoegh is. Dan den vogel daerin gedaen met azijn en suycker. Laet'et stooven tot gaer en bequaem is.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-hkX0OeBe0sByWQ1PTwDb7imu.png?st=2024-07-17T17%3A40%3A15Z&se=2024-07-17T19%3A40%3A15Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A49%3A53Z&ske=2024-07-18T13%3A49%3A53Z&sks=b&skv=2023-11-03&sig=8YEg2eXdQy6RFPrbLSXOwEvqCPgl1fHWZmMuN%2B7QUk0%3D"
+  }
  },
  {
   "id": 518,
   "title": "Om saus te maken tot een gebraden endtvogel",
   "bookRef": "N1669",
-  "instructions": "\nNeemt hamelesop met ajuyn, samen gekoockt tot den ajuyn de kracht quijt is. Den ajuyn uytgenomen, dan geharst wittebroodt in wijn te weeck gelegen. Parsset door een teems, te weten 't sop en den wijn met wat azijns. Doet er dan peper en nagelen by. Laet samen zieden. Doet er suycker tot believen by en een weynigh saffraen om koleur te geven, of men koleurt wel met een stuck van een caroot ofte bietwortel daerby te koken. Is goede saus.\n"
+  "instructions": "\nNeemt hamelesop met ajuyn, samen gekoockt tot den ajuyn de kracht quijt is. Den ajuyn uytgenomen, dan geharst wittebroodt in wijn te weeck gelegen. Parsset door een teems, te weten 't sop en den wijn met wat azijns. Doet er dan peper en nagelen by. Laet samen zieden. Doet er suycker tot believen by en een weynigh saffraen om koleur te geven, of men koleurt wel met een stuck van een caroot ofte bietwortel daerby te koken. Is goede saus.\n",
+  "modernized": {
+   "title": "Saus voor gebraden eendenvogel",
+   "recipe": "Neem bouillon met ui, samen koken tot de ui zacht is.\nHaal de ui eruit, voeg dan verkruimeld witbrood dat in wijn heeft geweekt toe.\nDruk het mengsel door een zeef, voeg bouillon, wijn en wat azijn toe.\nVoeg peper en kruidnagel toe en laat samen koken.\nVoeg naar smaak suiker toe en een beetje saffraan voor kleur, of kleur met een stukje wortel of bietwortel.\nDit is een goede saus.",
+   "ingredients": [
+    [
+     "200 ml",
+     "bouillon"
+    ],
+    [
+     "1",
+     "ui"
+    ],
+    [
+     "2 sneetjes",
+     "witbrood"
+    ],
+    [
+     "100 ml",
+     "wijn"
+    ],
+    [
+     "1 eetlepel",
+     "azijn"
+    ],
+    [
+     "1 theelepel",
+     "peper"
+    ],
+    [
+     "0.5 theelepel",
+     "kruidnagel"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "een snufje",
+     "saffraan"
+    ],
+    [
+     "1 stukje",
+     "wortel"
+    ],
+    [
+     "1 stukje",
+     "bietwortel"
+    ]
+   ],
+   "visualized": "A rich brown sauce served in a small, elegant bowl. The texture is velvety and luscious, with visible flecks of spices and hints of soft bread crumbs. The color is a deep, warm brown with a slightly glossy sheen, heightened by saffron for a hint of golden yellow. A subtle garnish of freshly ground black pepper and a small piece of root vegetable, either carrot or beetroot, can be seen. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "vlees",
+    "bijgerecht"
+   ],
+   "original": "Om saus te maken tot een gebraden endtvogel\n\n\nNeemt hamelesop met ajuyn, samen gekoockt tot den ajuyn de kracht quijt is. Den ajuyn uytgenomen, dan geharst wittebroodt in wijn te weeck gelegen. Parsset door een teems, te weten 't sop en den wijn met wat azijns. Doet er dan peper en nagelen by. Laet samen zieden. Doet er suycker tot believen by en een weynigh saffraen om koleur te geven, of men koleurt wel met een stuck van een caroot ofte bietwortel daerby te koken. Is goede saus.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-ZTL9Jh7UxTYQuWQJOjp6wfWF.png?st=2024-07-17T17%3A40%3A49Z&se=2024-07-17T19%3A40%3A49Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T14%3A00%3A48Z&ske=2024-07-18T14%3A00%3A48Z&sks=b&skv=2023-11-03&sig=lOjmA%2BbOqi4%2BY/S7i0%2Bv4JodI7qgEJuCz7DUqQbnWNU%3D"
+  }
  },
  {
   "id": 519,
   "title": "Om een hasesaus te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een half pint verjuys, een half dosijn suyckerkoecxkens. Laetse t'samen een half uur weken. Doet er dan in wat heele4 nagelen, stucxkens caneel en eenige blaetjes foelie, een half loot gestoten caneel, een handtvol suycker of soo soet naer elck believen, een goet stuck boter of braetvet; t'samen geroert tot het dick wordt. Dese saus is oock seer goet over een gebraden achterbout met sausisen gelardeert, oock wel ongelardeert, alsmede over gebrade conijnen.\n\n 4 In de druk staat: heete.\n"
+  "instructions": "\nNeemt een half pint verjuys, een half dosijn suyckerkoecxkens. Laetse t'samen een half uur weken. Doet er dan in wat heele4 nagelen, stucxkens caneel en eenige blaetjes foelie, een half loot gestoten caneel, een handtvol suycker of soo soet naer elck believen, een goet stuck boter of braetvet; t'samen geroert tot het dick wordt. Dese saus is oock seer goet over een gebraden achterbout met sausisen gelardeert, oock wel ongelardeert, alsmede over gebrade conijnen.\n\n 4 In de druk staat: heete.\n",
+  "modernized": {
+   "title": "Hazenjus",
+   "recipe": "Neem een halve pint azijn en een half dozijn suikerkoekjes. Laat deze samen een half uur weken. Doe er daarna wat hele kruidnagels, stukjes kaneel en enkele blaadjes foelie bij. Voeg een halve theelepel gemalen kaneel toe, een handvol suiker (of naar smaak meer of minder), en een goed stuk boter of braadvet. Roer het geheel tot het dik wordt. Deze saus is ook erg goed over een gebraden achterbout met saucijzen gelardeerd, maar ook gelardeerd en over gebraden konijnen.",
+   "ingredients": [
+    [
+     "237 ml",
+     "azijn"
+    ],
+    [
+     "6",
+     "suikerkoekjes"
+    ],
+    [
+     "",
+     "kruidnagels"
+    ],
+    [
+     "",
+     "kaneelstokjes"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "2.5 ml",
+     "gemalen kaneel"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "50 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A rich, thick hazenjus sauce displayed from a three-quarters angle. The sauce is dark brown, with visible pieces of spices like whole cloves, cinnamon sticks, and bits of mace. The texture appears smooth and velvety, with a glossy finish from the butter and sugar. Some pieces of soft, soaked sugar cookies are incorporated into the sauce. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "wild",
+    "vlees",
+    "kruidig"
+   ],
+   "original": "Om een hasesaus te maken\n\n\nNeemt een half pint verjuys, een half dosijn suyckerkoecxkens. Laetse t'samen een half uur weken. Doet er dan in wat heele4 nagelen, stucxkens caneel en eenige blaetjes foelie, een half loot gestoten caneel, een handtvol suycker of soo soet naer elck believen, een goet stuck boter of braetvet; t'samen geroert tot het dick wordt. Dese saus is oock seer goet over een gebraden achterbout met sausisen gelardeert, oock wel ongelardeert, alsmede over gebrade conijnen.\n\n 4 In de druk staat: heete.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-T95enCmpmsfSLkyVgMu4XIVA.png?st=2024-07-17T17%3A41%3A36Z&se=2024-07-17T19%3A41%3A36Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A54%3A59Z&ske=2024-07-18T11%3A54%3A59Z&sks=b&skv=2023-11-03&sig=rS5f1DfLN6Wn01K1Ms6Dl1X6Fl//7Tua4V7Ngct5X0Q%3D"
+  }
  },
  {
   "id": 520,
   "title": "Om saus te maken op gebraden konijnen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt roodt geharst wittebroodt. Weeckt in roode wijn met wat azijn. Doet door een teems en doet er suycker by, dan boter uyt de pan. Laet samen zieden. Is goet.\n"
+  "instructions": "\nNeemt roodt geharst wittebroodt. Weeckt in roode wijn met wat azijn. Doet door een teems en doet er suycker by, dan boter uyt de pan. Laet samen zieden. Is goet.\n",
+  "modernized": {
+   "title": "Saus voor gebraden konijn",
+   "recipe": "Neem roodgeroosterd witbrood en week het in rode wijn met wat azijn. Zeef het mengsel en voeg er suiker en boter uit de pan aan toe. Laat het samen koken tot een saus ontstaat. Is lekker.",
+   "ingredients": [
+    [
+     "2 sneetjes",
+     "roodgeroosterd witbrood"
+    ],
+    [
+     "200 ml",
+     "rode wijn"
+    ],
+    [
+     "2 el",
+     "azijn"
+    ],
+    [
+     "1 el",
+     "suiker"
+    ],
+    [
+     "50 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A rich, dark sauce served in a small bowl. The sauce has a glossy finish with visible specks of sugar and small chunks of soaked, toasted white bread. The bowl is clean and simple, allowing the deep color of the sauce to stand out. The sauce looks thick and smooth. The image should be from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "konijn",
+    "dessert",
+    "zoet"
+   ],
+   "original": "Om saus te maken op gebraden konijnen\n\n\nNeemt roodt geharst wittebroodt. Weeckt in roode wijn met wat azijn. Doet door een teems en doet er suycker by, dan boter uyt de pan. Laet samen zieden. Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-RdYBaPdITdxrqWXimrh5oUb7.png?st=2024-07-17T17%3A42%3A01Z&se=2024-07-17T19%3A42%3A01Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A00%3A25Z&ske=2024-07-18T12%3A00%3A25Z&sks=b&skv=2023-11-03&sig=7wjWJCC6hYXXIPFW1O44XDGQVZvtOScQWY2d7jISd4o%3D"
+  }
  },
  {
   "id": 521,
   "title": "Om een saus over een gebraden haes, conijn, of kalfsrib, harte- of ossenvlees te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een stuck boter, een halve roemer azijn, een roemer Rinse wijn, peper, nagelpoeder en suycker. Laet dit t'samen zieden tot het bint. Dan over het gebraet gedaen.\n"
+  "instructions": "\nNeemt een stuck boter, een halve roemer azijn, een roemer Rinse wijn, peper, nagelpoeder en suycker. Laet dit t'samen zieden tot het bint. Dan over het gebraet gedaen.\n",
+  "modernized": {
+   "title": "Saus voor Gebraden Haas, Konijn, of Kalfsrib, Herten- of Rundvlees",
+   "recipe": "Neem een stuk boter, een halve roemer azijn, een roemer Rijnse wijn, peper, kruidnagelpoeder en suiker.\nLaat dit samen koken tot het ingedikt is.\nGiet de saus over het gebraad.",
+   "ingredients": [
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "100 ml",
+     "azijn"
+    ],
+    [
+     "200 ml",
+     "Rijnse wijn"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "kruidnagelpoeder"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ]
+   ],
+   "visualized": "A thick, rich sauce poured over a beautifully roasted piece of meat, possibly hare, rabbit, veal rib, venison or beef. The sauce is glossy and dark, indicating a reduction with butter, vinegar, Rhine wine, pepper, clove powder, and sugar. The meat appears tender and juicy, complementing the thick sauce perfectly. Three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "vlees",
+    "gebraden",
+    "hoofdgerecht"
+   ],
+   "original": "Om een saus over een gebraden haes, conijn, of kalfsrib, harte- of ossenvlees te maken\n\n\nNeemt een stuck boter, een halve roemer azijn, een roemer Rinse wijn, peper, nagelpoeder en suycker. Laet dit t'samen zieden tot het bint. Dan over het gebraet gedaen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-ssdOA4d14Nlpga83B4kG6Etb.png?st=2024-07-17T17%3A42%3A28Z&se=2024-07-17T19%3A42%3A28Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A49%3A19Z&ske=2024-07-18T13%3A49%3A19Z&sks=b&skv=2023-11-03&sig=jCnp/c%2BD/BrfkYF6axiuPdVTyv2A2jBcTK38e7go4m8%3D"
+  }
  },
  {
   "id": 522,
   "title": "Om een saus te maken tot een haes",
   "bookRef": "N1669",
-  "instructions": "\nNeemt suycker- of kaneelkoeken met Rijnse wijn en azijn. Doet erby nagelpoeder, suyker en een weynigh foelie. Laet tesamen wel opzieden. Dan daerover gedaen. Is goet. Anders neemt men wel verjuys.\n"
+  "instructions": "\nNeemt suycker- of kaneelkoeken met Rijnse wijn en azijn. Doet erby nagelpoeder, suyker en een weynigh foelie. Laet tesamen wel opzieden. Dan daerover gedaen. Is goet. Anders neemt men wel verjuys.\n",
+  "modernized": {
+   "title": "Saus voor Haas",
+   "recipe": "Neem suiker- of kaneelkoeken met Rijnse wijn en azijn. Doe erbij nagelpoeder, suiker en een beetje foelie. Laat het mengsel goed opkoken. Giet het vervolgens over de haas. Dit is een goede saus. Alternatief kan men ook verjus gebruiken.",
+   "ingredients": [
+    [
+     "100 g",
+     "suikerkoeken"
+    ],
+    [
+     "200 ml",
+     "Rijnse wijn"
+    ],
+    [
+     "50 ml",
+     "azijn"
+    ],
+    [
+     "1 tl",
+     "nagelpoeder"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "1/4 tl",
+     "foelie"
+    ]
+   ],
+   "visualized": "A rich, dark sauce poured over a roast hare. The sauce has a glossy, thick texture and is dotted with fine pieces, likely spices and crumbs from the cakes. The hare sits on a white plate, the sauce elegantly draped over it. The presentation is sophisticated, from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "vlees",
+    "hoofdgerecht"
+   ],
+   "original": "Om een saus te maken tot een haes\n\n\nNeemt suycker- of kaneelkoeken met Rijnse wijn en azijn. Doet erby nagelpoeder, suyker en een weynigh foelie. Laet tesamen wel opzieden. Dan daerover gedaen. Is goet. Anders neemt men wel verjuys.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-RLW6YtUsvRdWkIM6C5TjE8j7.png?st=2024-07-17T17%3A42%3A56Z&se=2024-07-17T19%3A42%3A56Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A11%3A12Z&ske=2024-07-18T13%3A11%3A12Z&sks=b&skv=2023-11-03&sig=0wWIIq%2BCUU10OTyXqQOeXDkgp92gGazHDKaUM/iejvY%3D"
+  }
  },
  {
   "id": 523,
   "title": "Om saus op een haes op een ander manier",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een haes, braedt hem bykans gaer. Set dan in vleeschnat te stoven tot murru is. Neemt dan geharst wittebroot en weket in hamelesap. Doet'et dan door een teems met Rinse wijn en azijn, dan gember, caneel, foelie en nagelpoeder. Laet'et samen koken met braetvet. Dan den haes met 't sop daerin gestooft. Is goedt.\n"
+  "instructions": "\nNeemt een haes, braedt hem bykans gaer. Set dan in vleeschnat te stoven tot murru is. Neemt dan geharst wittebroot en weket in hamelesap. Doet'et dan door een teems met Rinse wijn en azijn, dan gember, caneel, foelie en nagelpoeder. Laet'et samen koken met braetvet. Dan den haes met 't sop daerin gestooft. Is goedt.\n",
+  "modernized": {
+   "title": "Hazensaus op een andere manier",
+   "recipe": "Neem een haas en braad deze bijna gaar.\n\nPlaats hem dan in bouillon om te stoven tot het mals is.\n\nNeem dan geroosterd witbrood en laat het weken in amandelsap.\n\nDoe het dan door een zeef met rode wijn en azijn, gevolgd door gember, kaneel, foelie en kruidnagelpoeder.\n\nLaat het samen koken met het braadvet. Stoof vervolgens de haas in de saus.\n\nDit is goed.",
+   "ingredients": [
+    [
+     "1",
+     "haas"
+    ],
+    [
+     "200 ml",
+     "bouillon"
+    ],
+    [
+     "4 sneetjes",
+     "geroosterd witbrood"
+    ],
+    [
+     "200 ml",
+     "amandelsap"
+    ],
+    [
+     "100 ml",
+     "rode wijn"
+    ],
+    [
+     "50 ml",
+     "azijn"
+    ],
+    [
+     "1 theelepel",
+     "gember"
+    ],
+    [
+     "1 theelepel",
+     "kaneel"
+    ],
+    [
+     "1/2 theelepel",
+     "foelie"
+    ],
+    [
+     "1/2 theelepel",
+     "kruidnagelpoeder"
+    ],
+    [
+     "",
+     "braadvet"
+    ]
+   ],
+   "visualized": "A succulent hare cooked to perfection in a rich, dark sauce. The dish features pieces of tender hare, covered in a glossy, slightly thick sauce. The sauce has visible flecks of spices like ginger, cinnamon, and clove. There are bits of saut\u00e9ed roasted white bread soaked in an almond-based liquid, all seamlessly blended into the sauce. The dish is presented elegantly, with the hare and sauce taking up most of the frame. It is photographed from a three-quarters angle using a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "saus",
+    "hoofdgerecht"
+   ],
+   "original": "Om saus op een haes op een ander manier\n\n\nNeemt een haes, braedt hem bykans gaer. Set dan in vleeschnat te stoven tot murru is. Neemt dan geharst wittebroot en weket in hamelesap. Doet'et dan door een teems met Rinse wijn en azijn, dan gember, caneel, foelie en nagelpoeder. Laet'et samen koken met braetvet. Dan den haes met 't sop daerin gestooft. Is goedt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-CDqXJd4XBmWrwGu4si7ws4Pb.png?st=2024-07-17T17%3A43%3A46Z&se=2024-07-17T19%3A43%3A46Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A21%3A07Z&ske=2024-07-18T13%3A21%3A07Z&sks=b&skv=2023-11-03&sig=yNmpZHep7GHZZGHioqoTDAW2tqJ0G1AaK6UVqOZci5I%3D"
+  }
  },
  {
   "id": 524,
   "title": "Om een pepersaus te maken op een gebraden haes, conijn of ossevlees ",
   "bookRef": "N1669",
-  "instructions": "\nNeemt vier of vijf sneden zwart geharst roggenbroot. Weeckt het in bastert. Wrijft het kleyn. Doet het dan door een holle doeck en stroyt wel peper en gestoten nagelen op. Laet dit t'samen zieden tot het dick genoegh is, en dan op 't gebraet gedaen.\n"
+  "instructions": "\nNeemt vier of vijf sneden zwart geharst roggenbroot. Weeckt het in bastert. Wrijft het kleyn. Doet het dan door een holle doeck en stroyt wel peper en gestoten nagelen op. Laet dit t'samen zieden tot het dick genoegh is, en dan op 't gebraet gedaen.\n",
+  "modernized": {
+   "title": "Pepersaus op Gebraden Vlees",
+   "recipe": "Neem vier of vijf sneetjes zwart roggebrood.\nWeek deze in water.\nWrijf het roggebrood fijn.\nDoe de fijngemalen roggebrood door een zeef.\nVoeg peper en gemalen kruidnagel toe.\nLaat het geheel koken tot het dik genoeg is.\nGiet de saus over het gebraden vlees.",
+   "ingredients": [
+    [
+     "4-5 sneetjes",
+     "zwart roggebrood"
+    ],
+    [
+     "",
+     "water"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "gemalen kruidnagel"
+    ]
+   ],
+   "visualized": "A small pot filled with thick, dark pepper sauce is placed next to slices of roasted meat. The sauce is deep brown and has a smooth, slightly grainy texture. The meat is tender and appears to be either rabbit, venison, or beef. The dish is shown from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "vlees",
+    "kruidig",
+    "hoofdgerecht"
+   ],
+   "original": "Om een pepersaus te maken op een gebraden haes, conijn of ossevlees \n\n\nNeemt vier of vijf sneden zwart geharst roggenbroot. Weeckt het in bastert. Wrijft het kleyn. Doet het dan door een holle doeck en stroyt wel peper en gestoten nagelen op. Laet dit t'samen zieden tot het dick genoegh is, en dan op 't gebraet gedaen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-4UyDGBIe8lGoZVcy0X9mAhII.png?st=2024-07-17T17%3A44%3A14Z&se=2024-07-17T19%3A44%3A14Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A14%3A38Z&ske=2024-07-18T13%3A14%3A38Z&sks=b&skv=2023-11-03&sig=00n1wtmJ4ow1wtaaQMmqWlK3pjcHKpNjs5xtAXohZaE%3D"
+  }
  },
  {
   "id": 525,
   "title": "Om saus op vleesch te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt hamelesop, saffraen, gember, boter en verjuys. Laet het samen opzieden. Doet kruymen van wittebroot en dooren van eyeren, wel ondereengeklopt daerby, tot samen wel gemengt en gaer is. Doet dan over.\n"
+  "instructions": "\nNeemt hamelesop, saffraen, gember, boter en verjuys. Laet het samen opzieden. Doet kruymen van wittebroot en dooren van eyeren, wel ondereengeklopt daerby, tot samen wel gemengt en gaer is. Doet dan over.\n",
+  "modernized": {
+   "title": "Saus voor Vlees",
+   "recipe": "Neem hamelbouillon, saffraan, gember, boter en verjus. Laat het samen opkoken.\nDoe er kruimels van witbrood en dooiers van eieren, goed geklopt, bij. Laat alles goed mengen en gaar worden.\nGiet het dan over het vlees.",
+   "ingredients": [
+    [
+     "200 ml",
+     "hamelbouillon"
+    ],
+    [
+     "",
+     "saffraan"
+    ],
+    [
+     "",
+     "gember"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "100 ml",
+     "verjus"
+    ],
+    [
+     "50 g",
+     "witbroodkruimels"
+    ],
+    [
+     "2",
+     "eidooiers"
+    ]
+   ],
+   "visualized": "A rich, golden sauce poured over slices of cooked meat. The sauce is thick, containing visible crumbs of white bread and hints of saffron and ginger. The consistency is creamy, with a glossy finish from the melted butter. Photographed from a three-quarters angle using a Sigma 85 mm f/1.4 lens, highlighting the texture and color contrast between the saffron-yellow sauce and the golden-brown meat.",
+   "tags": [
+    "saus",
+    "vlees"
+   ],
+   "original": "Om saus op vleesch te maken\n\n\nNeemt hamelesop, saffraen, gember, boter en verjuys. Laet het samen opzieden. Doet kruymen van wittebroot en dooren van eyeren, wel ondereengeklopt daerby, tot samen wel gemengt en gaer is. Doet dan over.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-DMLc29x9VnoMt8D8XZbo44BO.png?st=2024-07-17T17%3A44%3A43Z&se=2024-07-17T19%3A44%3A43Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A52%3A36Z&ske=2024-07-18T12%3A52%3A36Z&sks=b&skv=2023-11-03&sig=WrA6zjB3KY9vn5FkOMjAShKZusnLRVeBm0MFkjUxnQw%3D"
+  }
  },
  {
   "id": 526,
   "title": "Om saus op vleesch te maken op een ander manier",
   "bookRef": "N1669",
-  "instructions": "\nNeemt geharst wittebroot, vleeschsap en azijn. Doet door een teems. Neemt kleyngesneden speck met azijn5, goet gescherft groen kruyt. Koockt t'samen. 't Is een goede saus.\n\n 5 azijn: verkeerde lezing van ajuin. Vgl. overeenkomstige recepten in Carolus Battus, Secreetboeck (1600, p.407) en Cocboeck (1593, p.9). I.p.v. azijn staat daar: ajuin.\n"
+  "instructions": "\nNeemt geharst wittebroot, vleeschsap en azijn. Doet door een teems. Neemt kleyngesneden speck met azijn5, goet gescherft groen kruyt. Koockt t'samen. 't Is een goede saus.\n\n 5 azijn: verkeerde lezing van ajuin. Vgl. overeenkomstige recepten in Carolus Battus, Secreetboeck (1600, p.407) en Cocboeck (1593, p.9). I.p.v. azijn staat daar: ajuin.\n",
+  "modernized": {
+   "title": "Saus op vlees op een andere manier",
+   "recipe": "Neem gehard witbrood, vleessap en azijn. Zeef dit mengsel. Voeg kleingesneden spek, gesnipperde ui en fijngesneden groene kruiden toe. Kook alles samen. Het is een goede saus.",
+   "ingredients": [
+    [
+     "200 g",
+     "gehard witbrood"
+    ],
+    [
+     "300 ml",
+     "vleessap"
+    ],
+    [
+     "50 ml",
+     "azijn"
+    ],
+    [
+     "100 g",
+     "kleingesneden spek"
+    ],
+    [
+     "1",
+     "gesnipperde ui"
+    ],
+    [
+     "100 g",
+     "fijngesneden groene kruiden"
+    ]
+   ],
+   "visualized": "A richly textured sauce with visible specks of bacon and green herbs served over slices of meat from a three-quarters angle. The sauce has a thick, hearty consistency with golden brown and green tones. The presentation must look inviting and robust. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "vlees",
+    "kruiden",
+    "bijgerecht"
+   ],
+   "original": "Om saus op vleesch te maken op een ander manier\n\n\nNeemt geharst wittebroot, vleeschsap en azijn. Doet door een teems. Neemt kleyngesneden speck met azijn5, goet gescherft groen kruyt. Koockt t'samen. 't Is een goede saus.\n\n 5 azijn: verkeerde lezing van ajuin. Vgl. overeenkomstige recepten in Carolus Battus, Secreetboeck (1600, p.407) en Cocboeck (1593, p.9). I.p.v. azijn staat daar: ajuin.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-HsAzYn18baFjx1dJUoVhDxDf.png?st=2024-07-17T17%3A45%3A15Z&se=2024-07-17T19%3A45%3A15Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A49%3A42Z&ske=2024-07-18T11%3A49%3A42Z&sks=b&skv=2023-11-03&sig=jV%2B6RZ3Lops78uGWGcMyZFyiXUo99EzlAgcXu5clgPs%3D"
+  }
  },
  {
   "id": 527,
   "title": "Om olypodrigo te maken die goet is",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een hoen, een stuck schapenvlees, een stuck verckensvlees, kalfsvlees in een aerde pot met water op het vuur geset, en wat gekoockt zijnde, 1 of 2 duyfjes en een teyling, en balletjes van gekapt kalfsvlees en sausisen, swesericken, vincken, endivie - eerst opgekoockt. Dit alle by het vlees en hoen gedaen, en lustigh laten stoven. Oock wel blomkool, een weynigh foely en peper, steelen van artesiocken, hanekammen. Als het genoegh gaer is, een ander potjen genomen, en kruym van een wittebroot daerin geraspt en een goet stuck boter, 2 of 3 doyers van eyeren, wat van 'tselve sop, limoensop of verjuys, en dat op het vuur geset. Slechts geroert tot het koockt en dan in het sop van de olypodrigo geroert en dan voort uyt den pot opgeschaft.\n"
+  "instructions": "\nNeemt een hoen, een stuck schapenvlees, een stuck verckensvlees, kalfsvlees in een aerde pot met water op het vuur geset, en wat gekoockt zijnde, 1 of 2 duyfjes en een teyling, en balletjes van gekapt kalfsvlees en sausisen, swesericken, vincken, endivie - eerst opgekoockt. Dit alle by het vlees en hoen gedaen, en lustigh laten stoven. Oock wel blomkool, een weynigh foely en peper, steelen van artesiocken, hanekammen. Als het genoegh gaer is, een ander potjen genomen, en kruym van een wittebroot daerin geraspt en een goet stuck boter, 2 of 3 doyers van eyeren, wat van 'tselve sop, limoensop of verjuys, en dat op het vuur geset. Slechts geroert tot het koockt en dan in het sop van de olypodrigo geroert en dan voort uyt den pot opgeschaft.\n",
+  "modernized": {
+   "title": "Olypodrigo",
+   "recipe": "Neem een kip, een stuk schapenvlees, een stuk varkensvlees en kalfsvlees en zet deze in een aardewerken pot met water op het vuur. Wanneer het kookt, voeg 1 of 2 duiven toe, een kwartel, gehaktballen van kalfsvlees en worstjes, zwezerik, vinkvlees en eerder voorgekookte andijvie. Dit alles bij het vlees en de kip voegen en rustig laten stoven.\n\nVoeg ook bloemkool, een beetje foelie, peper, artisjokkenstelen en hanenkammen toe. Als alles gaar is, neem een andere pot en rasp daar broodkruim van witbrood in, samen met een stuk boter en 2 of 3 eidooiers. Voeg wat van de bouillon toe, limoensap of verjus, en zet dit op het vuur. Roer tot het kookt en meng het dan met de bouillon van de olypodrigo. Serveer direct vanuit de pot.",
+   "ingredients": [
+    [
+     "1",
+     "kip"
+    ],
+    [
+     "200 g",
+     "schapenvlees"
+    ],
+    [
+     "200 g",
+     "varkensvlees"
+    ],
+    [
+     "200 g",
+     "kalfsvlees"
+    ],
+    [
+     "2",
+     "duiven"
+    ],
+    [
+     "1",
+     "kwartel"
+    ],
+    [
+     "200 g",
+     "kalfsvlees, gehakt"
+    ],
+    [
+     "200 g",
+     "worstjes"
+    ],
+    [
+     "100 g",
+     "zwezerik"
+    ],
+    [
+     "100 g",
+     "vinkenborst"
+    ],
+    [
+     "200 g",
+     "andijvie"
+    ],
+    [
+     "200 g",
+     "bloemkool"
+    ],
+    [
+     "1/2 tl",
+     "foelie"
+    ],
+    [
+     "1 tl",
+     "peper"
+    ],
+    [
+     "100 g",
+     "artisjokkenstelen"
+    ],
+    [
+     "50 g",
+     "hanenkammen"
+    ],
+    [
+     "100 g",
+     "witbrood, geraspt"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "3",
+     "eidooiers"
+    ],
+    [
+     "250 ml",
+     "bouillon"
+    ],
+    [
+     "2 el",
+     "limoensap"
+    ]
+   ],
+   "visualized": "A rich, hearty stew in an earthenware pot, filled with pieces of chicken, lamb, pork, and veal. There are also visible sections of dove, quail, meatballs, sausages, sweetbreads, and finch breast. Softened endive and cauliflower florets float among the meats. Here and there, one can see the stems of artichokes and pieces of rooster combs, garnished with a light sprinkle of mace and pepper. The broth is thick and golden, with a glossy shimmer from the butter and egg yolk mixture, giving it a rich and luscious appearance. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdvoedsel",
+    "traditioneel"
+   ],
+   "original": "Om olypodrigo te maken die goet is\n\n\nNeemt een hoen, een stuck schapenvlees, een stuck verckensvlees, kalfsvlees in een aerde pot met water op het vuur geset, en wat gekoockt zijnde, 1 of 2 duyfjes en een teyling, en balletjes van gekapt kalfsvlees en sausisen, swesericken, vincken, endivie - eerst opgekoockt. Dit alle by het vlees en hoen gedaen, en lustigh laten stoven. Oock wel blomkool, een weynigh foely en peper, steelen van artesiocken, hanekammen. Als het genoegh gaer is, een ander potjen genomen, en kruym van een wittebroot daerin geraspt en een goet stuck boter, 2 of 3 doyers van eyeren, wat van 'tselve sop, limoensop of verjuys, en dat op het vuur geset. Slechts geroert tot het koockt en dan in het sop van de olypodrigo geroert en dan voort uyt den pot opgeschaft.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-z2m0mlilYeCbkPjDGqbgQzKx.png?st=2024-07-17T17%3A46%3A17Z&se=2024-07-17T19%3A46%3A17Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T14%3A03%3A56Z&ske=2024-07-18T14%3A03%3A56Z&sks=b&skv=2023-11-03&sig=iYGjSHSlpDY7sC2QhwFIbVfHgYrxZsszSh3VSDxRB2Q%3D"
+  }
  },
  {
   "id": 528,
   "title": "Om een kostelijcke olipodrigo te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een schoone capoen, lamsvleesch, kalfsvleesch, runtvleesch. Koockt'et alle bykans gaer. Neemt dan sausijsen, varkensvoeten, schaepsvoeten, en een krab van een varcken, twee merghpijpen, wat balletjes van kalfsvleesch als een frickedil. Dat samen byeen gekoockt tot'et bykans gaer is. Endivie een wal opgekoockt en swesericken daerby met ramsballen. Laet samen met de endivie in u pot stooven. Daerby heele peper en foelie en stucxkens muskaet. Leght dan de schaeps- ende varkensvoeten onder, en soo het ander vleesch naer advenant. Laet dan samen een half of drie vierendeel uurs stoven. Dan 't sap afgegoten, en in 'tselve 4 \u00e0 5 dooren van eyeren gedaen, kleyngeklopt met wat verjuys, wel boter, en laet samen opkoken. Giet het dan over alles, naerdat ghy het in de schotel gedaen hebt. Neemt oock carstanien, sparsies of artisiocken, naer de tijdt van 't jaer. Doet die oock - gaer zijnde - daerby. Stroyt op de kant ofte over u schotel twee hardgekoockte doren van eyeren, gestoten beschuyt en petercelie onder den anderen gehackt. Is goet.\n"
+  "instructions": "\nNeemt een schoone capoen, lamsvleesch, kalfsvleesch, runtvleesch. Koockt'et alle bykans gaer. Neemt dan sausijsen, varkensvoeten, schaepsvoeten, en een krab van een varcken, twee merghpijpen, wat balletjes van kalfsvleesch als een frickedil. Dat samen byeen gekoockt tot'et bykans gaer is. Endivie een wal opgekoockt en swesericken daerby met ramsballen. Laet samen met de endivie in u pot stooven. Daerby heele peper en foelie en stucxkens muskaet. Leght dan de schaeps- ende varkensvoeten onder, en soo het ander vleesch naer advenant. Laet dan samen een half of drie vierendeel uurs stoven. Dan 't sap afgegoten, en in 'tselve 4 \u00e0 5 dooren van eyeren gedaen, kleyngeklopt met wat verjuys, wel boter, en laet samen opkoken. Giet het dan over alles, naerdat ghy het in de schotel gedaen hebt. Neemt oock carstanien, sparsies of artisiocken, naer de tijdt van 't jaer. Doet die oock - gaer zijnde - daerby. Stroyt op de kant ofte over u schotel twee hardgekoockte doren van eyeren, gestoten beschuyt en petercelie onder den anderen gehackt. Is goet.\n",
+  "modernized": {
+   "title": "Kostelijke Olipodrigo",
+   "recipe": "Neem een schoone kapoen, lamsvlees, kalfsvlees en rundvlees. Kook het allemaal bijna gaar.\n\nNeem dan saucijzen, varkensvoeten, schapenvoeten, een krab van een varken, twee mergpijpen en wat balletjes van kalfsvlees als een frikadel. Kook dit allemaal samen tot het bijna gaar is.\n\nKook andijvie een beetje op en voeg zwezeriken met ramnieren toe. Laat dit samen met de andijvie in je pot stoven. Voeg hele peper, foelie en stukjes nootmuskaat toe.\n\nLeg dan de schapen- en varkensvoeten onderin de pot, en dan het overige vlees naar believen. Laat alles samen een half uur tot drie kwartier stoven.\n\nGiet dan het sap af en voeg in dezelfde pan 4 \u00e0 5 dooiers van eieren toe, klein geklopt met wat verjuice, een goede hoeveelheid boter, en laat samen opkoken. Giet het dan over het geheel nadat je het in de schaal hebt gedaan.\n\nNeem ook kastanjes, asperges of artisjokken, naar gelang het seizoen. Voeg deze toe als ze gaar zijn. Strooi twee hardgekookte eidooiers, gestoten beschuit en peterselie aan de zijkanten of over je schaal. Is goed.",
+   "ingredients": [
+    [
+     "1",
+     "kalkoen (kapon)"
+    ],
+    [
+     "200 g",
+     "lamsvlees"
+    ],
+    [
+     "200 g",
+     "kalfsvlees"
+    ],
+    [
+     "200 g",
+     "rundvlees"
+    ],
+    [
+     "100 g",
+     "saucijzen"
+    ],
+    [
+     "2",
+     "varkensvoeten"
+    ],
+    [
+     "2",
+     "schapenvoeten"
+    ],
+    [
+     "1",
+     "varkenspoot"
+    ],
+    [
+     "2",
+     "mergpijpen"
+    ],
+    [
+     "100 g",
+     "kalfsfrikadellen"
+    ],
+    "100 g",
+    "zwezeriken"
+   ],
+   "50 g, ": 2,
+   "ramnieren": [
+    "1",
+    "andijvie"
+   ],
+   "5 g, ": 4,
+   "hele peper": [
+    "2 g",
+    "foelie"
+   ],
+   "3 g, ": 6,
+   "nootmuskaat": [
+    "4-5",
+    "eidooiers"
+   ],
+   "100 ml, 8,": 7,
+   "verjuice": [
+    "50 g",
+    "boter"
+   ],
+   "100 g, ": 1,
+   "kastanjes (optioneel)": [
+    "100 g",
+    "asperges (optioneel)"
+   ],
+   "artisjokken (optioneel)": [
+    "2",
+    "hardgekookte eidooiers (voor garnering)"
+   ],
+   "20 g,": 2,
+   "gestoten beschuit (voor garnering)": [
+    "10 g",
+    "gehakte peterselie (voor garnering)"
+   ],
+   "visualized": "A rich, hearty olipodrigo stew viewed from a three-quarters angle. The dish contains a variety of meats including lamb, veal, beef, sausages, pigs' feet, and marrow bones, all cooked together. The stew is garnished with hard-boiled egg yolks, crushed rusks, and chopped parsley on top. The broth appears thick and creamy, hinting at the egg yolks, butter, and verjuice used. The presence of vegetables like endive, chestnuts, asparagus, or artichokes can also be seen, depending on seasonal availability. Photographed with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdgerecht",
+    "traditioneel"
+   ],
+   "original": "Om een kostelijcke olipodrigo te maken\n\n\nNeemt een schoone capoen, lamsvleesch, kalfsvleesch, runtvleesch. Koockt'et alle bykans gaer. Neemt dan sausijsen, varkensvoeten, schaepsvoeten, en een krab van een varcken, twee merghpijpen, wat balletjes van kalfsvleesch als een frickedil. Dat samen byeen gekoockt tot'et bykans gaer is. Endivie een wal opgekoockt en swesericken daerby met ramsballen. Laet samen met de endivie in u pot stooven. Daerby heele peper en foelie en stucxkens muskaet. Leght dan de schaeps- ende varkensvoeten onder, en soo het ander vleesch naer advenant. Laet dan samen een half of drie vierendeel uurs stoven. Dan 't sap afgegoten, en in 'tselve 4 \u00e0 5 dooren van eyeren gedaen, kleyngeklopt met wat verjuys, wel boter, en laet samen opkoken. Giet het dan over alles, naerdat ghy het in de schotel gedaen hebt. Neemt oock carstanien, sparsies of artisiocken, naer de tijdt van 't jaer. Doet die oock - gaer zijnde - daerby. Stroyt op de kant ofte over u schotel twee hardgekoockte doren van eyeren, gestoten beschuyt en petercelie onder den anderen gehackt. Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-nNC5sByrlQugtWQRwqXip3zN.png?st=2024-07-17T17%3A47%3A02Z&se=2024-07-17T19%3A47%3A02Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A41%3A28Z&ske=2024-07-18T12%3A41%3A28Z&sks=b&skv=2023-11-03&sig=3m5E6qTUQl7FN3saJjjaKVvqBQdSxzP2ySRvQA7XGbQ%3D"
+  }
  },
  {
   "id": 529,
   "title": "Om een ossenhutspot te stoven op de Brabantse manier",
   "bookRef": "N1669",
-  "instructions": "\nNeemt ossenvleesch. Kookt het tot bykans gaer is. Dan geschilde gember, in schijven gesneden, met foelie daerin gedaen. Voorts gaergestooft. Neemt dan van 't sap, koockt er gescherfde pietercelie in met boter, en giet het dan daerover.\n"
+  "instructions": "\nNeemt ossenvleesch. Kookt het tot bykans gaer is. Dan geschilde gember, in schijven gesneden, met foelie daerin gedaen. Voorts gaergestooft. Neemt dan van 't sap, koockt er gescherfde pietercelie in met boter, en giet het dan daerover.\n",
+  "modernized": {
+   "title": "Ossenhutspot op Brabantse wijze",
+   "recipe": "Neem ossenvlees.\nKook het tot het bijna gaar is.\nDoe dan geschilde gember, in schijven gesneden, en foelie erbij.\nLaat het verder stoven tot het gaar is.\nNeem dan van het sap, kook er gesneden peterselie in met boter, en giet het dan erover.",
+   "ingredients": [
+    [
+     "600 g",
+     "ossenvlees"
+    ],
+    [
+     "2",
+     "schijven geschilde gember"
+    ],
+    [
+     "2",
+     "stuks foelie"
+    ],
+    [
+     "100 ml",
+     "sap van het vlees"
+    ],
+    [
+     "2 el",
+     "boter"
+    ],
+    [
+     "2 el",
+     "gesneden peterselie"
+    ]
+   ],
+   "visualized": "A rich and hearty beef stew in a rustic bowl. The beef is tender and succulent, surrounded by a savory broth flavored with slices of ginger and flecks of foelie. A glossy, buttery sauce with finely chopped parsley is generously poured over the top. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofgerecht",
+    "hoofdgerecht",
+    "Brabants"
+   ],
+   "original": "Om een ossenhutspot te stoven op de Brabantse manier\n\n\nNeemt ossenvleesch. Kookt het tot bykans gaer is. Dan geschilde gember, in schijven gesneden, met foelie daerin gedaen. Voorts gaergestooft. Neemt dan van 't sap, koockt er gescherfde pietercelie in met boter, en giet het dan daerover.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-5amux9XWqQ46jLtemNOkihHP.png?st=2024-07-17T17%3A47%3A34Z&se=2024-07-17T19%3A47%3A34Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A08%3A08Z&ske=2024-07-18T12%3A08%3A08Z&sks=b&skv=2023-11-03&sig=j6iiaaElj3IlejayNIwHp7waLJIBjIZ/aZJFfUxzbb4%3D"
+  }
  },
  {
   "id": 530,
   "title": "Om een gerecht te maken van kalfsvlees",
   "bookRef": "N1669",
-  "instructions": "\nNeemt kleyngehackt kalfsvleesch en 6 eyeren, wel ondereengeroert, met een stuck boter en gekorven petercelie en gestoten nagelen. Laet'et dan zieden. Doet er dan sap van orangieappelen over.\n"
+  "instructions": "\nNeemt kleyngehackt kalfsvleesch en 6 eyeren, wel ondereengeroert, met een stuck boter en gekorven petercelie en gestoten nagelen. Laet'et dan zieden. Doet er dan sap van orangieappelen over.\n",
+  "modernized": {
+   "title": "Gehakt Kalfsvleesch Met Sinaasappel",
+   "recipe": "Neem fijngehakt kalfsvlees en 6 eieren, goed door elkaar geroerd, met een stuk boter en gehakte peterselie en gemalen kruidnagels. Laat het dan koken. Doe er dan sap van sinaasappels overheen.",
+   "ingredients": [
+    [
+     "500 g",
+     "fijngehakt kalfsvlees"
+    ],
+    [
+     "6",
+     "eieren"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "2 el",
+     "gehakte peterselie"
+    ],
+    [
+     "1 tl",
+     "gemalen kruidnagels"
+    ],
+    [
+     "100 ml",
+     "sinaasappelsap"
+    ]
+   ],
+   "visualized": "A dish featuring finely minced veal mixed with six beaten eggs, melted butter, chopped parsley, and ground cloves. The mixture is cooked to perfection and topped with a fresh drizzle of orange juice. Presented from a three-quarters angle, shot with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "kruidig"
+   ],
+   "original": "Om een gerecht te maken van kalfsvlees\n\n\nNeemt kleyngehackt kalfsvleesch en 6 eyeren, wel ondereengeroert, met een stuck boter en gekorven petercelie en gestoten nagelen. Laet'et dan zieden. Doet er dan sap van orangieappelen over.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-uXtBHnbpCvWIkSUVbnvtpNtZ.png?st=2024-07-17T17%3A47%3A59Z&se=2024-07-17T19%3A47%3A59Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A23%3A56Z&ske=2024-07-18T13%3A23%3A56Z&sks=b&skv=2023-11-03&sig=TyLJkMfQg70B6RYag87Oyy9CTwf/9QIWgXNQnIo/Dvs%3D"
+  }
  },
  {
   "id": 531,
   "title": "Om een speenvarcken te vullen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt de lever en 't middelrift, kleyngehackt met petercelie, en kruym van wittebroot kleyngewreven; dan pruymen, corenten, nagelen, muskaten, caneel. Doet het met schapesop en boter in een pot en laet'et droogh opstoven. Vult het varcken daermede en laet'et braden - met kruytnagelen bestoken -tot het gaer is.\n"
+  "instructions": "\nNeemt de lever en 't middelrift, kleyngehackt met petercelie, en kruym van wittebroot kleyngewreven; dan pruymen, corenten, nagelen, muskaten, caneel. Doet het met schapesop en boter in een pot en laet'et droogh opstoven. Vult het varcken daermede en laet'et braden - met kruytnagelen bestoken -tot het gaer is.\n",
+  "modernized": {
+   "title": "Gevuld Speenvarken",
+   "recipe": "Neem de lever en het middenrif, fijngehakt met peterselie, en het kruim van witbrood fijngewreven. Voeg pruimen, krenten, kruidnagels, nootmuskaat en kaneel toe. Doe het in een pot met schapenvet en boter en laat het droog stoven. Vul het speenvarken hiermee en laat het braden - gestoken met kruidnagels - totdat het gaar is.",
+   "ingredients": [
+    [
+     "100 g",
+     "lever"
+    ],
+    [
+     "100 g",
+     "middenrif"
+    ],
+    [
+     "50 g",
+     "peterselie"
+    ],
+    [
+     "100 g",
+     "witbroodkruim"
+    ],
+    [
+     "50 g",
+     "pruimen"
+    ],
+    [
+     "50 g",
+     "krenten"
+    ],
+    [
+     "5",
+     "kruidnagels"
+    ],
+    [
+     "1 tl",
+     "nootmuskaat"
+    ],
+    [
+     "1 tl",
+     "kaneel"
+    ],
+    [
+     "100 g",
+     "schapenvet"
+    ],
+    [
+     "100 g",
+     "boter"
+    ]
+   ],
+   "visualized": "The dish consists of a roasted suckling pig, its golden-brown skin crispy and slightly shiny from the drippings. The pig is stuffed with a mixture, visible through an incision, which contains finely chopped liver and midriff, herbs, and dried fruit like prunes and currants. The pig is garnished with cloves stuck into its surface. The whole setup is presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "gevuld",
+    "oven"
+   ],
+   "original": "Om een speenvarcken te vullen\n\n\nNeemt de lever en 't middelrift, kleyngehackt met petercelie, en kruym van wittebroot kleyngewreven; dan pruymen, corenten, nagelen, muskaten, caneel. Doet het met schapesop en boter in een pot en laet'et droogh opstoven. Vult het varcken daermede en laet'et braden - met kruytnagelen bestoken -tot het gaer is.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-D3PqFYtmRz6Cf3mPQpA78gTc.png?st=2024-07-17T17%3A48%3A30Z&se=2024-07-17T19%3A48%3A30Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A52%3A47Z&ske=2024-07-18T13%3A52%3A47Z&sks=b&skv=2023-11-03&sig=TuCdY307xVA/9hu8HIUEJKnrTvXGd1mT13WFuVjaIAY%3D"
+  }
  },
  {
   "id": 532,
   "title": "Om een capoen op de Spaense wijse te bereyden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt de capoen, koocktse met 3 of 4 stucxkens runtvleesch. Neemt dan heele foely, geschilde gember, pieterceliewortels6, roosmareyn, saffraen en een stuck boter, heele peper en een lamoen, kleyngesneden en in een doeck gebonden, en t'samen in 't sap geleyt. Soo t'samen gaergestooft zijnde, neemt dan den doeck daer de lamoen in is uyt, en distse op.\n\n 6 In de druk staat: pietercelie/wortels.\n"
+  "instructions": "\nNeemt de capoen, koocktse met 3 of 4 stucxkens runtvleesch. Neemt dan heele foely, geschilde gember, pieterceliewortels6, roosmareyn, saffraen en een stuck boter, heele peper en een lamoen, kleyngesneden en in een doeck gebonden, en t'samen in 't sap geleyt. Soo t'samen gaergestooft zijnde, neemt dan den doeck daer de lamoen in is uyt, en distse op.\n\n 6 In de druk staat: pietercelie/wortels.\n",
+  "modernized": {
+   "title": "Kapoen op Spaanse wijze",
+   "recipe": "Neem de kapoen en kook deze met drie of vier stukken rundvlees.\n\nNeem daarna een hele foelie, geschilde gember, peterselie wortels, rozemarijn, saffraan en een stuk boter, hele peperkorrels en een citroen die klein gesneden en in een doek gebonden is, en leg alles samen in het sap.\n\nLaat het geheel gaarstoven.\n\nHaal de doek waarin de citroen zit eruit en serveer de kapoen.",
+   "ingredients": [
+    [
+     "1",
+     "kapoen"
+    ],
+    [
+     "3-4 stukken",
+     "rundvlees"
+    ],
+    [
+     "1",
+     "foelie"
+    ],
+    [
+     "20 g",
+     "geschilde gember"
+    ],
+    [
+     "2",
+     "peterseliewortels"
+    ],
+    [
+     "1 takje",
+     "rozemarijn"
+    ],
+    [
+     "1 snufje",
+     "saffraan"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "10",
+     "peperkorrels"
+    ],
+    [
+     "1",
+     "citroen"
+    ]
+   ],
+   "visualized": "A beautifully plated dish with tender capon served alongside pieces of beef. The dish is garnished with whole peppercorns, a sprig of rosemary, slices of fresh ginger, and a sprinkle of saffron. A peeled lemon is tied up in a small cloth bag on the side. The sauce around the meat is rich and seems to have a buttery texture. Captured from a three-quarters angle with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht"
+   ],
+   "original": "Om een capoen op de Spaense wijse te bereyden\n\n\nNeemt de capoen, koocktse met 3 of 4 stucxkens runtvleesch. Neemt dan heele foely, geschilde gember, pieterceliewortels6, roosmareyn, saffraen en een stuck boter, heele peper en een lamoen, kleyngesneden en in een doeck gebonden, en t'samen in 't sap geleyt. Soo t'samen gaergestooft zijnde, neemt dan den doeck daer de lamoen in is uyt, en distse op.\n\n 6 In de druk staat: pietercelie/wortels.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-EJM1w49DliDPcTWNlsHsPqiw.png?st=2024-07-17T17%3A48%3A58Z&se=2024-07-17T19%3A48%3A58Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A31%3A59Z&ske=2024-07-18T13%3A31%3A59Z&sks=b&skv=2023-11-03&sig=QOEX4rAl6lViScYWxtM/It3%2BwXQzje1wgihnna0uLEM%3D"
+  }
  },
  {
   "id": 533,
   "title": "Om een hutspot van een capoen te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een capoen, hackt hem aen stucken, in water murruw gekoockt. Neemt dan kruym van wittebroot, caneel, gember, saffraen, suycker en mergh uyt merghpijpen, met wat dalen die de steenen uytgedaen zijn, en schijven van een lamoen. Laet7 hem dan een half uur stoven in een platte pot. Is goet.\n\n 7 In de druk staat: laer.\n"
+  "instructions": "\nNeemt een capoen, hackt hem aen stucken, in water murruw gekoockt. Neemt dan kruym van wittebroot, caneel, gember, saffraen, suycker en mergh uyt merghpijpen, met wat dalen die de steenen uytgedaen zijn, en schijven van een lamoen. Laet7 hem dan een half uur stoven in een platte pot. Is goet.\n\n 7 In de druk staat: laer.\n",
+  "modernized": {
+   "title": "Hutspot van kapoen",
+   "recipe": "Neem een kapoen en hak hem in stukken. Kook de stukken in water tot ze gaar zijn.\nNeem dan kruim van witbrood, kaneel, gember, saffraan, suiker en merg uit mergpijpen.\nVoeg wat dadels, waaruit de pit is verwijderd, en schijven van een citroen toe.\nLaat het geheel een half uur sudderen in een platte pot. Het is klaar om te serveren.",
+   "ingredients": [
+    [
+     "1",
+     "kalkoen"
+    ],
+    [
+     "1 liter",
+     "water"
+    ],
+    [
+     "100 gram",
+     "witbroodkruim"
+    ],
+    [
+     "1 theelepel",
+     "kaneel"
+    ],
+    [
+     "1 theelepel",
+     "gember"
+    ],
+    [
+     "1 snufje",
+     "saffraan"
+    ],
+    [
+     "2 eetlepels",
+     "suiker"
+    ],
+    [
+     "100 gram",
+     "mergpijpen"
+    ],
+    [
+     "100 gram",
+     "dadels (ontpit)"
+    ],
+    [
+     "1",
+     "citroen"
+    ]
+   ],
+   "visualized": "A rustic dish consisting of tender chunks of capon in a rich sauce, garnished with slices of yellow lemon, pieces of date, and light brown bread crumbs. The dish has a deep golden hue from the saffron and a texture featuring both smooth and chunky elements from the meat and other ingredients. The photo should be taken from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "stoofpot"
+   ],
+   "original": "Om een hutspot van een capoen te maken\n\n\nNeemt een capoen, hackt hem aen stucken, in water murruw gekoockt. Neemt dan kruym van wittebroot, caneel, gember, saffraen, suycker en mergh uyt merghpijpen, met wat dalen die de steenen uytgedaen zijn, en schijven van een lamoen. Laet7 hem dan een half uur stoven in een platte pot. Is goet.\n\n 7 In de druk staat: laer.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-6d6sAq0Q205kDyv4xSe6hYWt.png?st=2024-07-17T17%3A49%3A22Z&se=2024-07-17T19%3A49%3A22Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A53%3A37Z&ske=2024-07-18T13%3A53%3A37Z&sks=b&skv=2023-11-03&sig=BjZHIjeuPd%2Bqb//6R6/49fE%2BBf%2BfyC9Lxkd%2BY65/JWA%3D"
+  }
  },
  {
   "id": 534,
   "title": "Om een hoen te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een hoen. Laet het heel murruw koken. Dan geharst broot in u sap te weeck geleght en kleyngewreven. Doet dan notemuskaet, nagelen, gember in u sop met een deel Rinse wijn en wat suycker. Laet het dan een half uur tesamen stoven.\n"
+  "instructions": "\nNeemt een hoen. Laet het heel murruw koken. Dan geharst broot in u sap te weeck geleght en kleyngewreven. Doet dan notemuskaet, nagelen, gember in u sop met een deel Rinse wijn en wat suycker. Laet het dan een half uur tesamen stoven.\n",
+  "modernized": {
+   "title": "Hoen stoven",
+   "recipe": "Neem een hoen en kook het tot het zacht is.\nWeek in hetzelfde sap een stuk hard brood en wrijf het fijn.\nVoeg dan nootmuskaat, kruidnagel en gember toe aan de bouillon samen met een deel Rijnse wijn en wat suiker.\nLaat het geheel een half uur stoven.",
+   "ingredients": [
+    [
+     "1",
+     "hoen"
+    ],
+    [
+     "1 liter",
+     "bouillon"
+    ],
+    [
+     "1 stuk",
+     "hard brood"
+    ],
+    [
+     "1 mespunt",
+     "nootmuskaat"
+    ],
+    [
+     "3",
+     "kruidnagels"
+    ],
+    [
+     "1 mespunt",
+     "gember"
+    ],
+    [
+     "200 ml",
+     "Rijnse wijn"
+    ],
+    [
+     "1 eetlepel",
+     "suiker"
+    ]
+   ],
+   "visualized": "A hearty stewed hen presented in a rustic shallow bowl. The hen is tender and served in a rich, aromatic broth. The broth shows pieces of soft bread, speckled with ground nutmeg, cloves, and ginger. You can see the warmth of the Rhine wine mixed into the broth, slightly thickened with melted sugar. The dish appears savory and deeply flavorful. Presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdgerecht",
+    "traditioneel"
+   ],
+   "original": "Om een hoen te stoven\n\n\nNeemt een hoen. Laet het heel murruw koken. Dan geharst broot in u sap te weeck geleght en kleyngewreven. Doet dan notemuskaet, nagelen, gember in u sop met een deel Rinse wijn en wat suycker. Laet het dan een half uur tesamen stoven.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-FUz8vhaRE5zueZqiTTSFxQFH.png?st=2024-07-17T17%3A49%3A46Z&se=2024-07-17T19%3A49%3A46Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A37%3A11Z&ske=2024-07-18T13%3A37%3A11Z&sks=b&skv=2023-11-03&sig=BaL5u4lVq71uy7ZZX48LRKr5%2BJAwgahKfhYbp0FEZL0%3D"
+  }
  },
  {
   "id": 535,
   "title": "Om een jonge henne te vullen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt geraspt wittebroot en 3 harde doren van eyeren, kleyngewreven, met wat geroockt speck en geroockt vleesch, wel kleyngesneden; dan gestoten foelie, peper, gember en een weynigh saffraen. Ende alles wel ondereengeroert, de hen daermede gevult, dan gestooft met boter, wijn, water. Gaer zijnde, wat verjuys en saffraen in het sop ghedaen. Dan opgericht.\n"
+  "instructions": "\nNeemt geraspt wittebroot en 3 harde doren van eyeren, kleyngewreven, met wat geroockt speck en geroockt vleesch, wel kleyngesneden; dan gestoten foelie, peper, gember en een weynigh saffraen. Ende alles wel ondereengeroert, de hen daermede gevult, dan gestooft met boter, wijn, water. Gaer zijnde, wat verjuys en saffraen in het sop ghedaen. Dan opgericht.\n",
+  "modernized": {
+   "title": "Jonge Henne gevuld",
+   "recipe": "Neem geraspt wit brood en 3 hardgekookte eieren, fijngewreven, met wat gerookt spek en gerookt vlees, fijngehakt. Voeg gestoten foelie, peper, gember en een beetje saffraan toe. Meng alles goed door elkaar en vul de hen ermee. Vervolgens stoof de gevulde hen met boter, wijn en water. Als het gaar is, voeg wat azijn en saffraan toe aan de saus. Serveer het gerecht.",
+   "ingredients": [
+    [
+     "100 g",
+     "geraspt wit brood"
+    ],
+    [
+     "3",
+     "hardgekookte eieren"
+    ],
+    [
+     "50 g",
+     "gerookt spek"
+    ],
+    [
+     "50 g",
+     "gerookt vlees"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "gember"
+    ],
+    [
+     "1/4 tl",
+     "saffraan"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "200 ml",
+     "wijn"
+    ],
+    [
+     "100 ml",
+     "water"
+    ],
+    [
+     "1 el",
+     "azijn"
+    ]
+   ],
+   "visualized": "A beautifully roasted young hen stuffed with a mixture of grated white bread, finely ground hard-boiled eggs, small pieces of smoked bacon, and smoked meat. The outer skin of the hen is golden and slightly crispy, with a shiny glaze from the cooking juices. You can see green hints from the saffron and brown specks of spices in the filling. The roasted hen is placed on a rustic wooden board, with some of the stuffing slightly spilling out. The dish is garnished with a sprig of fresh herbs and a few slivers of saffron on top. The photo is taken from a three-quarters angle with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "gevogelte",
+    "hoofdgerecht",
+    "vlees",
+    "stoof"
+   ],
+   "original": "Om een jonge henne te vullen\n\n\nNeemt geraspt wittebroot en 3 harde doren van eyeren, kleyngewreven, met wat geroockt speck en geroockt vleesch, wel kleyngesneden; dan gestoten foelie, peper, gember en een weynigh saffraen. Ende alles wel ondereengeroert, de hen daermede gevult, dan gestooft met boter, wijn, water. Gaer zijnde, wat verjuys en saffraen in het sop ghedaen. Dan opgericht.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-YuaKCX9U77XGozIROb67te2I.png?st=2024-07-17T17%3A50%3A16Z&se=2024-07-17T19%3A50%3A16Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A43%3A23Z&ske=2024-07-18T13%3A43%3A23Z&sks=b&skv=2023-11-03&sig=PiBfkJirI7vzmFqfbcNuFxZmaiJuw67YbJzNc5cHH4I%3D"
+  }
  },
  {
   "id": 536,
   "title": "Om een asjee te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt kout gebraet, 'tzy schapen- of kalfsvlees, hoenderen, capoenen, kalkoenen, etc. Snijt het na u believen. Doet daerby verjuys, lamoensap of azijn - van 'tgeen ghy hebt - met wat water, voorts peper, foelie en boter, en stooft het soo tusschen twee schotels.\n"
+  "instructions": "\nNeemt kout gebraet, 'tzy schapen- of kalfsvlees, hoenderen, capoenen, kalkoenen, etc. Snijt het na u believen. Doet daerby verjuys, lamoensap of azijn - van 'tgeen ghy hebt - met wat water, voorts peper, foelie en boter, en stooft het soo tusschen twee schotels.\n",
+  "modernized": {
+   "title": "Asjee van Gebraden Vlees",
+   "recipe": "Neem koud gebraden vlees, zoals schapen- of kalfsvlees, kip, kapoen of kalkoen. Snijd het naar wens.\n\nDoe er vervolgens verjus, citroensap of azijn bij - afhankelijk van wat je hebt - samen met wat water, peper, foelie en boter. Stoof het daarna tussen twee borden.",
+   "ingredients": [
+    [
+     "400 gram",
+     "gebraad vlees (schapen-, kalfs-, kip, kapoen of kalkoen)"
+    ],
+    [
+     "50 ml",
+     "verjus of citroensap of azijn"
+    ],
+    [
+     "100 ml",
+     "water"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "1",
+     "foelie"
+    ],
+    [
+     "50 gram",
+     "boter"
+    ]
+   ],
+   "visualized": "A hearty dish made of slices of roasted meat, either mutton, veal, chicken, capon, or turkey, nestled in a rich sauce of either verjus, lemon juice, or vinegar. The sauce also contains water, pepper, a piece of foelie, and a generous pat of butter. The dish should appear succulent and tender, with a glistening sheen from the sauce. Presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofschotel",
+    "hoofdgerecht"
+   ],
+   "original": "Om een asjee te maken\n\n\nNeemt kout gebraet, 'tzy schapen- of kalfsvlees, hoenderen, capoenen, kalkoenen, etc. Snijt het na u believen. Doet daerby verjuys, lamoensap of azijn - van 'tgeen ghy hebt - met wat water, voorts peper, foelie en boter, en stooft het soo tusschen twee schotels.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-AlYLHGkGZVvRPfy8WrFvJVqr.png?st=2024-07-17T17%3A50%3A46Z&se=2024-07-17T19%3A50%3A46Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T09%3A21%3A01Z&ske=2024-07-18T09%3A21%3A01Z&sks=b&skv=2023-11-03&sig=Ouil/HbWwMDMWnqzmsxUnKJx5omkN8YILwPqbJ4YqWs%3D"
+  }
  },
  {
   "id": 537,
   "title": "Om een hacksee te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt kalfs- of schapenvlees, gekoockt of gebraden. Hackt het kleyn. Doet'erby schijven van lamoenen, peper en notemuskaet, hamelesop, verjuys en wat boter, en laet het alsoo tesamen stoven.\n"
+  "instructions": "\nNeemt kalfs- of schapenvlees, gekoockt of gebraden. Hackt het kleyn. Doet'erby schijven van lamoenen, peper en notemuskaet, hamelesop, verjuys en wat boter, en laet het alsoo tesamen stoven.\n",
+  "modernized": {
+   "title": "Hachee",
+   "recipe": "Neem kalfs- of lamsvlees, gekookt of gebraden. Hak het fijn.\nVoeg schijfjes citroen, peper en nootmuskaat toe.\nVoeg kalfsfond, azijn en wat boter toe en laat het geheel sudderen.",
+   "ingredients": [
+    [
+     "400 g",
+     "kalfs- of lamsvlees"
+    ],
+    [
+     "1",
+     "citroen"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "200 ml",
+     "kalfsfond"
+    ],
+    [
+     "2 eetlepels",
+     "azijn"
+    ],
+    [
+     "50 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A rich, hearty stew with finely chopped veal or lamb pieces, interspersed with slices of lemon. The stew is a blend of warm colors and a slightly oily surface. The broth is thick and glistening, making the meat and lemon slices stand out. From a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "stoofpot",
+    "vlees",
+    "hoofdgerecht",
+    "ouderwets"
+   ],
+   "original": "Om een hacksee te maken\n\n\nNeemt kalfs- of schapenvlees, gekoockt of gebraden. Hackt het kleyn. Doet'erby schijven van lamoenen, peper en notemuskaet, hamelesop, verjuys en wat boter, en laet het alsoo tesamen stoven.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-za9LyPTkzyp1ZC6ppO97Rvgg.png?st=2024-07-17T17%3A51%3A18Z&se=2024-07-17T19%3A51%3A18Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A50%3A21Z&ske=2024-07-18T13%3A50%3A21Z&sks=b&skv=2023-11-03&sig=JSJUdKtar/I0yl1IVZDSb2axH9ZzKUvFTPOFleMovKM%3D"
+  }
  },
  {
   "id": 538,
   "title": "Om konijnen te stoven",
   "bookRef": "N1669",
-  "instructions": "\nWascht de konijnen schoon. Bindtse met het hooft tusschen de beenen. Neemt dan twee kommetjes water en een kommetje azijn, een weynigh gestoten peper, nagelen en notemuskaet, en setse daermede te stoven. Men doet er oock wel uyen by. Neemt dan een ghestoten beschuyt of geraspt wittebroot om het sap wat dick te maken. Op het lest doet een goet stuck boter daerby.\n"
+  "instructions": "\nWascht de konijnen schoon. Bindtse met het hooft tusschen de beenen. Neemt dan twee kommetjes water en een kommetje azijn, een weynigh gestoten peper, nagelen en notemuskaet, en setse daermede te stoven. Men doet er oock wel uyen by. Neemt dan een ghestoten beschuyt of geraspt wittebroot om het sap wat dick te maken. Op het lest doet een goet stuck boter daerby.\n",
+  "modernized": {
+   "title": "Gestoofde Konijn",
+   "recipe": "Was de konijnen schoon.\nBind ze met het hoofd tussen de benen.\nNeem dan 500 ml water en 250 ml azijn, een beetje gemalen peper, kruidnagels en nootmuskaat, en zet de konijnen hiermee te stoven.\nMen voegt er ook wel uien aan toe.\nNeem dan een verkruimelde beschuit of geraspt witbrood om het sap wat dikker te maken.\nVoeg op het laatst een goed stuk boter toe.",
+   "ingredients": [
+    [
+     "",
+     "konijn"
+    ],
+    [
+     "500 ml",
+     "water"
+    ],
+    [
+     "250 ml",
+     "azijn"
+    ],
+    [
+     "",
+     "gemalen peper"
+    ],
+    [
+     "",
+     "kruidnagels"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "",
+     "uien"
+    ],
+    [
+     "",
+     "beschuit of geraspt witbrood"
+    ],
+    [
+     "",
+     "boter"
+    ]
+   ],
+   "visualized": "A braised rabbit dish cooked in a savory broth. The rabbit pieces are tender and arranged neatly with the head placed between the legs. The broth is slightly thickened with bread crumbs, giving it a rich, golden appearance. Small chunks of onions are visible, and there are specks of spices throughout. The dish is garnished with a good amount of melted butter on top. The photo should be taken from a three-quarters angle using a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "stoofgerecht"
+   ],
+   "original": "Om konijnen te stoven\n\n\nWascht de konijnen schoon. Bindtse met het hooft tusschen de beenen. Neemt dan twee kommetjes water en een kommetje azijn, een weynigh gestoten peper, nagelen en notemuskaet, en setse daermede te stoven. Men doet er oock wel uyen by. Neemt dan een ghestoten beschuyt of geraspt wittebroot om het sap wat dick te maken. Op het lest doet een goet stuck boter daerby.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-m1q9eXdXAdBPr9weWFv65WTb.png?st=2024-07-17T17%3A51%3A59Z&se=2024-07-17T19%3A51%3A59Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A34%3A37Z&ske=2024-07-18T12%3A34%3A37Z&sks=b&skv=2023-11-03&sig=uqNJyn8bbj9IBfsGruPut1/6Wb6oRhb%2BCr9X6G9ChGI%3D"
+  }
  },
  {
   "id": 539,
   "title": "Konijnen op een ander manier",
   "bookRef": "N1669",
-  "instructions": "\nKoockt de konijnen gheheel in schoon water met wat zout. Schuymtse schoon. Ontleetse dan en fruytse met wat boter in de pan datse root worden. Doet er dan een sausje over van boter en wat azijn en suycker. Roert dit t'samen in de pan dat het soo een dick sausje wordt en giet het dan over de konijnen. Het smaeckt wel.\n"
+  "instructions": "\nKoockt de konijnen gheheel in schoon water met wat zout. Schuymtse schoon. Ontleetse dan en fruytse met wat boter in de pan datse root worden. Doet er dan een sausje over van boter en wat azijn en suycker. Roert dit t'samen in de pan dat het soo een dick sausje wordt en giet het dan over de konijnen. Het smaeckt wel.\n",
+  "modernized": {
+   "title": "Konijn op een andere manier",
+   "recipe": "Kook de konijnen geheel in schoon water met wat zout. Schuim ze schoon.\nOntdoe ze dan van botten en bak ze met wat boter in de pan zodat ze rood worden.\nMaak een saus van boter, een beetje azijn en suiker. Roer dit samen in de pan totdat het een dikke saus wordt en giet het dan over de konijnen.\nHet smaakt heerlijk.",
+   "ingredients": [
+    [
+     "2",
+     "konijnen"
+    ],
+    [
+     "2 liter",
+     "water"
+    ],
+    [
+     "1 tl",
+     "zout"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "30 ml",
+     "azijn"
+    ],
+    [
+     "1 el",
+     "suiker"
+    ]
+   ],
+   "visualized": "A dish featuring tender rabbit pieces, cooked whole and then saut\u00e9ed in butter until golden brown. The pieces are generously covered in a thick sauce made from butter, vinegar, and sugar. The sauce glistens and slightly pools around the rabbit. Represented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "saus"
+   ],
+   "original": "Konijnen op een ander manier\n\n\nKoockt de konijnen gheheel in schoon water met wat zout. Schuymtse schoon. Ontleetse dan en fruytse met wat boter in de pan datse root worden. Doet er dan een sausje over van boter en wat azijn en suycker. Roert dit t'samen in de pan dat het soo een dick sausje wordt en giet het dan over de konijnen. Het smaeckt wel.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-BxE40BVIavIpZYiyvpkPrvyv.png?st=2024-07-17T17%3A52%3A30Z&se=2024-07-17T19%3A52%3A30Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A57%3A05Z&ske=2024-07-18T11%3A57%3A05Z&sks=b&skv=2023-11-03&sig=NPbZXUlgRyBlACATjs9Z5Khrp7nZJe5foieyjs5Yp/M%3D"
+  }
  },
  {
   "id": 540,
   "title": "Om een ossetongh gereet te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een tonge, eerst half en dan in 3 of 4 stucken doorgesneden. Stooftse met wat sop, roode wijn, boter, nagelen, peper, gember, caneel, suycker en wat azijn tot het wel genoegh is. Is goet.\n"
+  "instructions": "\nNeemt een tonge, eerst half en dan in 3 of 4 stucken doorgesneden. Stooftse met wat sop, roode wijn, boter, nagelen, peper, gember, caneel, suycker en wat azijn tot het wel genoegh is. Is goet.\n",
+  "modernized": {
+   "title": "Ossetong gestoofd in rode wijn",
+   "recipe": "Neem een ossetong en snijd deze eerst doormidden en dan in 3 of 4 stukken. Stoof de tong met wat bouillon, rode wijn, boter, kruidnagelen, peper, gember, kaneel, suiker en wat azijn tot het goed gaar is.",
+   "ingredients": [
+    [
+     "1",
+     "ossetong"
+    ],
+    [
+     "200 ml",
+     "bouillon"
+    ],
+    [
+     "200 ml",
+     "rode wijn"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "4",
+     "kruidnagelen"
+    ],
+    [
+     "2 tl",
+     "peper"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ],
+    [
+     "1 tl",
+     "kaneel"
+    ],
+    [
+     "1 el",
+     "suiker"
+    ],
+    [
+     "2 el",
+     "azijn"
+    ]
+   ],
+   "visualized": "A succulent dish of braised ox tongue is presented in a rich and dark red wine sauce, with visible spices such as cloves and pepper on top. The dish is garnished with a sprinkle of fresh herbs, adding a touch of green for contrast. The meat looks tender and juicy, having absorbed the sauce\u2019s deep color. The sauce is glossy, pooling slightly at the bottom. The dish is served on a rustic yet elegant plate from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "stoofpot"
+   ],
+   "original": "Om een ossetongh gereet te maken\n\n\nNeemt een tonge, eerst half en dan in 3 of 4 stucken doorgesneden. Stooftse met wat sop, roode wijn, boter, nagelen, peper, gember, caneel, suycker en wat azijn tot het wel genoegh is. Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-bPllx85OgBpqJdbZzpgkuTA3.png?st=2024-07-17T17%3A52%3A54Z&se=2024-07-17T19%3A52%3A54Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A59%3A14Z&ske=2024-07-18T13%3A59%3A14Z&sks=b&skv=2023-11-03&sig=hMPEfz6s%2BIqtq8Lwn%2BjZjuB7n/knj5Llg6cphpDblak%3D"
+  }
  },
  {
   "id": 541,
   "title": "Om een schapendyharst te stoven met mirickwortel",
   "bookRef": "N1669",
-  "instructions": "\nNeemt twee handen vol geraspte mirikswortel, 4 of 5 lepelen geraspt wittebroodt. Menght dit t'samen met vleessop en azijn, soo dick als ghestoofde appelen. Doet er boter en suycker by. Laet het dan t'samen stoven tot het van pas dick is, maer laet het vlees bysonder koken in een andere pot. Doet dan dese miricksaus eerst in de schotel en leght het vlees daerbovenop.\n"
+  "instructions": "\nNeemt twee handen vol geraspte mirikswortel, 4 of 5 lepelen geraspt wittebroodt. Menght dit t'samen met vleessop en azijn, soo dick als ghestoofde appelen. Doet er boter en suycker by. Laet het dan t'samen stoven tot het van pas dick is, maer laet het vlees bysonder koken in een andere pot. Doet dan dese miricksaus eerst in de schotel en leght het vlees daerbovenop.\n",
+  "modernized": {
+   "title": "Gestooft schapenvlees met mierikswortelsaus",
+   "recipe": "Neem twee handen vol geraspte mierikswortel, 4 of 5 lepels geraspt witbrood. Meng dit samen met bouillon en azijn, zo dik als gestoofde appels. Doe er boter en suiker bij. Laat het dan samen stoven tot het de juiste dikte heeft, maar laat het vlees afzonderlijk koken in een andere pot. Doe dan deze mieriksaus eerst in de schaal en leg het vlees erbovenop.",
+   "ingredients": [
+    [
+     "10 g",
+     "geraspte mierikswortel"
+    ],
+    [
+     "50 g",
+     "geraspt witbrood"
+    ],
+    [
+     "200 ml",
+     "bouillon"
+    ],
+    [
+     "2 eetlepels",
+     "azijn"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "1 eetlepel",
+     "suiker"
+    ],
+    [
+     "500 g",
+     "schapenvlees"
+    ]
+   ],
+   "visualized": "A succulent serving of stewed mutton topped with a creamy horseradish sauce. The dish includes generous shreds of horseradish mixed with thickened broth, breadcrumbs, vinegar, butter, and sugar. The mutton, cooked separately, is perfectly tender, placed atop the sauce in a decorative manner. The sauce is visibly textured and appears rich and slightly glossy from the butter. Photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "saus",
+    "hoofdgerecht",
+    "stoofpot"
+   ],
+   "original": "Om een schapendyharst te stoven met mirickwortel\n\n\nNeemt twee handen vol geraspte mirikswortel, 4 of 5 lepelen geraspt wittebroodt. Menght dit t'samen met vleessop en azijn, soo dick als ghestoofde appelen. Doet er boter en suycker by. Laet het dan t'samen stoven tot het van pas dick is, maer laet het vlees bysonder koken in een andere pot. Doet dan dese miricksaus eerst in de schotel en leght het vlees daerbovenop.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-Hc7W3zrLhz9eHWFoJlLyuaGF.png?st=2024-07-17T17%3A53%3A32Z&se=2024-07-17T19%3A53%3A32Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A59%3A26Z&ske=2024-07-18T13%3A59%3A26Z&sks=b&skv=2023-11-03&sig=f7vcRwsJeo3PGxUFWVTFxV4lGDDPwsjBgCuJ9Cz7OkI%3D"
+  }
  },
  {
   "id": 542,
   "title": "Om een huspot te stoven van alles",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een capoen, schapenvlees, ossevlees en verckensvlees, een entvogel of smient en sausisen. Dit al t'samen in een pot te vuur ghedaen, van pas gesouten en schoongeschuymt en murru gekoockt. Dan tesamen met lanckachtigh sop te stoven geset met wat gember en peper, en doet erby savoykool, eerst opgekoockt, en dan t'samen laten stoven.\n"
+  "instructions": "\nNeemt een capoen, schapenvlees, ossevlees en verckensvlees, een entvogel of smient en sausisen. Dit al t'samen in een pot te vuur ghedaen, van pas gesouten en schoongeschuymt en murru gekoockt. Dan tesamen met lanckachtigh sop te stoven geset met wat gember en peper, en doet erby savoykool, eerst opgekoockt, en dan t'samen laten stoven.\n",
+  "modernized": {
+   "title": "Gestovende Hutspot met Vlees en Groenten",
+   "recipe": "Neem een kapoen, schapenvlees, rundvlees, varkensvlees, een eend of smient en saucijzen. Zet dit allemaal samen in een pot op het vuur, goed gezouten en afschuimen. Kook dit totdat het gaar is. Voeg dan voldoende bouillon toe om het geheel te stoven met wat gember en peper. Voeg savooiekool toe, eerst kort gekookt, en laat het dan samen stoven.",
+   "ingredients": [
+    [
+     "1",
+     "kapoen"
+    ],
+    [
+     "200 g",
+     "schapenvlees"
+    ],
+    [
+     "200 g",
+     "rundvlees"
+    ],
+    [
+     "200 g",
+     "varkensvlees"
+    ],
+    [
+     "1",
+     "eend of smient"
+    ],
+    [
+     "2",
+     "saucijzen"
+    ],
+    [
+     "1 liter",
+     "bouillon"
+    ],
+    [
+     "1 el",
+     "gember"
+    ],
+    [
+     "1 tl",
+     "peper"
+    ],
+    [
+     "1",
+     "savooiekool"
+    ]
+   ],
+   "visualized": "A three-quarters angle view of a hearty stew in a pot. The stew contains various types of meat including chicken, lamb, beef, pork, and sausages. Large, tender chunks of savoy cabbage are visible throughout. The broth is rich and slightly thick, with visible specks of ginger and pepper. The dish looks rustic and flavorful. Sigma 85 mm f/1.4.",
+   "tags": [
+    "stoofpot",
+    "vlees",
+    "groente",
+    "hoofdgerecht",
+    "stoofgerecht"
+   ],
+   "original": "Om een huspot te stoven van alles\n\n\nNeemt een capoen, schapenvlees, ossevlees en verckensvlees, een entvogel of smient en sausisen. Dit al t'samen in een pot te vuur ghedaen, van pas gesouten en schoongeschuymt en murru gekoockt. Dan tesamen met lanckachtigh sop te stoven geset met wat gember en peper, en doet erby savoykool, eerst opgekoockt, en dan t'samen laten stoven.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-uD7dw6M0qus2RqIEy8ALUwHB.png?st=2024-07-17T17%3A54%3A04Z&se=2024-07-17T19%3A54%3A04Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A43%3A46Z&ske=2024-07-18T13%3A43%3A46Z&sks=b&skv=2023-11-03&sig=dOVZSKGLIDaplJ1mITQudJ5s9nurAXAK%2BMNUlW9Ri0s%3D"
+  }
  },
  {
   "id": 543,
   "title": "Om kalfsvoeten te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt schapesop, gember, verjuys, saffraen, pietercelie kleyngehackt, een goet stuck boter. Laet'et soo t'samen stoven.\n"
+  "instructions": "\nNeemt schapesop, gember, verjuys, saffraen, pietercelie kleyngehackt, een goet stuck boter. Laet'et soo t'samen stoven.\n",
+  "modernized": {
+   "title": "Gestoofde Kalfsvoeten",
+   "recipe": "Neem schapenvleesbouillon, gember, verjus, saffraan, fijngehakte peterselie en een goed stuk boter. Laat dit samen stoven.",
+   "ingredients": [
+    [
+     "200 ml",
+     "schapenvleesbouillon"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ],
+    [
+     "2 el",
+     "verjus"
+    ],
+    [
+     "1 snufje",
+     "saffraan"
+    ],
+    [
+     "2 el",
+     "fijngehakte peterselie"
+    ],
+    [
+     "50 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A rustic stew with tender veal feet simmering in a rich broth made of sheep stock, ginger, verjus, saffron, and finely chopped parsley, enriched by a generous piece of melted butter on top. Served in a deep, earthenware bowl. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "stoofpot",
+    "hoofdgerecht"
+   ],
+   "original": "Om kalfsvoeten te stoven\n\n\nNeemt schapesop, gember, verjuys, saffraen, pietercelie kleyngehackt, een goet stuck boter. Laet'et soo t'samen stoven.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-1fh1vrX0nRQT3mMKyhyYVYgb.png?st=2024-07-17T17%3A54%3A28Z&se=2024-07-17T19%3A54%3A28Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A47%3A11Z&ske=2024-07-18T13%3A47%3A11Z&sks=b&skv=2023-11-03&sig=80VGHrQcWyK6OdS2PqtJYUuEJKkOyurFuBtYNkEa6xI%3D"
+  }
  },
  {
   "id": 544,
   "title": "Om een saus tot patrijsen of velthoenders of duyven te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt harde doren van eyeren, kruym van wittebroodt. Wrijft het heel kleyn. Dan suycker, saffraen en witte uyen. Laet'et t'samen in schapesop wel opzieden. Giet het dan op u gebraet.\n"
+  "instructions": "\nNeemt harde doren van eyeren, kruym van wittebroodt. Wrijft het heel kleyn. Dan suycker, saffraen en witte uyen. Laet'et t'samen in schapesop wel opzieden. Giet het dan op u gebraet.\n",
+  "modernized": {
+   "title": "Saus voor Patrijzen of Duiven",
+   "recipe": "Neem harde dooiers van eieren en kruim van witbrood. Wrijf het heel fijn.\nVoeg dan suiker, saffraan en witte uien toe. Laat het samen in schapenbouillon goed doorkoken.\nGiet het dan over je gebraad.",
+   "ingredients": [
+    [
+     "4",
+     "eidooiers"
+    ],
+    [
+     "100 g",
+     "witbroodkruim"
+    ],
+    [
+     "1 eetlepel",
+     "suiker"
+    ],
+    [
+     "1 theelepel",
+     "saffraan"
+    ],
+    [
+     "2",
+     "witte uien"
+    ],
+    [
+     "500 ml",
+     "schapenbouillon"
+    ]
+   ],
+   "visualized": "A creamy, golden-yellow sauce, thick in consistency, poured generously over roasted game birds like partridges or pigeons. The sauce has a smooth texture with visible small fragments of finely chopped white onions. The dish is shown from a three-quarters angle, captured with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "saus",
+    "vlees",
+    "gebraad",
+    "bijgerecht"
+   ],
+   "original": "Om een saus tot patrijsen of velthoenders of duyven te maken\n\n\nNeemt harde doren van eyeren, kruym van wittebroodt. Wrijft het heel kleyn. Dan suycker, saffraen en witte uyen. Laet'et t'samen in schapesop wel opzieden. Giet het dan op u gebraet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-pG4VrZPy3j6AsnQjDu7bCRC9.png?st=2024-07-17T17%3A54%3A55Z&se=2024-07-17T19%3A54%3A55Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A01%3A06Z&ske=2024-07-18T12%3A01%3A06Z&sks=b&skv=2023-11-03&sig=r0FMNsB/%2BTQa%2BmVRv5Y%2B5NyYdQVJ5LeqO/ZVJAM9I1k%3D"
+  }
  },
  {
   "id": 545,
   "title": "Deselve op een ander manier ",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een snee terwenbroot, braet die, en dan geraspt; een half pint verjuys en wat gestoten peper en heele foelie. Doet er dan een of twee lepels braetvet in. Dan geroert tot het genoegh is. Gietet dan op het ghebraedt. Dese saus is oock goet over ghesooden artesiocken.\n"
+  "instructions": "\nNeemt een snee terwenbroot, braet die, en dan geraspt; een half pint verjuys en wat gestoten peper en heele foelie. Doet er dan een of twee lepels braetvet in. Dan geroert tot het genoegh is. Gietet dan op het ghebraedt. Dese saus is oock goet over ghesooden artesiocken.\n",
+  "modernized": {
+   "title": "Saus van geroosterd brood met verjus",
+   "recipe": "Neem een snee tarwebrood, rooster deze en rasp het vervolgens.\n\nMeng een halve pint verjus met wat gemalen peper en een hele foelie.\n\nVoeg \u00e9\u00e9n of twee lepels braadvet toe.\n\nRoer het mengsel totdat het goed gemengd is.\n\nGiet de saus over geroosterd vlees of gekookte artisjokken.",
+   "ingredients": [
+    [
+     "1 snee",
+     "tarwebrood"
+    ],
+    [
+     "250 ml",
+     "verjus"
+    ],
+    [
+     "",
+     "gemalen peper"
+    ],
+    [
+     "1",
+     "hele foelie"
+    ],
+    [
+     "2 el",
+     "braadvet"
+    ]
+   ],
+   "visualized": "A rustic bowl containing a rich, brown sauce with visible flecks of spices. The texture is slightly chunky due to the roasted and grated bread. It's served from a three-quarters angle, and the surface is glossy with a slight sheen from the fat. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "bijgerecht"
+   ],
+   "original": "Deselve op een ander manier \n\n\nNeemt een snee terwenbroot, braet die, en dan geraspt; een half pint verjuys en wat gestoten peper en heele foelie. Doet er dan een of twee lepels braetvet in. Dan geroert tot het genoegh is. Gietet dan op het ghebraedt. Dese saus is oock goet over ghesooden artesiocken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-pg9FDaF1fQiIxAvONiOD2Cez.png?st=2024-07-17T17%3A55%3A24Z&se=2024-07-17T19%3A55%3A24Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A03%3A39Z&ske=2024-07-18T13%3A03%3A39Z&sks=b&skv=2023-11-03&sig=ghftHxroj/ANt51YxPqIcuVQT7Rbc/aNygv0cMt%2BLoI%3D"
+  }
  },
  {
   "id": 546,
   "title": "Om een bequame saus te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt kruym van wittebroot en fijngestoten amandelen, verjuys, suycker en wat gember. Dit t'samen wel opgekoockt. Is een goede saus.\n"
+  "instructions": "\nNeemt kruym van wittebroot en fijngestoten amandelen, verjuys, suycker en wat gember. Dit t'samen wel opgekoockt. Is een goede saus.\n",
+  "modernized": {
+   "title": "Gemakkelijke saus",
+   "recipe": "Neem kruim van witbrood en fijngestoten amandelen. Voeg verjus, suiker en wat gember toe. Kook dit samen goed door. Het is een goede saus.",
+   "ingredients": [
+    [
+     "100 g",
+     "witbroodkruim"
+    ],
+    [
+     "50 g",
+     "fijngestoten amandelen"
+    ],
+    [
+     "200 ml",
+     "verjus"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ]
+   ],
+   "visualized": "A light beige sauce with a smooth, creamy texture. The sauce has visible specks of finely ground almonds and a faint hint of ginger. The consistency is thick enough to coat the back of a spoon. Photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "bijgerecht"
+   ],
+   "original": "Om een bequame saus te maken\n\n\nNeemt kruym van wittebroot en fijngestoten amandelen, verjuys, suycker en wat gember. Dit t'samen wel opgekoockt. Is een goede saus.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-OeEn0xf5Z9CQU6IUqJEWYCDD.png?st=2024-07-17T17%3A55%3A46Z&se=2024-07-17T19%3A55%3A46Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A30%3A19Z&ske=2024-07-18T13%3A30%3A19Z&sks=b&skv=2023-11-03&sig=3UEVeeNNVD/g7D67pbTKp8wMZihv7zEads7qkmQ4ybk%3D"
+  }
  },
  {
   "id": 547,
   "title": "Om een gans te benemen de geyle smaeck",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een gans die wel schoongewassen is. Steeckt daer een geele wortel in. Laet die een of twee uuren kooken. Neemt dan de wortel daeruyt en vultse na u believen. Steeckt die dan aen 't spit en laetse braden totse gaer is. Ghy sult daer geen geylheyt aen proeven.\n"
+  "instructions": "\nNeemt een gans die wel schoongewassen is. Steeckt daer een geele wortel in. Laet die een of twee uuren kooken. Neemt dan de wortel daeruyt en vultse na u believen. Steeckt die dan aen 't spit en laetse braden totse gaer is. Ghy sult daer geen geylheyt aen proeven.\n",
+  "modernized": {
+   "title": "Gans zonder gansachtige smaak",
+   "recipe": "Neem een goed Schoongemaakte gans.\nSteek een gele wortel in de gans.\nLaat de gans \u00e9\u00e9n of twee uur koken.\nHaal dan de wortel eruit en vul de gans naar eigen smaak.\nSteek de gans aan het spit en laat deze braden tot hij gaar is.\nJe zult geen gansachtige smaak meer proeven.",
+   "ingredients": [
+    [
+     "1",
+     "gans"
+    ],
+    [
+     "1",
+     "gele wortel"
+    ]
+   ],
+   "visualized": "A well-roasted whole goose with a golden-brown, crispy skin. The dish is presented from a three-quarters angle, showing the entirety of the goose, with the drumsticks and wings clearly visible. The surface is smooth and shiny, indicating perfect roasting. There are no visible garnishes or stuffing. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "feestelijk"
+   ],
+   "original": "Om een gans te benemen de geyle smaeck\n\n\nNeemt een gans die wel schoongewassen is. Steeckt daer een geele wortel in. Laet die een of twee uuren kooken. Neemt dan de wortel daeruyt en vultse na u believen. Steeckt die dan aen 't spit en laetse braden totse gaer is. Ghy sult daer geen geylheyt aen proeven.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-pFBJrx91NFw8Ni0LBjCBf10V.png?st=2024-07-17T17%3A56%3A09Z&se=2024-07-17T19%3A56%3A09Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A41%3A50Z&ske=2024-07-18T12%3A41%3A50Z&sks=b&skv=2023-11-03&sig=Lmswn0c2vR9JNDKG5pBcBWJBmNSbLJNRG1i52j%2BLczw%3D"
+  }
  },
  {
   "id": 548,
   "title": "Om een ghebraden gans of eyndtvogel te vullen",
   "bookRef": "N1669",
-  "instructions": "\nDoet al het vet dat los in de gans is uyt. Neemt een terwenbroodt van 2 stuyvers, snijt daer de korsten af, raspt het kleyn, een half pont korenten, anderhalf loot kaneel, twee volle lepelen suyker, een goet stuck boter met een weynigh Rinse wijn gemenght, doch soo droogh als 't mogelijck is, dat het maer even doornat is. 't Sal goet vulsel zijn. Men vult de gansen en eyndtvogels oock met karstanien daer de schellen en vliesen zijn afghedaen, met boter daerby.\n"
+  "instructions": "\nDoet al het vet dat los in de gans is uyt. Neemt een terwenbroodt van 2 stuyvers, snijt daer de korsten af, raspt het kleyn, een half pont korenten, anderhalf loot kaneel, twee volle lepelen suyker, een goet stuck boter met een weynigh Rinse wijn gemenght, doch soo droogh als 't mogelijck is, dat het maer even doornat is. 't Sal goet vulsel zijn. Men vult de gansen en eyndtvogels oock met karstanien daer de schellen en vliesen zijn afghedaen, met boter daerby.\n",
+  "modernized": {
+   "title": "Gebraden Gans of Eendvogel Gevuld",
+   "recipe": "Verwijder al het losse vet uit de gans.\nNeem een tarwebrood van 2 stuivers, snijd de korsten eraf en rasp het fijn.\nMeng het brood met een half pond krenten, anderhalf theelepeltje kaneel, twee volle eetlepels suiker en een goed stuk boter met een beetje Rijnse wijn.\nZorg ervoor dat het mengsel zo droog mogelijk blijft, zodat het net vochtig genoeg is.\nDit zal een goed vulsel zijn.\nVul de gans of eend met dit mengsel en met kastanjes waarvan de schillen en vliesjes zijn verwijderd, samen met wat boter.",
+   "ingredients": [
+    [
+     "1",
+     "gans of eend"
+    ],
+    [
+     "1",
+     "tarwebrood"
+    ],
+    [
+     "250 g",
+     "krenten"
+    ],
+    [
+     "1,5 tl",
+     "kaneel"
+    ],
+    [
+     "2 el",
+     "suiker"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "50 ml",
+     "Rijnse wijn"
+    ],
+    [
+     "200 g",
+     "kastanjes"
+    ]
+   ],
+   "visualized": "A roasted goose or duck filled with a mixture of finely rasped white bread, currants, cinnamon, sugar, butter, and a hint of Rhine wine. The bird is golden brown, crispy and stuffed with the mixture along with peeled chestnuts and extra butter, visible from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "gevuld",
+    "feest"
+   ],
+   "original": "Om een ghebraden gans of eyndtvogel te vullen\n\n\nDoet al het vet dat los in de gans is uyt. Neemt een terwenbroodt van 2 stuyvers, snijt daer de korsten af, raspt het kleyn, een half pont korenten, anderhalf loot kaneel, twee volle lepelen suyker, een goet stuck boter met een weynigh Rinse wijn gemenght, doch soo droogh als 't mogelijck is, dat het maer even doornat is. 't Sal goet vulsel zijn. Men vult de gansen en eyndtvogels oock met karstanien daer de schellen en vliesen zijn afghedaen, met boter daerby.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-e7plpJlQnvvQj8LGnkI4tF5k.png?st=2024-07-17T17%3A56%3A46Z&se=2024-07-17T19%3A56%3A46Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A40%3A09Z&ske=2024-07-18T12%3A40%3A09Z&sks=b&skv=2023-11-03&sig=rNTOJNe8E818jDq4epTzq7XtjCSZkdafmjrulpFobHw%3D"
+  }
  },
  {
   "id": 549,
   "title": "Om kalfsooren te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt gaer, gehackt kalfsvlees. Doet daerby noten, foely, suycker en 2 of 3 doren van eyeren t'samengeroert. Neemt dan gesneden wittebroot en doet het bovenstaende op het broot. Soo t'samen in een pan gebacken in de boter.\n"
+  "instructions": "\nNeemt gaer, gehackt kalfsvlees. Doet daerby noten, foely, suycker en 2 of 3 doren van eyeren t'samengeroert. Neemt dan gesneden wittebroot en doet het bovenstaende op het broot. Soo t'samen in een pan gebacken in de boter.\n",
+  "modernized": {
+   "title": "Gebakken Kalfsooren",
+   "recipe": "Neem fijngehakt kalfsvlees.\nVoeg daar noten, foelie, suiker en 2 of 3 dooiers van eieren aan toe en meng dit goed door elkaar.\nNeem gesneden witbrood en leg het mengsel op het brood.\nBak het geheel samen in een pan met boter.",
+   "ingredients": [
+    [
+     "300 g",
+     "kalfsvlees (gehakt)"
+    ],
+    [
+     "50 g",
+     "gemengde noten (gehakt)"
+    ],
+    [
+     "1/4 tl",
+     "foelie"
+    ],
+    [
+     "1 el",
+     "suiker"
+    ],
+    [
+     "2-3",
+     "eidooiers"
+    ],
+    [
+     "",
+     "witbrood (gesneden)"
+    ],
+    [
+     "50 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A neatly arranged dish showing slices of toasted white bread topped with a mixture of minced veal, chopped nuts, and a hint of foelie, garnished with a sprinkle of sugar, all cooked to a golden brown hue. The bread and topping should look slightly crispy and rich, with a glossy finish from the butter. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "gebakken"
+   ],
+   "original": "Om kalfsooren te backen\n\n\nNeemt gaer, gehackt kalfsvlees. Doet daerby noten, foely, suycker en 2 of 3 doren van eyeren t'samengeroert. Neemt dan gesneden wittebroot en doet het bovenstaende op het broot. Soo t'samen in een pan gebacken in de boter.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-jdXyxc3pM7yztl9iiq4g5Fcy.png?st=2024-07-17T17%3A57%3A21Z&se=2024-07-17T19%3A57%3A21Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A24%3A31Z&ske=2024-07-18T13%3A24%3A31Z&sks=b&skv=2023-11-03&sig=CzuLWFlSx6ZF3rZJwZKB7o7RC%2BoSHLCaU1Yw6UwUULE%3D"
+  }
  },
  {
   "id": 550,
   "title": "Om een stuck steur te braden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt'er de vin en de schobben af. Besteeckt het met kruytnagelen. Laet'et braden, droopt'et wel met boter. Gaer zijnde, neemt het van 't spit, doe'et in een pot en stooft het dan eens op met Rinse wijn, azijn, caneel en noten. Soo opgerecht is goet.\n"
+  "instructions": "\nNeemt'er de vin en de schobben af. Besteeckt het met kruytnagelen. Laet'et braden, droopt'et wel met boter. Gaer zijnde, neemt het van 't spit, doe'et in een pot en stooft het dan eens op met Rinse wijn, azijn, caneel en noten. Soo opgerecht is goet.\n",
+  "modernized": {
+   "title": "Gebraden Steur",
+   "recipe": "Verwijder de vinnen en schubben van de steur. Steek kruidnagels in de vis. Braad de steur en bedruip regelmatig met boter. Als de steur gaar is, haal hem van het spit en doe hem in een pot. Stoof de vis met rode wijn, azijn, kaneel en noten. Serveer warm.",
+   "ingredients": [
+    [
+     "1000 g",
+     "steur"
+    ],
+    [
+     "10",
+     "kruidnagels"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "250 ml",
+     "rode wijn"
+    ],
+    [
+     "2 el",
+     "azijn"
+    ],
+    [
+     "1 tl",
+     "kaneel"
+    ],
+    [
+     "50 g",
+     "noten"
+    ]
+   ],
+   "visualized": "A beautifully roasted sturgeon with a crispy golden-brown skin, studded with cloves. It sits in a rich, dark sauce made from red wine, vinegar, cinnamon, and nuts. The sauce slightly glazes the fish, with pieces of nuts visible. Shot from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "hoofdgerecht",
+    "gebraad"
+   ],
+   "original": "Om een stuck steur te braden\n\n\nNeemt'er de vin en de schobben af. Besteeckt het met kruytnagelen. Laet'et braden, droopt'et wel met boter. Gaer zijnde, neemt het van 't spit, doe'et in een pot en stooft het dan eens op met Rinse wijn, azijn, caneel en noten. Soo opgerecht is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-kIgcfyJznxQNM00KqHjv4V4F.png?st=2024-07-17T17%3A57%3A41Z&se=2024-07-17T19%3A57%3A41Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A37%3A15Z&ske=2024-07-18T13%3A37%3A15Z&sks=b&skv=2023-11-03&sig=UMhvFroZJMrDDGWqRGPUhfkx7/u7DAW9tcQ2jIN1AzY%3D"
+  }
  },
  {
   "id": 551,
   "title": "Om een brasem aen 't spit te braden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een brasem die kuyt heeft. Naerse schoongemaeckt is, snijt den buyk open en de kuyt alleen uytgenomen. Die ghehackt met doren van eyeren, pietercelie, noten, foelie, peper en boter. Dan t'samen weder ingedaen en den brasem weder toegenaeyt. Gebraden zijnde, neemt van de boter uyt de pan, doet daer 2 of 3 ansioven in en wat verjuys. Laet'et opwellen en kooken tot den ansiovis ghesmolten is. Dan, in het opdissen, stroyt wel orego op de rant van u schotel.\n"
+  "instructions": "\nNeemt een brasem die kuyt heeft. Naerse schoongemaeckt is, snijt den buyk open en de kuyt alleen uytgenomen. Die ghehackt met doren van eyeren, pietercelie, noten, foelie, peper en boter. Dan t'samen weder ingedaen en den brasem weder toegenaeyt. Gebraden zijnde, neemt van de boter uyt de pan, doet daer 2 of 3 ansioven in en wat verjuys. Laet'et opwellen en kooken tot den ansiovis ghesmolten is. Dan, in het opdissen, stroyt wel orego op de rant van u schotel.\n",
+  "modernized": {
+   "title": "Brasem aan het spit",
+   "recipe": "Neem een brasem die kuit heeft. Nadat deze schoongemaakt is, snijd je de buik open en neem je alleen de kuit eruit. Hak de kuit met dooier van eieren, peterselie, noten, foelie, peper en boter. Doe dit samen weer in de brasem en naai de brasem weer dicht.\n\nRooster de brasem aan het spit. Als deze geroosterd is, neem dan de boter uit de pan en doe er 2 of 3 ansjovissen en wat azijn bij. Laat het opwellen en koken totdat de ansjovis is gesmolten. Bestrooi bij het opdienen royaal met oregano op de rand van je schotel.",
+   "ingredients": [
+    [
+     "1",
+     "brasem met kuit"
+    ],
+    [
+     "2",
+     "kuit"
+    ],
+    [
+     "4",
+     "eidooier"
+    ],
+    [
+     "50 g",
+     "peterselie"
+    ],
+    [
+     "50 g",
+     "noten"
+    ],
+    [
+     "1 tl",
+     "foelie"
+    ],
+    [
+     "1 tl",
+     "peper"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "3",
+     "ansjovissen"
+    ],
+    [
+     "50 ml",
+     "azijn"
+    ],
+    [
+     "1 tl",
+     "oregano"
+    ]
+   ],
+   "visualized": "A roasted bream fish from a three-quarters angle, stuffed and sewn shut with golden, crispy skin. The fish is surrounded by a rich, glossy butter sauce with melted anchovies visible. The plate's edges are generously sprinkled with fresh green parsley and oregano. Shot with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vis",
+    "hoofdgerecht",
+    "kruidig",
+    "gebraad"
+   ],
+   "original": "Om een brasem aen 't spit te braden\n\n\nNeemt een brasem die kuyt heeft. Naerse schoongemaeckt is, snijt den buyk open en de kuyt alleen uytgenomen. Die ghehackt met doren van eyeren, pietercelie, noten, foelie, peper en boter. Dan t'samen weder ingedaen en den brasem weder toegenaeyt. Gebraden zijnde, neemt van de boter uyt de pan, doet daer 2 of 3 ansioven in en wat verjuys. Laet'et opwellen en kooken tot den ansiovis ghesmolten is. Dan, in het opdissen, stroyt wel orego op de rant van u schotel.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-DFW3ZvCg1DU6GkA3KMLo2hWB.png?st=2024-07-17T17%3A58%3A07Z&se=2024-07-17T19%3A58%3A07Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A33%3A14Z&ske=2024-07-18T12%3A33%3A14Z&sks=b&skv=2023-11-03&sig=SGBRh7BnpSDhfU/Y9Wjs0sqIn1faQdL85e6xVlPVoRo%3D"
+  }
  },
  {
   "id": 552,
   "title": "Om een staert van een snoeck aen 't spit te braden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt ansiovis ofte pekelharingh, lardeert den staert daermede, en soo aen 't spit gaerghebraden. De saus is: boter uyt de pan, ansiovis of fijne stucxkens haringh met verjuys ofte limoensap opgewelt. Aldus braet men oock wel de staert van een kabbeljau.\n"
+  "instructions": "\nNeemt ansiovis ofte pekelharingh, lardeert den staert daermede, en soo aen 't spit gaerghebraden. De saus is: boter uyt de pan, ansiovis of fijne stucxkens haringh met verjuys ofte limoensap opgewelt. Aldus braet men oock wel de staert van een kabbeljau.\n",
+  "modernized": {
+   "title": "Gegrilde Snoekstaart",
+   "recipe": "Neem ansjovis of pekelharing en marineer de staart van de snoek hiermee. Spies de snoekstaart en rooster het gaar aan het spit.\n\nDe saus maak je door boter uit de pan te smelten en te mengen met fijne stukjes ansjovis of haring en verjus of limoensap.",
+   "ingredients": [
+    [
+     "4",
+     "ansjovisfilets"
+    ],
+    [
+     "",
+     "staart van een snoek"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "1 eetlepel",
+     "verjus of limoensap"
+    ]
+   ],
+   "visualized": "A beautifully grilled pike tail, marinated with anchovies, served on a plate. The tail should have golden-brown, crispy skin with a slightly charred look. The sauce, a mixture of melted butter and finely chopped anchovies, is lightly drizzled over and around the fish. From a three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "hoofdgerecht"
+   ],
+   "original": "Om een staert van een snoeck aen 't spit te braden\n\n\nNeemt ansiovis ofte pekelharingh, lardeert den staert daermede, en soo aen 't spit gaerghebraden. De saus is: boter uyt de pan, ansiovis of fijne stucxkens haringh met verjuys ofte limoensap opgewelt. Aldus braet men oock wel de staert van een kabbeljau.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-HXl40yNXnSX9pBS4bvRnft39.png?st=2024-07-17T17%3A58%3A31Z&se=2024-07-17T19%3A58%3A31Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A07%3A29Z&ske=2024-07-18T12%3A07%3A29Z&sks=b&skv=2023-11-03&sig=4/AVA/T%2BPKCZZr3bsdfmvHdVuAL8XSL499blRC%2B3aiw%3D"
+  }
  },
  {
   "id": 553,
   "title": "Om een snoeck te zieden op de Spaense wijse",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een limoen. Snijtse in schijven. Doet die in een potjen met wat Rinse wijn, water, boter, gember, saffraen en nagelen. Laet dit t'samen stoven tot het genoegh is. Doet het dan in een schotel en leght er den ghesooden snoeck in.\n"
+  "instructions": "\nNeemt een limoen. Snijtse in schijven. Doet die in een potjen met wat Rinse wijn, water, boter, gember, saffraen en nagelen. Laet dit t'samen stoven tot het genoegh is. Doet het dan in een schotel en leght er den ghesooden snoeck in.\n",
+  "modernized": {
+   "title": "Gekookte Snoek op Spaanse Wijze",
+   "recipe": "Neem een limoen en snijd deze in schijven.\nDoe de schijven in een pannetje met wat droge witte wijn, water, boter, gember, saffraan en kruidnagels.\nLaat dit samen stoven tot het voldoende gaar is.\nDoe het dan in een schotel en leg de gekookte snoek erin.",
+   "ingredients": [
+    [
+     "1",
+     "limoen"
+    ],
+    [
+     "250 ml",
+     "droge witte wijn"
+    ],
+    [
+     "250 ml",
+     "water"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ],
+    [
+     "1 mespunt",
+     "saffraan"
+    ],
+    [
+     "3",
+     "kruidnagels"
+    ],
+    [
+     "600 g",
+     "gekookte snoek"
+    ]
+   ],
+   "visualized": "A beautifully cooked pike fish lies on a platter, surrounded by a rich broth made of white wine, water, butter, ginger, saffron, and cloves. Thin slices of lime are visibly scattered on top and around the fish. The dish is vibrant, with the golden hue of saffron and the contrasting dark cloves. Photographed from a three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "hoofdgerecht",
+    "saffraan",
+    "kruidig"
+   ],
+   "original": "Om een snoeck te zieden op de Spaense wijse\n\n\nNeemt een limoen. Snijtse in schijven. Doet die in een potjen met wat Rinse wijn, water, boter, gember, saffraen en nagelen. Laet dit t'samen stoven tot het genoegh is. Doet het dan in een schotel en leght er den ghesooden snoeck in.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-SwqiiP2qeAEjZ6AhFKPZdTNr.png?st=2024-07-17T17%3A59%3A10Z&se=2024-07-17T19%3A59%3A10Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A53%3A19Z&ske=2024-07-18T13%3A53%3A19Z&sks=b&skv=2023-11-03&sig=IkcK7MBNMvHEPcGsIv26CzoUMKDnlcvA%2B6fJbTa29Ok%3D"
+  }
  },
  {
   "id": 554,
   "title": "Om een snoeck of karper blauw te zieden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een karper of snoeck. Klooft hem door. Giet azijn daerop. Als dan 't water met sout koockt, doet den snoek daerin en koockt hem heel hardt: hy sal blauw zijn.\nAldus kont gy oock een carper koken, en om geheel blauw te hebben, koken de sommige hem wel in half water en half Rinse wijn.\n"
+  "instructions": "\nNeemt een karper of snoeck. Klooft hem door. Giet azijn daerop. Als dan 't water met sout koockt, doet den snoek daerin en koockt hem heel hardt: hy sal blauw zijn.\nAldus kont gy oock een carper koken, en om geheel blauw te hebben, koken de sommige hem wel in half water en half Rinse wijn.\n",
+  "modernized": {
+   "title": "Blauwe Snoek of Karper",
+   "recipe": "Neem een snoek of karper en snijd hem in twee\u00ebn. Giet azijn over de vis. Breng water met zout aan de kook. Doe de vis in het kokende water en kook hem hard zodat hij blauw wordt. \n\nJe kunt een karper op dezelfde manier koken. Om de vis helemaal blauw te krijgen, koken sommigen hem in een mengsel van half water en half droge witte wijn.",
+   "ingredients": [
+    [
+     "1",
+     "snoek of karper"
+    ],
+    [
+     "100 ml",
+     "azijn"
+    ],
+    [
+     "2 liter",
+     "water"
+    ],
+    [
+     "20 g",
+     "zout"
+    ],
+    [
+     "1 liter",
+     "droge witte wijn"
+    ]
+   ],
+   "visualized": "A blue-colored poached fish on a white plate, with the skin slightly glossy and the flesh firm. The fish is sliced in half lengthwise, showing the moist interior. From a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "hoofdgerecht",
+    "klassiek",
+    "poaching"
+   ],
+   "original": "Om een snoeck of karper blauw te zieden\n\n\nNeemt een karper of snoeck. Klooft hem door. Giet azijn daerop. Als dan 't water met sout koockt, doet den snoek daerin en koockt hem heel hardt: hy sal blauw zijn.\nAldus kont gy oock een carper koken, en om geheel blauw te hebben, koken de sommige hem wel in half water en half Rinse wijn.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-dIEF3M0WnlBKAzItXCF4Jrbl.png?st=2024-07-17T17%3A59%3A29Z&se=2024-07-17T19%3A59%3A29Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T09%3A10%3A20Z&ske=2024-07-18T09%3A10%3A20Z&sks=b&skv=2023-11-03&sig=MbLer54J/w2D%2B2jHX5DDUv4ME7kGRJwtnlbwbBwUfGk%3D"
+  }
  },
  {
   "id": 555,
   "title": "Om een snoeck anders, op de Fransche manier, te prepareren",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een snoek, in water gekookt met wat azijn en van pas gesouten. Dan speck aen taerlingen gesneden en tot het root is in de boter gefruyt. In een pot gedaen zijnde, doet erby wat sop, Rinse wijn, azijn, foelie, peper en gember. Laet het zieden tot 't wel gebonden is. Leght dan de snoeck daerin en soo opgerecht.\n"
+  "instructions": "\nNeemt een snoek, in water gekookt met wat azijn en van pas gesouten. Dan speck aen taerlingen gesneden en tot het root is in de boter gefruyt. In een pot gedaen zijnde, doet erby wat sop, Rinse wijn, azijn, foelie, peper en gember. Laet het zieden tot 't wel gebonden is. Leght dan de snoeck daerin en soo opgerecht.\n",
+  "modernized": {
+   "title": "Snoek op Franse wijze",
+   "recipe": "Neem een snoek en kook deze in water met wat azijn en een beetje zout.\n\nSnijd spek in blokjes en bak deze in boter tot ze bruin zijn. Doe de gebakken spek in een pot.\n\nVoeg bouillon, witte wijn, azijn, foelie, peper en gember toe. Laat het geheel koken tot het goed gebonden is.\n\nLeg de gekookte snoek in de saus en serveer het aldus.",
+   "ingredients": [
+    [
+     "1",
+     "snoek"
+    ],
+    [
+     "1 liter",
+     "water"
+    ],
+    [
+     "30 ml",
+     "azijn"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "100 gram",
+     "spek"
+    ],
+    [
+     "50 gram",
+     "boter"
+    ],
+    [
+     "200 ml",
+     "bouillon"
+    ],
+    [
+     "100 ml",
+     "witte wijn"
+    ],
+    [
+     "30 ml",
+     "azijn"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "gember"
+    ]
+   ],
+   "visualized": "A cooked pike fish served in a thick, rich sauce. The sauce is a light brown color with specks of browned bacon bits floating in it. The pike lies atop the sauce, its skin slightly golden and firm. The sauce appears glossy, indicating a rich and well-reduced consistency. Bits of foelie and a sprinkling of pepper can be seen. Photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht"
+   ],
+   "original": "Om een snoeck anders, op de Fransche manier, te prepareren\n\n\nNeemt een snoek, in water gekookt met wat azijn en van pas gesouten. Dan speck aen taerlingen gesneden en tot het root is in de boter gefruyt. In een pot gedaen zijnde, doet erby wat sop, Rinse wijn, azijn, foelie, peper en gember. Laet het zieden tot 't wel gebonden is. Leght dan de snoeck daerin en soo opgerecht.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-58GJ6ydyZfrq4BzWTGQ9Vrgm.png?st=2024-07-17T18%3A00%3A02Z&se=2024-07-17T20%3A00%3A02Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A23%3A15Z&ske=2024-07-18T12%3A23%3A15Z&sks=b&skv=2023-11-03&sig=BkpBCPvUUsYjfU/qU0ZQrU8FjRbWLORoDLAVLJ/fGQM%3D"
+  }
  },
  {
   "id": 556,
   "title": "Om salm te stoven op een ander manier",
   "bookRef": "N1669",
-  "instructions": "\nDoet de schobben van de salm en wastse schoon. Neemt dan een tinne kommetje water en een kommetje wijnazijn tot een snee salm, raspt een stuck terwenbroodt, en wat heele peper, een halve notemuskaet, een weynigh gestoten foelie, geen sout. Doet dit in een platte pot. Laet'et t'samen stoven. Doet'er een weynigh boter by, daerna als 't wat gestooft heeft.\n"
+  "instructions": "\nDoet de schobben van de salm en wastse schoon. Neemt dan een tinne kommetje water en een kommetje wijnazijn tot een snee salm, raspt een stuck terwenbroodt, en wat heele peper, een halve notemuskaet, een weynigh gestoten foelie, geen sout. Doet dit in een platte pot. Laet'et t'samen stoven. Doet'er een weynigh boter by, daerna als 't wat gestooft heeft.\n",
+  "modernized": {
+   "title": "Gestoofde Zalm op een Andere Manier",
+   "recipe": "Verwijder de schubben van de zalm en was deze schoon. Neem een dun kommetje water en een kommetje wijnazijn voor een stuk zalm. Rasp een stuk tarwebrood, en voeg wat hele peperkorrels, een halve nootmuskaat en een beetje gemalen foelie toe. Voeg geen zout toe. Doe dit in een platte pot. Laat het samen stoven. Voeg er na enige tijd een beetje boter aan toe, als het wat gestoofd is.",
+   "ingredients": [
+    [
+     "400 g",
+     "zalm"
+    ],
+    [
+     "100 ml",
+     "water"
+    ],
+    [
+     "100 ml",
+     "wijnazijn"
+    ],
+    [
+     "50 g",
+     "tarwebrood"
+    ],
+    [
+     "",
+     "hele peperkorrels"
+    ],
+    [
+     "",
+     "halve nootmuskaat"
+    ],
+    [
+     "",
+     "gemalen foelie"
+    ],
+    [
+     "20 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A semi-flat pot with a piece of poached salmon inside. The salmon has no scales and is light pink in color, partially submerged in a light broth made from water and wine vinegar. Rasped wheat bread, whole peppercorns, and visible pieces of nutmeg and foelie are scattered around the salmon. A small amount of butter is melting on top. Everything is cooked and steaming, seen from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "gestoofd",
+    "hoofdgerecht"
+   ],
+   "original": "Om salm te stoven op een ander manier\n\n\nDoet de schobben van de salm en wastse schoon. Neemt dan een tinne kommetje water en een kommetje wijnazijn tot een snee salm, raspt een stuck terwenbroodt, en wat heele peper, een halve notemuskaet, een weynigh gestoten foelie, geen sout. Doet dit in een platte pot. Laet'et t'samen stoven. Doet'er een weynigh boter by, daerna als 't wat gestooft heeft.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-jZ3iWWBbeZ08zDiX5XaAvqU4.png?st=2024-07-17T18%3A00%3A33Z&se=2024-07-17T20%3A00%3A33Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A58%3A08Z&ske=2024-07-18T13%3A58%3A08Z&sks=b&skv=2023-11-03&sig=Q1eDQrknwkteLeio3WpjLTp9dh0KhvbRYgT2opGYC8E%3D"
+  }
  },
  {
   "id": 557,
   "title": "Om een karper te stoven op de Hooghduytsche manier",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een karper, wel schoonghemaeckt en dat bloet wel bewaert, gespouwen en aen stucken gesneden. Doet dan 't bloet in een pot met een pint Rinse wijn en weynigh azijn en water, ronde schijven van ajuyn. Fruytse eens op in de boter. Doet dan by de karper wel nagelen, foelie, notemuskaet, saffraen, en een goet stuck boter. Laet'et soo samen stoven. Probatum est.\n"
+  "instructions": "\nNeemt een karper, wel schoonghemaeckt en dat bloet wel bewaert, gespouwen en aen stucken gesneden. Doet dan 't bloet in een pot met een pint Rinse wijn en weynigh azijn en water, ronde schijven van ajuyn. Fruytse eens op in de boter. Doet dan by de karper wel nagelen, foelie, notemuskaet, saffraen, en een goet stuck boter. Laet'et soo samen stoven. Probatum est.\n",
+  "modernized": {
+   "title": "Karper op Hoogduitse Wijze",
+   "recipe": "Neem een karper, goed schoongemaakt en het bloed goed bewaard, in stukken gesneden. Doe dan het bloed in een pan met een halve liter rode wijn, een beetje azijn en water, en ronde schijven van ui. Fruit dit een keer op in de boter. Voeg dan bij de karper kaneel, foelie, nootmuskaat, saffraan, en een goed stuk boter toe. Laat het geheel samen stoven. Probatum est.",
+   "ingredients": [
+    [
+     "1",
+     "karper"
+    ],
+    [
+     "500 ml",
+     "rode wijn"
+    ],
+    [
+     "30 ml",
+     "azijn"
+    ],
+    [
+     "100 ml",
+     "water"
+    ],
+    [
+     "2",
+     "uien"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "1/4 theelepel",
+     "kaneel"
+    ],
+    [
+     "1/4 theelepel",
+     "foelie"
+    ],
+    [
+     "1/4 theelepel",
+     "nootmuskaat"
+    ],
+    [
+     "1/4 theelepel",
+     "saffraan"
+    ],
+    [
+     "100 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A traditional dish featuring pieces of carp stewed with onions and a rich, dark sauce. The sauce appears thick and glossy, coating the fish pieces and onion slices. The fish is tender and fully cooked, with visible herbs and spices such as saffron threads. The bowl or plate is garnished with a bit of fresh greenery, possibly parsley. Presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "hoofdgerecht",
+    "stoofpot"
+   ],
+   "original": "Om een karper te stoven op de Hooghduytsche manier\n\n\nNeemt een karper, wel schoonghemaeckt en dat bloet wel bewaert, gespouwen en aen stucken gesneden. Doet dan 't bloet in een pot met een pint Rinse wijn en weynigh azijn en water, ronde schijven van ajuyn. Fruytse eens op in de boter. Doet dan by de karper wel nagelen, foelie, notemuskaet, saffraen, en een goet stuck boter. Laet'et soo samen stoven. Probatum est.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-b1ll3d4UHv11d4lwL0fcOU6x.png?st=2024-07-17T18%3A01%3A08Z&se=2024-07-17T20%3A01%3A08Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A45%3A41Z&ske=2024-07-18T13%3A45%3A41Z&sks=b&skv=2023-11-03&sig=edRS3mCR7BtIQl%2BSht9OTBcGzlorNmjFgE7MvEramSE%3D"
+  }
  },
  {
   "id": 558,
   "title": "Om kabeljau te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt de moten, leght die in een tinne schotel, niet wel overdeckt met water. Stroyt daerover wat gestoten peper en heele foelie, een weynigh sout en wat gestoten beschuyt, en wel boter. Laet dit soo t'samen een uur of anderhalf stoven, onder en boven met vuur. Als't gestooft is, doet'er dan een versche lamoen of lamoensap over. Het laet hem dan wel eten. Op dese manier stooft men oock heylbot, seelt en voren, en een steert van schelvis, oock palingh.\n"
+  "instructions": "\nNeemt de moten, leght die in een tinne schotel, niet wel overdeckt met water. Stroyt daerover wat gestoten peper en heele foelie, een weynigh sout en wat gestoten beschuyt, en wel boter. Laet dit soo t'samen een uur of anderhalf stoven, onder en boven met vuur. Als't gestooft is, doet'er dan een versche lamoen of lamoensap over. Het laet hem dan wel eten. Op dese manier stooft men oock heylbot, seelt en voren, en een steert van schelvis, oock palingh.\n",
+  "modernized": {
+   "title": "Gestovende Kabeljauw",
+   "recipe": "Neem de moten kabeljauw en leg deze in een dunne ovenschaal. Voeg genoeg water toe om de kabeljauw net niet te bedekken. Strooi er wat gemalen peper, hele foelie, een beetje zout en wat gemalen beschuit overheen. Voeg ook royaal boter toe. Laat het geheel een uur tot anderhalf uur stoven in de oven op een lage stand.\n\nAls de vis gestoofd is, giet er dan wat verse citroensap overheen. Serveer en geniet van deze heerlijkheid.\n\nOp deze manier kun je ook heilbot, schelvis en paling stoven.",
+   "ingredients": [
+    [
+     "4",
+     "kabeljauw moten"
+    ],
+    [
+     "500 ml",
+     "water"
+    ],
+    [
+     "1 tl",
+     "gemalen peper"
+    ],
+    [
+     "2",
+     "hele foelie"
+    ],
+    [
+     "1 tl",
+     "zout"
+    ],
+    [
+     "4 el",
+     "gemalen beschuit"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "1",
+     "verse citroen"
+    ]
+   ],
+   "visualized": "A three-quarters angle view of a dish containing four pieces of braised cod fillets placed on a thin baking tray. The braised cod has a golden top layer and is surrounded by a light broth. The surface is sprinkled with ground pepper and visibly garnished with whole mace pieces and bits of ground rusk. Some melted butter can be seen around the fish creating a glistening effect. A bit of fresh lemon juice is drizzled over the top, with slices of lemon placed nearby for garnish. Photograph with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "gestoofd",
+    "vis"
+   ],
+   "original": "Om kabeljau te stoven\n\n\nNeemt de moten, leght die in een tinne schotel, niet wel overdeckt met water. Stroyt daerover wat gestoten peper en heele foelie, een weynigh sout en wat gestoten beschuyt, en wel boter. Laet dit soo t'samen een uur of anderhalf stoven, onder en boven met vuur. Als't gestooft is, doet'er dan een versche lamoen of lamoensap over. Het laet hem dan wel eten. Op dese manier stooft men oock heylbot, seelt en voren, en een steert van schelvis, oock palingh.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-4M76t2a5o5UMyLBOlhtM0lfq.png?st=2024-07-17T18%3A01%3A41Z&se=2024-07-17T20%3A01%3A41Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A45%3A16Z&ske=2024-07-18T12%3A45%3A16Z&sks=b&skv=2023-11-03&sig=xEh%2BWapyKQQq%2BVO1x5coq1Swj9ddhJzS/12NbZdOOOM%3D"
+  }
  },
  {
   "id": 559,
   "title": "Om bondael te maken",
   "bookRef": "N1669",
-  "instructions": "\nSpout de ael open en schoongewassen. Neemt suringh, kervel en petercelie, wat rijs, een weynigh foelie. Soo toegebonden in water gesoden en wat sout daerin. Als de ael drijft, dan uytgedaen op de vergiettest, en een saus van boter en azijn met een ey daerover gedaen. Is goet.\n"
+  "instructions": "\nSpout de ael open en schoongewassen. Neemt suringh, kervel en petercelie, wat rijs, een weynigh foelie. Soo toegebonden in water gesoden en wat sout daerin. Als de ael drijft, dan uytgedaen op de vergiettest, en een saus van boter en azijn met een ey daerover gedaen. Is goet.\n",
+  "modernized": {
+   "title": "Gebonden Aal met Groene Kruiden",
+   "recipe": "Maak de aal schoon en snijd hem open.\nNeem zuring, kervel, peterselie en een beetje foelie.\nDoe deze kruiden samen met wat rijst in een doek en bind het dicht.\nKook dit pakketje in water met wat zout.\nAls de aal naar boven drijft, haal hem eruit en leg hem op een vergiet.\nMaak een saus van boter, azijn en een ei en giet dit over de aal.\nServeer warm.",
+   "ingredients": [
+    [
+     "1 kg",
+     "aal"
+    ],
+    [
+     "50 g",
+     "zuring"
+    ],
+    [
+     "50 g",
+     "kervel"
+    ],
+    [
+     "50 g",
+     "peterselie"
+    ],
+    [
+     "1 g",
+     "foelie"
+    ],
+    [
+     "100 g",
+     "rijst"
+    ],
+    [
+     "",
+     "water"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "50 ml",
+     "azijn"
+    ],
+    [
+     "1",
+     "ei"
+    ]
+   ],
+   "visualized": "A dish with a whole eel, cleaned and cooked, lying on a strainer. The eel is covered in a sauce made from butter, vinegar, and egg. Visible beside the eel are green herbs such as sorrel, chervil, and parsley, finely chopped and mixed with some rice. The dish is presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "hoofdgerecht",
+    "kruidig",
+    "traditioneel"
+   ],
+   "original": "Om bondael te maken\n\n\nSpout de ael open en schoongewassen. Neemt suringh, kervel en petercelie, wat rijs, een weynigh foelie. Soo toegebonden in water gesoden en wat sout daerin. Als de ael drijft, dan uytgedaen op de vergiettest, en een saus van boter en azijn met een ey daerover gedaen. Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-3VMzlXXO8jptcD9XQyr2Trbs.png?st=2024-07-17T18%3A02%3A09Z&se=2024-07-17T20%3A02%3A09Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A11%3A49Z&ske=2024-07-18T13%3A11%3A49Z&sks=b&skv=2023-11-03&sig=lGakrwZcnRoqCsYinLM4yQzAf%2BnRSeEh0r9RF2a7FOM%3D"
+  }
  },
  {
   "id": 560,
   "title": "Om een palingh te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een palingh, schoongewassen en in stucken gesneden. Doet erby water, boter, gember, ajuyn, luttel sout. Laet'et samen stoven tot et genoegh is. Dan gescherfde petercelie en vleeschkruyt in de pot gedaen. Laet'et dan noch een weynigh koken en dist hem op.\n"
+  "instructions": "\nNeemt een palingh, schoongewassen en in stucken gesneden. Doet erby water, boter, gember, ajuyn, luttel sout. Laet'et samen stoven tot et genoegh is. Dan gescherfde petercelie en vleeschkruyt in de pot gedaen. Laet'et dan noch een weynigh koken en dist hem op.\n",
+  "modernized": {
+   "title": "Gestooofde Paling",
+   "recipe": "Neem een paling, schoongemaakt en in stukken gesneden. Voeg water, boter, gember, ui en een beetje zout toe. Laat het samen stoven tot het gaar is. Voeg dan gehakte peterselie en vleesbouillon kruiden toe aan de pot. Laat het nog even koken en dien het op.",
+   "ingredients": [
+    [
+     "750 g",
+     "paling"
+    ],
+    [
+     "500 ml",
+     "water"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ],
+    [
+     "1",
+     "ui"
+    ],
+    [
+     "1 tl",
+     "zout"
+    ],
+    [
+     "2 el",
+     "peterselie"
+    ],
+    [
+     "1 tl",
+     "vleesbouillon kruiden"
+    ]
+   ],
+   "visualized": "A rustic Dutch dish featuring stewed eel pieces served in a shallow bowl. The eel is cooked with onions and garnished with chopped parsley. The light broth has a buttery sheen and bits of ginger visible. Photographed from a three-quarters angle with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vis",
+    "hoofdgerecht",
+    "stoofpot"
+   ],
+   "original": "Om een palingh te stoven\n\n\nNeemt een palingh, schoongewassen en in stucken gesneden. Doet erby water, boter, gember, ajuyn, luttel sout. Laet'et samen stoven tot et genoegh is. Dan gescherfde petercelie en vleeschkruyt in de pot gedaen. Laet'et dan noch een weynigh koken en dist hem op.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-MvQ6LEDzLt2WoCAmG9bvtYQe.png?st=2024-07-17T18%3A02%3A39Z&se=2024-07-17T20%3A02%3A39Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T08%3A33%3A57Z&ske=2024-07-18T08%3A33%3A57Z&sks=b&skv=2023-11-03&sig=cfmeYShY1A7A8ZZDfFIC9AIQM2QRVhz1ZD%2BlJmTSYUY%3D"
+  }
  },
  {
   "id": 561,
   "title": "Om een hutspot van steur te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt steur, koocktse en gietse eens af. Dan voorts gaergekoockt en wel gesouten. Neemt wat van 't sap met Rinse wijn, gember en suycker, wat azijn, notemuskaet en foelie, en dan t'samen gesoden. Is een goede saus.\n"
+  "instructions": "\nNeemt steur, koocktse en gietse eens af. Dan voorts gaergekoockt en wel gesouten. Neemt wat van 't sap met Rinse wijn, gember en suycker, wat azijn, notemuskaet en foelie, en dan t'samen gesoden. Is een goede saus.\n",
+  "modernized": {
+   "title": "Hutspot van Steur",
+   "recipe": "Neem steur, kook het en giet het een keer af. Vervolgens gaar koken en goed zouten. Neem wat van het kookvocht met Rijnse wijn, gember en suiker, wat azijn, nootmuskaat en foelie, en kook het samen. Het resultaat is een goede saus.",
+   "ingredients": [
+    [
+     "500 g",
+     "steur"
+    ],
+    [
+     "1 l",
+     "water"
+    ],
+    [
+     "200 ml",
+     "Rijnse wijn"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ],
+    [
+     "1 el",
+     "suiker"
+    ],
+    [
+     "1 el",
+     "azijn"
+    ],
+    [
+     "1/2 tl",
+     "nootmuskaat"
+    ],
+    [
+     "1 mespunt",
+     "foelie"
+    ]
+   ],
+   "visualized": "A traditional Dutch dish called Hutspot van Steur, featuring pieces of well-cooked and salted sturgeon served in a sauce. The sauce appears golden-brown and slightly thick, made from the sturgeon's cooking liquid mixed with Rhine wine, ginger, sugar, vinegar, nutmeg and mace. The dish is garnished sparingly with fresh herbs and served on a rustic plate. Photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "saus",
+    "hoofdgerecht"
+   ],
+   "original": "Om een hutspot van steur te maken\n\n\nNeemt steur, koocktse en gietse eens af. Dan voorts gaergekoockt en wel gesouten. Neemt wat van 't sap met Rinse wijn, gember en suycker, wat azijn, notemuskaet en foelie, en dan t'samen gesoden. Is een goede saus.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-4KnqTcUIT0lJLqgLgMDFitL3.png?st=2024-07-17T18%3A03%3A05Z&se=2024-07-17T20%3A03%3A05Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T08%3A25%3A34Z&ske=2024-07-18T08%3A25%3A34Z&sks=b&skv=2023-11-03&sig=Y0EZykcUzujoDyq2Y3GhhlkTI59IE2/Sxj70vUaZ/vo%3D"
+  }
  },
  {
   "id": 562,
   "title": "Om een saus te maken over gesoden steur",
   "bookRef": "N1669",
-  "instructions": "\nNeemt jongen ajuyn, in boter gesoden, kervel, petercelie, peper en wijnazijn. Laet dat t'samen opzieden. 't Is een goeden saus.\n"
+  "instructions": "\nNeemt jongen ajuyn, in boter gesoden, kervel, petercelie, peper en wijnazijn. Laet dat t'samen opzieden. 't Is een goeden saus.\n",
+  "modernized": {
+   "title": "Saus voor gestoofde steur",
+   "recipe": "Neem jonge uien, gebakken in boter, kervel, peterselie, peper en wijnazijn. Laat dit samen koken. Het is een goede saus.",
+   "ingredients": [
+    [
+     "200 g",
+     "jonge uien"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "50 g",
+     "kervel"
+    ],
+    [
+     "50 g",
+     "peterselie"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "50 ml",
+     "wijnazijn"
+    ]
+   ],
+   "visualized": "A dish with a creamy sauce poured over stewed sturgeon. The sauce is smooth and appears to be speckled with finely chopped green herbs like chervil and parsley and tiny bits of soft-cooked onions. The sauce has a slight shine from the butter and a subtle rich color. It is from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "vis",
+    "bijgerecht",
+    "kruidig"
+   ],
+   "original": "Om een saus te maken over gesoden steur\n\n\nNeemt jongen ajuyn, in boter gesoden, kervel, petercelie, peper en wijnazijn. Laet dat t'samen opzieden. 't Is een goeden saus.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-zvU8opAOxfMGgEzViyFQXym2.png?st=2024-07-17T18%3A03%3A30Z&se=2024-07-17T20%3A03%3A30Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A40%3A03Z&ske=2024-07-18T13%3A40%3A03Z&sks=b&skv=2023-11-03&sig=fVSRitTXgo1ZXmsSwKVocHNkKFX19xQwnige0Jyk6Us%3D"
+  }
  },
  {
   "id": 563,
   "title": "Om gesoute salm te prepareren",
   "bookRef": "N1669",
-  "instructions": "\nNeemt moten van een vinger dick. Leghtse 18 uuren in regenwater te week en tusschenbeyden eens ververscht. Hangt dan schoon regenwater over en laet het koken. Den salm daerin gedaen en wel geschuymt. Als de soode daerover gegaen is, is genoegh, want langh gekoockt, soo verliestse haer vettigheydt. Men eetse met azijn, of met boter en azijn, gewelt.\n"
+  "instructions": "\nNeemt moten van een vinger dick. Leghtse 18 uuren in regenwater te week en tusschenbeyden eens ververscht. Hangt dan schoon regenwater over en laet het koken. Den salm daerin gedaen en wel geschuymt. Als de soode daerover gegaen is, is genoegh, want langh gekoockt, soo verliestse haer vettigheydt. Men eetse met azijn, of met boter en azijn, gewelt.\n",
+  "modernized": {
+   "title": "Gezouten Zalm",
+   "recipe": "Neem moten van een vinger dik. Laat ze 18 uur in regenwater weken en ververs het water tussendoor eens. Breng daarna schoon regenwater aan de kook. Doe de zalm erin en schuim het goed af. Als de vloeistof helder is, is het klaar, want als het te lang kookt, verliest de zalm zijn vetheid. Serveer met azijn, of met boter en azijn, en water.",
+   "ingredients": [
+    [
+     "800 gram",
+     "zalm"
+    ],
+    [
+     "",
+     "schoon regenwater"
+    ],
+    [
+     "",
+     "azijn"
+    ],
+    [
+     "",
+     "boter"
+    ]
+   ],
+   "visualized": "A dish with several pieces of salmon, each about one finger thick, placed neatly in a bowl. The salmon looks firm and slightly glistening. Surrounding the salmon, there is a subtle clear liquid. Next to the salmon, there is a small dish with a mixture of melted butter and vinegar. The photo shows the dish from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "hoofdgerecht"
+   ],
+   "original": "Om gesoute salm te prepareren\n\n\nNeemt moten van een vinger dick. Leghtse 18 uuren in regenwater te week en tusschenbeyden eens ververscht. Hangt dan schoon regenwater over en laet het koken. Den salm daerin gedaen en wel geschuymt. Als de soode daerover gegaen is, is genoegh, want langh gekoockt, soo verliestse haer vettigheydt. Men eetse met azijn, of met boter en azijn, gewelt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-4oeBHufbJk3Lj9SuzfB9yqYY.png?st=2024-07-17T18%3A03%3A54Z&se=2024-07-17T20%3A03%3A54Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T17%3A50%3A53Z&ske=2024-07-18T17%3A50%3A53Z&sks=b&skv=2023-11-03&sig=uvPseY1fjlM5JXi7uEuON6kU97mcwknMZ4wdOKLvs6A%3D"
+  }
  },
  {
   "id": 564,
   "title": "Om kreeften of krabben te zieden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt water, azijn, sout en peperpoeder. Laetse t'samen wel koken. Doet'er dan de kreeft of krab in. Hy sal schoon van koleur zijn.\n\n"
+  "instructions": "\nNeemt water, azijn, sout en peperpoeder. Laetse t'samen wel koken. Doet'er dan de kreeft of krab in. Hy sal schoon van koleur zijn.\n\n",
+  "modernized": {
+   "title": "Gekookte kreeft of krab",
+   "recipe": "Neem water, azijn, zout en peperpoeder. Laat dit samen goed koken. Doe er dan de kreeft of krab in. Deze zal mooi van kleur zijn.",
+   "ingredients": [
+    [
+     "2 liter",
+     "water"
+    ],
+    [
+     "200 ml",
+     "azijn"
+    ],
+    [
+     "20 gram",
+     "zout"
+    ],
+    [
+     "1 theelepel",
+     "peperpoeder"
+    ],
+    [
+     "1 kg",
+     "kreeft of krab"
+    ]
+   ],
+   "visualized": "A beautifully cooked lobster or crab with a vibrant, appealing color. The dish is placed on a white plate with visible steam rising, indicating its freshness and warmth. The lobster or crab is garnished with a sprinkling of herbs and a lemon wedge on the side. The view is from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "hoofdgerecht",
+    "koken",
+    "zeevruchten"
+   ],
+   "original": "Om kreeften of krabben te zieden\n\n\nNeemt water, azijn, sout en peperpoeder. Laetse t'samen wel koken. Doet'er dan de kreeft of krab in. Hy sal schoon van koleur zijn.\n\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-afj3tf98uQmfVUtzSoSHcwaG.png?st=2024-07-17T18%3A04%3A24Z&se=2024-07-17T20%3A04%3A24Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A53%3A27Z&ske=2024-07-18T13%3A53%3A27Z&sks=b&skv=2023-11-03&sig=EZ/RILJ9N47mKFEjFfLfupH1hT69AtRQVzyaQWIVvVM%3D"
+  }
  },
  {
   "id": 565,
   "title": "Om een goet gericht van krabben of kreeften te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt - naerdat'et wel gekoockt is - alle de vuyligheyt uyt de krab of kreeften. Doet daer petercelie, fijngescherft, peper, foelie, noten en boter by. Roert t'samen tot'et gaer is. Alsdan limoensap of verjuys daerby gedaen. Als 't een krab is, roert of stooft men 't meest in sijn eygen schelp.\n"
+  "instructions": "\nNeemt - naerdat'et wel gekoockt is - alle de vuyligheyt uyt de krab of kreeften. Doet daer petercelie, fijngescherft, peper, foelie, noten en boter by. Roert t'samen tot'et gaer is. Alsdan limoensap of verjuys daerby gedaen. Als 't een krab is, roert of stooft men 't meest in sijn eygen schelp.\n",
+  "modernized": {
+   "title": "Gerecht van Krab of Kreeft",
+   "recipe": "Neem, nadat het goed gekookt is, alle vuiligheid uit de krab of kreeft. Voeg daarbij peterselie, fijngesneden, peper, foelie, nootmuskaat en boter toe. Roer het samen totdat het gaar is. Voeg dan limoensap of verjus toe. Als het een krab is, roer of stoof het meest in zijn eigen schelp.",
+   "ingredients": [
+    [
+     "1",
+     "krab of kreeft"
+    ],
+    [
+     "2 el",
+     "peterselie"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "1 tl",
+     "nootmuskaat"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "1 el",
+     "limoensap of verjus"
+    ]
+   ],
+   "visualized": "A cooked crab or lobster dish. The crab or lobster meat mixed with finely chopped parsley, pepper, mace, nutmeg, and butter, then cooked until tender. It's served with a drizzle of lime juice or verjus on top. If it's a crab, the mixture is placed back into the crab shell. Photo from three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "krab",
+    "kreeft",
+    "vis",
+    "hoofdgerecht"
+   ],
+   "original": "Om een goet gericht van krabben of kreeften te maken\n\n\nNeemt - naerdat'et wel gekoockt is - alle de vuyligheyt uyt de krab of kreeften. Doet daer petercelie, fijngescherft, peper, foelie, noten en boter by. Roert t'samen tot'et gaer is. Alsdan limoensap of verjuys daerby gedaen. Als 't een krab is, roert of stooft men 't meest in sijn eygen schelp.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-jvOjX46KmC8r1s2RMmUarko8.png?st=2024-07-17T18%3A04%3A56Z&se=2024-07-17T20%3A04%3A56Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T08%3A44%3A48Z&ske=2024-07-18T08%3A44%3A48Z&sks=b&skv=2023-11-03&sig=JCSKop9HhxzLFoU7C9nddkuPCCsWwwnG8s8lRXzjxZw%3D"
+  }
  },
  {
   "id": 566,
   "title": "Om oesters of mosselen te stoven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt oesters of mosselen, maer de mosselen moeten oock levendigh uyt de schulp gedaen zijn. Doetse in een schotel. Setse op een confoor; doch soo de mosselen eerst gekoockt zijn, soo doet'er wat water, en azijn of verjuys by, maer anders niet. Dan wel boter en foelie daerby gedaen en soo laten stoven tot'et gaer is. Dan wat limoensap en fijngestoten beschuyt daerby gedaen.\n"
+  "instructions": "\nNeemt oesters of mosselen, maer de mosselen moeten oock levendigh uyt de schulp gedaen zijn. Doetse in een schotel. Setse op een confoor; doch soo de mosselen eerst gekoockt zijn, soo doet'er wat water, en azijn of verjuys by, maer anders niet. Dan wel boter en foelie daerby gedaen en soo laten stoven tot'et gaer is. Dan wat limoensap en fijngestoten beschuyt daerby gedaen.\n",
+  "modernized": {
+   "title": "Oesters of Mosselen Stoven",
+   "recipe": "Neem oesters of mosselen, maar de mosselen moeten ook levendig uit de schelp gedaan zijn. Doe ze in een schotel. Zet deze op een fornuis; als de mosselen eerst gekookt zijn, voeg dan wat water en azijn of verjus toe, maar anders niet. Doe er dan boter en foelie bij en laat het stoven tot het gaar is. Voeg dan wat limoensap en fijngestoten beschuit toe.",
+   "ingredients": [
+    [
+     "500 g",
+     "oesters of mosselen"
+    ],
+    [
+     "100 ml",
+     "water"
+    ],
+    [
+     "50 ml",
+     "azijn of verjus"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "5 g",
+     "foelie"
+    ],
+    [
+     "10 ml",
+     "limoensap"
+    ],
+    [
+     "20 g",
+     "fijngestoten beschuit"
+    ]
+   ],
+   "visualized": "A rustic ceramic dish filled with cooked oysters or mussels in a rich, buttery sauce. The sauce is slightly thickened, speckled with foelie and infused with a hint of lime. The dish is topped with a sprinkle of fine bread crumbs. The seafood is open and succulent. Must be from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "voorgerecht",
+    "stoofpot"
+   ],
+   "original": "Om oesters of mosselen te stoven\n\n\nNeemt oesters of mosselen, maer de mosselen moeten oock levendigh uyt de schulp gedaen zijn. Doetse in een schotel. Setse op een confoor; doch soo de mosselen eerst gekoockt zijn, soo doet'er wat water, en azijn of verjuys by, maer anders niet. Dan wel boter en foelie daerby gedaen en soo laten stoven tot'et gaer is. Dan wat limoensap en fijngestoten beschuyt daerby gedaen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-1FgZONTXR6NYce4kMsPHHrhc.png?st=2024-07-17T18%3A05%3A21Z&se=2024-07-17T20%3A05%3A21Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A39%3A12Z&ske=2024-07-18T13%3A39%3A12Z&sks=b&skv=2023-11-03&sig=RjzNT/xiUXC4abyDm314Bu%2BLgEWCf%2B52OrHCBzlDXU0%3D"
+  }
  },
  {
   "id": 567,
   "title": "Om mosselen in de pan te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt mosselen. Doetse levendigh uyt de schulp. Legtse op een vergiettest, dat het sap wel afloopt. Dan in tarwenmeel met wat sout gewentelt en in olie ofte boter gebacken, en met wat verjuys gegeten. Is goet voor diese magh.\n"
+  "instructions": "\nNeemt mosselen. Doetse levendigh uyt de schulp. Legtse op een vergiettest, dat het sap wel afloopt. Dan in tarwenmeel met wat sout gewentelt en in olie ofte boter gebacken, en met wat verjuys gegeten. Is goet voor diese magh.\n",
+  "modernized": {
+   "title": "Mosselen in de Pan",
+   "recipe": "Neem mosselen. Haal ze levendig uit de schelp. Leg ze in een vergiet, zodat het sap goed kan uitlekken. Wentel ze in tarwemeel met wat zout en bak ze in olie of boter. Serveer met wat verjus. Het is goed voor de maag.",
+   "ingredients": [
+    [
+     "500 g",
+     "mosselen"
+    ],
+    [
+     "100 g",
+     "tarwemeel"
+    ],
+    [
+     "1 tl",
+     "zout"
+    ],
+    [
+     "50 ml",
+     "olie"
+    ],
+    [
+     "50 ml",
+     "boter"
+    ],
+    [
+     "2 el",
+     "verjus"
+    ]
+   ],
+   "visualized": "Mussels coated in a light, crispy flour batter are lying in a pan. They have a golden-brown crust from the frying. There is a drizzle of a clear sauce (verjus) over the mussels. The photo should be from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vis",
+    "hoofdgerecht",
+    "gebakken"
+   ],
+   "original": "Om mosselen in de pan te backen\n\n\nNeemt mosselen. Doetse levendigh uyt de schulp. Legtse op een vergiettest, dat het sap wel afloopt. Dan in tarwenmeel met wat sout gewentelt en in olie ofte boter gebacken, en met wat verjuys gegeten. Is goet voor diese magh.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-W3xcRTJR1iN0YgV0qVMr3pYe.png?st=2024-07-17T18%3A05%3A49Z&se=2024-07-17T20%3A05%3A49Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A24%3A47Z&ske=2024-07-18T13%3A24%3A47Z&sks=b&skv=2023-11-03&sig=3ZfvyqFX7%2BNYCNfSEKcT7PSmJ8QzaBFE6ZOxoUgJzJg%3D"
+  }
  },
  {
   "id": 568,
   "title": "Om een leckere kandeel te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een pint water en een pint Rinse wijn, en slaet 6 eyeren heel kleen sonder de haen, en roert het onder malkanderen. Set het op 't vuur tot het aen de koock komt. Doet er dan wel suyker, foelie, notemuskaet, caneel en nagelen by. 't Is goet om te drincken. Sommige doen dat wel over een gestooft hoen voor saus. Oock harst mender wel wittebroot in om te eeten. Sommige doender wel boter in.\n"
+  "instructions": "\nNeemt een pint water en een pint Rinse wijn, en slaet 6 eyeren heel kleen sonder de haen, en roert het onder malkanderen. Set het op 't vuur tot het aen de koock komt. Doet er dan wel suyker, foelie, notemuskaet, caneel en nagelen by. 't Is goet om te drincken. Sommige doen dat wel over een gestooft hoen voor saus. Oock harst mender wel wittebroot in om te eeten. Sommige doender wel boter in.\n",
+  "modernized": {
+   "title": "Lekkere Kandeel",
+   "recipe": "Neem een halve liter water en een halve liter Rijnse wijn. Klop 6 eieren goed zonder de dooiers te breken en meng dit. Zet het op het vuur tot het kookt. Voeg dan suiker, foelie, nootmuskaat, kaneel en kruidnagel toe. Het is lekker om te drinken. Sommige mensen gieten het ook wel over een gestoofde kip als saus. Ook kan witbrood erbij worden gegeten. Soms wordt er ook boter aan toegevoegd.",
+   "ingredients": [
+    [
+     "500 ml",
+     "water"
+    ],
+    [
+     "500 ml",
+     "Rijnse wijn"
+    ],
+    [
+     "6",
+     "eieren"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "",
+     "kaneel"
+    ],
+    [
+     "",
+     "kruidnagel"
+    ],
+    [
+     "",
+     "boter"
+    ],
+    [
+     "",
+     "witbrood"
+    ]
+   ],
+   "visualized": "A large rustic cup filled with hot kandeel, a savory-looking drink with a whitish hue. The surface shows fine bubbles indicating it was just boiled. A sprinkling of ground spices like cinnamon and nutmeg is visible on top. Some white bread cuts are artistically placed beside the cup and there is also a hint of butter melting from the warmth of the drink. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "drank",
+    "traditioneel",
+    "kruidig"
+   ],
+   "original": "Om een leckere kandeel te maken\n\n\nNeemt een pint water en een pint Rinse wijn, en slaet 6 eyeren heel kleen sonder de haen, en roert het onder malkanderen. Set het op 't vuur tot het aen de koock komt. Doet er dan wel suyker, foelie, notemuskaet, caneel en nagelen by. 't Is goet om te drincken. Sommige doen dat wel over een gestooft hoen voor saus. Oock harst mender wel wittebroot in om te eeten. Sommige doender wel boter in.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-MHC0ejzRfCq0sMFRFaEN3NsT.png?st=2024-07-17T18%3A06%3A18Z&se=2024-07-17T20%3A06%3A18Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A50%3A27Z&ske=2024-07-18T13%3A50%3A27Z&sks=b&skv=2023-11-03&sig=NRwl5r9RhyGxQiFejnHxt8tUXRZJGmwgAj%2BV/JkLGI8%3D"
+  }
  },
  {
   "id": 569,
   "title": "Om een vlaey te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een pintje soetemelck. Laet het eens opkoken. Roert het tot het ten naesten by kout is. Neemt dan 8 eyeren, de hanen wel uytgedaen en kleyngeklopt met een half mutsjen roosewater, twee lepelen suycker, en doet het dan ondereen met de melck in een schotel of vlaypan. Set'et op weynigh vuur, maer bovenop het decksel met wat meer vuur en laet soo staen stoven tot het stijf is, maer het moet niet koken.\n"
+  "instructions": "\nNeemt een pintje soetemelck. Laet het eens opkoken. Roert het tot het ten naesten by kout is. Neemt dan 8 eyeren, de hanen wel uytgedaen en kleyngeklopt met een half mutsjen roosewater, twee lepelen suycker, en doet het dan ondereen met de melck in een schotel of vlaypan. Set'et op weynigh vuur, maer bovenop het decksel met wat meer vuur en laet soo staen stoven tot het stijf is, maer het moet niet koken.\n",
+  "modernized": {
+   "title": "Vlaai",
+   "recipe": "Neem 500 ml melk. Breng het aan de kook. Roer het totdat het bijna koud is. Neem dan 8 eieren, losgeklopt met een halve theelepel rozenwater en twee eetlepels suiker. Meng het met de melk in een schaal of vlaaipan. Zet het op een laag vuur, maar plaats meer hitte bovenop het deksel en laat het sudderen tot het stijf is, het mag echter niet koken.",
+   "ingredients": [
+    [
+     "500 ml",
+     "melk"
+    ],
+    [
+     "8",
+     "eieren"
+    ],
+    [
+     "0.5 theelepel",
+     "rozenwater"
+    ],
+    [
+     "2 eetlepels",
+     "suiker"
+    ]
+   ],
+   "visualized": "A custard tart is presented in a round tart pan. The surface is smooth and slightly golden, with a creamy texture. It is viewed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "zoet",
+    "gebak",
+    "oven"
+   ],
+   "original": "Om een vlaey te maken\n\n\nNeemt een pintje soetemelck. Laet het eens opkoken. Roert het tot het ten naesten by kout is. Neemt dan 8 eyeren, de hanen wel uytgedaen en kleyngeklopt met een half mutsjen roosewater, twee lepelen suycker, en doet het dan ondereen met de melck in een schotel of vlaypan. Set'et op weynigh vuur, maer bovenop het decksel met wat meer vuur en laet soo staen stoven tot het stijf is, maer het moet niet koken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-LxturIwWODcyBK0U6b9CSzwi.png?st=2024-07-17T18%3A06%3A38Z&se=2024-07-17T20%3A06%3A38Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A45%3A17Z&ske=2024-07-18T13%3A45%3A17Z&sks=b&skv=2023-11-03&sig=P1mcTSfQcyYx%2B8zfMmcIuVz6Mdoo0uTlyWzqEF5xa6w%3D"
+  }
  },
  {
   "id": 570,
   "title": "Om een appelvlade te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt guldelingen, geschilt en in stucken gesneden. Doetse in een pot met water, Rinse wijn en boter. Laetse alsoo staen smoren. Wrijftse dan wel in stucken. Doet er dan by half sooveel wittebroodt, 5 doren van eyeren, gember en suycker, onder malkander gemenght. 't Is goet.\n"
+  "instructions": "\nNeemt guldelingen, geschilt en in stucken gesneden. Doetse in een pot met water, Rinse wijn en boter. Laetse alsoo staen smoren. Wrijftse dan wel in stucken. Doet er dan by half sooveel wittebroodt, 5 doren van eyeren, gember en suycker, onder malkander gemenght. 't Is goet.\n",
+  "modernized": {
+   "title": "Appelvlaai",
+   "recipe": "Neem goudrenetten, schil ze en snijd ze in stukken. Doe ze in een pot met water, witte wijn en boter. Laat ze smoren. Wrijf ze dan goed fijn. Doe er dan bij de helft zo veel witbrood, 5 eierdooiers, gember en suiker, en meng alles goed door elkaar. Het is klaar.",
+   "ingredients": [
+    [
+     "4",
+     "goudrenetten"
+    ],
+    [
+     "250 ml",
+     "water"
+    ],
+    [
+     "100 ml",
+     "witte wijn"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "200 g",
+     "witbrood"
+    ],
+    [
+     "5",
+     "eierdooiers"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ]
+   ],
+   "visualized": "A traditional Dutch apple pie with a golden-brown crust made of finely mashed apples, mixed with breadcrumbs, egg yolks, ginger, and sugar. The pie is displayed whole, showing a smooth top with a light dusting of powdered sugar. The edges are slightly crimped, and the filling is visibly firm yet moist. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "bakken",
+    "fruit",
+    "zoet"
+   ],
+   "original": "Om een appelvlade te maken\n\n\nNeemt guldelingen, geschilt en in stucken gesneden. Doetse in een pot met water, Rinse wijn en boter. Laetse alsoo staen smoren. Wrijftse dan wel in stucken. Doet er dan by half sooveel wittebroodt, 5 doren van eyeren, gember en suycker, onder malkander gemenght. 't Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-2m12zM0HJWyL8df6xeKpBu41.png?st=2024-07-17T18%3A07%3A02Z&se=2024-07-17T20%3A07%3A02Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T10%3A42%3A00Z&ske=2024-07-18T10%3A42%3A00Z&sks=b&skv=2023-11-03&sig=yil%2BSaBUnYvHCtrF6QtjzkXlW9QIMJCnZSJv0JDYzr8%3D"
+  }
  },
  {
   "id": 571,
   "title": "'Tselve anders",
   "bookRef": "N1669",
-  "instructions": "\nNeemt suure appelen aen schijven gesneden, in de panne gebraden. Alsse gaer zijn, neemt dan de kruym van 2 wittebroden en weeckt die in een kommeken karnemelck en dan kleyngewreven. Neemt 6 eyeren, 2 lepelen suycker, ondereengemenght. Doet dat op de appelen en decktse toe. Op 't decksel leght vuur en onder de schotel oock vuur. Is goet.\n"
+  "instructions": "\nNeemt suure appelen aen schijven gesneden, in de panne gebraden. Alsse gaer zijn, neemt dan de kruym van 2 wittebroden en weeckt die in een kommeken karnemelck en dan kleyngewreven. Neemt 6 eyeren, 2 lepelen suycker, ondereengemenght. Doet dat op de appelen en decktse toe. Op 't decksel leght vuur en onder de schotel oock vuur. Is goet.\n",
+  "modernized": {
+   "title": "Gestoofde Appelen met Brood en Eiermengsel",
+   "recipe": "Neem zure appels en snijd ze in schijven. Bak de appelschijven in een pan.\n\nWanneer de appelschijven gaar zijn, neem je het kruim van 2 witte broden en week dit in een kommetje karnemelk tot het fijngewreven is.\n\nNeem 6 eieren en meng deze met 2 lepels suiker. Voeg het broodmengsel toe aan de appels en bedek het geheel.\n\nPlaats vuur bovenop de deksel en onder de schotel. Kook totdat het gerecht gaar is. Dit gerecht is lekker.",
+   "ingredients": [
+    [
+     "4",
+     "zure appels"
+    ],
+    [
+     "2",
+     "witte broden"
+    ],
+    [
+     "200 ml",
+     "karnemelk"
+    ],
+    [
+     "6",
+     "eieren"
+    ],
+    [
+     "2 eetlepels",
+     "suiker"
+    ]
+   ],
+   "visualized": "A rustic dish showing slices of stewed apples covered with a mixture of bread crumbs soaked in buttermilk and beaten eggs, lightly browned on top. The dish has a slightly crispy golden crust. Photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "zoet",
+    "nagerecht",
+    "fruit"
+   ],
+   "original": "'Tselve anders\n\n\nNeemt suure appelen aen schijven gesneden, in de panne gebraden. Alsse gaer zijn, neemt dan de kruym van 2 wittebroden en weeckt die in een kommeken karnemelck en dan kleyngewreven. Neemt 6 eyeren, 2 lepelen suycker, ondereengemenght. Doet dat op de appelen en decktse toe. Op 't decksel leght vuur en onder de schotel oock vuur. Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-VDyO5WS6NchIDCPuk0vAzeZW.png?st=2024-07-17T18%3A07%3A26Z&se=2024-07-17T20%3A07%3A26Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A45%3A43Z&ske=2024-07-18T12%3A45%3A43Z&sks=b&skv=2023-11-03&sig=/mr/ikHscdukkR2oRAR0PK/99UEtWNCk6Vgb3mRuqsY%3D"
+  }
  },
  {
   "id": 572,
   "title": "Om op een ander manier appelvlade te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt appelen, peperkoeck, water, gember, peper, caneel en nagelen. En soo menigen pot melcks als gy daerin doet, soo dickmaels doet er 14 eyeren in, en tot elcke pot waters een muscate, suycker en eyeren. Dan kondt gyse soo groot en kleyn maecken als 't u belieft.\n"
+  "instructions": "\nNeemt appelen, peperkoeck, water, gember, peper, caneel en nagelen. En soo menigen pot melcks als gy daerin doet, soo dickmaels doet er 14 eyeren in, en tot elcke pot waters een muscate, suycker en eyeren. Dan kondt gyse soo groot en kleyn maecken als 't u belieft.\n",
+  "modernized": {
+   "title": "Appelvlaai",
+   "recipe": "Neem appels, peperkoek, water, gember, peper, kaneel en kruidnagels. Voeg voor iedere pot melk 14 eieren toe en voeg voor iedere pot water een nootmuskaat, suiker en eieren toe. Je kunt de vlaai zo groot of klein maken als je wilt.",
+   "ingredients": [
+    [
+     "4",
+     "appels"
+    ],
+    [
+     "200 g",
+     "peperkoek"
+    ],
+    [
+     "500 ml",
+     "water"
+    ],
+    [
+     "2 tl",
+     "gember"
+    ],
+    [
+     "1 tl",
+     "peper"
+    ],
+    [
+     "2 tl",
+     "kaneel"
+    ],
+    [
+     "5",
+     "kruidnagels"
+    ],
+    [
+     "1 liter",
+     "melk"
+    ],
+    [
+     "14",
+     "eieren"
+    ],
+    [
+     "1",
+     "nootmuskaat"
+    ],
+    [
+     "100 g",
+     "suiker"
+    ]
+   ],
+   "visualized": "A golden brown apple pie topped with thinly sliced apples and a sprinkling of sugar and spices. The crust is light and flaky, with a slightly crispy texture. The pie is sliced to show the apple filling inside, densely packed with spiced apple slices, a soft texture, and a rich, sweet flavor. The photo is from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "appel",
+    "bakken",
+    "vlaai"
+   ],
+   "original": "Om op een ander manier appelvlade te maken\n\n\nNeemt appelen, peperkoeck, water, gember, peper, caneel en nagelen. En soo menigen pot melcks als gy daerin doet, soo dickmaels doet er 14 eyeren in, en tot elcke pot waters een muscate, suycker en eyeren. Dan kondt gyse soo groot en kleyn maecken als 't u belieft.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-vBSf7HAsX6aAvs4zjQNpI6V3.png?st=2024-07-17T18%3A07%3A49Z&se=2024-07-17T20%3A07%3A49Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T01%3A17%3A46Z&ske=2024-07-18T01%3A17%3A46Z&sks=b&skv=2023-11-03&sig=gSjw/j95nibCHslz0XGVs3pJVt8n40HqVtSOQ0hsOeU%3D"
+  }
  },
  {
   "id": 573,
   "title": "Om een lieffelijcke appeldemelk te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt aghten-appelen, geschilt en de klockhuysen wel uytgesneden. Doet die in een pot met wat boter en rooswater. Laet dat soo kleynkoken als pap. Wrijft het gestadigh met de lepel en doet er dan een weynigh tarwenmeel in. Doet er dan naer advenant karnemelck by. Laet het t'samen koken dat het is als soete room, en dan wat suycker en wittebroot daerin gedaen.\n"
+  "instructions": "\nNeemt aghten-appelen, geschilt en de klockhuysen wel uytgesneden. Doet die in een pot met wat boter en rooswater. Laet dat soo kleynkoken als pap. Wrijft het gestadigh met de lepel en doet er dan een weynigh tarwenmeel in. Doet er dan naer advenant karnemelck by. Laet het t'samen koken dat het is als soete room, en dan wat suycker en wittebroot daerin gedaen.\n",
+  "modernized": {
+   "title": "Lekkere Appeldemelk",
+   "recipe": "Neem acht appels, geschild en klokhuizen verwijderd. Doe de appels in een pot met wat boter en rozenwater. Laat dit sudderen totdat het zacht is zoals pap. Wrijf het voortdurend met een lepel en voeg dan een beetje tarwemeel toe. Voeg vervolgens karnemelk toe naar smaak. Laat het samen koken totdat het op zoete room lijkt. Voeg dan wat suiker en witbrood toe.",
+   "ingredients": [
+    [
+     "8",
+     "appels"
+    ],
+    [
+     "50 gram",
+     "boter"
+    ],
+    [
+     "10 ml",
+     "rozenwater"
+    ],
+    [
+     "20 gram",
+     "tarwemeel"
+    ],
+    [
+     "200 ml",
+     "karnemelk"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "",
+     "witbrood"
+    ]
+   ],
+   "visualized": "A rich, creamy bowl of apple porridge, garnished with small pieces of white bread on top, sugar sprinkled lightly, and a hint of rosewater gloss. The bowl is seen from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "fruit",
+    "zoet"
+   ],
+   "original": "Om een lieffelijcke appeldemelk te maken\n\n\nNeemt aghten-appelen, geschilt en de klockhuysen wel uytgesneden. Doet die in een pot met wat boter en rooswater. Laet dat soo kleynkoken als pap. Wrijft het gestadigh met de lepel en doet er dan een weynigh tarwenmeel in. Doet er dan naer advenant karnemelck by. Laet het t'samen koken dat het is als soete room, en dan wat suycker en wittebroot daerin gedaen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-WalKZ0jMH4vTJsjiKcRtzoxF.png?st=2024-07-17T18%3A08%3A09Z&se=2024-07-17T20%3A08%3A09Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A36%3A45Z&ske=2024-07-18T13%3A36%3A45Z&sks=b&skv=2023-11-03&sig=IVQbb4/rKwZr7zDPhXXr3Gb9duejztKSa9nwNr9XDws%3D"
+  }
  },
  {
   "id": 574,
   "title": "Om een appelbryken te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt brootsuycker en beschuyt daerin gestoten, 4 eyeren geklopt daerin dat dicxkens is, tarwenbroot geraspt, en dat in een koeckepan in de boter gedaen dat wat kortjes is. Daer dan dat appelbryken ingedaen en dat laten backen als een ander koeck, met een schotel gedeckt.\n"
+  "instructions": "\nNeemt brootsuycker en beschuyt daerin gestoten, 4 eyeren geklopt daerin dat dicxkens is, tarwenbroot geraspt, en dat in een koeckepan in de boter gedaen dat wat kortjes is. Daer dan dat appelbryken ingedaen en dat laten backen als een ander koeck, met een schotel gedeckt.\n",
+  "modernized": {
+   "title": "Appelcake",
+   "recipe": "Neem broodsuiker en beschuit fijn gestampt. Klop 4 eieren los en voeg toe totdat het een dikke massa is. Rasp tarwebrood en meng het door het mengsel. Bak dit in een koekenpan met boter tot het een beetje stevig is. Voeg dan de appels toe en bak als een gewone cake, met een deksel op de pan.",
+   "ingredients": [
+    [
+     "100 g",
+     "broodsuiker"
+    ],
+    [
+     "50 g",
+     "beschuit"
+    ],
+    [
+     "",
+     "tarwebrood"
+    ],
+    [
+     "4",
+     "eieren"
+    ],
+    [
+     "",
+     "appels"
+    ],
+    [
+     "30 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A rich, golden-brown apple cake with a slightly crispy exterior, baked in a round cake shape. The texture is dense and moist, with visible bits of apple throughout the cake. Sprinkled with a light dusting of powdered sugar on top. It is presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "gebak",
+    "fruit"
+   ],
+   "original": "Om een appelbryken te maken\n\n\nNeemt brootsuycker en beschuyt daerin gestoten, 4 eyeren geklopt daerin dat dicxkens is, tarwenbroot geraspt, en dat in een koeckepan in de boter gedaen dat wat kortjes is. Daer dan dat appelbryken ingedaen en dat laten backen als een ander koeck, met een schotel gedeckt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-DQOaVqNLKXgYcDZAzkOONK5R.png?st=2024-07-17T18%3A08%3A33Z&se=2024-07-17T20%3A08%3A33Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A51%3A58Z&ske=2024-07-18T13%3A51%3A58Z&sks=b&skv=2023-11-03&sig=tjczZLvsZ7HiE7nMzxSI/wi1h%2BQ8883Vc04vN%2BRph0M%3D"
+  }
  },
  {
   "id": 575,
   "title": "Om een vlayken van citroenen te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt 't sap uyt de citroenen en van 8 eyeren de doren, doch maer van 4 het wit daerby gelaten, een halve stuyver wittebroot, geraspt, en dan een pint soetemelck, en suycker naer advenant. Niet hard ofte weynigh moet gyse laten koken.\n"
+  "instructions": "\nNeemt 't sap uyt de citroenen en van 8 eyeren de doren, doch maer van 4 het wit daerby gelaten, een halve stuyver wittebroot, geraspt, en dan een pint soetemelck, en suycker naer advenant. Niet hard ofte weynigh moet gyse laten koken.\n",
+  "modernized": {
+   "title": "Citroenvla",
+   "recipe": "Pers het sap uit de citroenen.\nNeem de dooiers van 8 eieren en het eiwit van 4 eieren. Voeg deze toe aan het citroensap.\nRasp een halve snee witbrood.\nMeng dit met een halve liter melk en voeg suiker naar smaak toe.\nLaat het mengsel zachtjes koken tot het dik genoeg is.",
+   "ingredients": [
+    [
+     "2",
+     "citroenen"
+    ],
+    [
+     "8",
+     "eidooiers"
+    ],
+    [
+     "4",
+     "eiwitten"
+    ],
+    [
+     "50 g",
+     "witbrood"
+    ],
+    [
+     "500 ml",
+     "melk"
+    ],
+    [
+     "",
+     "suiker"
+    ]
+   ],
+   "visualized": "A lemon custard is presented in a clear glass bowl, garnished with thin slices of lemon on top. The custard has a smooth and creamy texture, with a pale yellow color. The glass bowl is placed on a white surface, with small sugar granules sprinkled around it. Three-quarters angle view, Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "citroen",
+    "vla",
+    "zoet"
+   ],
+   "original": "Om een vlayken van citroenen te maken\n\n\nNeemt 't sap uyt de citroenen en van 8 eyeren de doren, doch maer van 4 het wit daerby gelaten, een halve stuyver wittebroot, geraspt, en dan een pint soetemelck, en suycker naer advenant. Niet hard ofte weynigh moet gyse laten koken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-NPaXn0yz92WhxGIM70HXtU7J.png?st=2024-07-17T18%3A08%3A54Z&se=2024-07-17T20%3A08%3A54Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A33%3A14Z&ske=2024-07-18T11%3A33%3A14Z&sks=b&skv=2023-11-03&sig=Pd7lvuOWKXxSruTyysFxqcgBnnFfH2oZeOpjdkYNsyg%3D"
+  }
  },
  {
   "id": 576,
   "title": "Om Spaense pap te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een half pont rijsbloem, een half pont brootsuycker, gestoten, een mengele soetemelck, een mutsje roosewater. Roert het wel ondereen, dat het effen is en geen klonten in zijn. Set het op 't vuur en roert het gestadigh. Laet het soolangh koken totdat stijf begint te worden. Schept het dan in schotels op. Het smaeckt heel wel.\n"
+  "instructions": "\nNeemt een half pont rijsbloem, een half pont brootsuycker, gestoten, een mengele soetemelck, een mutsje roosewater. Roert het wel ondereen, dat het effen is en geen klonten in zijn. Set het op 't vuur en roert het gestadigh. Laet het soolangh koken totdat stijf begint te worden. Schept het dan in schotels op. Het smaeckt heel wel.\n",
+  "modernized": {
+   "title": "Spaanse pap",
+   "recipe": "Neem 250 gram rijstebloem, 250 gram poedersuiker, 500 ml volle melk en een eetlepel rozenwater. Roer het goed door elkaar tot het glad is en er geen klonten meer zijn. Zet het op het vuur en roer constant. Laat het koken totdat het begint in te dikken. Schenk het dan in schaaltjes. Het smaakt heerlijk.",
+   "ingredients": [
+    [
+     "250 gram",
+     "rijstebloem"
+    ],
+    [
+     "250 gram",
+     "poedersuiker"
+    ],
+    [
+     "500 ml",
+     "volle melk"
+    ],
+    [
+     "1 eetlepel",
+     "rozenwater"
+    ]
+   ],
+   "visualized": "A creamy, smooth Spanish porridge served in small bowls. The porridge has a slightly thick consistency and is garnished with a light drizzle of rosewater. The color is a soft, warm white with a hint of beige from the rice flour. Photographed from a three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "nagerecht",
+    "rijst",
+    "zoet"
+   ],
+   "original": "Om Spaense pap te maken\n\n\nNeemt een half pont rijsbloem, een half pont brootsuycker, gestoten, een mengele soetemelck, een mutsje roosewater. Roert het wel ondereen, dat het effen is en geen klonten in zijn. Set het op 't vuur en roert het gestadigh. Laet het soolangh koken totdat stijf begint te worden. Schept het dan in schotels op. Het smaeckt heel wel.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-HlXZm86WcN3u773vufiPJUYS.png?st=2024-07-17T18%3A09%3A16Z&se=2024-07-17T20%3A09%3A16Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A14%3A37Z&ske=2024-07-18T13%3A14%3A37Z&sks=b&skv=2023-11-03&sig=%2B%2B3ZMgP989U7aR6xPYVODJgs4FYKnyH/RTMkYCLjdz0%3D"
+  }
  },
  {
   "id": 577,
   "title": "Om roompap te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt 12 doren van eyeren, een pint room. De eyeren door een teems gedaen en wel met den room gemenght, en dan rooswater en suycker naer behooren daerby gedaen. Set dit op 't vuur en roert het soetjes totdat het dick wort, maer moet niet koken of het soude schiften.\n"
+  "instructions": "\nNeemt 12 doren van eyeren, een pint room. De eyeren door een teems gedaen en wel met den room gemenght, en dan rooswater en suycker naer behooren daerby gedaen. Set dit op 't vuur en roert het soetjes totdat het dick wort, maer moet niet koken of het soude schiften.\n",
+  "modernized": {
+   "title": "Roompap",
+   "recipe": "Neem 12 dooiers van eieren en een halve liter room. Klop de eieren met een zeef en meng ze goed met de room. Voeg rozenwater en suiker naar smaak toe. Zet dit op het vuur en roer zachtjes totdat het dik wordt, maar laat het niet koken, anders zou het schiften.",
+   "ingredients": [
+    [
+     "12",
+     "eidooiers"
+    ],
+    [
+     "500 ml",
+     "room"
+    ],
+    [
+     "",
+     "rozenwater"
+    ],
+    [
+     "",
+     "suiker"
+    ]
+   ],
+   "visualized": "A thick, creamy custard-like dish called 'roompap,' presented in a simple white bowl. The roompap is smooth and velvety in texture, with a pale yellow color from the egg yolks. A sprinkle of sugar crystals and a few drops of rozenwater are visible on the surface, giving it a slightly glossy appearance. Served from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "zoet",
+    "eieren",
+    "room"
+   ],
+   "original": "Om roompap te maken\n\n\nNeemt 12 doren van eyeren, een pint room. De eyeren door een teems gedaen en wel met den room gemenght, en dan rooswater en suycker naer behooren daerby gedaen. Set dit op 't vuur en roert het soetjes totdat het dick wort, maer moet niet koken of het soude schiften.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-61BZEtyb0XiKTohH676L7j6Z.png?st=2024-07-17T18%3A09%3A36Z&se=2024-07-17T20%3A09%3A36Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T00%3A32%3A31Z&ske=2024-07-18T00%3A32%3A31Z&sks=b&skv=2023-11-03&sig=yUaGqWLnhbgzY%2BJ7rfB0cCmXBKKDBhoObaW9DMXFSQY%3D"
+  }
  },
  {
   "id": 578,
   "title": "Om room van rijs te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een mengelen room, 2 hantvollen bloem van rijs, witte suycker en tarwenmeel, van yder 8 loot, een door van een ey in rooswater geklopt. Roert dit alles wel tedegen onder den voornoemden room en set'et op een koolvuur, stadigh roerende, dat het soo dick wort als waterpap.\n"
+  "instructions": "\nNeemt een mengelen room, 2 hantvollen bloem van rijs, witte suycker en tarwenmeel, van yder 8 loot, een door van een ey in rooswater geklopt. Roert dit alles wel tedegen onder den voornoemden room en set'et op een koolvuur, stadigh roerende, dat het soo dick wort als waterpap.\n",
+  "modernized": {
+   "title": "Room van rijs",
+   "recipe": "Neem 200 ml room, 2 handvol rijstbloem, 25 g witte suiker, 25 g tarwebloem en een eierdooier geklopt in rozenwater. Roer alles goed door de room en zet op een laag vuur. Roer constant totdat het zo dik als waterpap is.",
+   "ingredients": [
+    [
+     "200 ml",
+     "room"
+    ],
+    [
+     "",
+     "2 handvol rijstbloem"
+    ],
+    [
+     "25 g",
+     "witte suiker"
+    ],
+    [
+     "25 g",
+     "tarwebloem"
+    ],
+    [
+     "",
+     "eierdooier geklopt in rozenwater"
+    ]
+   ],
+   "visualized": "A creamy, thick porridge-like dish with a pale color, served in a simple, elegant dish. The texture is smooth and slightly glossy, indicating the creamy nature of the dish. It is garnished with a few rose petals on top for decoration. The dish appears from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "room",
+    "zoet",
+    "traditioneel"
+   ],
+   "original": "Om room van rijs te maken\n\n\nNeemt een mengelen room, 2 hantvollen bloem van rijs, witte suycker en tarwenmeel, van yder 8 loot, een door van een ey in rooswater geklopt. Roert dit alles wel tedegen onder den voornoemden room en set'et op een koolvuur, stadigh roerende, dat het soo dick wort als waterpap.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-POGIdKQtN5x4b5jQFWLmxBzg.png?st=2024-07-17T18%3A10%3A01Z&se=2024-07-17T20%3A10%3A01Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A36%3A21Z&ske=2024-07-18T12%3A36%3A21Z&sks=b&skv=2023-11-03&sig=G5/nb6e9gWQPR/5s1FR%2BnOo7W1HUByM3BbOf8QMaWLc%3D"
+  }
  },
  {
   "id": 579,
   "title": "Om rijskoecxkens te backen",
   "bookRef": "N1669",
-  "instructions": "\nKoockt rijs in soetemelck heel dick, dat de korrelen heel blijven. Laetse kout worden. Doet er dan wat saffraen in, een weynigh caneel met gestoten beschuyt dat in roosewater geweeckt is, en suycker, en acht of tien eyeren, en roosewater naer advenant. Den rijs roert daeronder, en dan in boter gebacken en suycker daerover geraspt.\n"
+  "instructions": "\nKoockt rijs in soetemelck heel dick, dat de korrelen heel blijven. Laetse kout worden. Doet er dan wat saffraen in, een weynigh caneel met gestoten beschuyt dat in roosewater geweeckt is, en suycker, en acht of tien eyeren, en roosewater naer advenant. Den rijs roert daeronder, en dan in boter gebacken en suycker daerover geraspt.\n",
+  "modernized": {
+   "title": "Rijstkoekjes",
+   "recipe": "Kook rijst in zoete melk heel dik, zodat de korrels heel blijven. Laat het afkoelen.\nDoe er dan wat saffraan in, een beetje kaneel met gemalen beschuit dat in rozenwater geweekt is, en suiker, en acht of tien eieren, en rozenwater naar smaak bij. Roer de rijst erdoor, en bak dan in boter en rasp suiker erover.",
+   "ingredients": [
+    [
+     "500 ml",
+     "zoete melk"
+    ],
+    [
+     "200 g",
+     "rijst"
+    ],
+    [
+     "",
+     "saffraan"
+    ],
+    [
+     "1 theelepel",
+     "kaneel"
+    ],
+    [
+     "50 g",
+     "beschuit"
+    ],
+    [
+     "50 ml",
+     "rozenwater"
+    ],
+    [
+     "100 g",
+     "suiker"
+    ],
+    [
+     "8",
+     "eieren"
+    ],
+    [
+     "",
+     "boter"
+    ]
+   ],
+   "visualized": "Golden brown rice cookies seasoned with saffron and cinnamon, showing flecks of rice and a slight crisp on the outside. They are placed in a wooden tray sprinkled with sugar on top. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "nagerecht",
+    "zoet",
+    "gebak"
+   ],
+   "original": "Om rijskoecxkens te backen\n\n\nKoockt rijs in soetemelck heel dick, dat de korrelen heel blijven. Laetse kout worden. Doet er dan wat saffraen in, een weynigh caneel met gestoten beschuyt dat in roosewater geweeckt is, en suycker, en acht of tien eyeren, en roosewater naer advenant. Den rijs roert daeronder, en dan in boter gebacken en suycker daerover geraspt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-0r9mqP7yp4SWLeTfVZsJtIqt.png?st=2024-07-17T18%3A10%3A27Z&se=2024-07-17T20%3A10%3A27Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A15%3A09Z&ske=2024-07-18T13%3A15%3A09Z&sks=b&skv=2023-11-03&sig=M/Dr4jm9SYGEhlGx3EHEGpBY/DCK5xhTxD%2BI7gfNJes%3D"
+  }
  },
  {
   "id": 580,
   "title": "Een ander manier van rijskoecxkens8 te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een vierendeel rijs, halfgaer gekoockt, 3 beschuyten, 4 eyeren, een vierendeel corenten, suycker en pijpkaneel, met roosewater ondereengeroert. Maeckt er koeckjens van, in de panne gebacken, ruym van boter. Zijn goet.\n\n 8 In de druk staat: rijskoexkens.\n\n"
+  "instructions": "\nNeemt een vierendeel rijs, halfgaer gekoockt, 3 beschuyten, 4 eyeren, een vierendeel corenten, suycker en pijpkaneel, met roosewater ondereengeroert. Maeckt er koeckjens van, in de panne gebacken, ruym van boter. Zijn goet.\n\n 8 In de druk staat: rijskoexkens.\n\n",
+  "modernized": {
+   "title": "Gesuikerde Rijstkoekjes",
+   "recipe": "Neem 250 gram rijst, half gaar gekookt. Verkruimel 3 beschuiten en meng deze met 4 eieren, 250 gram krenten, suiker en kaneel naar smaak, en een scheutje rozenwater. Maak kleine koekjes van het mengsel en bak deze in een pan met ruim boter. Serveer warm, ze zijn heerlijk.",
+   "ingredients": [
+    [
+     "250 gram",
+     "rijst"
+    ],
+    [
+     "3",
+     "beschuiten"
+    ],
+    [
+     "4",
+     "eieren"
+    ],
+    [
+     "250 gram",
+     "krenten"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "",
+     "kaneel"
+    ],
+    [
+     "",
+     "rozenwater"
+    ],
+    [
+     "",
+     "boter"
+    ]
+   ],
+   "visualized": "A batch of small, golden-brown rice cookies with visible currants, lightly sprinkled with sugar. The cookies look crispy on the outside and soft on the inside. They sit in a pan with some melted butter around them and have a slightly glossy finish from the butter. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "zoet",
+    "gebak",
+    "koekjes",
+    "dessert"
+   ],
+   "original": "Een ander manier van rijskoecxkens8 te backen\n\n\nNeemt een vierendeel rijs, halfgaer gekoockt, 3 beschuyten, 4 eyeren, een vierendeel corenten, suycker en pijpkaneel, met roosewater ondereengeroert. Maeckt er koeckjens van, in de panne gebacken, ruym van boter. Zijn goet.\n\n 8 In de druk staat: rijskoexkens.\n\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-qZMOmuULNf8XDMH8AEqazoer.png?st=2024-07-17T18%3A10%3A52Z&se=2024-07-17T20%3A10%3A52Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T09%3A46%3A56Z&ske=2024-07-18T09%3A46%3A56Z&sks=b&skv=2023-11-03&sig=IAa2F1Ij1SutPAIyvmaYQgGfTvUrOqna6CymMZI/OXk%3D"
+  }
  },
  {
   "id": 581,
   "title": "Om deuse Geertjens te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt vier oubacke ronde wittebrooden, fijngeraspt, tot elck broodt een ey. Menght het met soete room. Doet erin: roosewater, caneel en suycker, een kopken gesmolte boter. Dit ondereengeroert. Dan voort in boter gebacken, want anders soudense neerslaen.\n"
+  "instructions": "\nNeemt vier oubacke ronde wittebrooden, fijngeraspt, tot elck broodt een ey. Menght het met soete room. Doet erin: roosewater, caneel en suycker, een kopken gesmolte boter. Dit ondereengeroert. Dan voort in boter gebacken, want anders soudense neerslaen.\n",
+  "modernized": {
+   "title": "Geertjens bakken",
+   "recipe": "Neem vier oudbakken ronde wittebroden en rasp ze fijn.\nVoeg per brood \u00e9\u00e9n ei toe.\nMeng het met zoete room.\nVoeg rozenwater, kaneel, suiker en een kopje gesmolten boter toe.\nRoer alles goed door elkaar.\nBak het mengsel in boter, anders zal het neerploffen.",
+   "ingredients": [
+    [
+     "4",
+     "oude ronde wittebroden"
+    ],
+    [
+     "4",
+     "eieren"
+    ],
+    [
+     "200 ml",
+     "zoete room"
+    ],
+    [
+     "1 el",
+     "rozenwater"
+    ],
+    [
+     "1 tl",
+     "kaneel"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "100 g",
+     "gesmolten boter"
+    ]
+   ],
+   "visualized": "A rustic pan full of evenly golden-brown 'Geertjens', appearing fluffy and crispy on the edges. The mixture is baked into small, round portions, slightly irregular in shape. The rozenwater, cinnamon, and butter give a hint of glossiness on the surface. A three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "bakken",
+    "nagerecht",
+    "zoet"
+   ],
+   "original": "Om deuse Geertjens te backen\n\n\nNeemt vier oubacke ronde wittebrooden, fijngeraspt, tot elck broodt een ey. Menght het met soete room. Doet erin: roosewater, caneel en suycker, een kopken gesmolte boter. Dit ondereengeroert. Dan voort in boter gebacken, want anders soudense neerslaen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-q7YMJ664fJZyi1y7MNXnWzFe.png?st=2024-07-17T18%3A11%3A16Z&se=2024-07-17T20%3A11%3A16Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A34%3A33Z&ske=2024-07-18T13%3A34%3A33Z&sks=b&skv=2023-11-03&sig=Ca7Hi0IuH3OjzAxtTIUssRxLRVc%2BqtLa50BF/pig4w4%3D"
+  }
  },
  {
   "id": 582,
   "title": "Om groene bladen te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt jonge bladeren van buglosse, bernagie of scharlay, en breeckt die den steel af en doet de ribben midden uyt het blat sonder dat te breken. Wast de bladeren en leght die te versijgen. En neemt dan geklopte eyeren in een vlacke schotel en doopt de bladen daerin, en leght dan twee bladen tegens malkanderen, de ruige zy buyten. Dan in de boter gebacken en suycker daerover geraspt.\n"
+  "instructions": "\nNeemt jonge bladeren van buglosse, bernagie of scharlay, en breeckt die den steel af en doet de ribben midden uyt het blat sonder dat te breken. Wast de bladeren en leght die te versijgen. En neemt dan geklopte eyeren in een vlacke schotel en doopt de bladen daerin, en leght dan twee bladen tegens malkanderen, de ruige zy buyten. Dan in de boter gebacken en suycker daerover geraspt.\n",
+  "modernized": {
+   "title": "Gebakken Groene Bladeren",
+   "recipe": "Neem jonge bladeren van smeerwortel, bernagie of zuring en verwijder de steel en de nerven uit het midden van het blad zonder het te breken. Was de bladeren en laat ze uitlekken.\n\nKlop dan eieren in een ondiepe schaal. Doop de bladeren in het ei en leg twee bladeren tegen elkaar, met de ruwe kant naar buiten. Bak ze vervolgens in boter en rasp suiker eroverheen.",
+   "ingredients": [
+    [
+     "200 g",
+     "jonge bladeren (smeerwortel, bernagie of zuring)"
+    ],
+    [
+     "2",
+     "eieren"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "1 el",
+     "suiker"
+    ]
+   ],
+   "visualized": "A rustic plate seen from a three-quarters angle, Sigma 85 mm f/1.4. On the plate are golden-brown fried leaves with a coarse texture. Two leaves are visibly joined together with a crispy coating of egg batter. A light dusting of sugar is sprinkled on top, glinting softly under light. The dish has a crispy, textured appearance showing nuanced details of the leaves' surface.",
+   "tags": [
+    "gebakken",
+    "groente",
+    "bijgerecht",
+    "zoet"
+   ],
+   "original": "Om groene bladen te backen\n\n\nNeemt jonge bladeren van buglosse, bernagie of scharlay, en breeckt die den steel af en doet de ribben midden uyt het blat sonder dat te breken. Wast de bladeren en leght die te versijgen. En neemt dan geklopte eyeren in een vlacke schotel en doopt de bladen daerin, en leght dan twee bladen tegens malkanderen, de ruige zy buyten. Dan in de boter gebacken en suycker daerover geraspt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-RJPQhDFAhvRMhO6YHJDtAjYb.png?st=2024-07-17T18%3A11%3A37Z&se=2024-07-17T20%3A11%3A37Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A26%3A45Z&ske=2024-07-18T13%3A26%3A45Z&sks=b&skv=2023-11-03&sig=W70VB0EGLJ%2BkX8%2B%2BiyEmOq/NmN%2BItVfachi7LmyHqdA%3D"
+  }
  },
  {
   "id": 583,
   "title": "Om struyfkoecken te maken die goet zijn",
   "bookRef": "N1669",
-  "instructions": "\nNeemt alderley warmoeskruyt en wat venckel, dil, mast, kervel, fiolebladen, reynvaer, waterkars, suringh, betonie, leverkruyt, sikoray, spinagie en de blaren van zwarte aelbesien, wat peray, goutsbloemkruyt, madelivekruyt. Scherft het wel tesamen, en gemenght met eyeren en fijne gestoten beschuyt. En dan, gebacken zijnde, zijn gantsch smakelijck.\n"
+  "instructions": "\nNeemt alderley warmoeskruyt en wat venckel, dil, mast, kervel, fiolebladen, reynvaer, waterkars, suringh, betonie, leverkruyt, sikoray, spinagie en de blaren van zwarte aelbesien, wat peray, goutsbloemkruyt, madelivekruyt. Scherft het wel tesamen, en gemenght met eyeren en fijne gestoten beschuyt. En dan, gebacken zijnde, zijn gantsch smakelijck.\n",
+  "modernized": {
+   "title": "Struyfkoeken",
+   "recipe": "Neem verschillende soorten bladgroenten, zoals warmoes, venkel, dille, bernagie, kervel, violet bladeren, waterkers, zuring, betonie, leverkruid, cichorei, spinazie, bladeren van zwarte aalbessen, en peterselie. Meng alles goed samen. Voeg wat goudsbloem en madeliefkruid toe. Meng dit met eieren en fijn gestampt beschuit. Bak het vervolgens. De struyfkoeken zijn dan heel smakelijk.",
+   "ingredients": [
+    [
+     "50 g",
+     "warmoes"
+    ],
+    [
+     "10 g",
+     "venkel"
+    ],
+    [
+     "10 g",
+     "dille"
+    ],
+    [
+     "10 g",
+     "bernagie"
+    ],
+    [
+     "10 g",
+     "kervel"
+    ],
+    [
+     "10 g",
+     "violet bladeren"
+    ],
+    [
+     "10 g",
+     "waterkers"
+    ],
+    [
+     "10 g",
+     "zuring"
+    ],
+    [
+     "10 g",
+     "betonie"
+    ],
+    [
+     "10 g",
+     "leverkruid"
+    ],
+    [
+     "10 g",
+     "cichorei"
+    ],
+    [
+     "50 g",
+     "spinazie"
+    ],
+    [
+     "10 g",
+     "zwarte aalbessen bladeren"
+    ],
+    [
+     "10 g",
+     "peterselie"
+    ],
+    [
+     "10 g",
+     "goudsbloem"
+    ],
+    [
+     "10 g",
+     "madeliefkruid"
+    ],
+    [
+     "2",
+     "eieren"
+    ],
+    [
+     "50 g",
+     "beschuit"
+    ]
+   ],
+   "visualized": "A close-up of struyfkoeken, which are savory green patties with visible bits of various finely chopped herbs and leafy greens. The patties are golden brown, showing nice browning from cooking. The texture looks soft with slight crispiness on the outside. The dish is presented on a plain plate, from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vegetarisch",
+    "voorgerecht",
+    "kruidig"
+   ],
+   "original": "Om struyfkoecken te maken die goet zijn\n\n\nNeemt alderley warmoeskruyt en wat venckel, dil, mast, kervel, fiolebladen, reynvaer, waterkars, suringh, betonie, leverkruyt, sikoray, spinagie en de blaren van zwarte aelbesien, wat peray, goutsbloemkruyt, madelivekruyt. Scherft het wel tesamen, en gemenght met eyeren en fijne gestoten beschuyt. En dan, gebacken zijnde, zijn gantsch smakelijck.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-HC8OsWs7azeMJunojBLJwctl.png?st=2024-07-17T18%3A12%3A10Z&se=2024-07-17T20%3A12%3A10Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A43%3A11Z&ske=2024-07-18T13%3A43%3A11Z&sks=b&skv=2023-11-03&sig=J4GlVVSEoYTK%2BzDYoF61piXGZFRD0%2BoPzX1yOLS0wJs%3D"
+  }
  },
  {
   "id": 584,
   "title": "Om een appelstruyf te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt 12 rabau-appelen. Snijt die in stucxkens als tot een taert. Doetse in een platte pot met een goet stuck boter en wat suycker, en dickmaels omgeschut, maer niet roeren9. Alsse murru worden, doet er dan 4 of 6 eyeren, kleyngeklopt, onder. Neemt dan een pan met boter en als de boter begint te braden, soo stroyt wel dick fijngestoten beschuyt met suycker en caneel, ondereengemenght, over den bodem, dat die bedeckt is. Doet dan de appelen daerop. Dan weder bestroyt met de verhaelde beschuyt tot de appelen bedeckt zijn. Doet dan een weynigh vuur op het decksel en laet het soo backen.\n\n 9 In de druk staat: niet te roeren. Dit ook in de druk van 1668. In de editie van 1667 staat echter: niet roeren.\n"
+  "instructions": "\nNeemt 12 rabau-appelen. Snijt die in stucxkens als tot een taert. Doetse in een platte pot met een goet stuck boter en wat suycker, en dickmaels omgeschut, maer niet roeren9. Alsse murru worden, doet er dan 4 of 6 eyeren, kleyngeklopt, onder. Neemt dan een pan met boter en als de boter begint te braden, soo stroyt wel dick fijngestoten beschuyt met suycker en caneel, ondereengemenght, over den bodem, dat die bedeckt is. Doet dan de appelen daerop. Dan weder bestroyt met de verhaelde beschuyt tot de appelen bedeckt zijn. Doet dan een weynigh vuur op het decksel en laet het soo backen.\n\n 9 In de druk staat: niet te roeren. Dit ook in de druk van 1668. In de editie van 1667 staat echter: niet roeren.\n",
+  "modernized": {
+   "title": "Appelstruif",
+   "recipe": "Neem 12 zoetzure appels. Snijd ze in stukjes zoals voor een taart. Doe ze in een platte pan met een goed stuk boter en wat suiker, en schud de pan vaak om, maar roer niet. Als de appels zacht worden, voeg dan 4 of 6 verklopte eieren toe en meng. Neem dan een pan met boter en als de boter begint te bakken, strooi dan een dikke laag fijngemalen beschuit met suiker en kaneel, gemengd, over de bodem zodat deze bedekt is. Doe dan de appels erop. Bestrooi opnieuw met de gemengde beschuit totdat de appels bedekt zijn. Zet een beetje vuur op het deksel en laat het zo bakken.",
+   "ingredients": [
+    [
+     "12",
+     "zoetzure appels"
+    ],
+    [
+     "200 g",
+     "boter"
+    ],
+    [
+     "100 g",
+     "suiker"
+    ],
+    [
+     "4",
+     "eieren"
+    ],
+    [
+     "200 g",
+     "beschuit"
+    ],
+    [
+     "2 tl",
+     "kaneel"
+    ]
+   ],
+   "visualized": "A traditional Dutch apple dessert called Appelstruif from a three-quarters angle. It is baked in a shallow pan, showing layers of apple pieces and a thick layer of breadcrumbs mixed with sugar and cinnamon on top. The crumbs on top have a golden brown hue due to baking. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "appel",
+    "bakken",
+    "zoet"
+   ],
+   "original": "Om een appelstruyf te backen\n\n\nNeemt 12 rabau-appelen. Snijt die in stucxkens als tot een taert. Doetse in een platte pot met een goet stuck boter en wat suycker, en dickmaels omgeschut, maer niet roeren9. Alsse murru worden, doet er dan 4 of 6 eyeren, kleyngeklopt, onder. Neemt dan een pan met boter en als de boter begint te braden, soo stroyt wel dick fijngestoten beschuyt met suycker en caneel, ondereengemenght, over den bodem, dat die bedeckt is. Doet dan de appelen daerop. Dan weder bestroyt met de verhaelde beschuyt tot de appelen bedeckt zijn. Doet dan een weynigh vuur op het decksel en laet het soo backen.\n\n 9 In de druk staat: niet te roeren. Dit ook in de druk van 1668. In de editie van 1667 staat echter: niet roeren.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-oyYw1PBZ5CK9Np3vuAk1TSl8.png?st=2024-07-17T18%3A12%3A42Z&se=2024-07-17T20%3A12%3A42Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A45%3A15Z&ske=2024-07-18T13%3A45%3A15Z&sks=b&skv=2023-11-03&sig=cPOzDEKq1djfTH8OsxsZeE2L7l09f7rL25eSH2soxqE%3D"
+  }
  },
  {
   "id": 585,
   "title": "Om een speckstruyf te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt dunne stucxkens speck in de pan, en dan 2 of 3 ronde oubacke wittebrooden, de korsten afgesneden, en dan in soetemelck laten weken. Als 't genoegh is, in een platte pot gewreven tot het kleyn is, 6 of 8 eyeren daeronder geroert, en soo op het speck gedaen en gebacken.\n"
+  "instructions": "\nNeemt dunne stucxkens speck in de pan, en dan 2 of 3 ronde oubacke wittebrooden, de korsten afgesneden, en dan in soetemelck laten weken. Als 't genoegh is, in een platte pot gewreven tot het kleyn is, 6 of 8 eyeren daeronder geroert, en soo op het speck gedaen en gebacken.\n",
+  "modernized": {
+   "title": "Gebakken Spekbrood",
+   "recipe": "Neem dunne stukjes spek en bak deze in een pan.\nSnijd de korsten van 2 of 3 oude witte broden af.\nLaat de broden weken in melk.\nAls het brood doorweekt is, prak het fijn in een grote kom.\nMeng hier 6 tot 8 eieren doorheen.\nGiet dit mengsel over het gebakken spek en bak het geheel verder.",
+   "ingredients": [
+    [
+     "200 g",
+     "spek"
+    ],
+    [
+     "2",
+     "oude witte broden"
+    ],
+    [
+     "500 ml",
+     "melk"
+    ],
+    [
+     "6",
+     "eieren"
+    ]
+   ],
+   "visualized": "A loaf of bread filled with small chunks of crispy bacon, with a golden-brown crust on the outside. The bread looks fluffy and moist, dotted with bits of speck throughout. Presented from a three-quarters angle. Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "ontbijt",
+    "gebakken"
+   ],
+   "original": "Om een speckstruyf te backen\n\n\nNeemt dunne stucxkens speck in de pan, en dan 2 of 3 ronde oubacke wittebrooden, de korsten afgesneden, en dan in soetemelck laten weken. Als 't genoegh is, in een platte pot gewreven tot het kleyn is, 6 of 8 eyeren daeronder geroert, en soo op het speck gedaen en gebacken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-ZbyhxljQwdmbygpwCS9WTQPt.png?st=2024-07-17T18%3A13%3A06Z&se=2024-07-17T20%3A13%3A06Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T08%3A23%3A50Z&ske=2024-07-18T08%3A23%3A50Z&sks=b&skv=2023-11-03&sig=seiWU/RopqQhiE3r4//z%2BqsOB07Sq7shOa6/IKFE4G4%3D"
+  }
  },
  {
   "id": 586,
   "title": "Om Groeninger pannekoecken te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een pont terwenmeel, drie eyeren, een vierendeel korenten en wat caneel. Dit soo in botervet gebacken. Is goet.\n"
+  "instructions": "\nNeemt een pont terwenmeel, drie eyeren, een vierendeel korenten en wat caneel. Dit soo in botervet gebacken. Is goet.\n",
+  "modernized": {
+   "title": "Groningse pannenkoeken",
+   "recipe": "Neem 500 gram tarwemeel, drie eieren, 250 gram krenten en wat kaneel.\n\nMeng het meel, de eieren, de krenten en de kaneel goed door elkaar.\n\nBak de pannenkoeken vervolgens in boter tot ze goudbruin en gaar zijn.",
+   "ingredients": [
+    [
+     "500 gram",
+     "tarwemeel"
+    ],
+    [
+     "3",
+     "eieren"
+    ],
+    [
+     "250 gram",
+     "krenten"
+    ],
+    [
+     "",
+     "kaneel"
+    ]
+   ],
+   "visualized": "A stack of golden-brown Groningse pannenkoeken on a plate, with some krenten visible inside them. The edges are slightly crispy, and the pannenkoeken have a light dusting of cinnamon powder. A small dish of melted butter is on the side. This dish is viewed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "nagerecht",
+    "pannenkoeken",
+    "zoet"
+   ],
+   "original": "Om Groeninger pannekoecken te backen\n\n\nNeemt een pont terwenmeel, drie eyeren, een vierendeel korenten en wat caneel. Dit soo in botervet gebacken. Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-RwrmjAXbApw82IERI46uLIpk.png?st=2024-07-17T18%3A13%3A41Z&se=2024-07-17T20%3A13%3A41Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T17%3A59%3A33Z&ske=2024-07-18T17%3A59%3A33Z&sks=b&skv=2023-11-03&sig=GVjIaborc1rBFCpo/kW5/faquzZpCOy5rf3hYdT9C8E%3D"
+  }
  },
  {
   "id": 587,
   "title": "Om gemeene pannekoecken te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt tot yder pont tarwenmeel een pintje soetemelck en 3 eyeren. Sommige doen daer wat suycker in.\n"
+  "instructions": "\nNeemt tot yder pont tarwenmeel een pintje soetemelck en 3 eyeren. Sommige doen daer wat suycker in.\n",
+  "modernized": {
+   "title": "Gewone Pannenkoeken",
+   "recipe": "Neem voor elke 500 gram tarwemeel 500 ml volle melk en 3 eieren. Sommige mensen voegen er wat suiker aan toe.\n\n1. Meng het tarwemeel, de melk en de eieren samen in een kom tot een glad beslag.\n2. Voeg eventueel suiker toe naar smaak en meng goed.\n3. Verhit een beetje olie of boter in een koekenpan op middelhoog vuur.\n4. Giet een kleine hoeveelheid beslag in de pan en draai de pan rond zodat het beslag zich gelijkmatig verspreidt.\n5. Bak de pannenkoek totdat de bovenkant droog is en de onderkant goudbruin, ongeveer 1-2 minuten.\n6. Draai de pannenkoek om en bak de andere kant ook goudbruin, ongeveer 1 minuut.\n7. Herhaal dit met de rest van het beslag.\n8. Serveer de pannenkoeken warm met toppings naar keuze.",
+   "ingredients": [
+    [
+     "500 g",
+     "tarwemeel"
+    ],
+    [
+     "500 ml",
+     "volle melk"
+    ],
+    [
+     "3",
+     "eieren"
+    ],
+    [
+     "",
+     "suiker"
+    ]
+   ],
+   "visualized": "A stack of thin, golden brown pancakes on a white plate. Lightly dusted with powdered sugar. From a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "ontbijt",
+    "dessert",
+    "zoet",
+    "pannenkoek"
+   ],
+   "original": "Om gemeene pannekoecken te backen\n\n\nNeemt tot yder pont tarwenmeel een pintje soetemelck en 3 eyeren. Sommige doen daer wat suycker in.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-3BhCO6bXchUuv3hGBMMkIvo1.png?st=2024-07-17T18%3A14%3A05Z&se=2024-07-17T20%3A14%3A05Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A08%3A09Z&ske=2024-07-18T12%3A08%3A09Z&sks=b&skv=2023-11-03&sig=t3b0o3ZGfm2XJQ66X/s0mg%2BaCD8bztml4rVMeQbyPOY%3D"
+  }
  },
  {
   "id": 588,
   "title": "Om de beste slagh van pannekoecken te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt 5 of 6 eyeren, kleyngeklopt met schoon stroomwater. Doet er dan by nagelen, caneel, foelie en notemuskaet, met wat sout. Beslaet'et dan met tarwenmeel, soo dick als 't u belieft. Backtse en stroytse met suycker. 't Wort met stroomwater gedaen, omdatse met melck of room tay worden.\n"
+  "instructions": "\nNeemt 5 of 6 eyeren, kleyngeklopt met schoon stroomwater. Doet er dan by nagelen, caneel, foelie en notemuskaet, met wat sout. Beslaet'et dan met tarwenmeel, soo dick als 't u belieft. Backtse en stroytse met suycker. 't Wort met stroomwater gedaen, omdatse met melck of room tay worden.\n",
+  "modernized": {
+   "title": "De beste pannenkoeken bakken",
+   "recipe": "Neem 5 of 6 eieren en klop ze los met schoon water. Voeg dan nootmuskaat, kaneel, foelie en wat zout toe. Meng het vervolgens met tarwemeel tot het de gewenste dikte heeft. Bak de pannenkoeken en bestrooi ze met suiker. Het wordt met water gedaan omdat ze taai worden met melk of room.",
+   "ingredients": [
+    [
+     "5",
+     "eieren"
+    ],
+    [
+     "200 ml",
+     "water"
+    ],
+    [
+     "1 theelepel",
+     "nootmuskaat"
+    ],
+    [
+     "1 theelepel",
+     "kaneel"
+    ],
+    [
+     "1/2 theelepel",
+     "foelie"
+    ],
+    [
+     "1/2 theelepel",
+     "zout"
+    ],
+    [
+     "200 gram",
+     "tarwemeel"
+    ],
+    [
+     "",
+     "suiker"
+    ]
+   ],
+   "visualized": "A stack of pannenkoeken (Dutch pancakes) lightly dusted with powdered sugar. The pancakes are golden brown and thin, with slightly crispy edges. The surface of each pancake is smooth with some small, evenly distributed bubbles, indicating proper cooking. The powdered sugar is delicately sprinkled on top, giving a light, snowy appearance. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "ontbijt",
+    "dessert",
+    "pannenkoeken",
+    "zoet"
+   ],
+   "original": "Om de beste slagh van pannekoecken te backen\n\n\nNeemt 5 of 6 eyeren, kleyngeklopt met schoon stroomwater. Doet er dan by nagelen, caneel, foelie en notemuskaet, met wat sout. Beslaet'et dan met tarwenmeel, soo dick als 't u belieft. Backtse en stroytse met suycker. 't Wort met stroomwater gedaen, omdatse met melck of room tay worden.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-s0fLzzNhyuGifZBwE7sKYVPl.png?st=2024-07-17T18%3A14%3A33Z&se=2024-07-17T20%3A14%3A33Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A45%3A36Z&ske=2024-07-18T13%3A45%3A36Z&sks=b&skv=2023-11-03&sig=Vf5py7vh76aMU31albDiHU4xXJP8IHKcqoyoygZRNec%3D"
+  }
  },
  {
   "id": 589,
   "title": "Om wafelen te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt tot yder pont terwenmeel een pintje soetemelck, een tinne kommeken ghesmolten boter, met 3 of 4 eyeren, een lepel gist, wel ondereengeroert.\n"
+  "instructions": "\nNeemt tot yder pont terwenmeel een pintje soetemelck, een tinne kommeken ghesmolten boter, met 3 of 4 eyeren, een lepel gist, wel ondereengeroert.\n",
+  "modernized": {
+   "title": "Wafels bakken",
+   "recipe": "Neem voor elke pond tarwebloem \u00e9\u00e9n pint melk, een klein beetje gesmolten boter, 3 of 4 eieren en een lepel gist. Roer alles goed door elkaar.",
+   "ingredients": [
+    [
+     "500 g",
+     "tarwebloem"
+    ],
+    [
+     "240 ml",
+     "melk"
+    ],
+    [
+     "50 g",
+     "gesmolten boter"
+    ],
+    [
+     "3-4",
+     "eieren"
+    ],
+    [
+     "1 el",
+     "gist"
+    ]
+   ],
+   "visualized": "Golden brown waffles stacked on top of each other, slighty crispy around the edges, with visible grid patterns on their surface. The waffles are light and slightly fluffy on the inside. They are served on a rustic wooden board. Sigma 85 mm f/1.4, three-quarters angle.",
+   "tags": [
+    "dessert",
+    "ontbijt",
+    "gebak"
+   ],
+   "original": "Om wafelen te backen\n\n\nNeemt tot yder pont terwenmeel een pintje soetemelck, een tinne kommeken ghesmolten boter, met 3 of 4 eyeren, een lepel gist, wel ondereengeroert.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-PTzEpGdv5u2LV21HKIgeT7fu.png?st=2024-07-17T18%3A14%3A55Z&se=2024-07-17T20%3A14%3A55Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T14%3A03%3A32Z&ske=2024-07-18T14%3A03%3A32Z&sks=b&skv=2023-11-03&sig=A9iZJrDPszGJpQ6sVBqUP0a4q%2BJYP55xJNQEX/18yZ0%3D"
+  }
  },
  {
   "id": 590,
   "title": "Om oblien te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een pont terwenmeel, een loot caneel, een half loot gember, 2 eyeren, een half bierglaesje Rinse wijn, een stuyver rooswater, een kommetje boter sonder sout, een weynigh suycker. Dit in lauw water beslagen op de dickte als pannekoecken en alsoo in 't yser gebacken. Is delicaet.\n"
+  "instructions": "\nNeemt een pont terwenmeel, een loot caneel, een half loot gember, 2 eyeren, een half bierglaesje Rinse wijn, een stuyver rooswater, een kommetje boter sonder sout, een weynigh suycker. Dit in lauw water beslagen op de dickte als pannekoecken en alsoo in 't yser gebacken. Is delicaet.\n",
+  "modernized": {
+   "title": "Oblien bakken",
+   "recipe": "Neem 500 gram tarwemeel, 3 gram kaneel, 1,5 gram gember, 2 eieren, 75 ml rode wijn, 1 eetlepel rozenwater, 100 gram ongezouten boter en een beetje suiker. Meng dit in lauwwarm water tot de dikte van pannenkoekenbeslag en bak het in een wafelijzer. Heerlijk delicaat.",
+   "ingredients": [
+    [
+     "500 gram",
+     "tarwemeel"
+    ],
+    [
+     "3 gram",
+     "kaneel"
+    ],
+    [
+     "1,5 gram",
+     "gember"
+    ],
+    [
+     "2",
+     "eieren"
+    ],
+    [
+     "75 ml",
+     "rode wijn"
+    ],
+    [
+     "1 eetlepel",
+     "rozenwater"
+    ],
+    [
+     "100 gram",
+     "ongezouten boter"
+    ],
+    [
+     "",
+     "suiker"
+    ]
+   ],
+   "visualized": "A golden, crispy waffle with a delicate pattern, infused with the flavors of cinnamon, ginger, and a hint of rosewater. The waffle is shown from a three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "gebak",
+    "zoet"
+   ],
+   "original": "Om oblien te backen\n\n\nNeemt een pont terwenmeel, een loot caneel, een half loot gember, 2 eyeren, een half bierglaesje Rinse wijn, een stuyver rooswater, een kommetje boter sonder sout, een weynigh suycker. Dit in lauw water beslagen op de dickte als pannekoecken en alsoo in 't yser gebacken. Is delicaet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-DAubZBRdT8lVhxSN6SCXf69S.png?st=2024-07-17T18%3A15%3A20Z&se=2024-07-17T20%3A15%3A20Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A52%3A59Z&ske=2024-07-18T12%3A52%3A59Z&sks=b&skv=2023-11-03&sig=PIJQtFVlprXuO3a75rKrj%2BMjMdd5nN9o6ARKquXQ9n0%3D"
+  }
  },
  {
   "id": 591,
   "title": "Om oliekoecken te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt tot 2 pont tarwemeel 2 pont lange rosijnen (als die schoongewassen zijn, laetse in lauw water wat staen zwellen), een kop van de beste appelen (schilt die en snijtse in heel kleyne stucxkens, de klockhuysen wel uytgedaen), een vierendeel of anderhalf gepelde amandelen, een loot caneel, een vierendeel loots witte gember, een weynigh nagelen (dit wel ondereengestoten), een half kommeken gesmolten boter, een groote lepel gist en niet wel een pintje lauwe soetemelck, want het moet heel dick beslagen zijn, dat het beslagh noch tay om de lepel blijft. En dan alle het andere daerin geroert en soo laten rijsen. Neemt daertoe een mengelen van de beste raepolie, doet daerin een korst broot, een halve appel. Settet op het vuur en laet het uytbranden. Keert het broot en appel altemet om tot het zwart en hart wort. Giet er dan een schootjen schoon water in en laet het dan in de lucht kout worden, en daernaer weder op 't vuur geset, als ghy die wilt gebruyken.\n"
+  "instructions": "\nNeemt tot 2 pont tarwemeel 2 pont lange rosijnen (als die schoongewassen zijn, laetse in lauw water wat staen zwellen), een kop van de beste appelen (schilt die en snijtse in heel kleyne stucxkens, de klockhuysen wel uytgedaen), een vierendeel of anderhalf gepelde amandelen, een loot caneel, een vierendeel loots witte gember, een weynigh nagelen (dit wel ondereengestoten), een half kommeken gesmolten boter, een groote lepel gist en niet wel een pintje lauwe soetemelck, want het moet heel dick beslagen zijn, dat het beslagh noch tay om de lepel blijft. En dan alle het andere daerin geroert en soo laten rijsen. Neemt daertoe een mengelen van de beste raepolie, doet daerin een korst broot, een halve appel. Settet op het vuur en laet het uytbranden. Keert het broot en appel altemet om tot het zwart en hart wort. Giet er dan een schootjen schoon water in en laet het dan in de lucht kout worden, en daernaer weder op 't vuur geset, als ghy die wilt gebruyken.\n",
+  "modernized": {
+   "title": "Oliebollen",
+   "recipe": "Neem 1 kilogram tarwemeel, 1 kilogram rozijnen (als die schoongewassen zijn, laat ze in lauwwarm water wat zwellen), een kop van de beste appels (schil ze en snijd ze in heel kleine stukjes, de klokhuizen goed verwijderd), 125 gram gepelde amandelen, 5 gram kaneel, 5 gram witte gember, een beetje kruidnagel (dit goed fijngestampt), 50 gram gesmolten boter, een grote lepel gist en ongeveer een halve liter lauwwarme melk, want het moet heel dik beslagen zijn, zodat het beslag nog moeilijk van de lepel valt. Roer dan alles erdoor en laat het rijzen. Gebruik een mengsel van de beste raapolie, doe daarin een korst brood en een halve appel. Zet het op het vuur en laat het uitbranden. Draai het brood en de appel regelmatig om tot ze zwart en hard zijn. Giet er dan een scheut schoon water in en laat het dan in de lucht afkoelen, en zet het vervolgens weer op het vuur als je de olie wilt gebruiken.",
+   "ingredients": [
+    [
+     "1 kg",
+     "tarwemeel"
+    ],
+    [
+     "1 kg",
+     "rozijnen"
+    ],
+    [
+     "",
+     "kop appels"
+    ],
+    [
+     "125 g",
+     "gepelde amandelen"
+    ],
+    [
+     "5 g",
+     "kaneel"
+    ],
+    [
+     "5 g",
+     "witte gember"
+    ],
+    [
+     "",
+     "kruidnagel"
+    ],
+    [
+     "50 g",
+     "gesmolten boter"
+    ],
+    [
+     "",
+     "grote lepel gist"
+    ],
+    [
+     "0,5 l",
+     "lauwwarme melk"
+    ],
+    [
+     "",
+     "raapolie"
+    ],
+    [
+     "",
+     "korst brood"
+    ],
+    [
+     "",
+     "halve appel"
+    ]
+   ],
+   "visualized": "A close-up image of golden-brown oliebollen, each about the size of a large orange, with visible pieces of raisins and tiny apple chunks peeking out. The texture is slightly rough, indicating a crispy outside with a fluffy inside. Powdered sugar lightly dusted on top. The oliebollen are arranged in a rustic basket, lined with a simple white cloth. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "gebak",
+    "zoet",
+    "dessert",
+    "appels",
+    "rozijnen",
+    "traditioneel"
+   ],
+   "original": "Om oliekoecken te backen\n\n\nNeemt tot 2 pont tarwemeel 2 pont lange rosijnen (als die schoongewassen zijn, laetse in lauw water wat staen zwellen), een kop van de beste appelen (schilt die en snijtse in heel kleyne stucxkens, de klockhuysen wel uytgedaen), een vierendeel of anderhalf gepelde amandelen, een loot caneel, een vierendeel loots witte gember, een weynigh nagelen (dit wel ondereengestoten), een half kommeken gesmolten boter, een groote lepel gist en niet wel een pintje lauwe soetemelck, want het moet heel dick beslagen zijn, dat het beslagh noch tay om de lepel blijft. En dan alle het andere daerin geroert en soo laten rijsen. Neemt daertoe een mengelen van de beste raepolie, doet daerin een korst broot, een halve appel. Settet op het vuur en laet het uytbranden. Keert het broot en appel altemet om tot het zwart en hart wort. Giet er dan een schootjen schoon water in en laet het dan in de lucht kout worden, en daernaer weder op 't vuur geset, als ghy die wilt gebruyken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-Bda8r7ZD0fcD18vPk9Gsxmos.png?st=2024-07-17T18%3A15%3A48Z&se=2024-07-17T20%3A15%3A48Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A20%3A59Z&ske=2024-07-18T11%3A20%3A59Z&sks=b&skv=2023-11-03&sig=s064Lj%2Bs9wR/dqhd6SE8dhTVUpoggC2Umg661Cg3bL4%3D"
+  }
  },
  {
   "id": 592,
   "title": "Om koecxkens te backen van eyeren of poffenbroot ",
   "bookRef": "N1669",
-  "instructions": "\nNeemt broot dat een dagh 3 of 4 out is. Raspt het heel kleyn en set'et dan in soetemelck te weycken totdat het dick en wel uytgedyt is. Neemt dan wat roosewater en suycker, en 6 of meer eyeren naer ghy veel broodt hebt. Sommige nemen oock wat korenten en kaneel daerby. En dan in boter gebacken, yeder soo groot alst hem belieft.\n"
+  "instructions": "\nNeemt broot dat een dagh 3 of 4 out is. Raspt het heel kleyn en set'et dan in soetemelck te weycken totdat het dick en wel uytgedyt is. Neemt dan wat roosewater en suycker, en 6 of meer eyeren naer ghy veel broodt hebt. Sommige nemen oock wat korenten en kaneel daerby. En dan in boter gebacken, yeder soo groot alst hem belieft.\n",
+  "modernized": {
+   "title": "Koekjes gebakken van eieren en oud brood",
+   "recipe": "Neem brood dat 3 of 4 dagen oud is. Rasp het heel fijn en laat het weken in zoete melk totdat het dik en goed uitgezet is.\n\nVoeg dan wat rozenwater en suiker toe, evenals 6 of meer eieren, afhankelijk van de hoeveelheid brood die je hebt.\n\nSommige mensen voegen ook wat krenten en kaneel toe. Bak het vervolgens in boter, waarbij je de grootte van de koekjes naar eigen voorkeur bepaalt.",
+   "ingredients": [
+    [
+     "200 g",
+     "oud brood"
+    ],
+    [
+     "200 ml",
+     "melk"
+    ],
+    [
+     "20 ml",
+     "rozenwater"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "6",
+     "eieren"
+    ],
+    [
+     "50 g",
+     "krenten"
+    ],
+    [
+     "1 tl",
+     "kaneel"
+    ],
+    [
+     "30 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A plate of golden brown cookies made from old bread and eggs, showing various sizes. Some cookies have a hint of currants and cinnamon. The surface of the cookies is slightly crispy and glossy. The image should be from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "koekjes",
+    "zoet",
+    "snack",
+    "bakken"
+   ],
+   "original": "Om koecxkens te backen van eyeren of poffenbroot \n\n\nNeemt broot dat een dagh 3 of 4 out is. Raspt het heel kleyn en set'et dan in soetemelck te weycken totdat het dick en wel uytgedyt is. Neemt dan wat roosewater en suycker, en 6 of meer eyeren naer ghy veel broodt hebt. Sommige nemen oock wat korenten en kaneel daerby. En dan in boter gebacken, yeder soo groot alst hem belieft.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-dUte3V5Vva8TwX2sJKOvkb2J.png?st=2024-07-17T18%3A16%3A14Z&se=2024-07-17T20%3A16%3A14Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A56%3A28Z&ske=2024-07-18T13%3A56%3A28Z&sks=b&skv=2023-11-03&sig=jdb4iyvJXpyW5dyIIOoGA1%2BgrOffSNqAk1The5VdELg%3D"
+  }
  },
  {
   "id": 593,
   "title": "Om een poddingh te backen die delicaet is",
   "bookRef": "N1669",
-  "instructions": "\nNeemt 13 groote beschuyten, fijngestampt, een half pont kalfsvet aen dobbelsteentjes gesneden. Dan in een platte pot gedaen en daeronder een notemuskaet geraspt, een halve lepel gember, een weynigh sout, en dit tesamen ondereengeroert en dan gemenght, heel droogjes, met warme soetemelck, daer het kalfsvet eerst warm in gemaeckt is. Doet daer dan by een half pont korenten, 10 eyeren, ruym een vierendeel ponts tarwenmeel, een halve tinne lepel vol gist. De pan dan met koude boter bestreken en een uurtje in de warme pan laten rijsen, en dan voort afgebacken.\n"
+  "instructions": "\nNeemt 13 groote beschuyten, fijngestampt, een half pont kalfsvet aen dobbelsteentjes gesneden. Dan in een platte pot gedaen en daeronder een notemuskaet geraspt, een halve lepel gember, een weynigh sout, en dit tesamen ondereengeroert en dan gemenght, heel droogjes, met warme soetemelck, daer het kalfsvet eerst warm in gemaeckt is. Doet daer dan by een half pont korenten, 10 eyeren, ruym een vierendeel ponts tarwenmeel, een halve tinne lepel vol gist. De pan dan met koude boter bestreken en een uurtje in de warme pan laten rijsen, en dan voort afgebacken.\n",
+  "modernized": {
+   "title": "Delicate Pudding",
+   "recipe": "Neem 13 grote beschuiten en stamp ze fijn. Snijd een half pond kalfsvet in dobbelsteentjes. Doe dit in een platte pot en voeg een geraspte nootmuskaat, een halve lepel gember, en een beetje zout toe. Meng dit samen en voeg warme zoete melk toe waarin het kalfsvet eerst is verwarmd. Voeg vervolgens een half pond krenten, 10 eieren, ruim een kwart pond tarwemeel, en een halve theelepel gist toe. Smeer een pan in met koude boter, laat het mengsel een uurtje in de warme pan rijzen, en bak het daarna af.",
+   "ingredients": [
+    [
+     "13",
+     "grote beschuiten"
+    ],
+    [
+     "250 g",
+     "kalfsvet"
+    ],
+    [
+     "1",
+     "nootmuskaat"
+    ],
+    [
+     "1/2 el",
+     "gemberpoeder"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "250 ml",
+     "warme zoete melk"
+    ],
+    [
+     "250 g",
+     "krenten"
+    ],
+    [
+     "10",
+     "eieren"
+    ],
+    [
+     "125 g",
+     "tarwemeel"
+    ],
+    [
+     "1/2 tl",
+     "gist"
+    ],
+    [
+     "",
+     "koude boter"
+    ]
+   ],
+   "visualized": "A delicate pudding is shown, with a golden-brown crust on top. The texture is moist and slightly crumbly, dotted with currants throughout. The pudding is baked in a round dish and appears fluffy and rich. It is cut into a slice, showcasing the rich interior with visible currants. The slice sits on a plate next to a fork. The dish is garnished with a light dusting of powdered sugar. It is from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "zoet",
+    "gebak",
+    "pudding"
+   ],
+   "original": "Om een poddingh te backen die delicaet is\n\n\nNeemt 13 groote beschuyten, fijngestampt, een half pont kalfsvet aen dobbelsteentjes gesneden. Dan in een platte pot gedaen en daeronder een notemuskaet geraspt, een halve lepel gember, een weynigh sout, en dit tesamen ondereengeroert en dan gemenght, heel droogjes, met warme soetemelck, daer het kalfsvet eerst warm in gemaeckt is. Doet daer dan by een half pont korenten, 10 eyeren, ruym een vierendeel ponts tarwenmeel, een halve tinne lepel vol gist. De pan dan met koude boter bestreken en een uurtje in de warme pan laten rijsen, en dan voort afgebacken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-GOBw48uuxfJPSB8x1WG6V7L9.png?st=2024-07-17T18%3A16%3A52Z&se=2024-07-17T20%3A16%3A52Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A24%3A10Z&ske=2024-07-18T13%3A24%3A10Z&sks=b&skv=2023-11-03&sig=S5mQZStYc9dr43S1oeGkNid9RMgp3N8U9NdJkqENU6s%3D"
+  }
  },
  {
   "id": 594,
   "title": "Om een poddingh te koken die ongemeen goet is",
   "bookRef": "N1669",
-  "instructions": "\nNeemt anderhalf pondt tarwenmeel, drie vierendeel korenten schoongewassen, een half pondt ossenvet van 't niervet (kapt het heel kleyn), 3 eyeren, anderhalf notemuskaet kleyngeraspt, een weynigh zout. Menght het met een weynigh soetemelck, soo droogh dat men het kneet als een broodt, en bindt het dan in een schoone doeck wel stijf en smijt het dan in een pot ziedent water, en laet het twee uuren koken. Dan is 't gaer.\n"
+  "instructions": "\nNeemt anderhalf pondt tarwenmeel, drie vierendeel korenten schoongewassen, een half pondt ossenvet van 't niervet (kapt het heel kleyn), 3 eyeren, anderhalf notemuskaet kleyngeraspt, een weynigh zout. Menght het met een weynigh soetemelck, soo droogh dat men het kneet als een broodt, en bindt het dan in een schoone doeck wel stijf en smijt het dan in een pot ziedent water, en laet het twee uuren koken. Dan is 't gaer.\n",
+  "modernized": {
+   "title": "Heerlijke Pudding",
+   "recipe": "Neem 750 gram tarwebloem, 300 gram schoongewassen krenten en 250 gram niervet (heel fijngehakt). Voeg 3 eieren, anderhalve geraspte nootmuskaat en een beetje zout toe. Meng het met een beetje melk, zodat het droog genoeg is om als een brood te kneden. Bind het deeg stevig in een schone doek en plaats het in een pot met kokend water. Laat het twee uur koken. Dan is het gaar.",
+   "ingredients": [
+    [
+     "750 gram",
+     "tarwebloem"
+    ],
+    [
+     "300 gram",
+     "krenten"
+    ],
+    [
+     "250 gram",
+     "niervet"
+    ],
+    [
+     "3",
+     "eieren"
+    ],
+    [
+     "1",
+     "geraspte nootmuskaat"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "melk"
+    ]
+   ],
+   "visualized": "A rustic, old-fashioned boiled pudding made with flour, currants, and finely chopped suet, wrapped tightly in a cloth and boiled until firm. It should be cut into slices, showing a dense, slightly crumbly texture with specks of currants throughout. The image should be from a three-quarters angle, taken with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "nagerecht",
+    "gebak",
+    "pudding",
+    "zoet"
+   ],
+   "original": "Om een poddingh te koken die ongemeen goet is\n\n\nNeemt anderhalf pondt tarwenmeel, drie vierendeel korenten schoongewassen, een half pondt ossenvet van 't niervet (kapt het heel kleyn), 3 eyeren, anderhalf notemuskaet kleyngeraspt, een weynigh zout. Menght het met een weynigh soetemelck, soo droogh dat men het kneet als een broodt, en bindt het dan in een schoone doeck wel stijf en smijt het dan in een pot ziedent water, en laet het twee uuren koken. Dan is 't gaer.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-YWyrEs63SuBNdJCBopz7rKeB.png?st=2024-07-17T18%3A17%3A22Z&se=2024-07-17T20%3A17%3A22Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A31%3A09Z&ske=2024-07-18T12%3A31%3A09Z&sks=b&skv=2023-11-03&sig=5AXOK4TSX7mGsKuT8wX5RHTqRlqQU7Dz1xna4y8YB8A%3D"
+  }
  },
  {
   "id": 595,
   "title": "Om deegh te maken tot taerten",
   "bookRef": "N1669",
-  "instructions": "\nNeemt terwenmeel, boter, rooswater, suycker ende een weynigh eyeren, van yder naer behooren.\n"
+  "instructions": "\nNeemt terwenmeel, boter, rooswater, suycker ende een weynigh eyeren, van yder naer behooren.\n",
+  "modernized": {
+   "title": "Deeg voor Taarten",
+   "recipe": "Neem tarwemeel, boter, rozenwater, suiker en een beetje eieren, van ieder naar behoefte.\n\n1. Meng het tarwemeel en de boter door elkaar tot een kruimelig deeg.\n2. Voeg daarna het rozenwater en de suiker toe.\n3. Meng alles goed door elkaar.\n4. Voeg als laatste de eieren toe en kneed het deeg tot een geheel.\n5. Vorm het deeg tot een bal en laat het rusten in de koelkast voor minimaal 1 uur.\n6. Rol het deeg uit en gebruik het voor je taartrecept naar keuze.",
+   "ingredients": [
+    [
+     "250 g",
+     "tarwemeel"
+    ],
+    [
+     "150 g",
+     "boter"
+    ],
+    [
+     "2 el",
+     "rozenwater"
+    ],
+    [
+     "100 g",
+     "suiker"
+    ],
+    [
+     "2",
+     "eieren"
+    ]
+   ],
+   "visualized": "A ball of raw pastry dough sits on a wooden surface, lightly dusted with flour. The dough looks smooth and firm, with slight indentations showing that it has been kneaded. Next to the dough, a rolling pin is resting. The scene is captured from a three-quarters angle using a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "deeg",
+    "basisrecept",
+    "gebak"
+   ],
+   "original": "Om deegh te maken tot taerten\n\n\nNeemt terwenmeel, boter, rooswater, suycker ende een weynigh eyeren, van yder naer behooren.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-hfIk3sXn6fUwod98MH3c76Gw.png?st=2024-07-17T18%3A18%3A27Z&se=2024-07-17T20%3A18%3A27Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A37%3A02Z&ske=2024-07-18T13%3A37%3A02Z&sks=b&skv=2023-11-03&sig=aTzMI3VROzqlKaT8OTcrp2D2w%2BmBucUNPiCjDwNM8n8%3D"
+  }
  },
  {
   "id": 596,
   "title": "Om een deeghkorst te maken sonder boter",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een vierendeel pont fijn tarwenmeel en doet het in een aerde pot. Backt het in den oven met het broot. Maeckt dan met de doren van 2 of 3 eyeren en een pint room een deegh, daeronder stotende een half vierendeel fijngestoten brootsuycker. En soo sult gy het deegh kort maken sonder boter of vet.\n"
+  "instructions": "\nNeemt een vierendeel pont fijn tarwenmeel en doet het in een aerde pot. Backt het in den oven met het broot. Maeckt dan met de doren van 2 of 3 eyeren en een pint room een deegh, daeronder stotende een half vierendeel fijngestoten brootsuycker. En soo sult gy het deegh kort maken sonder boter of vet.\n",
+  "modernized": {
+   "title": "Deegkorst zonder boter",
+   "recipe": "Neem 125 gram fijn tarwemeel en doe het in een aardewerken pot. Bak het samen met brood in de oven.\n\nMaak dan met de dooiers van 2 of 3 eieren en 500 ml room een deeg, waarbij je 60 gram fijngestoten basterdsuiker toevoegt. Zo maak je het deeg zonder boter of vet.",
+   "ingredients": [
+    [
+     "125 gram",
+     "tarwemeel"
+    ],
+    [
+     "",
+     "brood"
+    ],
+    [
+     "2-3",
+     "eierdooiers"
+    ],
+    [
+     "500 ml",
+     "room"
+    ],
+    [
+     "60 gram",
+     "basterdsuiker"
+    ]
+   ],
+   "visualized": "A pie crust made without butter, placed on a rustic wooden table. The crust has a golden-brown color and looks flaky and slightly crumbly. The surface showcases a slightly uneven texture, typical for homemade pastries. There are no additional fillings, just the crust itself. The image is shot from a three-quarters angle with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "deeg",
+    "gebak",
+    "vegetarisch"
+   ],
+   "original": "Om een deeghkorst te maken sonder boter\n\n\nNeemt een vierendeel pont fijn tarwenmeel en doet het in een aerde pot. Backt het in den oven met het broot. Maeckt dan met de doren van 2 of 3 eyeren en een pint room een deegh, daeronder stotende een half vierendeel fijngestoten brootsuycker. En soo sult gy het deegh kort maken sonder boter of vet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-iM1IQKtNP5YbllhaG8LNcYBZ.png?st=2024-07-17T18%3A18%3A51Z&se=2024-07-17T20%3A18%3A51Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A36%3A45Z&ske=2024-07-18T13%3A36%3A45Z&sks=b&skv=2023-11-03&sig=NvbHCYQxhZeqtx/JnbA%2BG3h/LgDFqN9AdWzLmSCHvXM%3D"
+  }
  },
  {
   "id": 597,
   "title": "Om amandeltaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een half pont gepelde amandelen, een vierendeel suycker, 3 heele eyeren met het wit en noch 3 doren van eyeren, een half vierendeel soete boter, rooswater sooveel als genoegh is om de amandelen kleyn te stoten. Op de plaet daer gy die op bereyden wilt, stroyt die eerst wel met tarwenmeel.\n"
+  "instructions": "\nNeemt een half pont gepelde amandelen, een vierendeel suycker, 3 heele eyeren met het wit en noch 3 doren van eyeren, een half vierendeel soete boter, rooswater sooveel als genoegh is om de amandelen kleyn te stoten. Op de plaet daer gy die op bereyden wilt, stroyt die eerst wel met tarwenmeel.\n",
+  "modernized": {
+   "title": "Amandeltaart",
+   "recipe": "Neem 250 gram gepelde amandelen, 125 gram suiker, 3 hele eieren met het eiwit en nog 3 dooiers, 60 gram zoete boter en rozenwater zoveel als nodig om de amandelen fijn te malen.\n\nOp de bakplaat waar je de taart op wilt bereiden, strooi eerst wat tarwemeel.\n\nVerwarm de oven voor op 180 graden Celsius. Maal de amandelen fijn met het rozenwater. Meng de gemalen amandelen met de suiker, de hele eieren, de dooiers en de boter tot een glad beslag. Giet het beslag op de met tarwemeel bestrooide bakplaat.\n\nBak de taart in de voorverwarmde oven gedurende 30-35 minuten, of tot de bovenkant goudbruin is.",
+   "ingredients": [
+    [
+     "250 gram",
+     "gepelde amandelen"
+    ],
+    [
+     "125 gram",
+     "suiker"
+    ],
+    [
+     "3",
+     "hele eieren"
+    ],
+    [
+     "3",
+     "eierdooiers"
+    ],
+    [
+     "60 gram",
+     "zoete boter"
+    ],
+    [
+     "",
+     "rozenwater"
+    ],
+    [
+     "",
+     "tarwemeel"
+    ]
+   ],
+   "visualized": "A golden-brown almond tart on a baking sheet dusted lightly with flour. The tart has a smooth, slightly glossy surface with a few tiny cracks. There are hints of a fine-ground almond texture visible within the surface. It must be from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "bakken",
+    "zoet",
+    "amandel"
+   ],
+   "original": "Om amandeltaert te maken\n\n\nNeemt een half pont gepelde amandelen, een vierendeel suycker, 3 heele eyeren met het wit en noch 3 doren van eyeren, een half vierendeel soete boter, rooswater sooveel als genoegh is om de amandelen kleyn te stoten. Op de plaet daer gy die op bereyden wilt, stroyt die eerst wel met tarwenmeel.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-935VJMSbXI1vmo8GV1QgnpXT.png?st=2024-07-17T18%3A19%3A21Z&se=2024-07-17T20%3A19%3A21Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A59%3A18Z&ske=2024-07-18T12%3A59%3A18Z&sks=b&skv=2023-11-03&sig=B/9b51MataYA3HGUGC0xCi3UdPqQGyxnX/UStiKOpUs%3D"
+  }
  },
  {
   "id": 598,
   "title": "Om een peertaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt 12 geschilde peeren van de smakelijckste, korenten en suycker, van yder een vierendeel, 6 loot boter, gember, kaneel, van yder een half loot; in een korst als voren verhaelt is.\n"
+  "instructions": "\nNeemt 12 geschilde peeren van de smakelijckste, korenten en suycker, van yder een vierendeel, 6 loot boter, gember, kaneel, van yder een half loot; in een korst als voren verhaelt is.\n",
+  "modernized": {
+   "title": "Peertaart",
+   "recipe": "Om een peertaart te maken:\n\nNeem 12 geschilde peren van de smakelijkste soort. Voeg een kwart kopje rozijnen en een kwart kopje suiker toe. Voeg hierbij 6 gram boter, een halve gram gemalen gember en een halve gram kaneel. Plaats dit alles in een taartkorst zoals eerder beschreven in het recept.",
+   "ingredients": [
+    [
+     "12",
+     "geschilde peren"
+    ],
+    [
+     "60 ml",
+     "rozijnen"
+    ],
+    [
+     "60 g",
+     "suiker"
+    ],
+    [
+     "6 g",
+     "boter"
+    ],
+    [
+     "0.5 g",
+     "gemalen gember"
+    ],
+    [
+     "0.5 g",
+     "kaneel"
+    ],
+    [
+     "",
+     "taartkorst"
+    ]
+   ],
+   "visualized": "A traditional Dutch pear pie made from a golden, flaky crust filled with neatly arranged sliced pears. The pears are mixed with raisins, sugar, and spices like cinnamon and ginger. The top of the pie is lightly glazed, giving it a shiny appearance. The pie is cut to show the intricate, moist pear filling. Three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "taart",
+    "fruit"
+   ],
+   "original": "Om een peertaert te maken\n\n\nNeemt 12 geschilde peeren van de smakelijckste, korenten en suycker, van yder een vierendeel, 6 loot boter, gember, kaneel, van yder een half loot; in een korst als voren verhaelt is.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-Jjln0btpgBAWAKH5PjYqDIF6.png?st=2024-07-17T18%3A19%3A42Z&se=2024-07-17T20%3A19%3A42Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A48%3A18Z&ske=2024-07-18T13%3A48%3A18Z&sks=b&skv=2023-11-03&sig=V1nWcVd9vtSGrNRT0oUmLGClitRfoy4uTihTv8/Wi2I%3D"
+  }
  },
  {
   "id": 599,
   "title": "Om een appeltaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt van de beste appelen, schiltse en snijtse in vierendeelen, de klockhuysen daeruyt gedaen. Koocktse met Rinse wijn in een aerden pot totdatse dick wordt. Doet'erby een goet deel suycker, gestooten kaneel, poeyer van sandelhout, rooswater. Wrijft het altesamen met een houte lepel door een omgekeerde teems. Doet'et in de korst en backtse dan in den oven. 't Sal goet zijn.\n"
+  "instructions": "\nNeemt van de beste appelen, schiltse en snijtse in vierendeelen, de klockhuysen daeruyt gedaen. Koocktse met Rinse wijn in een aerden pot totdatse dick wordt. Doet'erby een goet deel suycker, gestooten kaneel, poeyer van sandelhout, rooswater. Wrijft het altesamen met een houte lepel door een omgekeerde teems. Doet'et in de korst en backtse dan in den oven. 't Sal goet zijn.\n",
+  "modernized": {
+   "title": "Appeltaart",
+   "recipe": "Neem de beste appels, schil ze en snijd ze in vieren, verwijder de klokhuizen. Kook de appels met rhijnwijn in een aardewerken pot totdat het dik wordt. Voeg er een goed deel suiker, gemalen kaneel, poeder van sandelhout en rozenwater aan toe. Wrijf het geheel met een houten lepel door een omgekeerde zeef. Doe het in de korst en bak het dan in de oven. Het zal goed zijn.",
+   "ingredients": [
+    [
+     "6",
+     "appels"
+    ],
+    [
+     "200 ml",
+     "rhijnwijn"
+    ],
+    [
+     "100 g",
+     "suiker"
+    ],
+    [
+     "1 tl",
+     "gemalen kaneel"
+    ],
+    [
+     "1/2 tl",
+     "sandelhoutpoeder"
+    ],
+    [
+     "1 el",
+     "rozenwater"
+    ],
+    [
+     "",
+     "deeg voor appeltaart"
+    ]
+   ],
+   "visualized": "A traditional Dutch apple pie from a three-quarters angle. The pie has a golden-brown crust and a slightly raised top with hints of caramelized sugar. Visible through the lattice crust are tender, cooked apple pieces mixed with a rich, spiced filling. The filling has a glossy, thick consistency with specks of cinnamon and possibly a slight reddish hue from the sandalwood powder. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "taart",
+    "fruit",
+    "appels",
+    "gebak"
+   ],
+   "original": "Om een appeltaert te maken\n\n\nNeemt van de beste appelen, schiltse en snijtse in vierendeelen, de klockhuysen daeruyt gedaen. Koocktse met Rinse wijn in een aerden pot totdatse dick wordt. Doet'erby een goet deel suycker, gestooten kaneel, poeyer van sandelhout, rooswater. Wrijft het altesamen met een houte lepel door een omgekeerde teems. Doet'et in de korst en backtse dan in den oven. 't Sal goet zijn.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-B92LMwM1GSiVmOnjlYrmrZHe.png?st=2024-07-17T18%3A20%3A10Z&se=2024-07-17T20%3A20%3A10Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A08%3A31Z&ske=2024-07-18T12%3A08%3A31Z&sks=b&skv=2023-11-03&sig=KA72PMmb1jW00B2do5HGTNcQFd99Qqllpk70TP3g8DM%3D"
+  }
  },
  {
   "id": 600,
   "title": "Ander manier om een appeltaert te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een pont meel, 4 lepelen water met 2 of 3 lepelen suycker (dit opgekoockt als een syroop). Doet daerby een ey, voorts sooveel boter totdat mender een bequame deegh van kan maken. Dit geeft een goede korste. Voorts neemt men 20 of 25 goede appelen na die groot zijn, geschilt en kleyngesneden. Doet die in een aerden pot, met boter daerby op 't vuur geset en dickmael omgeschut tot die gesloncken zijn. Dan die in u korst gedaen tot de boom bedeckt is, dan weer suycker, korenten en boter, dan weer appelen, tot u korst vol is, en dan op 't vuur gedaen.\n"
+  "instructions": "\nNeemt een pont meel, 4 lepelen water met 2 of 3 lepelen suycker (dit opgekoockt als een syroop). Doet daerby een ey, voorts sooveel boter totdat mender een bequame deegh van kan maken. Dit geeft een goede korste. Voorts neemt men 20 of 25 goede appelen na die groot zijn, geschilt en kleyngesneden. Doet die in een aerden pot, met boter daerby op 't vuur geset en dickmael omgeschut tot die gesloncken zijn. Dan die in u korst gedaen tot de boom bedeckt is, dan weer suycker, korenten en boter, dan weer appelen, tot u korst vol is, en dan op 't vuur gedaen.\n",
+  "modernized": {
+   "title": "Appeltaart op een andere manier",
+   "recipe": "Neem 500 gram meel, 4 eetlepels water en 2 tot 3 eetlepels suiker (gekookt tot een siroop). Voeg hierbij een ei en vervolgens genoeg boter om een geschikt deeg van te maken. Dit zorgt voor een goede korst.\n\nNeem daarna 20 tot 25 goede appels, geschild en in kleine stukjes gesneden. Doe deze in een aardewerken pot, voeg boter toe en zet het op het vuur. Roer regelmatig tot de appels geslonken zijn. Doe ze dan in je korst tot de bodem bedekt is. Voeg dan weer suiker, krenten en boter toe, en dan weer appels, tot de korst vol is. Zet het geheel vervolgens op het vuur.",
+   "ingredients": [
+    [
+     "500 gram",
+     "meel"
+    ],
+    [
+     "4 eetlepels",
+     "water"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "",
+     "boter"
+    ],
+    [
+     "20-25",
+     "appels"
+    ],
+    [
+     "",
+     "krenten"
+    ],
+    [
+     "1",
+     "ei"
+    ]
+   ],
+   "visualized": "The dish is an apple pie with a golden-brown crust, filled with layers of small apple pieces mixed with currants. The top layer of the pie is slightly caramelized with visible hints of butter and sugar, with some currants peeking through. The pie is cut to see the layers of apple filling. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "gebak",
+    "dessert",
+    "fruit"
+   ],
+   "original": "Ander manier om een appeltaert te backen\n\n\nNeemt een pont meel, 4 lepelen water met 2 of 3 lepelen suycker (dit opgekoockt als een syroop). Doet daerby een ey, voorts sooveel boter totdat mender een bequame deegh van kan maken. Dit geeft een goede korste. Voorts neemt men 20 of 25 goede appelen na die groot zijn, geschilt en kleyngesneden. Doet die in een aerden pot, met boter daerby op 't vuur geset en dickmael omgeschut tot die gesloncken zijn. Dan die in u korst gedaen tot de boom bedeckt is, dan weer suycker, korenten en boter, dan weer appelen, tot u korst vol is, en dan op 't vuur gedaen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-AwMNNlr2HPfdbwUG2eqH47wI.png?st=2024-07-17T18%3A20%3A47Z&se=2024-07-17T20%3A20%3A47Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A10%3A44Z&ske=2024-07-18T13%3A10%3A44Z&sks=b&skv=2023-11-03&sig=Lw2rTWc0XpaiQv3u7Ctn6GV9lsjyO2KqUvlWnlCjQu8%3D"
+  }
  },
  {
   "id": 601,
   "title": "Om een appeltaert te maken op noch een ander wijse",
   "bookRef": "N1669",
-  "instructions": "\nNeemt appelen, schiltse en snijtse aen vierendeelen en doet er de klockhuysen uyt, en dan noch aen kleynder dunne snippers gesneden, drie vierendeel korenten schoongewasschen, en drie vierendeel suycker, een loot gestoten caneel. Dan den deegh in de pan geleyt en eerst appelen daerin gestroyt, dan korenten, suycker en kaneel, en stucken boter, en dit soo al met lagen geleyt tot de pan vol is. Sommige doender oock wel gestoten annijszaet in. Dan een decksel van deeg daerbovenop, en hier en daer een gat in het decksel gesneden, en soo met vuur onder en boven laten backen.\n"
+  "instructions": "\nNeemt appelen, schiltse en snijtse aen vierendeelen en doet er de klockhuysen uyt, en dan noch aen kleynder dunne snippers gesneden, drie vierendeel korenten schoongewasschen, en drie vierendeel suycker, een loot gestoten caneel. Dan den deegh in de pan geleyt en eerst appelen daerin gestroyt, dan korenten, suycker en kaneel, en stucken boter, en dit soo al met lagen geleyt tot de pan vol is. Sommige doender oock wel gestoten annijszaet in. Dan een decksel van deeg daerbovenop, en hier en daer een gat in het decksel gesneden, en soo met vuur onder en boven laten backen.\n",
+  "modernized": {
+   "title": "Appeltaart op een andere wijze",
+   "recipe": "Neem appels, schil ze en snijd ze in vieren. Verwijder het klokhuis en snijd de appels daarna in dunne plakjes. Neem rozijnen en was ze schoon. Neem suiker en kaneel en meng het door elkaar.\n\nLeg het deeg in een taartvorm en leg eerst een laag appels erin. Bestrooi deze met rozijnen, suiker en kaneel. Leg er stukjes boter op.\n\nHerhaal deze lagen tot de taartvorm vol is. Sommige mensen voegen ook wat gestoten anijszaad toe.\n\nLeg een deksel van deeg eroverheen en snijd hier en daar een gat in het deksel. Bak de taart met boven- en onderwarmte.",
+   "ingredients": [
+    [
+     "4",
+     "appels"
+    ],
+    [
+     "200 g",
+     "rozijnen"
+    ],
+    [
+     "200 g",
+     "suiker"
+    ],
+    [
+     "1 tl",
+     "kaneel"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "",
+     "anijszaad"
+    ],
+    [
+     "",
+     "deeg"
+    ]
+   ],
+   "visualized": "A three-quarters angle view of a golden-brown apple pie with a lattice pastry top. The pie is well-baked with visible bits of apple slices and soft, melted raisins. The filling looks juicy with caramelized sugar and a light dusting of cinnamon. Small cuts are made in the top crust, allowing a peek into the rich, fruit-filled interior.",
+   "tags": [
+    "taart",
+    "dessert",
+    "appeltaart",
+    "bakken",
+    "zoet"
+   ],
+   "original": "Om een appeltaert te maken op noch een ander wijse\n\n\nNeemt appelen, schiltse en snijtse aen vierendeelen en doet er de klockhuysen uyt, en dan noch aen kleynder dunne snippers gesneden, drie vierendeel korenten schoongewasschen, en drie vierendeel suycker, een loot gestoten caneel. Dan den deegh in de pan geleyt en eerst appelen daerin gestroyt, dan korenten, suycker en kaneel, en stucken boter, en dit soo al met lagen geleyt tot de pan vol is. Sommige doender oock wel gestoten annijszaet in. Dan een decksel van deeg daerbovenop, en hier en daer een gat in het decksel gesneden, en soo met vuur onder en boven laten backen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-2b28Rbq9EOmYd3NBGSpGEX4G.png?st=2024-07-17T18%3A21%3A09Z&se=2024-07-17T20%3A21%3A09Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A36%3A12Z&ske=2024-07-18T13%3A36%3A12Z&sks=b&skv=2023-11-03&sig=NYITMP9ITfmizNUYqAMQNwZdXxoOKYxG3fPXVHkTN2s%3D"
+  }
  },
  {
   "id": 602,
   "title": "Om een appeltaert op de Waelsche manier te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt geschilde appelen, gereynight van 't klockhuys, zietse in Rinse wijn wel gaer. Doet erby boter, gember, suycker, korenten, kaneel. Altesamen wel gekoockt, roert er dan 2 doren van eyeren in. Leghtse in u deegh en backtse in den oven als vooren.\n"
+  "instructions": "\nNeemt geschilde appelen, gereynight van 't klockhuys, zietse in Rinse wijn wel gaer. Doet erby boter, gember, suycker, korenten, kaneel. Altesamen wel gekoockt, roert er dan 2 doren van eyeren in. Leghtse in u deegh en backtse in den oven als vooren.\n",
+  "modernized": {
+   "title": "Appeltaart op de Waalse manier",
+   "recipe": "Neem geschilde appels, ontdaan van het klokhuis, en kook ze gaar in rode wijn. Voeg boter, gember, suiker, krenten en kaneel toe. Kook alles goed. Roer er dan 2 eidooiers doorheen. Leg het in je deeg en bak het in de oven zoals gewoonlijk.",
+   "ingredients": [
+    [
+     "1 kg",
+     "appels"
+    ],
+    [
+     "250 ml",
+     "rode wijn"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ],
+    [
+     "100 g",
+     "suiker"
+    ],
+    [
+     "50 g",
+     "krenten"
+    ],
+    [
+     "1 tl",
+     "kaneel"
+    ],
+    [
+     "2",
+     "eidooiers"
+    ],
+    [
+     "",
+     "deeg"
+    ]
+   ],
+   "visualized": "A beautifully baked apple pie with a golden-brown crust, partially sliced open to reveal a luscious filling of cooked apples mixed with currants and speckled with cinnamon and ginger. The filling appears moist with a slight sheen from the red wine, with tiny specks of butter and pockets of soft, caramelized sugar. The pie is showing from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "taart",
+    "dessert",
+    "fruit",
+    "oven"
+   ],
+   "original": "Om een appeltaert op de Waelsche manier te maken\n\n\nNeemt geschilde appelen, gereynight van 't klockhuys, zietse in Rinse wijn wel gaer. Doet erby boter, gember, suycker, korenten, kaneel. Altesamen wel gekoockt, roert er dan 2 doren van eyeren in. Leghtse in u deegh en backtse in den oven als vooren.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-zNkrZYn181bPLriwJGNbsIEZ.png?st=2024-07-17T18%3A21%3A35Z&se=2024-07-17T20%3A21%3A35Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T09%3A14%3A50Z&ske=2024-07-18T09%3A14%3A50Z&sks=b&skv=2023-11-03&sig=wTNyAlgdejyKZmJNCgwmqV49A1ZWIMP%2ByNIXyDTFHQ8%3D"
+  }
  },
  {
   "id": 603,
   "title": "Om een kerssetaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt van de schoonste kerssen en naer ghy de korst gemaeckt hebt, bestroyt en bedeckt den bodem met suycker. Leght er een laegh kerssen op en dan weder een laegh suycker, totdat de taertkorst opgevult zy, niet vergetende caneel. Decktse dan toe en laetse soo gaerbacken. Op diergelijcke manier keunt gy oock een taert van kruysbesien, aelbesien, aerdbesien, barbarisse, pruymen ende alle weecke vruchten maken.\n"
+  "instructions": "\nNeemt van de schoonste kerssen en naer ghy de korst gemaeckt hebt, bestroyt en bedeckt den bodem met suycker. Leght er een laegh kerssen op en dan weder een laegh suycker, totdat de taertkorst opgevult zy, niet vergetende caneel. Decktse dan toe en laetse soo gaerbacken. Op diergelijcke manier keunt gy oock een taert van kruysbesien, aelbesien, aerdbesien, barbarisse, pruymen ende alle weecke vruchten maken.\n",
+  "modernized": {
+   "title": "Kersentaart",
+   "recipe": "Neem de schoonste kersen en maak de korst. Bestrooi en bedek de bodem met suiker.\n\nLeg een laag kersen op de suiker en dan weer een laag suiker.\n\nHerhaal dit totdat de taartkorst gevuld is. Vergeet de kaneel niet.\n\nDek het af en bak de taart.\n\nOp dezelfde manier kun je ook een taart maken van kruisbessen, aalbessen, aardbeien, berberissen, pruimen en alle zachte vruchten.",
+   "ingredients": [
+    [
+     "500 g",
+     "kersen"
+    ],
+    [
+     "200 g",
+     "suiker"
+    ],
+    [
+     "1 theelepel",
+     "kaneel"
+    ],
+    [
+     "1",
+     "taartkorst"
+    ]
+   ],
+   "visualized": "A three-quarters angle view of a cherry pie. The pie has an even, golden-brown crust and through the vent holes, you can see the glistening cherries coated in a light layer of sugar and cinnamon. The edges of the crust are neatly crimped, and the surface is dusted with a bit of sugar, giving it a slight sparkle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "zoet",
+    "dessert",
+    "taart",
+    "fruit"
+   ],
+   "original": "Om een kerssetaert te maken\n\n\nNeemt van de schoonste kerssen en naer ghy de korst gemaeckt hebt, bestroyt en bedeckt den bodem met suycker. Leght er een laegh kerssen op en dan weder een laegh suycker, totdat de taertkorst opgevult zy, niet vergetende caneel. Decktse dan toe en laetse soo gaerbacken. Op diergelijcke manier keunt gy oock een taert van kruysbesien, aelbesien, aerdbesien, barbarisse, pruymen ende alle weecke vruchten maken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-zbe5hzd5gsTJwrrHxA1jokmD.png?st=2024-07-17T18%3A22%3A03Z&se=2024-07-17T20%3A22%3A03Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A05%3A43Z&ske=2024-07-18T11%3A05%3A43Z&sks=b&skv=2023-11-03&sig=yHuJascZ42G0eS3hlTEgFMobGD/uSskIHMsb7D8eZkk%3D"
+  }
  },
  {
   "id": 604,
   "title": "Een kerssetaert op een ander manier",
   "bookRef": "N1669",
-  "instructions": "\nNeemt derdehalf pondt kerssen, doet er de steenen uyt over een platte pot, opdat het sop niet verloren gaet, 3 beschuyten gestoten, drie vierendeel suycker, een loot gestoten caneel. Roert dit t'samen ondereen en leght het dan in den deegh in de taertpan, en daer stukjes boter op. Decktse met een decksel van deegh toe, daer hier en daer maer een kleyn gaetjen in is, anders loopt het sop daeruyt.\n"
+  "instructions": "\nNeemt derdehalf pondt kerssen, doet er de steenen uyt over een platte pot, opdat het sop niet verloren gaet, 3 beschuyten gestoten, drie vierendeel suycker, een loot gestoten caneel. Roert dit t'samen ondereen en leght het dan in den deegh in de taertpan, en daer stukjes boter op. Decktse met een decksel van deegh toe, daer hier en daer maer een kleyn gaetjen in is, anders loopt het sop daeruyt.\n",
+  "modernized": {
+   "title": "Kersentaart op een andere manier",
+   "recipe": "Neem 350 gram kersen, verwijder de pitten boven een platte pot, zodat het sap niet verloren gaat. Verkruimel 3 beschuiten, meng met 75 gram suiker en 4 gram gemalen kaneel. Roer dit samen en leg het dan in het deeg in de taartvorm. Voeg stukjes boter toe bovenop het kersenmengsel. Bedek de taart met een deegdeksel en maak kleine gaatjes in het deksel om te zorgen dat het sap niet eruit loopt.",
+   "ingredients": [
+    [
+     "350 gram",
+     "kersen"
+    ],
+    [
+     "3",
+     "beschuiten"
+    ],
+    [
+     "75 gram",
+     "suiker"
+    ],
+    [
+     "4 gram",
+     "gemalen kaneel"
+    ],
+    [
+     "",
+     "stukjes boter"
+    ],
+    [
+     "",
+     "deeg"
+    ]
+   ],
+   "visualized": "A rustic cherry pie with a golden-brown lattice crust, visible pieces of butter slightly melted on top of juicily baked cherries peeking through the lattice. The pie is placed on a wooden surface, with some crumbs around, viewed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "gebak",
+    "fruit"
+   ],
+   "original": "Een kerssetaert op een ander manier\n\n\nNeemt derdehalf pondt kerssen, doet er de steenen uyt over een platte pot, opdat het sop niet verloren gaet, 3 beschuyten gestoten, drie vierendeel suycker, een loot gestoten caneel. Roert dit t'samen ondereen en leght het dan in den deegh in de taertpan, en daer stukjes boter op. Decktse met een decksel van deegh toe, daer hier en daer maer een kleyn gaetjen in is, anders loopt het sop daeruyt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-qwbZgifCeqfi9wzCPPqzP95U.png?st=2024-07-17T18%3A22%3A24Z&se=2024-07-17T20%3A22%3A24Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A07%3A01Z&ske=2024-07-18T12%3A07%3A01Z&sks=b&skv=2023-11-03&sig=K0MMYNAkWPxgYldFPmarFNKxwd75kKCfcfyGNQo9iiI%3D"
+  }
  },
  {
   "id": 605,
   "title": "Om een kerveltaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt kervel van de eerste snee ende die kleyngekerft, 't sap wat uytgeduwt. Dan gemenght met boter, korenten, suycker, gestoten beschuyt, caneel en rooswater, met 6 of 8 eyeren. Dan in de korst geleyt en gebacken.\n"
+  "instructions": "\nNeemt kervel van de eerste snee ende die kleyngekerft, 't sap wat uytgeduwt. Dan gemenght met boter, korenten, suycker, gestoten beschuyt, caneel en rooswater, met 6 of 8 eyeren. Dan in de korst geleyt en gebacken.\n",
+  "modernized": {
+   "title": "Kerveltaart",
+   "recipe": "Om een kerveltaart te maken: \n\nNeem verse kervel, fijngehakt, en pers het sap eruit. Meng het met boter, krenten, suiker, fijn geplette beschuit, kaneel en rozenwater, samen met 6 tot 8 eieren. \n\nLeg dit mengsel in een taartkorst en bak het in de oven tot het gaar is.",
+   "ingredients": [
+    [
+     "200 g",
+     "kervel"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "50 g",
+     "krenten"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "100 g",
+     "beschuit"
+    ],
+    [
+     "1 tl",
+     "kaneel"
+    ],
+    [
+     "2 el",
+     "rozenwater"
+    ],
+    [
+     "6-8",
+     "eieren"
+    ],
+    [
+     "",
+     "taartkorst"
+    ]
+   ],
+   "visualized": "A beautifully baked Dutch chervil pie with a golden crust. The filling is a rich mixture of finely chopped chervil, plump currants, sugar, ground rusk, cinnamon, and rosewater, nestled within the crust. The pie is slightly puffed and has a light golden brown color on the top, with some darker spots where the filling meets the crust. Photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "taart",
+    "zoet",
+    "gebak",
+    "kruidig"
+   ],
+   "original": "Om een kerveltaert te maken\n\n\nNeemt kervel van de eerste snee ende die kleyngekerft, 't sap wat uytgeduwt. Dan gemenght met boter, korenten, suycker, gestoten beschuyt, caneel en rooswater, met 6 of 8 eyeren. Dan in de korst geleyt en gebacken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-PS5MisRTzi19VRsMPb4M0Lsh.png?st=2024-07-17T18%3A22%3A47Z&se=2024-07-17T20%3A22%3A47Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A53%3A20Z&ske=2024-07-18T13%3A53%3A20Z&sks=b&skv=2023-11-03&sig=VEneoNEe67M37Lwtsu4RywFAzX7l25RfYeHUkZ%2BvguM%3D"
+  }
  },
  {
   "id": 606,
   "title": "Kerveltaert op een ander manier",
   "bookRef": "N1669",
-  "instructions": "\nNeemt jonge kervel van d'eerste snee10. Verleestse, wastse en kaptse kleyn. Doet er een half pont korenten in, 6, 7, of 8 eyeren. Neemt dan een half pintjen soetemelck en een stuyver oubacke wittebroot. Snijt er de korsten af en raspt het kleyn. Doet het dan in de melck en koockt er een dicke pap af. Een goet stuck boter moet in de pap gedaen zijn terwijlse koockt, en dan onder de kervel geroert. Dan suycker met wat gesmolten boter, en soo het te dun is, stoot er een beschuyt of twee in. Leght het dan in den deegh in de pan en stroyt er gestooten caneel over. Dan een getralijt decksel daerop gemaeckt, en soo met vuur onder en boven laten backen. Ende als die op tafel komt, brootsuyker daerover geraspt.\n\n 10 In de druk staat: sne.\n"
+  "instructions": "\nNeemt jonge kervel van d'eerste snee10. Verleestse, wastse en kaptse kleyn. Doet er een half pont korenten in, 6, 7, of 8 eyeren. Neemt dan een half pintjen soetemelck en een stuyver oubacke wittebroot. Snijt er de korsten af en raspt het kleyn. Doet het dan in de melck en koockt er een dicke pap af. Een goet stuck boter moet in de pap gedaen zijn terwijlse koockt, en dan onder de kervel geroert. Dan suycker met wat gesmolten boter, en soo het te dun is, stoot er een beschuyt of twee in. Leght het dan in den deegh in de pan en stroyt er gestooten caneel over. Dan een getralijt decksel daerop gemaeckt, en soo met vuur onder en boven laten backen. Ende als die op tafel komt, brootsuyker daerover geraspt.\n\n 10 In de druk staat: sne.\n",
+  "modernized": {
+   "title": "Kerveltaart op een andere manier",
+   "recipe": "Neem jonge kervel van de eerste snee. Verlies, was en hak het klein. Doe er een half pond krenten in en 6, 7 of 8 eieren. Neem dan een half pintje zoete melk en een snee oudbakken witbrood. Snijd de korsten eraf en rasp het klein. Doe het dan in de melk en kook er een dikke pap van. Een goed stuk boter moet in de pap gedaan worden terwijl het kookt en dan onder de kervel geroerd. Voeg suiker met wat gesmolten boter toe en als het te dun is, stamp er 1 of 2 beschuiten door. Leg het dan in het deeg in de pan en strooi er gestoten kaneel over. Dan een getralied deksel erop maken en zo met vuur onder en boven laten bakken. En als het op tafel komt, rasp er broodsuiker over.",
+   "ingredients": [
+    [
+     "200 g",
+     "jonge kervel"
+    ],
+    [
+     "250 g",
+     "krenten"
+    ],
+    [
+     "7",
+     "eieren"
+    ],
+    [
+     "200 ml",
+     "zoete melk"
+    ],
+    [
+     "",
+     "oudbakken witbrood"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "2",
+     "beschuiten"
+    ],
+    [
+     "",
+     "kaneel"
+    ],
+    [
+     "",
+     "broodsuker"
+    ]
+   ],
+   "visualized": "A savory tart presented three-quarters angle on a rustic wooden table. The tart has a golden-brown, lattice top with specks of baked kervel (chervil) seen through the lattice. The tart's crust is neatly crimped around the edges. Once sliced, the dense filling displays the fine green flecks of kervel, dark sweet currants, and an eggy custard-like texture. The lattice top is generously dusted with fine bread sugar, adding a slight shimmer. The lighting emphasizes the crispiness of the lattice top and the richness of the filling. Sigma 85 mm f/1.4.",
+   "tags": [
+    "hartig",
+    "vegetarisch",
+    "gebak",
+    "taart",
+    "groente"
+   ],
+   "original": "Kerveltaert op een ander manier\n\n\nNeemt jonge kervel van d'eerste snee10. Verleestse, wastse en kaptse kleyn. Doet er een half pont korenten in, 6, 7, of 8 eyeren. Neemt dan een half pintjen soetemelck en een stuyver oubacke wittebroot. Snijt er de korsten af en raspt het kleyn. Doet het dan in de melck en koockt er een dicke pap af. Een goet stuck boter moet in de pap gedaen zijn terwijlse koockt, en dan onder de kervel geroert. Dan suycker met wat gesmolten boter, en soo het te dun is, stoot er een beschuyt of twee in. Leght het dan in den deegh in de pan en stroyt er gestooten caneel over. Dan een getralijt decksel daerop gemaeckt, en soo met vuur onder en boven laten backen. Ende als die op tafel komt, brootsuyker daerover geraspt.\n\n 10 In de druk staat: sne.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-16CFjfsrOPJgrgk3wCGZcP5Q.png?st=2024-07-17T18%3A23%3A26Z&se=2024-07-17T20%3A23%3A26Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A58%3A11Z&ske=2024-07-18T13%3A58%3A11Z&sks=b&skv=2023-11-03&sig=SZ5idCDSX2pQRgJtoeHKs6v3baGn3JFXxOvWwFSHq5o%3D"
+  }
  },
  {
   "id": 607,
   "title": "Om een doornepen appeltaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt appelen, kleyngekapt, en doet erby doren van eyeren, kaneel en suycker, en gesmolten boter. Menght dit ondereen, leght het in deegh en laet het backen.\n"
+  "instructions": "\nNeemt appelen, kleyngekapt, en doet erby doren van eyeren, kaneel en suycker, en gesmolten boter. Menght dit ondereen, leght het in deegh en laet het backen.\n",
+  "modernized": {
+   "title": "Doornepen Appeltaart",
+   "recipe": "Neem appels, klein gesneden, en voeg er eierdooiers, kaneel, suiker en gesmolten boter aan toe. Meng dit goed door elkaar. Leg het mengsel in deeg en laat het bakken.",
+   "ingredients": [
+    [
+     "4",
+     "appels"
+    ],
+    [
+     "4",
+     "eierdooiers"
+    ],
+    [
+     "1 theelepel",
+     "kaneel"
+    ],
+    [
+     "100 gram",
+     "suiker"
+    ],
+    [
+     "50 gram",
+     "gesmolten boter"
+    ],
+    [
+     "",
+     "deeg"
+    ]
+   ],
+   "visualized": "A traditional Dutch apple pie with a golden-brown crust. The filling is a mix of sliced apples, lightly spiced with cinnamon, and sweetened with sugar. The melted butter gives a glossy finish to the filling. The pie is baked to perfection, with the edges of the crust slightly crusty and the filling slightly bubbling. The view is from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "gebak",
+    "zoet",
+    "fruit"
+   ],
+   "original": "Om een doornepen appeltaert te maken\n\n\nNeemt appelen, kleyngekapt, en doet erby doren van eyeren, kaneel en suycker, en gesmolten boter. Menght dit ondereen, leght het in deegh en laet het backen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-EICIaCQr1AE7RdTcRF6fs1vl.png?st=2024-07-17T18%3A23%3A48Z&se=2024-07-17T20%3A23%3A48Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A00%3A15Z&ske=2024-07-18T13%3A00%3A15Z&sks=b&skv=2023-11-03&sig=mfZOErqTi/fGsj9ObLjL7sHvxdTn4PAtc76te6JDRnA%3D"
+  }
  },
  {
   "id": 608,
   "title": "Om een vleestaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt gesoden runtvlees, schapen- of kalfsvlees. Hackt het met'et niervet wel kleyn. Doet erby doren van eyeren, gember, caneelpoeder, sout en suycker. Backtse in u korst. 't Is goet.\n"
+  "instructions": "\nNeemt gesoden runtvlees, schapen- of kalfsvlees. Hackt het met'et niervet wel kleyn. Doet erby doren van eyeren, gember, caneelpoeder, sout en suycker. Backtse in u korst. 't Is goet.\n",
+  "modernized": {
+   "title": "Vleespastei",
+   "recipe": "Neem gekookt rundvlees, schapenvlees of kalfsvlees. Hak het fijn met niervet. Voeg er eidooiers, gember, kaneelpoeder, zout en suiker aan toe. Bak het in een korstdeeg. Klaar.",
+   "ingredients": [
+    [
+     "400 g",
+     "gekookt rundvlees"
+    ],
+    [
+     "",
+     "schapenvlees"
+    ],
+    [
+     "",
+     "kalfsvlees"
+    ],
+    [
+     "100 g",
+     "niervet"
+    ],
+    [
+     "3",
+     "eidooiers"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ],
+    [
+     "1 tl",
+     "kaneelpoeder"
+    ],
+    [
+     "1 tl",
+     "zout"
+    ],
+    [
+     "2 el",
+     "suiker"
+    ],
+    [
+     "",
+     "korstdeeg"
+    ]
+   ],
+   "visualized": "A golden-brown meat pie baked in a flaky crust. The filling inside looks moist with a mixture of finely chopped meats and visible flecks of spices. From a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "pastei",
+    "bakken"
+   ],
+   "original": "Om een vleestaert te maken\n\n\nNeemt gesoden runtvlees, schapen- of kalfsvlees. Hackt het met'et niervet wel kleyn. Doet erby doren van eyeren, gember, caneelpoeder, sout en suycker. Backtse in u korst. 't Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-jcgqzEnqMMbtHpHlKkRScQtd.png?st=2024-07-17T18%3A24%3A10Z&se=2024-07-17T20%3A24%3A10Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A49%3A22Z&ske=2024-07-18T13%3A49%3A22Z&sks=b&skv=2023-11-03&sig=r9z1qtfW/dqTMvHa0lnD2ZpnmZyLld8c2VZkEpPh1XQ%3D"
+  }
  },
  {
   "id": 609,
   "title": "Om een merghtaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt mergh uyt de beenderen en wit poeyersuycker, caneelpoeder en gember, met gehackt kalfsvlees en corenten. Menght dit wel t'samen ondereen. Backt het dan in deegh. 't Is bequaem.\n"
+  "instructions": "\nNeemt mergh uyt de beenderen en wit poeyersuycker, caneelpoeder en gember, met gehackt kalfsvlees en corenten. Menght dit wel t'samen ondereen. Backt het dan in deegh. 't Is bequaem.\n",
+  "modernized": {
+   "title": "Mergtaart",
+   "recipe": "Neem merg uit de beenderen en wit poedersuiker, kaneelpoeder en gember, met gehakt kalfsvlees en krenten. Meng dit goed samen. Bak het dan in deeg. Het is smakelijk.",
+   "ingredients": [
+    [
+     "100 gram",
+     "merg"
+    ],
+    [
+     "50 gram",
+     "wit poedersuiker"
+    ],
+    [
+     "1 theelepel",
+     "kaneelpoeder"
+    ],
+    [
+     "1 theelepel",
+     "gemberpoeder"
+    ],
+    [
+     "200 gram",
+     "gehakt kalfsvlees"
+    ],
+    [
+     "50 gram",
+     "krenten"
+    ],
+    [
+     "",
+     "deeg"
+    ]
+   ],
+   "visualized": "A traditional Dutch marrow tart with a golden-brown crust, baked in a round pie tin. The tart is cut into a slice to reveal the filling made of bone marrow, minced veal, currants, and spiced with cinnamon and ginger. The top of the tart has a slightly glossy finish, possibly brushed with a light sugar glaze. Photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "taart",
+    "dessert",
+    "gebak"
+   ],
+   "original": "Om een merghtaert te maken\n\n\nNeemt mergh uyt de beenderen en wit poeyersuycker, caneelpoeder en gember, met gehackt kalfsvlees en corenten. Menght dit wel t'samen ondereen. Backt het dan in deegh. 't Is bequaem.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-5asUlFUdpdeOSpRCM0Vkbhca.png?st=2024-07-17T18%3A24%3A50Z&se=2024-07-17T20%3A24%3A50Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A08%3A42Z&ske=2024-07-18T12%3A08%3A42Z&sks=b&skv=2023-11-03&sig=OTqjsNvJgu09V9Xe8l47qANFGpgJOpfv2zKD1IU/brs%3D"
+  }
  },
  {
   "id": 610,
   "title": "Om een citroentaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt 't buytenste geel van 4 citroenen, geraspt, en 6 suure appelen daeronder, en 6 doren van eyeren, de helft van 't kruym van een halve stuyvers wittebroot, een weynigh boter, en fijne geraspte suycker, en backt het.\n"
+  "instructions": "\nNeemt 't buytenste geel van 4 citroenen, geraspt, en 6 suure appelen daeronder, en 6 doren van eyeren, de helft van 't kruym van een halve stuyvers wittebroot, een weynigh boter, en fijne geraspte suycker, en backt het.\n",
+  "modernized": {
+   "title": "Citroentaart",
+   "recipe": "Neem de buitenste schil van 4 citroenen, geraspt.\nVoeg 6 zure appels toe, geraspt.\nMeng het met 6 eidooiers, de helft van het kruim van een half witbrood, een beetje boter en fijne geraspte suiker.\nBak het geheel in de oven.",
+   "ingredients": [
+    [
+     "4",
+     "citroenen (schil geraspt)"
+    ],
+    [
+     "6",
+     "zure appels (geraspt)"
+    ],
+    [
+     "6",
+     "eidooiers"
+    ],
+    [
+     "100 g",
+     "witbroodkruim"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "100 g",
+     "fijne geraspte suiker"
+    ]
+   ],
+   "visualized": "A golden, crispy baked lemon tart with a slightly rough texture from grated apple, resting on a wooden surface. The tart is perfectly round and has a somewhat rustic appearance. The filling is bright yellow with visible flecks of lemon zest and apple, slightly caramelized on top. The edges are neatly crimped, giving it a classic tart look. Shot from a three-quarters angle with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "dessert",
+    "zoet",
+    "gebak",
+    "fruit"
+   ],
+   "original": "Om een citroentaert te maken\n\n\nNeemt 't buytenste geel van 4 citroenen, geraspt, en 6 suure appelen daeronder, en 6 doren van eyeren, de helft van 't kruym van een halve stuyvers wittebroot, een weynigh boter, en fijne geraspte suycker, en backt het.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-fKVWT9PA4nNritmO4Bb7roAB.png?st=2024-07-17T18%3A25%3A13Z&se=2024-07-17T20%3A25%3A13Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A04%3A32Z&ske=2024-07-18T11%3A04%3A32Z&sks=b&skv=2023-11-03&sig=8im3SYWaV53BDIneVCfAJjWNW2HbSgcgzBD61S6ugbY%3D"
+  }
  },
  {
   "id": 611,
   "title": "Om een sucadetaert te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt 2 merghpijpen, 3 of 4 swesericken, 6 doren van eyeren, en dat t'samen gehackt, oock een half pont sucade kleyngesneden, suycker, pingelen, rooswater, en 3 eyeren daeronder geroert, wat Spaense wijn daerdoor gegoten, wat caneel, nagelen, gember. Dan in de korst gedaen en een half uur gebacken.\n"
+  "instructions": "\nNeemt 2 merghpijpen, 3 of 4 swesericken, 6 doren van eyeren, en dat t'samen gehackt, oock een half pont sucade kleyngesneden, suycker, pingelen, rooswater, en 3 eyeren daeronder geroert, wat Spaense wijn daerdoor gegoten, wat caneel, nagelen, gember. Dan in de korst gedaen en een half uur gebacken.\n",
+  "modernized": {
+   "title": "Sukadetaart",
+   "recipe": "Neem 2 mergpijpen en 3 of 4 zwezeriken en hak ze samen fijn.\nVoeg 6 eierdooiers toe en meng alles door elkaar.\nSnijd een halve pond sukade in kleine stukjes en meng het met de suiker, pijnboompitten en rozenwater.\nMeng 3 eieren door het mengsel, voeg wat Spaanse wijn toe en breng op smaak met kaneel, kruidnagel en gember.\nDoe het mengsel in een taartkorst en bak een half uur op 180 graden Celsius.",
+   "ingredients": [
+    [
+     "2",
+     "mergpijpen"
+    ],
+    [
+     "3-4",
+     "zwezeriken"
+    ],
+    [
+     "6",
+     "eierdooiers"
+    ],
+    [
+     "250 gram",
+     "sukade"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "",
+     "pijnboompitten"
+    ],
+    [
+     "",
+     "rozenwater"
+    ],
+    [
+     "3",
+     "eieren"
+    ],
+    [
+     "",
+     "Spaanse wijn"
+    ],
+    [
+     "",
+     "kaneel"
+    ],
+    [
+     "",
+     "kruidnagel"
+    ],
+    [
+     "",
+     "gember"
+    ]
+   ],
+   "visualized": "A golden-brown sukadetaart with a flaky top crust, speckled with finely chopped sukade fruit pieces. The surface is glossy, showing signs of a light egg wash. The filling inside looks rich and dense, with visible pieces of meat and marbled with layers of pastry. The taart is set on a simple white plate with a three-quarters angle view. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "nagerecht",
+    "taart"
+   ],
+   "original": "Om een sucadetaert te backen\n\n\nNeemt 2 merghpijpen, 3 of 4 swesericken, 6 doren van eyeren, en dat t'samen gehackt, oock een half pont sucade kleyngesneden, suycker, pingelen, rooswater, en 3 eyeren daeronder geroert, wat Spaense wijn daerdoor gegoten, wat caneel, nagelen, gember. Dan in de korst gedaen en een half uur gebacken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-xP1zIAJtBmeRtF05GEgXZjpg.png?st=2024-07-17T18%3A25%3A43Z&se=2024-07-17T20%3A25%3A43Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T14%3A06%3A41Z&ske=2024-07-18T14%3A06%3A41Z&sks=b&skv=2023-11-03&sig=ZPUTdhjFSlILqDps2y5UbRnthU39eQoFhkz46dnR8Vk%3D"
+  }
  },
  {
   "id": 612,
   "title": "Om een roomtaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een pint soete room, 4 doren van eyeren, kleyngeklopt met rooswater en wat tarwebloemen om wat dickte te krijgen. Koockt dit in de pan op kolen, wel roerende dat'et niet aenbrant. Als 't gesoden is, doet er wel suyker by en laet het voorts zieden tot'et genoegh is. Doet het dan in u deegh en laet'et backen.\n"
+  "instructions": "\nNeemt een pint soete room, 4 doren van eyeren, kleyngeklopt met rooswater en wat tarwebloemen om wat dickte te krijgen. Koockt dit in de pan op kolen, wel roerende dat'et niet aenbrant. Als 't gesoden is, doet er wel suyker by en laet het voorts zieden tot'et genoegh is. Doet het dan in u deegh en laet'et backen.\n",
+  "modernized": {
+   "title": "Roomtaart",
+   "recipe": "Neem een halve liter zoete room, 4 eidooiers, geklopt met rozenwater en wat tarwebloem om dikte te krijgen. Kook dit in een pan op laag vuur, roerend zodat het niet aanbrandt. Als het gekookt is, voeg er suiker bij en laat het verder koken tot het voldoende dik is. Doe het mengsel dan in je deeg en laat het bakken in de oven.",
+   "ingredients": [
+    [
+     "500 ml",
+     "zoete room"
+    ],
+    [
+     "4",
+     "eidooiers"
+    ],
+    [
+     "",
+     "rozenwater"
+    ],
+    [
+     "",
+     "tarwebloem"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "",
+     "deeg"
+    ]
+   ],
+   "visualized": "A rich, golden custard filling inside a perfectly baked, flaky pie crust. The custard has a smooth and creamy texture with a slightly shiny surface, indicating its sweet and rich flavor. Garnished with a few rose petals on top for a touch of elegance. Photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "taart",
+    "dessert",
+    "gebak"
+   ],
+   "original": "Om een roomtaert te maken\n\n\nNeemt een pint soete room, 4 doren van eyeren, kleyngeklopt met rooswater en wat tarwebloemen om wat dickte te krijgen. Koockt dit in de pan op kolen, wel roerende dat'et niet aenbrant. Als 't gesoden is, doet er wel suyker by en laet het voorts zieden tot'et genoegh is. Doet het dan in u deegh en laet'et backen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-n40ursRljFddODQbxTsFkrLM.png?st=2024-07-17T18%3A26%3A23Z&se=2024-07-17T20%3A26%3A23Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A46%3A26Z&ske=2024-07-18T13%3A46%3A26Z&sks=b&skv=2023-11-03&sig=R3aiQTMH4Zg8GwdW5XMuiF%2BEOO33JYBg69k1wex1dqo%3D"
+  }
  },
  {
   "id": 613,
   "title": "Om een kaesjestaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt versche roomkaeskens en doren van eyeren, met tarwenmeel en boter. Maeckt een deegh daeraf. Leght het in u korst. 't Is goet.\n"
+  "instructions": "\nNeemt versche roomkaeskens en doren van eyeren, met tarwenmeel en boter. Maeckt een deegh daeraf. Leght het in u korst. 't Is goet.\n",
+  "modernized": {
+   "title": "Kaasjeskoek",
+   "recipe": "Om een kaasjeskoek te maken:\n\nNeem verse roomkaas en dooiers van eieren, met tarwemeel en boter. Maak een deeg daarvan. Leg het in je korst. Het is goed.",
+   "ingredients": [
+    [
+     "200 gram",
+     "roomkaas"
+    ],
+    [
+     "2",
+     "eidooiers"
+    ],
+    [
+     "150 gram",
+     "tarwemeel"
+    ],
+    [
+     "100 gram",
+     "boter"
+    ]
+   ],
+   "visualized": "A Dutch cheese tart made with a golden brown crust filled with creamy, smooth cheese mixture. The tart has a slight glossy finish and is cut into a neat slice. The crust is thin and crispy, while the cheese filling looks rich and luscious. The photo is taken from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "taart",
+    "kaas",
+    "roomkaas",
+    "gebak"
+   ],
+   "original": "Om een kaesjestaert te maken\n\n\nNeemt versche roomkaeskens en doren van eyeren, met tarwenmeel en boter. Maeckt een deegh daeraf. Leght het in u korst. 't Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-0RU2VQsZazKzHvyF7D794DDL.png?st=2024-07-17T18%3A26%3A47Z&se=2024-07-17T20%3A26%3A47Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A46%3A20Z&ske=2024-07-18T12%3A46%3A20Z&sks=b&skv=2023-11-03&sig=jnebOGnfLtzTum4TgPliuOWzIYyc7zJA/l/sGN6fTcg%3D"
+  }
  },
  {
   "id": 614,
   "title": "Om een abricosetaert te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt abrikosen, schiltse en leghtse in de taert. Doet dan daerop caneel, suycker, sucade en wat boter, en dan een half uur gebacken.\n"
+  "instructions": "\nNeemt abrikosen, schiltse en leghtse in de taert. Doet dan daerop caneel, suycker, sucade en wat boter, en dan een half uur gebacken.\n",
+  "modernized": {
+   "title": "Abrikozentaart",
+   "recipe": "Neem abrikozen, schil ze en leg ze in de taartvorm. Doe er dan kaneel, suiker, sukade en wat boter op. Bak de taart vervolgens een half uur in de oven.",
+   "ingredients": [
+    [
+     "500 g",
+     "abrikozen"
+    ],
+    [
+     "1 tl",
+     "kaneel"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "30 g",
+     "sukade"
+    ],
+    [
+     "50 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A tart filled with peeled apricots, topped with a dusting of cinnamon, sugar, bits of succade, and small pieces of butter. The tart is golden brown, indicating it has been baked. It is presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "fruit",
+    "gebak",
+    "taart"
+   ],
+   "original": "Om een abricosetaert te backen\n\n\nNeemt abrikosen, schiltse en leghtse in de taert. Doet dan daerop caneel, suycker, sucade en wat boter, en dan een half uur gebacken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-XzIosVb4xJEAh7IlI01cWR9q.png?st=2024-07-17T18%3A27%3A22Z&se=2024-07-17T20%3A27%3A22Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A32%3A27Z&ske=2024-07-18T13%3A32%3A27Z&sks=b&skv=2023-11-03&sig=Xhw2Uvl4iLoJDtbM3HeeXHoyC5Y7SJpNXLTXQxQPqmg%3D"
+  }
  },
  {
   "id": 615,
   "title": "Om een pruymetaert te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt pruymen, koocktse murruw. Doetse door een teems. Stoffeertse met doren van eyeren, suycker en caneel, nagelen en gesmolte boter. Doetse in u korst. Backtse sonder schil. Dan caneel daerover gestroyt.\n"
+  "instructions": "\nNeemt pruymen, koocktse murruw. Doetse door een teems. Stoffeertse met doren van eyeren, suycker en caneel, nagelen en gesmolte boter. Doetse in u korst. Backtse sonder schil. Dan caneel daerover gestroyt.\n",
+  "modernized": {
+   "title": "Pruimentaart",
+   "recipe": "Neem pruimen en kook ze gaar.\nDoe ze door een zeef.\nMeng ze met dooiers van eieren, suiker, kaneel, kruidnagel en gesmolten boter.\nDoe alles in een taartbodem.\nBak zonder deksel.\nStrooi er daarna wat kaneel overheen.",
+   "ingredients": [
+    [
+     "500 gram",
+     "pruimen"
+    ],
+    [
+     "3",
+     "eidooiers"
+    ],
+    [
+     "100 gram",
+     "suiker"
+    ],
+    [
+     "1 theelepel",
+     "kaneel"
+    ],
+    [
+     "1/4 theelepel",
+     "kruidnagel"
+    ],
+    [
+     "50 gram",
+     "gesmolten boter"
+    ],
+    [
+     "1",
+     "taartbodem"
+    ]
+   ],
+   "visualized": "A golden-brown plum tart with a slightly flaky crust. The filling is a smooth, dark purple plum puree, dotted with flecks of spices and glistening slightly from the butter. The top is dusted with a light sprinkle of cinnamon. The tart is presented on a rustic plate, viewed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "taart",
+    "dessert",
+    "zoet",
+    "fruit",
+    "bakken"
+   ],
+   "original": "Om een pruymetaert te maken\n\n\nNeemt pruymen, koocktse murruw. Doetse door een teems. Stoffeertse met doren van eyeren, suycker en caneel, nagelen en gesmolte boter. Doetse in u korst. Backtse sonder schil. Dan caneel daerover gestroyt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-BfCPeeILRTv1Q42mZAeg0rLB.png?st=2024-07-17T18%3A27%3A45Z&se=2024-07-17T20%3A27%3A45Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A08%3A16Z&ske=2024-07-18T13%3A08%3A16Z&sks=b&skv=2023-11-03&sig=g3ECg3OixrsDnAJYLdSPTVkUXgxaBo1%2BTHdLO7/eMlk%3D"
+  }
  },
  {
   "id": 616,
   "title": "Om een spenagietaert, groen van koleur, te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt spenagie. Koocktse tot pap in Rinse wijn. Doetse dan door een teems, soo stijf als gy keunt. Doet dan rooswater daerby, veel suycker en caneel en koockt het dan tot'et soo dick wort als marmelade. Koel zijnde, doet het dan in deegh als voren verhaelt, en 't sal seer groen en smakelijck zijn.\n"
+  "instructions": "\nNeemt spenagie. Koocktse tot pap in Rinse wijn. Doetse dan door een teems, soo stijf als gy keunt. Doet dan rooswater daerby, veel suycker en caneel en koockt het dan tot'et soo dick wort als marmelade. Koel zijnde, doet het dan in deegh als voren verhaelt, en 't sal seer groen en smakelijck zijn.\n",
+  "modernized": {
+   "title": "Spinazietaart, groen van kleur",
+   "recipe": "Neem spinazie. Kook het tot een pap in Rijnse wijn. Doe het dan door een zeef, zo stijf als je kunt. Voeg dan rozenwater, veel suiker en kaneel toe en kook het vervolgens tot het net zo dik is als marmelade. Laat afkoelen en doe het dan in deeg zoals eerder beschreven. Het zal zeer groen en smakelijk zijn.",
+   "ingredients": [
+    [
+     "500 g",
+     "spinazie"
+    ],
+    [
+     "250 ml",
+     "Rijnse wijn"
+    ],
+    [
+     "",
+     "rozenwater"
+    ],
+    [
+     "100 g",
+     "suiker"
+    ],
+    [
+     "1 el",
+     "kaneelpoeder"
+    ],
+    [
+     "",
+     "deeg"
+    ]
+   ],
+   "visualized": "A green spinach pie with a thick, glossy filling. The filling is bright green and has a smooth, marmalade-like consistency, slightly glistening from the sugar. The pie is housed in a golden-brown, flaky crust. Shot from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "spinazie",
+    "taart",
+    "zoet",
+    "nagerecht"
+   ],
+   "original": "Om een spenagietaert, groen van koleur, te maken\n\n\nNeemt spenagie. Koocktse tot pap in Rinse wijn. Doetse dan door een teems, soo stijf als gy keunt. Doet dan rooswater daerby, veel suycker en caneel en koockt het dan tot'et soo dick wort als marmelade. Koel zijnde, doet het dan in deegh als voren verhaelt, en 't sal seer groen en smakelijck zijn.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-2ucE4ljna52lrVmfJa03wK3F.png?st=2024-07-17T18%3A28%3A02Z&se=2024-07-17T20%3A28%3A02Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A30%3A40Z&ske=2024-07-18T11%3A30%3A40Z&sks=b&skv=2023-11-03&sig=yb3%2BegfGgYuIgMGUxwRQRJ922YIG3Y1vTtYnRVB8uXk%3D"
+  }
  },
  {
   "id": 617,
   "title": "Om een schoenmaeckerstaert te backen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt suure appels. Schiltse, en - aen stucken gesneden en gaergekoockt - wrijft die kleyn. Neemt dan boter, suycker en korenten, yder na sijn believen, en dat samen met 4 of 5 eyeren daerin geroert. Neemt dan geraspt tarwenbroot en doet dat onderin een schotel. Daerop u appelen geleght. Doet er weer geraspt tarwenbroot bovenover en deckt het dan toe met een decksel van een taertpanne, en vuur daerop geleght. Maeckt een goede korste.\n"
+  "instructions": "\nNeemt suure appels. Schiltse, en - aen stucken gesneden en gaergekoockt - wrijft die kleyn. Neemt dan boter, suycker en korenten, yder na sijn believen, en dat samen met 4 of 5 eyeren daerin geroert. Neemt dan geraspt tarwenbroot en doet dat onderin een schotel. Daerop u appelen geleght. Doet er weer geraspt tarwenbroot bovenover en deckt het dan toe met een decksel van een taertpanne, en vuur daerop geleght. Maeckt een goede korste.\n",
+  "modernized": {
+   "title": "Schoenmaeckerstaert",
+   "recipe": "Neem zure appels. Schil ze, snijd ze in stukken en kook tot ze gaar zijn. Wrijf de appels fijn. \nNeem boter, suiker en krenten naar smaak en roer dit samen met 4 of 5 eieren door de appels. \nNeem geraspte tarwebrood en leg dit op de bodem van een ovenschaal. \nLeg de appelmix erop. \nStrooi er nog wat geraspte tarwebrood overheen. \nDek de ovenschaal af met een deksel of aluminiumfolie. \nBak in de oven op 180\u00b0C tot er een mooie korst ontstaat.",
+   "ingredients": [
+    [
+     "3",
+     "zure appels"
+    ],
+    [
+     "",
+     "boter"
+    ],
+    [
+     "",
+     "suiker"
+    ],
+    [
+     "",
+     "krenten"
+    ],
+    [
+     "4",
+     "eieren"
+    ],
+    [
+     "",
+     "geraspt tarwebrood"
+    ]
+   ],
+   "visualized": "A rustic Dutch dessert served in a shallow baking dish, with a golden crust on top. The inside is filled with a mixture of finely cooked apples, butter, sugar, currants, and eggs. The dish is topped with a layer of grated bread that has baked to a crispy finish. The image should be taken from a three-quarters angle using a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "dessert",
+    "fruit",
+    "gebak",
+    "zoet"
+   ],
+   "original": "Om een schoenmaeckerstaert te backen\n\n\nNeemt suure appels. Schiltse, en - aen stucken gesneden en gaergekoockt - wrijft die kleyn. Neemt dan boter, suycker en korenten, yder na sijn believen, en dat samen met 4 of 5 eyeren daerin geroert. Neemt dan geraspt tarwenbroot en doet dat onderin een schotel. Daerop u appelen geleght. Doet er weer geraspt tarwenbroot bovenover en deckt het dan toe met een decksel van een taertpanne, en vuur daerop geleght. Maeckt een goede korste.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-Uf7eeh41kRqmZhWvJ6bNH46w.png?st=2024-07-17T18%3A28%3A33Z&se=2024-07-17T20%3A28%3A33Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T00%3A41%3A16Z&ske=2024-07-18T00%3A41%3A16Z&sks=b&skv=2023-11-03&sig=4DbtlqxV%2Bd3IK8op61s94fXcVDpbXEDfe58%2BuGfDl%2BY%3D"
+  }
  },
  {
   "id": 618,
   "title": "Om een taert van kalfstongen te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een kalfstongh, gaergekoockt en ghesuyvert dat'er niet aen is als tongh. Hackt die kleyn met 12 geschilde suure appelen sonder klockhuysen. Doet daerby een gestoten beschuyt, drie vierendeel korenten, een notemuskaet, gember en kaneel, met een weynigh suycker. Doet het dan in u korst te backen en ghy sult het bevinden delicaet.\n"
+  "instructions": "\nNeemt een kalfstongh, gaergekoockt en ghesuyvert dat'er niet aen is als tongh. Hackt die kleyn met 12 geschilde suure appelen sonder klockhuysen. Doet daerby een gestoten beschuyt, drie vierendeel korenten, een notemuskaet, gember en kaneel, met een weynigh suycker. Doet het dan in u korst te backen en ghy sult het bevinden delicaet.\n",
+  "modernized": {
+   "title": "Taart van Kalfstong",
+   "recipe": "Neem een gekookte en geschoonde kalfstong zonder tongvlies. Hak de kalfstong fijn met 12 geschilde zure appels zonder klokhuizen. Meng het met een fijngemalen beschuit, 150 gram krenten, een geraspte nootmuskaat, gemalen gember en kaneel, en een beetje suiker. Doe dit mengsel in je taartbodem en bak het. Je zult het delicaat vinden.",
+   "ingredients": [
+    [
+     "1",
+     "kalfstong"
+    ],
+    [
+     "12",
+     "zure appels"
+    ],
+    [
+     "1",
+     "beschuit"
+    ],
+    [
+     "150 gram",
+     "krenten"
+    ],
+    [
+     "1",
+     "nootmuskaat"
+    ],
+    [
+     "",
+     "gember"
+    ],
+    [
+     "",
+     "kaneel"
+    ],
+    [
+     "",
+     "suiker"
+    ]
+   ],
+   "visualized": "A sliced pie with a golden-brown crust filled with a mix of finely chopped veal tongue and apples, dotted with raisins. The filling shows a mix of light-toned apple pieces and darker meat, with a slightly caramelized surface. The pie is baked in a typical pie dish with crimped edges. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "taart",
+    "vlees",
+    "gebak",
+    "hoofdgerecht"
+   ],
+   "original": "Om een taert van kalfstongen te maken\n\n\nNeemt een kalfstongh, gaergekoockt en ghesuyvert dat'er niet aen is als tongh. Hackt die kleyn met 12 geschilde suure appelen sonder klockhuysen. Doet daerby een gestoten beschuyt, drie vierendeel korenten, een notemuskaet, gember en kaneel, met een weynigh suycker. Doet het dan in u korst te backen en ghy sult het bevinden delicaet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-p0MC1410EwGZNWm9NAEJU65H.png?st=2024-07-17T18%3A29%3A12Z&se=2024-07-17T20%3A29%3A12Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A35%3A55Z&ske=2024-07-18T12%3A35%3A55Z&sks=b&skv=2023-11-03&sig=u/QVjB9Y29eji3RZRhgnwkbTW1K069xp8bnmGLUW/74%3D"
+  }
  },
  {
   "id": 619,
   "title": "Om een taert van kalfsvoeten te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt murruwe kalfsvoeten. Hacktse heel kleyn met harde doren van eyeren. Stoffeertse met kaneel, gember, korenten, suycker en gesmolte boter. Dat altesamen ondereengeroert met Rinse wijn, sucade en pingelen, en dan een half uur gebacken.\n"
+  "instructions": "\nNeemt murruwe kalfsvoeten. Hacktse heel kleyn met harde doren van eyeren. Stoffeertse met kaneel, gember, korenten, suycker en gesmolte boter. Dat altesamen ondereengeroert met Rinse wijn, sucade en pingelen, en dan een half uur gebacken.\n",
+  "modernized": {
+   "title": "Taart van Kalfsvoeten",
+   "recipe": "Neem rauwe kalfsvoeten. Hak ze heel klein met harde dooiers van eieren. Vul ze met kaneel, gember, krenten, suiker en gesmolten boter. Meng alles samen goed met Rijnse wijn, sucade en sukade, en bak het een half uur.",
+   "ingredients": [
+    [
+     "500 g",
+     "kalfsvoeten"
+    ],
+    [
+     "2",
+     "eidooiers"
+    ],
+    [
+     "1 tl",
+     "kaneel"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ],
+    [
+     "100 g",
+     "krenten"
+    ],
+    [
+     "50 g",
+     "suiker"
+    ],
+    [
+     "100 g",
+     "gesmolten boter"
+    ],
+    [
+     "200 ml",
+     "Rijnse wijn"
+    ],
+    [
+     "50 g",
+     "sucade"
+    ]
+   ],
+   "visualized": "A savory pie with a rich, golden-brown crust filled with a mixture of finely chopped veal feet, egg yolk, cinnamon, ginger, currants, sugar, melted butter, Rhine wine, and pieces of candied peel. The pie has a rustic, artisanal appearance with a slightly crumbly top, showing bits of currants and sucade peeking through. Three-quarters perspective. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "taart",
+    "hoofdgerecht"
+   ],
+   "original": "Om een taert van kalfsvoeten te maken\n\n\nNeemt murruwe kalfsvoeten. Hacktse heel kleyn met harde doren van eyeren. Stoffeertse met kaneel, gember, korenten, suycker en gesmolte boter. Dat altesamen ondereengeroert met Rinse wijn, sucade en pingelen, en dan een half uur gebacken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-7xKDxKw2kyGOJ5FK8RaEMuyp.png?st=2024-07-17T18%3A29%3A44Z&se=2024-07-17T20%3A29%3A44Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T09%3A09%3A21Z&ske=2024-07-18T09%3A09%3A21Z&sks=b&skv=2023-11-03&sig=jmjRB79srwOwcyqfu8KYV5rt23dDTIMPyDTH5UqKORY%3D"
+  }
  },
  {
   "id": 620,
   "title": "Om een venesoenpastey te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt ossevlees, een weynigh gebroeyt, dan een nacht in wijnazijn gelegt, daernaer wel gelardeert met speck, in sout en peper gewentelt, en dan in den deegh geleght en wel gebacken. Tot 3 pont vleesch neemt men een loot peper, anderhalf loot gember en anderhalf loot noten, eenvierde part loot nagelen en azijn naer behooren. Sommige nemen oock wat saffraen.\n"
+  "instructions": "\nNeemt ossevlees, een weynigh gebroeyt, dan een nacht in wijnazijn gelegt, daernaer wel gelardeert met speck, in sout en peper gewentelt, en dan in den deegh geleght en wel gebacken. Tot 3 pont vleesch neemt men een loot peper, anderhalf loot gember en anderhalf loot noten, eenvierde part loot nagelen en azijn naer behooren. Sommige nemen oock wat saffraen.\n",
+  "modernized": {
+   "title": "Hertenpastei",
+   "recipe": "Neem hertenvlees, breek het een beetje en leg het een nacht in wijnazijn. Lardeer het daarna goed met spek, wentel het in zout en peper en leg het in het deeg. Bak het vervolgens goed. Voor 1,5 kg vlees neem een halve theelepel peper, anderhalve theelepel gember, anderhalve theelepel nootmuskaat, een kwart theelepel kruidnagels en azijn naar behoefte. Sommige mensen voegen ook wat saffraan toe.",
+   "ingredients": [
+    [
+     "1,5 kg",
+     "hertenvlees"
+    ],
+    [
+     "",
+     "wijnazijn"
+    ],
+    [
+     "200 g",
+     "spek"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "1/2 theelepel",
+     "peper"
+    ],
+    [
+     "1,5 theelepel",
+     "gember"
+    ],
+    [
+     "1,5 theelepel",
+     "nootmuskaat"
+    ],
+    [
+     "1/4 theelepel",
+     "kruidnagels"
+    ],
+    [
+     "",
+     "saffraan"
+    ],
+    [
+     "",
+     "deeg"
+    ]
+   ],
+   "visualized": "A venison pie with golden-brown crust and well-baked, visible specks of lard on the surface. The pie's interior is filled with well-seasoned venison chunks, speckled with pieces of lard, and hints of saffron threads. The crust looks crispy and is slightly puffed. Presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "oven"
+   ],
+   "original": "Om een venesoenpastey te maken\n\n\nNeemt ossevlees, een weynigh gebroeyt, dan een nacht in wijnazijn gelegt, daernaer wel gelardeert met speck, in sout en peper gewentelt, en dan in den deegh geleght en wel gebacken. Tot 3 pont vleesch neemt men een loot peper, anderhalf loot gember en anderhalf loot noten, eenvierde part loot nagelen en azijn naer behooren. Sommige nemen oock wat saffraen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-wONJxXGJEcWAvYcjf2CHCHx1.png?st=2024-07-17T18%3A30%3A10Z&se=2024-07-17T20%3A30%3A10Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A35%3A39Z&ske=2024-07-18T13%3A35%3A39Z&sks=b&skv=2023-11-03&sig=LwA%2BuN5CvC600rHBKHO7SdtYHnFGklqysHACQyyDA6c%3D"
+  }
  },
  {
   "id": 621,
   "title": "Om een sure limoenpastey te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt kalfsvlees en kalfsvet en een versche limoen daerby, t'samen kleyngehackt. Dan gekruyt met zout, foelie, peper en notemuskaet, oock 2 of 3 doren van eyeren, t'samen ondereengeroert, en in de korst geleydt met schijven van limoenen daerop, en veel boter. Een uur moet het backen. De saus moet zijn: hamelesop, doren van eyeren, verjuys en boter, t'samen opgewelt.\n"
+  "instructions": "\nNeemt kalfsvlees en kalfsvet en een versche limoen daerby, t'samen kleyngehackt. Dan gekruyt met zout, foelie, peper en notemuskaet, oock 2 of 3 doren van eyeren, t'samen ondereengeroert, en in de korst geleydt met schijven van limoenen daerop, en veel boter. Een uur moet het backen. De saus moet zijn: hamelesop, doren van eyeren, verjuys en boter, t'samen opgewelt.\n",
+  "modernized": {
+   "title": "Zure Limoenpastei",
+   "recipe": "Neem kalfsvlees en kalfsvet en een verse limoen, samen fijngehakt. Kruid met zout, foelie, peper en nootmuskaat. Voeg ook 2 of 3 eidooiers toe, en roer alles door elkaar. Leg dit in een taartbodem met schijfjes limoen erop en veel boter. Bak het een uur lang. \n\nVoor de saus: Meng bouillon, eidooiers, azijn en boter, en verwarm dit samen.",
+   "ingredients": [
+    [
+     "200 gram",
+     "kalfsvlees"
+    ],
+    [
+     "100 gram",
+     "kalfsvet"
+    ],
+    [
+     "1",
+     "verse limoen"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "2",
+     "eidooiers"
+    ],
+    [
+     "",
+     "boter"
+    ],
+    [
+     "200 ml",
+     "bouillon"
+    ],
+    [
+     "2",
+     "eidooiers (voor de saus)"
+    ],
+    [
+     "2 eetlepels",
+     "azijn"
+    ],
+    [
+     "",
+     "boter (voor de saus)"
+    ]
+   ],
+   "visualized": "A beautifully presented lime pie seen from a three-quarters angle, with a golden-brown crust. Thin slices of lime are placed on top, slightly browned from baking. The inside shows a finely chopped mixture of veal and veal fat, appearing savory and rich. Melted butter glistens on the top, pooling slightly around the lime slices. Nearby, there's a small bowl of creamy, golden-yellow sauce from the mixture of bouillon, egg yolks, vinegar, and butter. Shot with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "pastei",
+    "ovenschotel"
+   ],
+   "original": "Om een sure limoenpastey te maken\n\n\nNeemt kalfsvlees en kalfsvet en een versche limoen daerby, t'samen kleyngehackt. Dan gekruyt met zout, foelie, peper en notemuskaet, oock 2 of 3 doren van eyeren, t'samen ondereengeroert, en in de korst geleydt met schijven van limoenen daerop, en veel boter. Een uur moet het backen. De saus moet zijn: hamelesop, doren van eyeren, verjuys en boter, t'samen opgewelt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-EFklu2QImtAYfoGz8YhtY13i.png?st=2024-07-17T18%3A30%3A36Z&se=2024-07-17T20%3A30%3A36Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T09%3A08%3A13Z&ske=2024-07-18T09%3A08%3A13Z&sks=b&skv=2023-11-03&sig=yAPC6eJ6n4SzF3bUShC6VJx6dsODnMzMRzta0rDraCs%3D"
+  }
  },
  {
   "id": 622,
   "title": "Om een hoenderpastey te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt hoenders, zietse een walletje op, krookt de beenen, leghtse in de pastey. Dan gekruyt met foely, peper, noten. Daerby doende: saucijsen, swesericken, balletjes van gehackt kalfsvlees, hanekammen, bodems van artisiocken, aspergies, castanien en voor al boter, en dan anderhalf uur gebacken.\nDe saus sult ghy maken van schapenat en verjuys, met twee geklopte doren van eyeren en boter. Dit soo t'samen latende opzieden.\n"
+  "instructions": "\nNeemt hoenders, zietse een walletje op, krookt de beenen, leghtse in de pastey. Dan gekruyt met foely, peper, noten. Daerby doende: saucijsen, swesericken, balletjes van gehackt kalfsvlees, hanekammen, bodems van artisiocken, aspergies, castanien en voor al boter, en dan anderhalf uur gebacken.\nDe saus sult ghy maken van schapenat en verjuys, met twee geklopte doren van eyeren en boter. Dit soo t'samen latende opzieden.\n",
+  "modernized": {
+   "title": "Hoenderpastei",
+   "recipe": "Neem kippen, versnijd ze en verwijder de botten. Leg ze in de pastei. Kruid met foelie, peper en nootmuskaat. Voeg daar saucijzen, zwezerikken, kalfsgehaktballetjes, hanenkammen, artisjokbodems, asperges, kastanjes en vooral boter aan toe. Bak dit anderhalf uur.\nDe saus maak je van bouillon en verjus, met twee geklopte eierdooiers en boter. Laat dit samen sudderen.",
+   "ingredients": [
+    [
+     "600 g",
+     "kip"
+    ],
+    [
+     "1 tl",
+     "foelie"
+    ],
+    [
+     "1 tl",
+     "peper"
+    ],
+    [
+     "1 tl",
+     "nootmuskaat"
+    ],
+    [
+     "200 g",
+     "saucijzen"
+    ],
+    [
+     "200 g",
+     "zwezerik"
+    ],
+    [
+     "200 g",
+     "kalfsgehaktballetjes"
+    ],
+    [
+     "100 g",
+     "hanenkammen (indien beschikbaar)"
+    ],
+    [
+     "200 g",
+     "artisjokbodems"
+    ],
+    [
+     "200 g",
+     "asperges"
+    ],
+    [
+     "150 g",
+     "kastanjes"
+    ],
+    [
+     "200 g",
+     "boter"
+    ],
+    [
+     "200 ml",
+     "bouillon"
+    ],
+    [
+     "100 ml",
+     "verjus"
+    ],
+    [
+     "2",
+     "eierdooiers"
+    ]
+   ],
+   "visualized": "A richly filled chicken pie seen from a three-quarters angle. The crust is golden brown and slightly flaky. Inside, the pie is bursting with various ingredients like sausages, sweetbreads, small meatballs, pieces of artichoke, asparagus tips, and chestnuts, all combined in a creamy mix. The sauce is slightly visible, creamy in texture. Serve with a small jug of additional light yellow sauce on the side, sprinkled with fresh herbs. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "pastei",
+    "oven",
+    "hoofdgerecht"
+   ],
+   "original": "Om een hoenderpastey te maken\n\n\nNeemt hoenders, zietse een walletje op, krookt de beenen, leghtse in de pastey. Dan gekruyt met foely, peper, noten. Daerby doende: saucijsen, swesericken, balletjes van gehackt kalfsvlees, hanekammen, bodems van artisiocken, aspergies, castanien en voor al boter, en dan anderhalf uur gebacken.\nDe saus sult ghy maken van schapenat en verjuys, met twee geklopte doren van eyeren en boter. Dit soo t'samen latende opzieden.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-iusNDqd9w1iKcw7pE0btJwX0.png?st=2024-07-17T18%3A31%3A08Z&se=2024-07-17T20%3A31%3A08Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A44%3A05Z&ske=2024-07-18T13%3A44%3A05Z&sks=b&skv=2023-11-03&sig=F4akeuC3r7LcVO%2BG9v2Tgkqg26h9i4asDXsjJf6V3mA%3D"
+  }
  },
  {
   "id": 623,
   "title": "Om een kuyckenpastey te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt de kuyckens, schoongewassen, de poten, borst en beenderen gekneust. Doetse in een korst van de beste deegh gemaeckt. Leghtse wel by den anderen, wel boter daerby doende en voorts vullende met hanekammen, artisiocken, schaepsvoeten, sausisen, swesericken en wat meer smakelijck is. Dan wat foelie, peper, noten, en sout, met boter bedeckt. Daerover gietende wat rooswater, en met suycker bestroyt en wat verjuys, dat u dunckt genoegh is; oock een of twee geklopte doren van eyeren. Dan de korst gedeckt en soo in den oven laten backen11.\n"
+  "instructions": "\nNeemt de kuyckens, schoongewassen, de poten, borst en beenderen gekneust. Doetse in een korst van de beste deegh gemaeckt. Leghtse wel by den anderen, wel boter daerby doende en voorts vullende met hanekammen, artisiocken, schaepsvoeten, sausisen, swesericken en wat meer smakelijck is. Dan wat foelie, peper, noten, en sout, met boter bedeckt. Daerover gietende wat rooswater, en met suycker bestroyt en wat verjuys, dat u dunckt genoegh is; oock een of twee geklopte doren van eyeren. Dan de korst gedeckt en soo in den oven laten backen11.\n",
+  "modernized": {
+   "title": "Kippenpastei",
+   "recipe": "Neem verse kip, goed gewassen. Gebruik de poten, borst en gekneusde beenderen. Plaats de stukken kip in een korst van het beste deeg gemaakt. Leg de stukken kip dicht tegen elkaar aan in het deeg en voeg een flinke hoeveelheid boter toe. Vul verder met hanekammen, artisjokken, schapenpoten, saucijzen en zwezeriken, of iets anders wat lekker is.\n\nVoeg dan wat foelie, peper, nootmuskaat en zout toe en bedek met boter. Giet er wat rozenwater overheen en bestrooi met suiker en een beetje verjuice naar smaak; voeg een of twee losgeklopte eidooiers toe.\n\nBedek de pastei met de deegkorst en bak in de oven tot het gaar is.",
+   "ingredients": [
+    [
+     "600 g",
+     "kip (poot, borst, beenderen)"
+    ],
+    [
+     "500 g",
+     "deeg"
+    ],
+    [
+     "200 g",
+     "boter"
+    ],
+    [
+     "100 g",
+     "hanekammen"
+    ],
+    [
+     "150 g",
+     "artisjokken"
+    ],
+    [
+     "100 g",
+     "schapenpoten"
+    ],
+    [
+     "150 g",
+     "saucijzen"
+    ],
+    [
+     "150 g",
+     "zwezeriken"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "50 ml",
+     "rozenwater"
+    ],
+    [
+     "20 g",
+     "suiker"
+    ],
+    [
+     "30 ml",
+     "verjuice"
+    ],
+    [
+     "2",
+     "eidooiers"
+    ]
+   ],
+   "visualized": "A richly filled chicken pie with a golden brown crust, presented from a three-quarters angle. Inside, visible ingredients include tender pieces of chicken, artichoke, sausages, and other fillings, all in a savory golden sauce. The pie is dusted lightly with sugar. Sigma 85 mm f/1.4.",
+   "tags": [
+    "kip",
+    "pastei",
+    "hoofdgerecht"
+   ],
+   "original": "Om een kuyckenpastey te maken\n\n\nNeemt de kuyckens, schoongewassen, de poten, borst en beenderen gekneust. Doetse in een korst van de beste deegh gemaeckt. Leghtse wel by den anderen, wel boter daerby doende en voorts vullende met hanekammen, artisiocken, schaepsvoeten, sausisen, swesericken en wat meer smakelijck is. Dan wat foelie, peper, noten, en sout, met boter bedeckt. Daerover gietende wat rooswater, en met suycker bestroyt en wat verjuys, dat u dunckt genoegh is; oock een of twee geklopte doren van eyeren. Dan de korst gedeckt en soo in den oven laten backen11.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-Fyxe4I2ArbQUBg5lyieGQcW7.png?st=2024-07-17T18%3A31%3A32Z&se=2024-07-17T20%3A31%3A32Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A34%3A21Z&ske=2024-07-18T13%3A34%3A21Z&sks=b&skv=2023-11-03&sig=sMquBQ%2BHG/D9cDJ%2BC829DaQmfK9u/kmckuarZ%2BVlHb0%3D"
+  }
  },
  {
   "id": 624,
   "title": "backen: de editie van 1667 (Van Aengelen 1667, p.12) geeft de baktijd aan, nl. anderhalf uur.",
   "bookRef": "N1669",
-  "instructions": "\n"
+  "instructions": "\n",
+  "modernized": {
+   "title": "Bakken",
+   "recipe": "Verwarm de oven voor op 180 graden Celsius. Zet alle ingredi\u00ebnten klaar.\n\nStap 1: Neem een kom en meng de bloem, suiker en eieren tot een glad beslag.\nStap 2: Voeg langzaam de melk toe terwijl je blijft roeren om klontjes te voorkomen.\nStap 3: Smelt de boter en voeg deze toe aan het beslag. Roer goed door.\nStap 4: Giet het beslag in een ingevette bakvorm.\nStap 5: Bak het beslag in de voorverwarmde oven voor anderhalf uur.\nStap 6: Laat het afkoelen voordat je het uit de vorm haalt.\n\nTip: Je kunt desgewenst wat vanille-extract toevoegen voor extra smaak.",
+   "ingredients": [
+    [
+     "200 g",
+     "bloem"
+    ],
+    [
+     "150 g",
+     "suiker"
+    ],
+    [
+     "3",
+     "eieren"
+    ],
+    [
+     "250 ml",
+     "melk"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "",
+     "vanille-extract"
+    ]
+   ],
+   "visualized": "A baked cake with a golden brown crust and a smooth top, set inside a baking tin. The cake appears slightly elevated and is evenly baked. From a three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "bakken",
+    "nagerecht",
+    "zoet"
+   ],
+   "original": "backen: de editie van 1667 (Van Aengelen 1667, p.12) geeft de baktijd aan, nl. anderhalf uur.\n\n\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-ZX2QB33slD6woqYj6ZHzifrq.png?st=2024-07-17T18%3A31%3A54Z&se=2024-07-17T20%3A31%3A54Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A25%3A27Z&ske=2024-07-18T11%3A25%3A27Z&sks=b&skv=2023-11-03&sig=p7c%2BqcxV41gODhYsUSuy45w/w4EwsZYjcX8VU2RRwsI%3D"
+  }
  },
  {
   "id": 625,
   "title": "Om een soet kieckenpastey te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt 't kiecken, een weynigh gesoden zijnde, leght het in de pastey. Kruyt het met caneel, nagelen en weynigh noten en gember, daerby leggende pruymen van demast, geconfijte peeren en karsen, sucade, pingelen en boter. Laet'et een uur backen. De saus moet zijn van wijn en suycker, ofte anders soete room met doren van eyeren, gewelt, en suycker. Dan wortse oock wel genaemt: een soete roompastey.\n"
+  "instructions": "\nNeemt 't kiecken, een weynigh gesoden zijnde, leght het in de pastey. Kruyt het met caneel, nagelen en weynigh noten en gember, daerby leggende pruymen van demast, geconfijte peeren en karsen, sucade, pingelen en boter. Laet'et een uur backen. De saus moet zijn van wijn en suycker, ofte anders soete room met doren van eyeren, gewelt, en suycker. Dan wortse oock wel genaemt: een soete roompastey.\n",
+  "modernized": {
+   "title": "Zoete Kippenpastei",
+   "recipe": "Neem een kip, een beetje gekookt, en leg het in de pastei.\nKruid het met kaneel, kruidnagel, beetje nootmuskaat en gember.\nVoeg gedroogde pruimen, gekonfijte peren en kersen, sukade, pijnboompitten en boter toe.\nLaat het een uur bakken.\nMaak een saus van wijn en suiker, of anders zoete room met eidooiers en suiker.\nDan wordt het ook wel genoemd: een zoete roompastei.",
+   "ingredients": [
+    [
+     "1",
+     "kip"
+    ],
+    [
+     "1 el",
+     "kaneel"
+    ],
+    [
+     "1 tl",
+     "kruidnagel"
+    ],
+    [
+     "1 tl",
+     "nootmuskaat"
+    ],
+    [
+     "1 tl",
+     "gember"
+    ],
+    [
+     "200 g",
+     "gedroogde pruimen"
+    ],
+    [
+     "200 g",
+     "gekonfijte peren"
+    ],
+    [
+     "200 g",
+     "gekonfijte kersen"
+    ],
+    [
+     "100 g",
+     "sukade"
+    ],
+    [
+     "100 g",
+     "pijnboompitten"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "200 ml",
+     "wijn"
+    ],
+    [
+     "100 g",
+     "suiker"
+    ],
+    [
+     "200 ml",
+     "zoete room"
+    ],
+    [
+     "2",
+     "eidooiers"
+    ]
+   ],
+   "visualized": "A richly filled chicken pie from a three-quarters angle. The pastry is golden brown and slightly glossy, with visible pieces of dried prunes, candied pears, and cherries on top. The pie is partially cut to reveal a rich filling, a mix of chicken pieces, cinnamon, cloves, nutmeg, and ginger. There is a thick sauce with hints of white wine and sugar drizzled on the top and sides. Sigma 85 mm f/1.4.",
+   "tags": [
+    "kip",
+    "zoet",
+    "pastei",
+    "hoofdgerecht"
+   ],
+   "original": "Om een soet kieckenpastey te maken\n\n\nNeemt 't kiecken, een weynigh gesoden zijnde, leght het in de pastey. Kruyt het met caneel, nagelen en weynigh noten en gember, daerby leggende pruymen van demast, geconfijte peeren en karsen, sucade, pingelen en boter. Laet'et een uur backen. De saus moet zijn van wijn en suycker, ofte anders soete room met doren van eyeren, gewelt, en suycker. Dan wortse oock wel genaemt: een soete roompastey.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-QgxnAcFHJq94kJiQFD7Fe6Ek.png?st=2024-07-17T18%3A32%3A27Z&se=2024-07-17T20%3A32%3A27Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A52%3A07Z&ske=2024-07-18T11%3A52%3A07Z&sks=b&skv=2023-11-03&sig=HYnpN1qOIBUgCH5%2B/YxflF0CEICic1VikS9jsMvH5S8%3D"
+  }
  },
  {
   "id": 626,
   "title": "Om een vinckepastey te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt vincken, wastse heel schoon en een weynigh gesoden. Dan in de pastey geleght, stofferende die met caneel, suycker, corenten, pingelen, sucade en boter, en soo t'samen een half uur gebacken.\nDe saus moet zijn van Rinse wijn en suycker.\n"
+  "instructions": "\nNeemt vincken, wastse heel schoon en een weynigh gesoden. Dan in de pastey geleght, stofferende die met caneel, suycker, corenten, pingelen, sucade en boter, en soo t'samen een half uur gebacken.\nDe saus moet zijn van Rinse wijn en suycker.\n",
+  "modernized": {
+   "title": "Vinckenpastei",
+   "recipe": "Neem vinken, was ze heel schoon en kook ze een beetje. Leg ze dan in de pastei en bestrooi met kaneel, suiker, krenten, pijnboompitten, sukade en boter. Bak het geheel ongeveer een half uur. \n\nDe saus moet worden gemaakt van rode wijn en suiker.",
+   "ingredients": [
+    [
+     "4",
+     "vinken"
+    ],
+    [
+     "200 ml",
+     "rode wijn"
+    ],
+    [
+     "2 el",
+     "suiker"
+    ],
+    [
+     "1 el",
+     "kaneel"
+    ],
+    [
+     "50 g",
+     "krenten"
+    ],
+    [
+     "50 g",
+     "pijnboompitten"
+    ],
+    [
+     "50 g",
+     "sukade"
+    ],
+    [
+     "50 g",
+     "boter"
+    ]
+   ],
+   "visualized": "A rustic vinckenpastei freshly out of the oven. The filling is visible with whole cooked birds seasoned with cinnamon, sugar, currants, pine nuts, candied fruit, and butter. The crust is golden brown and flaky. A small dish of dark red wine sauce with sugar is beside the pie for dipping. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "vogel",
+    "pastei",
+    "oven",
+    "sausen"
+   ],
+   "original": "Om een vinckepastey te maken\n\n\nNeemt vincken, wastse heel schoon en een weynigh gesoden. Dan in de pastey geleght, stofferende die met caneel, suycker, corenten, pingelen, sucade en boter, en soo t'samen een half uur gebacken.\nDe saus moet zijn van Rinse wijn en suycker.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-69S62MJaQ9fGDcImGImpdvI4.png?st=2024-07-17T18%3A33%3A00Z&se=2024-07-17T20%3A33%3A00Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T10%3A29%3A40Z&ske=2024-07-18T10%3A29%3A40Z&sks=b&skv=2023-11-03&sig=mzbhQ0/GUpLXoU1hy%2Bqcb8p354S8Z/N4uahAiSurxrE%3D"
+  }
  },
  {
   "id": 627,
   "title": "Om een leckere potpastey te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt 2 pont osse- of kalfsvlees, als 't gekoockt en kleyngehackt is, een pont corenten, wat gestote nagelen en notemuskaet, een weynigh gember en caneel, en onder het vleessop om te stoven een half pintjen Rinse wijn, en kleyne stucxkens van gedrooghde orangieschillekens die eerst vervarst en in kleyn bier opgesoden zijn, en wat pingelen, een goet stuck boter, een half pont pruymen, suycker. Maer als ghy de potpastey eenige tijt wilt bewaren, soo moet men de pruymen d'eerste mael daer niet by doen.\n"
+  "instructions": "\nNeemt 2 pont osse- of kalfsvlees, als 't gekoockt en kleyngehackt is, een pont corenten, wat gestote nagelen en notemuskaet, een weynigh gember en caneel, en onder het vleessop om te stoven een half pintjen Rinse wijn, en kleyne stucxkens van gedrooghde orangieschillekens die eerst vervarst en in kleyn bier opgesoden zijn, en wat pingelen, een goet stuck boter, een half pont pruymen, suycker. Maer als ghy de potpastey eenige tijt wilt bewaren, soo moet men de pruymen d'eerste mael daer niet by doen.\n",
+  "modernized": {
+   "title": "Potpastei",
+   "recipe": "Neem 1 kilogram ossenvlees of kalfsvlees. Wanneer het gekookt en fijngehakt is, voeg 450 gram krenten toe, wat gemalen kruidnagel, nootmuskaat, een beetje gember en kaneel. Stoof het vlees met een halve liter Rijnwijn, kleine stukjes gedroogde sinaasappelschillen die eerst geweekt en gekookt zijn in klein bier, wat pain d'\u00e9pices, een flink stuk boter, 225 gram pruimen en suiker. Maar als je de potpastei enige tijd wilt bewaren, voeg de pruimen dan de eerste keer niet toe.",
+   "ingredients": [
+    [
+     "1 kg",
+     "ossenvlees of kalfsvlees"
+    ],
+    [
+     "450 g",
+     "krenten"
+    ],
+    [
+     "",
+     "gemalen kruidnagel"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "",
+     "gember"
+    ],
+    [
+     "",
+     "kaneel"
+    ],
+    [
+     "500 ml",
+     "Rijnwijn"
+    ],
+    [
+     "",
+     "gedroogde sinaasappelschillen"
+    ],
+    [
+     "",
+     "pain d'\u00e9pices"
+    ],
+    [
+     "",
+     "boter"
+    ],
+    [
+     "225 g",
+     "pruimen"
+    ],
+    [
+     "",
+     "suiker"
+    ]
+   ],
+   "visualized": "A rich, hearty pot pie filled with finely chopped beef or veal. The filling includes plump currants, aromatic spices like clove, nutmeg, ginger, and cinnamon. Pockets of small pieces of dried orange peel can be seen mixed evenly throughout. A generous addition of plump, rehydrated prunes is present. The filling glistens slightly, coated with butter and sweetened subtly with some sugar. The pie's crust is golden brown, flaky, and buttery, allowing hints of the filling to show through some small cracks. Three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "kruidig",
+    "hartig"
+   ],
+   "original": "Om een leckere potpastey te maken\n\n\nNeemt 2 pont osse- of kalfsvlees, als 't gekoockt en kleyngehackt is, een pont corenten, wat gestote nagelen en notemuskaet, een weynigh gember en caneel, en onder het vleessop om te stoven een half pintjen Rinse wijn, en kleyne stucxkens van gedrooghde orangieschillekens die eerst vervarst en in kleyn bier opgesoden zijn, en wat pingelen, een goet stuck boter, een half pont pruymen, suycker. Maer als ghy de potpastey eenige tijt wilt bewaren, soo moet men de pruymen d'eerste mael daer niet by doen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-eL5Xtg2VJugiLHywoHtih9oZ.png?st=2024-07-17T18%3A33%3A30Z&se=2024-07-17T20%3A33%3A30Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T10%3A46%3A04Z&ske=2024-07-18T10%3A46%3A04Z&sks=b&skv=2023-11-03&sig=SEaWDcbJuoYmD8PTYaL3G0QxcOCGDlR6oWnUsx0NDc8%3D"
+  }
  },
  {
   "id": 628,
   "title": "De toebereydingh van de kuyp",
   "bookRef": "N1669",
-  "instructions": "\nDe kuyp of 't vleeschvat daer men 't gesouten vleesch in legt, dient van tevoren wel aengedreven en dichtgemaeckt te zijn, en alsdan een nacht vol water te staen om toe te trecken. Dit doet men dan daeruyt en men giet'er weer in ziedent heet water, daerin wijngaertbladeren opgekoockt zijn. Men doet de kuyp alsdan toe en laet die soo staen broeyen totdat het water byna kout is. 'Twelck daeruyt gedaen zijnde, strooyt men in een test met vuur een handtvol kruydtnagelen, doch niet al t'seffens, en12 de kuyp daerover gestolpt, laet men soo staen beroocken. Daerna giet men noch wel van binnen op den bodem - langhs de kimmen - heet gesmolten kaersvet en dit geschiet omdat de pekel seer subtijl is om door te dringen. Aleer men 't vleesch in de kuyp leght, wordt de bodem wel met sout bestrooyt.\n\n 12 In de druk staat: in.\n"
+  "instructions": "\nDe kuyp of 't vleeschvat daer men 't gesouten vleesch in legt, dient van tevoren wel aengedreven en dichtgemaeckt te zijn, en alsdan een nacht vol water te staen om toe te trecken. Dit doet men dan daeruyt en men giet'er weer in ziedent heet water, daerin wijngaertbladeren opgekoockt zijn. Men doet de kuyp alsdan toe en laet die soo staen broeyen totdat het water byna kout is. 'Twelck daeruyt gedaen zijnde, strooyt men in een test met vuur een handtvol kruydtnagelen, doch niet al t'seffens, en12 de kuyp daerover gestolpt, laet men soo staen beroocken. Daerna giet men noch wel van binnen op den bodem - langhs de kimmen - heet gesmolten kaersvet en dit geschiet omdat de pekel seer subtijl is om door te dringen. Aleer men 't vleesch in de kuyp leght, wordt de bodem wel met sout bestrooyt.\n\n 12 In de druk staat: in.\n",
+  "modernized": {
+   "title": "Voorbereiding van de kuip",
+   "recipe": "De kuip of het vleessvat waarin het gezouten vlees wordt gelegd, dient van tevoren goed aangedreven en dichtgemaakt te zijn. Laat het een nacht vol water staan om het hout te laten zwellen. Giet de volgende dag het water eruit en vul de kuip opnieuw met kokend heet water, waarin wijnbladeren zijn meegekookt. Sluit de kuip en laat deze staan tot het water bijna koud is.\n\nGiet vervolgens het water uit de kuip. Strooi een handvol kruidnagelen in een vuurvaste schaal en plaats deze in de kuip. Laat de kuip zo staan om te beroken.\n\nGiet daarna gesmolten kaarsvet langs de randen van de bodem van de kuip. Dit wordt gedaan om te voorkomen dat de pekel door het hout dringt. Strooi zout over de bodem voordat je het vlees in de kuip legt.",
+   "ingredients": [
+    [
+     "",
+     "water"
+    ],
+    [
+     "",
+     "wijnbladeren"
+    ],
+    [
+     "50 g",
+     "kruidnagelen"
+    ],
+    [
+     "100 ml",
+     "gesmolten kaarsvet"
+    ],
+    [
+     "",
+     "zout"
+    ]
+   ],
+   "visualized": "A large wooden barrel filled with slightly wilted grape leaves and brine at the bottom of the barrel. The barrel is slightly open showing steam coming out from the previously boiling liquid. The interior walls of the barrel are coated with a thin layer of wax-like melted candle fat, and the bottom is sprinkled with a small heap of coarse salt. Shot from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "voorbereiding",
+    "vaten"
+   ],
+   "original": "De toebereydingh van de kuyp\n\n\nDe kuyp of 't vleeschvat daer men 't gesouten vleesch in legt, dient van tevoren wel aengedreven en dichtgemaeckt te zijn, en alsdan een nacht vol water te staen om toe te trecken. Dit doet men dan daeruyt en men giet'er weer in ziedent heet water, daerin wijngaertbladeren opgekoockt zijn. Men doet de kuyp alsdan toe en laet die soo staen broeyen totdat het water byna kout is. 'Twelck daeruyt gedaen zijnde, strooyt men in een test met vuur een handtvol kruydtnagelen, doch niet al t'seffens, en12 de kuyp daerover gestolpt, laet men soo staen beroocken. Daerna giet men noch wel van binnen op den bodem - langhs de kimmen - heet gesmolten kaersvet en dit geschiet omdat de pekel seer subtijl is om door te dringen. Aleer men 't vleesch in de kuyp leght, wordt de bodem wel met sout bestrooyt.\n\n 12 In de druk staat: in.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-q0RMOJ0pEiuXWmW6gWb6U0ku.png?st=2024-07-17T18%3A33%3A54Z&se=2024-07-17T20%3A33%3A54Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A26%3A18Z&ske=2024-07-18T11%3A26%3A18Z&sks=b&skv=2023-11-03&sig=Vf7H/m8%2BaCB7G79VGMg46Pg2mfcuBgw5AkviruHpnak%3D"
+  }
  },
  {
   "id": 629,
   "title": "Van het vleesch te zouten",
   "bookRef": "N1669",
-  "instructions": "\nDe gemeenste manier van zouten is het vleesch rontom aen alle kanten en in alle hoecken wel met zout te doorwrijven, en dan in de kuyp te packen, en sout tusschenbeyden te strooyen, soo dicht als mogelijck is.\nDoch siet hier een ander manier: men maeckt pekel, soo sterck, totdat'er geen meer sout in smelten, maer wel een ey in drijven kan. De kuypsbodem, dan wel bezouten zijnde, set men de stucken vleesch, gantsch ongezouten, op haer kanten daerin, soo ruym datse malkanderen niet raken. En de tweede laegh daer weder op, stroyende zout, daerse op malkandren komen te staen en soo al voort. Dan giet men de voorsz. pekel daerop, totdat al het vleesch wel bedoven is. En soo de stucken daerna komen op te drijven, houdt mense met yet zwaers omlaegh. Maer men dient alle 6 of 8 dagen daerna te sien of de pekel oock al te bloedigh, dick of vliesachtigh wordt. En soo dit gebeurt, giet men al de pekel daeraf en koocktse op. Deselve wel beschuymende en weer kout geworden, giet mense weder in de kuyp.\nDese manier doet het vleesch noyt soo zout noch hart worden als d'andere. Veele leggen de beste en vetste stucken onderin, omdat die beter als de magere het zout langhst konnen verdragen, ja niet als te beter - omdat het zout des selfs geyligheyt beneemt - daerdoor komen te worden, daer integendeel de magere stucken, het langhst in 't zout of de pekel leggende, dor, hardt en wreedt worden. Doch yder doet hierin na zijn welgevallen.\n"
+  "instructions": "\nDe gemeenste manier van zouten is het vleesch rontom aen alle kanten en in alle hoecken wel met zout te doorwrijven, en dan in de kuyp te packen, en sout tusschenbeyden te strooyen, soo dicht als mogelijck is.\nDoch siet hier een ander manier: men maeckt pekel, soo sterck, totdat'er geen meer sout in smelten, maer wel een ey in drijven kan. De kuypsbodem, dan wel bezouten zijnde, set men de stucken vleesch, gantsch ongezouten, op haer kanten daerin, soo ruym datse malkanderen niet raken. En de tweede laegh daer weder op, stroyende zout, daerse op malkandren komen te staen en soo al voort. Dan giet men de voorsz. pekel daerop, totdat al het vleesch wel bedoven is. En soo de stucken daerna komen op te drijven, houdt mense met yet zwaers omlaegh. Maer men dient alle 6 of 8 dagen daerna te sien of de pekel oock al te bloedigh, dick of vliesachtigh wordt. En soo dit gebeurt, giet men al de pekel daeraf en koocktse op. Deselve wel beschuymende en weer kout geworden, giet mense weder in de kuyp.\nDese manier doet het vleesch noyt soo zout noch hart worden als d'andere. Veele leggen de beste en vetste stucken onderin, omdat die beter als de magere het zout langhst konnen verdragen, ja niet als te beter - omdat het zout des selfs geyligheyt beneemt - daerdoor komen te worden, daer integendeel de magere stucken, het langhst in 't zout of de pekel leggende, dor, hardt en wreedt worden. Doch yder doet hierin na zijn welgevallen.\n",
+  "modernized": {
+   "title": "Vlees pekelen",
+   "recipe": "De gebruikelijke manier van pekelen is om het vlees rondom en in alle hoeken goed met zout in te wrijven, en het dan in een kuip te doen, met zout tussen de lagen. Zo dicht als mogelijk is. \n\nMaar hier is een andere manier: maak pekel, zo sterk dat er geen zout meer in kan oplossen maar een ei kan drijven. Pak de bodem van de kuip in met zout, zet de stukken vlees, geheel ongezouten, rechtop erin, zo ruim dat ze elkaar niet raken. De tweede laag erop doen, strooi zout zodat ze op elkaar staan en ga zo voort. Giet dan de pekel erover, totdat al het vlees goed bedekt is. \n\nAls de stukken later gaan drijven, houd ze met iets zwaars omlaag. Controleer elke 6 tot 8 dagen of de pekel niet bloederig, dik of vliesachtig wordt. Als dit gebeurt, giet dan alle pekel eruit en kook het. Schuim het goed af en giet het, als het weer koud is, terug in de kuip. \n\nDeze methode zorgt ervoor dat het vlees niet zo zout of hard wordt als bij de andere. Veel mensen leggen de beste en vetste stukken onderin, omdat die het zout beter kunnen verdragen. Mager vlees dat lang in het zout of pekel ligt, wordt droog, hard en taai. Maar iedereen doet dit naar zijn eigen voorkeur.",
+   "ingredients": [
+    [
+     "200 ml",
+     "zout"
+    ],
+    [
+     "2 liter",
+     "water"
+    ],
+    [
+     "1",
+     "ei"
+    ],
+    [
+     "1 kg",
+     "vlees"
+    ]
+   ],
+   "visualized": "A large wooden tub filled with meat pieces stacked in layers, visible coarse salt between the layers. Some pieces of meat are held down by a heavy object to prevent them from floating. The brine solution fully covers the meat. Photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "zouten",
+    "pekel",
+    "bewaren"
+   ],
+   "original": "Van het vleesch te zouten\n\n\nDe gemeenste manier van zouten is het vleesch rontom aen alle kanten en in alle hoecken wel met zout te doorwrijven, en dan in de kuyp te packen, en sout tusschenbeyden te strooyen, soo dicht als mogelijck is.\nDoch siet hier een ander manier: men maeckt pekel, soo sterck, totdat'er geen meer sout in smelten, maer wel een ey in drijven kan. De kuypsbodem, dan wel bezouten zijnde, set men de stucken vleesch, gantsch ongezouten, op haer kanten daerin, soo ruym datse malkanderen niet raken. En de tweede laegh daer weder op, stroyende zout, daerse op malkandren komen te staen en soo al voort. Dan giet men de voorsz. pekel daerop, totdat al het vleesch wel bedoven is. En soo de stucken daerna komen op te drijven, houdt mense met yet zwaers omlaegh. Maer men dient alle 6 of 8 dagen daerna te sien of de pekel oock al te bloedigh, dick of vliesachtigh wordt. En soo dit gebeurt, giet men al de pekel daeraf en koocktse op. Deselve wel beschuymende en weer kout geworden, giet mense weder in de kuyp.\nDese manier doet het vleesch noyt soo zout noch hart worden als d'andere. Veele leggen de beste en vetste stucken onderin, omdat die beter als de magere het zout langhst konnen verdragen, ja niet als te beter - omdat het zout des selfs geyligheyt beneemt - daerdoor komen te worden, daer integendeel de magere stucken, het langhst in 't zout of de pekel leggende, dor, hardt en wreedt worden. Doch yder doet hierin na zijn welgevallen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-chJ1yeFofgL5u8BiwNgjgy1P.png?st=2024-07-17T18%3A34%3A21Z&se=2024-07-17T20%3A34%3A21Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A52%3A38Z&ske=2024-07-18T13%3A52%3A38Z&sks=b&skv=2023-11-03&sig=1ijZEgvJXtV0LOrdzDaR50uGY3iO6gDeGLbwkx6jdNE%3D"
+  }
  },
  {
   "id": 630,
   "title": "Van het vleesch te roken",
   "bookRef": "N1669",
-  "instructions": "\nHet vleesch dat men roken wil, moet eerst met zout gewreven zijn, doch soo hardt niet als hetgeen dat men in de kuyp leght. Als 't gewreven is, leght men 't op malkanderen in een tobbe om te pekelen. Sommige laten het alsoo wel 14, 12, 10 of 8 dagen leggen, maer drie dagen en drie nachten is voor al genoegh. Eenige doen het vleesch, als sy het in de schoorsteen om te roken ophangen, in sacken van hol linnen of kanefas; andere binden het in graeu papieren. Sommige wentelen het in semelen of sagelis, maer best is het, sonder het een of andere op te hangen, want het veel beter doorroockt. Men laet het hangen tot in de maendt van maert, als wanneer men een helderen droogen dagh waerneemt, dat men het des morgens afneemt en het roet met schoon water afboent, en laet het in de son of windt den gantschen dagh droogen. Dan hanght men 't in de keuckens omtrent de schoorsteenen aen de balcken, tot men 't van nooden heeft. Maer als men de vette ribstucken - die men paterstucken noemt - mede roockt, soo mogen deselve met de tongen, hammen en speck wel een maent of 6 weken eerder als het ander uyt den roock genomen worden.\n"
+  "instructions": "\nHet vleesch dat men roken wil, moet eerst met zout gewreven zijn, doch soo hardt niet als hetgeen dat men in de kuyp leght. Als 't gewreven is, leght men 't op malkanderen in een tobbe om te pekelen. Sommige laten het alsoo wel 14, 12, 10 of 8 dagen leggen, maer drie dagen en drie nachten is voor al genoegh. Eenige doen het vleesch, als sy het in de schoorsteen om te roken ophangen, in sacken van hol linnen of kanefas; andere binden het in graeu papieren. Sommige wentelen het in semelen of sagelis, maer best is het, sonder het een of andere op te hangen, want het veel beter doorroockt. Men laet het hangen tot in de maendt van maert, als wanneer men een helderen droogen dagh waerneemt, dat men het des morgens afneemt en het roet met schoon water afboent, en laet het in de son of windt den gantschen dagh droogen. Dan hanght men 't in de keuckens omtrent de schoorsteenen aen de balcken, tot men 't van nooden heeft. Maer als men de vette ribstucken - die men paterstucken noemt - mede roockt, soo mogen deselve met de tongen, hammen en speck wel een maent of 6 weken eerder als het ander uyt den roock genomen worden.\n",
+  "modernized": {
+   "title": "Gerookt vlees",
+   "recipe": "Het vlees dat je wilt roken, moet eerst met zout gewreven worden, maar niet zo hard als het vlees dat je in de kuip legt. Als het gewreven is, leg je het op elkaar in een ton om te pekelen. Sommige mensen laten het wel 8 tot 14 dagen liggen, maar drie dagen en nachten is meestal al genoeg.\n\nSommigen hangen het vlees, als ze het in de schoorsteen om te roken hangen, in zakken van linnen of kanefas; anderen binden het in grijs papier. Sommige wikkelen het in zemelen of zaagsel, maar het beste is om het zonder iets op te hangen, omdat het dan beter doorrookt. Laat het hangen tot in maart. Kies dan een heldere, droge dag, haal het 's ochtends naar beneden en boen het roet met schoon water af. Laat het de hele dag in de zon of wind drogen.\n\nHang het daarna in de keuken bij de schoorsteen aan de balken, totdat je het nodig hebt. Maar als je vette ribstukken - ook wel paterstukken genoemd - mee rookt, dan kunnen die met de tongen, hammen en spek een maand of zes weken eerder uit de rook worden gehaald.",
+   "ingredients": [
+    [
+     "",
+     "vlees"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "linnen of kanefas zakken"
+    ],
+    [
+     "",
+     "grijs papier"
+    ],
+    [
+     "",
+     "zemelen of zaagsel"
+    ]
+   ],
+   "visualized": "A selection of various cuts of meat hanging from hooks. The meat is slightly darkened from the smoke, with visible marbling and some pieces showing a slight crust. The cuts vary in size and shape, hanging closely together. Some pieces of meat are wrapped in linen sacks or grey paper, while others are exposed or lightly dusted with a coarse grain. The visual should show the meat at a three-quarters angle, clearly illustrating the different textures and the effect of the smoking process, captured using a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "roken",
+    "bewaren",
+    "traditioneel",
+    "hoofdgerecht"
+   ],
+   "original": "Van het vleesch te roken\n\n\nHet vleesch dat men roken wil, moet eerst met zout gewreven zijn, doch soo hardt niet als hetgeen dat men in de kuyp leght. Als 't gewreven is, leght men 't op malkanderen in een tobbe om te pekelen. Sommige laten het alsoo wel 14, 12, 10 of 8 dagen leggen, maer drie dagen en drie nachten is voor al genoegh. Eenige doen het vleesch, als sy het in de schoorsteen om te roken ophangen, in sacken van hol linnen of kanefas; andere binden het in graeu papieren. Sommige wentelen het in semelen of sagelis, maer best is het, sonder het een of andere op te hangen, want het veel beter doorroockt. Men laet het hangen tot in de maendt van maert, als wanneer men een helderen droogen dagh waerneemt, dat men het des morgens afneemt en het roet met schoon water afboent, en laet het in de son of windt den gantschen dagh droogen. Dan hanght men 't in de keuckens omtrent de schoorsteenen aen de balcken, tot men 't van nooden heeft. Maer als men de vette ribstucken - die men paterstucken noemt - mede roockt, soo mogen deselve met de tongen, hammen en speck wel een maent of 6 weken eerder als het ander uyt den roock genomen worden.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-quObYG9AYUCZ0qmchxi9Ul6n.png?st=2024-07-17T18%3A35%3A02Z&se=2024-07-17T20%3A35%3A02Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A25%3A33Z&ske=2024-07-18T13%3A25%3A33Z&sks=b&skv=2023-11-03&sig=UGy/9uAvjEWKQGEoSfL%2B89InSk3Olbv0psKecTlOAUM%3D"
+  }
  },
  {
   "id": 631,
   "title": "Van de varckens",
   "bookRef": "N1669",
-  "instructions": "\nMen sal 't varcken slaen in 't eerste quartier of in 't wassen van de maen. En dat men 't in een etmael of dagh en nacht niet te drincken geve, opdat het vlees of speck dies te drooger en harder mach zijn, want door 't drincken sal de pekel oock dies te meer vochtigheyt aen hem trecken. En indien men 't varcken een etmael sonder eten laet staen, sal het vleesch dies te beter en grager te eten zijn.\nHoe minder beenderen en schinckels men in 't vleesch laet, hoe beter dat is, want dat doet de pekel langer goet blijven en het vleesch blijft smakelijcker sonder bederven, oock als het half hongerigh en dorstigh geslagen is.\nAls het varcken geslagen is (sommige laten 't terstont afhouwen om in te zouten, als sy 't eerst in water geleyt en 't bloet hebben laten uyttrecken, maer beter ist een etmael op te hangen en 't bloet soo laten aftrecken en besterven, want het vleesch dies te gesonder en droger is) en daerna afgehouwen na yegelijcks believen, groot of kleyn, wel ingesouten en ingepackt, en een zwaer gewicht daerop leggende, om goet te blijven.\nIn sommige landen en kapt men 't varckenvleesch niet in stucken, maer men hout het middendoor in twee deelen en op borden of in backen wel gesouten, 2 of 3 dagen. Dan hanght men 't op aen de solder. Dit, seyt men, is veel harder en smaecklijcker.\nVan een varcken kan men veel smakelijcke en soetelijcke spijse bereyden tegen de winter, en om oock het geheele jaer te gebruycken, 'tzy geroockt of gepekelt speck, van hammen, schincken, inkruyt of hutspot.\nMen laet de hammen en schouders 9 of 10 dagen in 't zout leggen en dan laet mense in de roock hangen met dat hooft of de kinnebackshammen. De rugge- en 't zydelspeck met de ribstucken kan men inzouten in een kuyp om daervan by winterdagh sijn spijse en pottagie te bereyden en te koken met wortelen, rapen, kool, warmoes en andere kruyden, en oock om gruttenmeelsackskens daerby te koken.\nAls het varcken wel ingezouten is, gebeurt het somtijts dat de pekel mettertijdt root en bloedigh wordt. Die giet men wegh, of men koocktse en schuymtse, en men laetse kout worden en men gietse weder op het vleesch. Of men doetse wegh en men giet daer versche pekel weder op, die men selfs kan maken van zout en revier- of klaer putwater, totdat daer een versch henneney in drijft of bovenop zwemt. Dan is het zout genoegh.\n"
+  "instructions": "\nMen sal 't varcken slaen in 't eerste quartier of in 't wassen van de maen. En dat men 't in een etmael of dagh en nacht niet te drincken geve, opdat het vlees of speck dies te drooger en harder mach zijn, want door 't drincken sal de pekel oock dies te meer vochtigheyt aen hem trecken. En indien men 't varcken een etmael sonder eten laet staen, sal het vleesch dies te beter en grager te eten zijn.\nHoe minder beenderen en schinckels men in 't vleesch laet, hoe beter dat is, want dat doet de pekel langer goet blijven en het vleesch blijft smakelijcker sonder bederven, oock als het half hongerigh en dorstigh geslagen is.\nAls het varcken geslagen is (sommige laten 't terstont afhouwen om in te zouten, als sy 't eerst in water geleyt en 't bloet hebben laten uyttrecken, maer beter ist een etmael op te hangen en 't bloet soo laten aftrecken en besterven, want het vleesch dies te gesonder en droger is) en daerna afgehouwen na yegelijcks believen, groot of kleyn, wel ingesouten en ingepackt, en een zwaer gewicht daerop leggende, om goet te blijven.\nIn sommige landen en kapt men 't varckenvleesch niet in stucken, maer men hout het middendoor in twee deelen en op borden of in backen wel gesouten, 2 of 3 dagen. Dan hanght men 't op aen de solder. Dit, seyt men, is veel harder en smaecklijcker.\nVan een varcken kan men veel smakelijcke en soetelijcke spijse bereyden tegen de winter, en om oock het geheele jaer te gebruycken, 'tzy geroockt of gepekelt speck, van hammen, schincken, inkruyt of hutspot.\nMen laet de hammen en schouders 9 of 10 dagen in 't zout leggen en dan laet mense in de roock hangen met dat hooft of de kinnebackshammen. De rugge- en 't zydelspeck met de ribstucken kan men inzouten in een kuyp om daervan by winterdagh sijn spijse en pottagie te bereyden en te koken met wortelen, rapen, kool, warmoes en andere kruyden, en oock om gruttenmeelsackskens daerby te koken.\nAls het varcken wel ingezouten is, gebeurt het somtijts dat de pekel mettertijdt root en bloedigh wordt. Die giet men wegh, of men koocktse en schuymtse, en men laetse kout worden en men gietse weder op het vleesch. Of men doetse wegh en men giet daer versche pekel weder op, die men selfs kan maken van zout en revier- of klaer putwater, totdat daer een versch henneney in drijft of bovenop zwemt. Dan is het zout genoegh.\n",
+  "modernized": {
+   "title": "Bereiding van Varkensvlees",
+   "recipe": "Slacht het varken in het eerste kwartier van de maan of wanneer de maan wast. Zorg ervoor dat het varken een etmaal (24 uur) niet drinkt, zodat het vlees droger en harder wordt. Een etmaal zonder eten maakt het vlees smakelijker. Hoe minder beenderen en schenkels in het vlees blijven, hoe beter het pekelt en hoe langer het goed blijft. Hang het varken een etmaal op om het bloed goed uit te laten trekken en het vlees te laten besterven. Daarna snijd je het naar wens in grote of kleine stukken. Pekel het grondig en leg er een zwaar gewicht op om het goed te laten blijven.\n\nSommige mensen splitsen het varken midden door in twee delen en pekelen het 2 \u00e0 3 dagen goed op borden of in bakken. Vervolgens wordt het opgehangen op zolder, waardoor het vlees harder en smakelijker wordt.\n\nVan een varken kan veel smakelijke en zoete spijs bereid worden voor de winter en het hele jaar door, of het nu gerookt of gepekeld spek is, hammen, schenkels, in kruiden of hutspot.\n\nLaat de hammen en schouders 9 \u00e0 10 dagen in het zout liggen. Hang ze daarna te roken samen met het hoofd of de kinnebakhammen. De rug- en zijstukken met ribben kunnen in een kuip worden gepekeld voor gebruik in winterse gerechten zoals stoofschotels met wortelen, rapen, kool, snijbiet en andere kruiden. Ook kunnen er gruttenmeelsackskens bij worden gekookt.\n\nWanneer het varken goed gepekeld is, kan de pekel soms rood en bloederig worden. Giet deze weg, of kook en schuim het af, laat het afkoelen en giet het terug over het vlees. Als alternatief kun je de pekel vervangen door verse pekel, gemaakt van zout en rivier- of helder putwater. Test of een vers ei blijft drijven in het water om te weten of het zout genoeg is.",
+   "ingredients": [
+    [
+     "",
+     "varkensvlees"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "water"
+    ]
+   ],
+   "visualized": "A traditional Dutch dish consisting of various cuts of pork, including ham, shoulders, ribs, and bacon, all well-salted and stored in a wooden barrel. The meat is a combination of different textures, from thick slices of ham to thicker chunks of bacon. The colors range from dark brown to a lighter beige, with some pieces still showing traces of salt. Seen from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "winter",
+    "traditioneel"
+   ],
+   "original": "Van de varckens\n\n\nMen sal 't varcken slaen in 't eerste quartier of in 't wassen van de maen. En dat men 't in een etmael of dagh en nacht niet te drincken geve, opdat het vlees of speck dies te drooger en harder mach zijn, want door 't drincken sal de pekel oock dies te meer vochtigheyt aen hem trecken. En indien men 't varcken een etmael sonder eten laet staen, sal het vleesch dies te beter en grager te eten zijn.\nHoe minder beenderen en schinckels men in 't vleesch laet, hoe beter dat is, want dat doet de pekel langer goet blijven en het vleesch blijft smakelijcker sonder bederven, oock als het half hongerigh en dorstigh geslagen is.\nAls het varcken geslagen is (sommige laten 't terstont afhouwen om in te zouten, als sy 't eerst in water geleyt en 't bloet hebben laten uyttrecken, maer beter ist een etmael op te hangen en 't bloet soo laten aftrecken en besterven, want het vleesch dies te gesonder en droger is) en daerna afgehouwen na yegelijcks believen, groot of kleyn, wel ingesouten en ingepackt, en een zwaer gewicht daerop leggende, om goet te blijven.\nIn sommige landen en kapt men 't varckenvleesch niet in stucken, maer men hout het middendoor in twee deelen en op borden of in backen wel gesouten, 2 of 3 dagen. Dan hanght men 't op aen de solder. Dit, seyt men, is veel harder en smaecklijcker.\nVan een varcken kan men veel smakelijcke en soetelijcke spijse bereyden tegen de winter, en om oock het geheele jaer te gebruycken, 'tzy geroockt of gepekelt speck, van hammen, schincken, inkruyt of hutspot.\nMen laet de hammen en schouders 9 of 10 dagen in 't zout leggen en dan laet mense in de roock hangen met dat hooft of de kinnebackshammen. De rugge- en 't zydelspeck met de ribstucken kan men inzouten in een kuyp om daervan by winterdagh sijn spijse en pottagie te bereyden en te koken met wortelen, rapen, kool, warmoes en andere kruyden, en oock om gruttenmeelsackskens daerby te koken.\nAls het varcken wel ingezouten is, gebeurt het somtijts dat de pekel mettertijdt root en bloedigh wordt. Die giet men wegh, of men koocktse en schuymtse, en men laetse kout worden en men gietse weder op het vleesch. Of men doetse wegh en men giet daer versche pekel weder op, die men selfs kan maken van zout en revier- of klaer putwater, totdat daer een versch henneney in drijft of bovenop zwemt. Dan is het zout genoegh.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-G25LZAjqmCnD0B5LdMeVCt29.png?st=2024-07-17T18%3A35%3A31Z&se=2024-07-17T20%3A35%3A31Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A04%3A34Z&ske=2024-07-18T12%3A04%3A34Z&sks=b&skv=2023-11-03&sig=/37mcceoGplinp5oEjRArG9b3oF%2BOdPjMnWGMHSIKzo%3D"
+  }
  },
  {
   "id": 632,
   "title": "Van het hooftvlees",
   "bookRef": "N1669",
-  "instructions": "\nOm 't hooftvlees tot een kaes te parssen, soo neemt het hooft als 't wel verwatert is. Snijt al het vleesch wel van de beenen af en doet'er de klieren uyt. Of anders: bint het hooft heel toe en laet'et soo gaerkoken. Men neemt oock wel daerby den ommeloop van het beest en het hart. Als 't hooft gaer is dat de beenen daeruyt vallen, doet'et dan op een hackbort en soeckt'er de klieren schoon uyt. En daerna gehackt, maer niet kleyn. Dan gekruyt met zout, peper, notemuskaet en nagelen, elck naer u believen. Dan in een doeck vastgebonden en in de ziedende ketel - daer het vet afgeschept is -gedaen, om weder doorheet te worden en dan te parssen gheset met veel gewicht daerop.\nHet hooftvlees eet men soo: kout met wat azijn. Oock stooft men 't wel op met suure of soete appelen. Het hooft van 't vercken wordt geklooft en gezouten, maer het kan niet langh duuren. Men koockt het oock wel op en neemt'er de beenen uyt en parst het op malkander. Dan wort'et wel gekruyt, tot sult in bierazijn geleyt. Oock worden de kakebeenen wel in de roock gehangen, die men kinnebackshammetjes noemt.\n"
+  "instructions": "\nOm 't hooftvlees tot een kaes te parssen, soo neemt het hooft als 't wel verwatert is. Snijt al het vleesch wel van de beenen af en doet'er de klieren uyt. Of anders: bint het hooft heel toe en laet'et soo gaerkoken. Men neemt oock wel daerby den ommeloop van het beest en het hart. Als 't hooft gaer is dat de beenen daeruyt vallen, doet'et dan op een hackbort en soeckt'er de klieren schoon uyt. En daerna gehackt, maer niet kleyn. Dan gekruyt met zout, peper, notemuskaet en nagelen, elck naer u believen. Dan in een doeck vastgebonden en in de ziedende ketel - daer het vet afgeschept is -gedaen, om weder doorheet te worden en dan te parssen gheset met veel gewicht daerop.\nHet hooftvlees eet men soo: kout met wat azijn. Oock stooft men 't wel op met suure of soete appelen. Het hooft van 't vercken wordt geklooft en gezouten, maer het kan niet langh duuren. Men koockt het oock wel op en neemt'er de beenen uyt en parst het op malkander. Dan wort'et wel gekruyt, tot sult in bierazijn geleyt. Oock worden de kakebeenen wel in de roock gehangen, die men kinnebackshammetjes noemt.\n",
+  "modernized": {
+   "title": "Hoofdvlees Kaas",
+   "recipe": "Om hoofdvlees tot een kaas te persen, neem het hoofd als het goed gewaterd is. Snijd al het vlees van de botten en verwijder de klieren. Anders bind je het hele hoofd dicht en laat het zo gaar koken. Men neemt hierbij vaak ook de omloop van het beest en het hart. Als het hoofd gaar is, zodat de botten eruit vallen, leg het dan op een hakblok en verwijder zorgvuldig de klieren. Hak het vlees daarna, maar niet te fijn. Kruid het dan met zout, peper, nootmuskaat en kruidnagel, naar eigen smaak. Bind het vlees vervolgens in een doek en plaats het weer in de kokende ketel - waar het vet afgeschept is - om opnieuw door en door heet te worden. Pers het dan met veel gewicht erop.\n\nHet hoofdvlees kan koud gegeten worden met wat azijn. Ook kan het gestoofd worden met zure of zoete appels. Het hoofd van het varken wordt gespleten en gezouten, maar het kan niet lang bewaard worden. Men kookt het ook en verwijdert de botten om het dan op elkaar te persen. Het gekruide vlees wordt dan in bierazijn gelegd als sult. Ook worden de kaakbeenderen soms gerookt, deze noemt men kinnebakhammetjes.",
+   "ingredients": [
+    [
+     "1",
+     "varkenshoofd"
+    ],
+    [
+     "800 g",
+     "varkensvlees"
+    ],
+    [
+     "",
+     "klieren"
+    ],
+    [
+     "",
+     "bouillon"
+    ],
+    [
+     "1 tl",
+     "zout"
+    ],
+    [
+     "1 tl",
+     "peper"
+    ],
+    [
+     "0.5 tl",
+     "nootmuskaat"
+    ],
+    [
+     "0.5 tl",
+     "kruidnagel"
+    ],
+    [
+     "2",
+     "zure appels"
+    ],
+    [
+     "200 ml",
+     "bierazijn"
+    ]
+   ],
+   "visualized": "A rustic-looking pressed head cheese dish made from pork. The cheese-like appearance with visible chunks of meat. It is sliced and neatly arranged on a wooden cutting board. There are small bowls of vinegar and slices of both sour and sweet apples on the side. The dish is presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "traditioneel",
+    "kaas"
+   ],
+   "original": "Van het hooftvlees\n\n\nOm 't hooftvlees tot een kaes te parssen, soo neemt het hooft als 't wel verwatert is. Snijt al het vleesch wel van de beenen af en doet'er de klieren uyt. Of anders: bint het hooft heel toe en laet'et soo gaerkoken. Men neemt oock wel daerby den ommeloop van het beest en het hart. Als 't hooft gaer is dat de beenen daeruyt vallen, doet'et dan op een hackbort en soeckt'er de klieren schoon uyt. En daerna gehackt, maer niet kleyn. Dan gekruyt met zout, peper, notemuskaet en nagelen, elck naer u believen. Dan in een doeck vastgebonden en in de ziedende ketel - daer het vet afgeschept is -gedaen, om weder doorheet te worden en dan te parssen gheset met veel gewicht daerop.\nHet hooftvlees eet men soo: kout met wat azijn. Oock stooft men 't wel op met suure of soete appelen. Het hooft van 't vercken wordt geklooft en gezouten, maer het kan niet langh duuren. Men koockt het oock wel op en neemt'er de beenen uyt en parst het op malkander. Dan wort'et wel gekruyt, tot sult in bierazijn geleyt. Oock worden de kakebeenen wel in de roock gehangen, die men kinnebackshammetjes noemt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-JI6FmYPgre2FPkftrMBLSCF8.png?st=2024-07-17T18%3A36%3A04Z&se=2024-07-17T20%3A36%3A04Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A24%3A10Z&ske=2024-07-18T13%3A24%3A10Z&sks=b&skv=2023-11-03&sig=jAPlozGVyVgrW/MDwF7d55rZoKOtnLqmsZFkLAzm0PQ%3D"
+  }
  },
  {
   "id": 633,
   "title": "Om het hooftvlees te bewaren",
   "bookRef": "N1669",
-  "instructions": "\nMen leyt het alleen in een groote aerde stoofpan en giet daerop heel slappe wijnazijn, die niet seer suur is, ofte goede bierazijn, met wat schijfkens mieredickwortel daerop. Het moet altijt overdeckt van azijn gehouden worden.\n"
+  "instructions": "\nMen leyt het alleen in een groote aerde stoofpan en giet daerop heel slappe wijnazijn, die niet seer suur is, ofte goede bierazijn, met wat schijfkens mieredickwortel daerop. Het moet altijt overdeckt van azijn gehouden worden.\n",
+  "modernized": {
+   "title": "Het bewaren van hooftvlees",
+   "recipe": "Leg het hooftvlees in een grote aardewerken stoofpan. Giet er milde wijnazijn of goede bierazijn overheen tot het vlees volledig bedekt is. Voeg enkele schijfjes mierikswortel toe. Zorg ervoor dat het vlees altijd onder de azijn blijft.",
+   "ingredients": [
+    [
+     "",
+     "hooftvlees"
+    ],
+    [
+     "",
+     "milde wijnazijn of bierazijn"
+    ],
+    [
+     "",
+     "mierikswortel"
+    ]
+   ],
+   "visualized": "A large earthenware stew pot filled with beef head meat completely covered in vinegar, with a few thin slices of horseradish on top. The meat appears submerged under a clear, slightly yellowish liquid. Photo angle should be from a three-quarters perspective. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "inmaken",
+    "conserveren"
+   ],
+   "original": "Om het hooftvlees te bewaren\n\n\nMen leyt het alleen in een groote aerde stoofpan en giet daerop heel slappe wijnazijn, die niet seer suur is, ofte goede bierazijn, met wat schijfkens mieredickwortel daerop. Het moet altijt overdeckt van azijn gehouden worden.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-hHwB3VmQhLlc58ubMEvLt65X.png?st=2024-07-17T18%3A36%3A23Z&se=2024-07-17T20%3A36%3A23Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A26%3A50Z&ske=2024-07-18T13%3A26%3A50Z&sks=b&skv=2023-11-03&sig=OCRF0izp/bw/1eOdzbRwyUzFC29HnxmVTjqyQ03RqBs%3D"
+  }
  },
  {
   "id": 634,
   "title": "Om pens te rollen",
   "bookRef": "N1669",
-  "instructions": "\nNeemt de pens als die schoon en wel gesuyvert is. Snijtse dan in stucken, naer dat ghy de rollen groot wilt hebben. Doet er dan in: sout, peper, salie en wat notemuskaet, kruytnagelen13 en wel vet, in lange stucken gesneden. Men doet er oock wel mager vlees, dun gesneden in, of wat rijs, en soo dicht toegenaeyt en heel murruw gekoockt en dan geperst.\nAls men dese pens wil gebruyken, snijt men die in schijfkens die dan in de pan gebacken worden met gebacken appelschijfkens daeronder.\nOock wort dese pens wel ongerolt slechts in stucken gesneden en als vooren gekoockt en weghgeleydt. Die gebruyckende, in lange riempjes gesneden, en met suure appelen en korenten opgestooft.\nDe varckensmaegh wordt wel met gort en vet gevult, en opgekoockt als de beulingen, of anders oock soo die is.\n\n 13 In de druk staat: kruynagelen.\n"
+  "instructions": "\nNeemt de pens als die schoon en wel gesuyvert is. Snijtse dan in stucken, naer dat ghy de rollen groot wilt hebben. Doet er dan in: sout, peper, salie en wat notemuskaet, kruytnagelen13 en wel vet, in lange stucken gesneden. Men doet er oock wel mager vlees, dun gesneden in, of wat rijs, en soo dicht toegenaeyt en heel murruw gekoockt en dan geperst.\nAls men dese pens wil gebruyken, snijt men die in schijfkens die dan in de pan gebacken worden met gebacken appelschijfkens daeronder.\nOock wort dese pens wel ongerolt slechts in stucken gesneden en als vooren gekoockt en weghgeleydt. Die gebruyckende, in lange riempjes gesneden, en met suure appelen en korenten opgestooft.\nDe varckensmaegh wordt wel met gort en vet gevult, en opgekoockt als de beulingen, of anders oock soo die is.\n\n 13 In de druk staat: kruynagelen.\n",
+  "modernized": {
+   "title": "Gerolde Pens",
+   "recipe": "Neem de pens als die schoon en goed gespoeld is. Snijd deze dan in stukken, naar gelang de grootte van de rollen die je wilt maken.\n\nDoe er dan het volgende in: zout, peper, salie, wat nootmuskaat, kruidnagelen en goed vet, in lange stukken gesneden. Je kunt er ook mager vlees, in dunne plakjes gesneden, of wat rijst aan toevoegen. Naai de pens goed dicht en kook deze tot hij heel mals is. Druk vervolgens het vocht eruit.\n\nAls je de pens wilt gebruiken, snijd deze dan in schijfjes die je in de pan bakt met gebakken appelschijfjes erbij.\n\nJe kunt de pens ook ongerold laten en alleen in stukken snijden, zoals eerder aangegeven koken en apart leggen. Bij gebruik, snijd je de pens in lange reepjes en stoof deze met zure appels en krenten.\n\nEen varkensmaag wordt vaak gevuld met gort en vet, en gekookt zoals bloedworst, of op een andere manier bereid.",
+   "ingredients": [
+    [
+     "",
+     "pens"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "zwarte peper"
+    ],
+    [
+     "",
+     "salie"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "",
+     "kruidnagelen"
+    ],
+    [
+     "",
+     "vet"
+    ],
+    [
+     "",
+     "mager vlees"
+    ],
+    [
+     "",
+     "rijst"
+    ],
+    [
+     "",
+     "appels"
+    ],
+    [
+     "",
+     "krenten"
+    ],
+    [
+     "",
+     "vormensmaag"
+    ],
+    [
+     "",
+     "gort"
+    ]
+   ],
+   "visualized": "A dish of rolled stuffed beef tripe sliced into rounds and pan-fried until golden brown, arranged on a plate with golden fried apple slices. The dish is from a three-quarters angle, taken with a Sigma 85 mm f/1.4 lens. The beef tripe rolls are stuffed with herbs and spices, visible in the cross-section, and exude a tender and moist texture.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht"
+   ],
+   "original": "Om pens te rollen\n\n\nNeemt de pens als die schoon en wel gesuyvert is. Snijtse dan in stucken, naer dat ghy de rollen groot wilt hebben. Doet er dan in: sout, peper, salie en wat notemuskaet, kruytnagelen13 en wel vet, in lange stucken gesneden. Men doet er oock wel mager vlees, dun gesneden in, of wat rijs, en soo dicht toegenaeyt en heel murruw gekoockt en dan geperst.\nAls men dese pens wil gebruyken, snijt men die in schijfkens die dan in de pan gebacken worden met gebacken appelschijfkens daeronder.\nOock wort dese pens wel ongerolt slechts in stucken gesneden en als vooren gekoockt en weghgeleydt. Die gebruyckende, in lange riempjes gesneden, en met suure appelen en korenten opgestooft.\nDe varckensmaegh wordt wel met gort en vet gevult, en opgekoockt als de beulingen, of anders oock soo die is.\n\n 13 In de druk staat: kruynagelen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-mIOQagDLeyH7bINl83QVQPEz.png?st=2024-07-17T18%3A36%3A52Z&se=2024-07-17T20%3A36%3A52Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A48%3A28Z&ske=2024-07-18T13%3A48%3A28Z&sks=b&skv=2023-11-03&sig=UC8nk6bu8SmVH8/UZv2el0VNBtDjVmtIrv1GK38Bewg%3D"
+  }
  },
  {
   "id": 635,
   "title": "Van de voeten",
   "bookRef": "N1669",
-  "instructions": "\nHet hayr van de voeten schoon afgebroeyt en de klauwen afgeslagen zijnde, worden die soo murruw gekoockt dat'er de schinckels en beenen uyt vallen. Dan klooft men deselve en men leghtse te perssen dat'er het sop schoon uytloopt, en dan als de pens wechgeleydt. Als men die eten wil, maeckt mense slechts in water warm, met een saus van boter, azijn en suycker. Men backt die mede wel in de pan met deselve saus daerover.\nOock stooft mense in een pot met wat Rinse wijn, boter, korenten en gestoten nagelen. Evensoo handelt men oock met de muyl.\nDe verckensvoeten worden gekookt en in azijn tot sult weghgeleght.\n\n"
+  "instructions": "\nHet hayr van de voeten schoon afgebroeyt en de klauwen afgeslagen zijnde, worden die soo murruw gekoockt dat'er de schinckels en beenen uyt vallen. Dan klooft men deselve en men leghtse te perssen dat'er het sop schoon uytloopt, en dan als de pens wechgeleydt. Als men die eten wil, maeckt mense slechts in water warm, met een saus van boter, azijn en suycker. Men backt die mede wel in de pan met deselve saus daerover.\nOock stooft mense in een pot met wat Rinse wijn, boter, korenten en gestoten nagelen. Evensoo handelt men oock met de muyl.\nDe verckensvoeten worden gekookt en in azijn tot sult weghgeleght.\n\n",
+  "modernized": {
+   "title": "Gestoofde Voeten",
+   "recipe": "De voeten worden schoongemaakt en de klauwen verwijderd. Vervolgens kook je ze zo zacht dat de schenkels en botten loskomen. Daarna worden ze gekliefd en geperst zodat het vocht eruit loopt. Als het tijd is om ze te eten, verwarm je ze simpelweg in water met een saus van boter, azijn en suiker. Je kunt ze ook bakken in de pan met dezelfde saus eroverheen. Een andere manier is om ze te stoven in een pot met wat Rinse wijn, boter, krenten en gemalen kruidnagel. Dit kun je ook doen met de muil. Varkensvoeten worden gekookt en in azijn ingelegd.",
+   "ingredients": [
+    [
+     "4",
+     "voeten"
+    ],
+    [
+     "200 ml",
+     "water"
+    ],
+    [
+     "50 g",
+     "boter"
+    ],
+    [
+     "2 el",
+     "azijn"
+    ],
+    [
+     "1 el",
+     "suiker"
+    ],
+    [
+     "200 ml",
+     "Rinse wijn"
+    ],
+    [
+     "50 g",
+     "krenten"
+    ],
+    [
+     "1 tl",
+     "gemalen kruidnagel"
+    ],
+    [
+     "",
+     "varkensvoeten"
+    ],
+    [
+     "",
+     "azijn"
+    ]
+   ],
+   "visualized": "A warm dish consisting of soft, tender feet pieces, served on a plate. The feet are slightly golden and covered in a glossy sauce made from butter, vinegar, and sugar. Some dishes are garnished with dark currants and a sprinkle of ground cloves. Other variations show the feet stewed in a rich, dark broth with Rhenish wine, butter, currants, and cloves. The dish is cozy and rustic, viewed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "stoofgerecht",
+    "saus"
+   ],
+   "original": "Van de voeten\n\n\nHet hayr van de voeten schoon afgebroeyt en de klauwen afgeslagen zijnde, worden die soo murruw gekoockt dat'er de schinckels en beenen uyt vallen. Dan klooft men deselve en men leghtse te perssen dat'er het sop schoon uytloopt, en dan als de pens wechgeleydt. Als men die eten wil, maeckt mense slechts in water warm, met een saus van boter, azijn en suycker. Men backt die mede wel in de pan met deselve saus daerover.\nOock stooft mense in een pot met wat Rinse wijn, boter, korenten en gestoten nagelen. Evensoo handelt men oock met de muyl.\nDe verckensvoeten worden gekookt en in azijn tot sult weghgeleght.\n\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-Q4GLw6TZyGYVkRSPZhAcie3L.png?st=2024-07-17T18%3A37%3A20Z&se=2024-07-17T20%3A37%3A20Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A10%3A41Z&ske=2024-07-18T12%3A10%3A41Z&sks=b&skv=2023-11-03&sig=PERwASWbJ3qT5JDidH2fyJfzCsAqklvOkck9LlZijyA%3D"
+  }
  },
  {
   "id": 636,
   "title": "Om de pens, voeten en muyl in te leggen en voor het schimmelen en bederven te bevrijden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt vier mingelen soete huy. Doetse in een aerden pot en laetse koken, maer men moet daerby blijven om te schuymen, soolangh daer schuym op komt. Doet'er dan in: een deel heele peper, eenige bladen foelie, wat heele nagelen, een notemuskaet aen 4 of 6 stucken gesneden, en latet soo t'samen eens doorkoken. Neemt het dan af en laet het staen sincken tot het kout is. Giet het dan schoon af en doet 3 pinten wijnazijn by. 't Is goet.\nSommige leggen 't oock wel in bierazijn met schijven van mierickwortel daerby.\n"
+  "instructions": "\nNeemt vier mingelen soete huy. Doetse in een aerden pot en laetse koken, maer men moet daerby blijven om te schuymen, soolangh daer schuym op komt. Doet'er dan in: een deel heele peper, eenige bladen foelie, wat heele nagelen, een notemuskaet aen 4 of 6 stucken gesneden, en latet soo t'samen eens doorkoken. Neemt het dan af en laet het staen sincken tot het kout is. Giet het dan schoon af en doet 3 pinten wijnazijn by. 't Is goet.\nSommige leggen 't oock wel in bierazijn met schijven van mierickwortel daerby.\n",
+  "modernized": {
+   "title": "Ingelegde pens en voeten",
+   "recipe": "Neem vier mingelen zoete wei. Doe deze in een aardewerken pot en laat het koken. Blijf erbij om het schuim eraf te scheppen zolang er schuim ontstaat.\n\nVoeg daarna toe: een hoeveelheid hele peperkorrels, enkele blaadjes foelie, wat hele kruidnagels, een nootmuskaat in 4 tot 6 stukken gesneden. Laat het geheel nog een keer opkoken. Haal de pot van het vuur en laat het afkoelen. Giet dan voorzichtig af en voeg 1,5 liter witte wijnazijn toe. Het is goed.\n\nSommigen leggen het ook wel in bierazijn met schijfjes mierikswortel erbij.",
+   "ingredients": [
+    [
+     "1 liter",
+     "zoete wei"
+    ],
+    [
+     "",
+     "hele peperkorrels"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "",
+     "kruidnagels"
+    ],
+    [
+     "1",
+     "nootmuskaat"
+    ],
+    [
+     "1,5 liter",
+     "witte wijnazijn"
+    ]
+   ],
+   "visualized": "A traditional Dutch pickling brine in an earthenware pot filled with clear liquid. Floating on the brine are whole peppercorns, bay leaves, whole cloves, and chunks of nutmeg. The pot is set on a rustic wooden surface with some foam on the brim indicating it has recently been boiling. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "conservering",
+    "inleggen",
+    "kruidig"
+   ],
+   "original": "Om de pens, voeten en muyl in te leggen en voor het schimmelen en bederven te bevrijden\n\n\nNeemt vier mingelen soete huy. Doetse in een aerden pot en laetse koken, maer men moet daerby blijven om te schuymen, soolangh daer schuym op komt. Doet'er dan in: een deel heele peper, eenige bladen foelie, wat heele nagelen, een notemuskaet aen 4 of 6 stucken gesneden, en latet soo t'samen eens doorkoken. Neemt het dan af en laet het staen sincken tot het kout is. Giet het dan schoon af en doet 3 pinten wijnazijn by. 't Is goet.\nSommige leggen 't oock wel in bierazijn met schijven van mierickwortel daerby.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-0LUAoRm80RRVztKXdRzDrfMY.png?st=2024-07-17T18%3A37%3A47Z&se=2024-07-17T20%3A37%3A47Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A47%3A54Z&ske=2024-07-18T11%3A47%3A54Z&sks=b&skv=2023-11-03&sig=nxlvCrxcB%2Btb5nx2Wkm7NDmqtFXeRGP3FUjU8lqEeFk%3D"
+  }
  },
  {
   "id": 637,
   "title": "Om varckenssausijsen te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt tot drie pont gehackt vlees, 2 notemuskaten, een loot peper (niet al te kleyngestoten), een hantjen vol sout. Dit wel ondereengekneet en dan in de darmen - niet al te stijf -gevult. Soo gy daervan wilt in de roock hangen, moet ghy dan wat dicker darmen nemen en een dagh 2 of 3 in de pekel leggen. Men neemt oock wel half sooveel schapenvlees daeronder.\n"
+  "instructions": "\nNeemt tot drie pont gehackt vlees, 2 notemuskaten, een loot peper (niet al te kleyngestoten), een hantjen vol sout. Dit wel ondereengekneet en dan in de darmen - niet al te stijf -gevult. Soo gy daervan wilt in de roock hangen, moet ghy dan wat dicker darmen nemen en een dagh 2 of 3 in de pekel leggen. Men neemt oock wel half sooveel schapenvlees daeronder.\n",
+  "modernized": {
+   "title": "Varkenssaucijzen",
+   "recipe": "Neem drie pond gehakt vlees, 2 nootmuskaat, een theelepel peper (niet al te fijn gestoten) en een handjevol zout. Dit alles goed door elkaar kneden en vervolgens in de darmen vullen, niet te strak. Als je ze wilt roken, moet je dikkere darmen nemen en ze 2 \u00e0 3 dagen in de pekel leggen. Ook kun je de helft van het vlees vervangen door schapenvlees.",
+   "ingredients": [
+    [
+     "1500 g",
+     "gehakt vlees"
+    ],
+    [
+     "2",
+     "nootmuskaat"
+    ],
+    [
+     "1 theelepel",
+     "peper"
+    ],
+    [
+     "1 handjevol",
+     "zout"
+    ],
+    [
+     "",
+     "darmen"
+    ],
+    [
+     "",
+     "pekeld"
+    ]
+   ],
+   "visualized": "A set of evenly filled sausages, arranged neatly on a wooden board. The sausages have a slightly coarse texture visible through the casing, hinting at the spices inside. The surface is glossy, indicating they have been well kneaded and packed. Some sausages are linked while others rest separately. The board shows a subtle background of coarse salt and small grains of black pepper. The overall appearance has a rustic and homemade feel, from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "worst",
+    "traditioneel",
+    "hoofdgerecht"
+   ],
+   "original": "Om varckenssausijsen te maken\n\n\nNeemt tot drie pont gehackt vlees, 2 notemuskaten, een loot peper (niet al te kleyngestoten), een hantjen vol sout. Dit wel ondereengekneet en dan in de darmen - niet al te stijf -gevult. Soo gy daervan wilt in de roock hangen, moet ghy dan wat dicker darmen nemen en een dagh 2 of 3 in de pekel leggen. Men neemt oock wel half sooveel schapenvlees daeronder.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-yCV3D26xxNtqZoYMjx1aURZc.png?st=2024-07-17T18%3A38%3A14Z&se=2024-07-17T20%3A38%3A14Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T10%3A55%3A23Z&ske=2024-07-18T10%3A55%3A23Z&sks=b&skv=2023-11-03&sig=DfLgE7OMiQ11kd8tHvXhF0e88bzaTwrNE9OlIWE1obw%3D"
+  }
  },
  {
   "id": 638,
   "title": "Om osseworsten te maken",
   "bookRef": "N1669",
-  "instructions": "\nOp dese selve manier maeckt men oock van ossevlees worsten. Maer men doet er oock wel wat gedrooghde salie - fijngewreven - in, doch niet in die, die men in den roock wil hangen, maer die moesten wat meer met peper gekruyt zijn, en in heel dicke darmen gestopt, met grauw pampier bekleet en aen de zijde van de schoorsteen gehangen.\n"
+  "instructions": "\nOp dese selve manier maeckt men oock van ossevlees worsten. Maer men doet er oock wel wat gedrooghde salie - fijngewreven - in, doch niet in die, die men in den roock wil hangen, maer die moesten wat meer met peper gekruyt zijn, en in heel dicke darmen gestopt, met grauw pampier bekleet en aen de zijde van de schoorsteen gehangen.\n",
+  "modernized": {
+   "title": "Osseworsten",
+   "recipe": "Op dezelfde manier maakt men ook osseworsten. Men doet er ook wat gedroogde salie - fijngewreven - in. Echter, niet in die men in de rook wil hangen. Die moeten wat meer met peper gekruid zijn en in heel dikke darmen gestopt, met grijs papier bekleed en aan de kant van de schoorsteen gehangen.",
+   "ingredients": [
+    [
+     "500 g",
+     "ossevlees"
+    ],
+    [
+     "1 tl",
+     "gedroogde salie"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "dikke darmen"
+    ],
+    [
+     "",
+     "grijs papier"
+    ]
+   ],
+   "visualized": "A close-up, three-quarters angle photo of osseworsten. The sausages are thick and cylindrical, with a coarse outer texture indicating they have been smoked. The sausages are bound at both ends with twine. They are wrapped in gray paper, which contrasts with the dark, rich color of the sausage casings. The photo is taken with a Sigma 85 mm f/1.4 lens, creating a soft background focus that brings out the details of the osseworsten.",
+   "tags": [
+    "vlees",
+    "worst",
+    "gerookt"
+   ],
+   "original": "Om osseworsten te maken\n\n\nOp dese selve manier maeckt men oock van ossevlees worsten. Maer men doet er oock wel wat gedrooghde salie - fijngewreven - in, doch niet in die, die men in den roock wil hangen, maer die moesten wat meer met peper gekruyt zijn, en in heel dicke darmen gestopt, met grauw pampier bekleet en aen de zijde van de schoorsteen gehangen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-5CFT8lsqhd1flSigXSCKRmOW.png?st=2024-07-17T18%3A38%3A44Z&se=2024-07-17T20%3A38%3A44Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A14%3A11Z&ske=2024-07-18T13%3A14%3A11Z&sks=b&skv=2023-11-03&sig=tv9IeBCZAh4uAhhfU/ic9pphEyuboiiE9xn%2BrEvCQr8%3D"
+  }
  },
  {
   "id": 639,
   "title": "Om gortbeulingen te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt garstegort, sooveel kop als 't u belieft. Doet daerop heet water dat aen de soode is. Laet'et staen uytdyen totdat het gort wel geswollen is. Neemt dan varckensbloet, laeu gemaeckt en door een doecxken gegoten tot de gort wel root is. Neemt tot yder kop: een notemuskaet, een vierendeel loots kruytnagelen, kleyngestooten, en zout naer advenant, wel ondereengeroert met varkensreusel of osseniervet. In schoone darmen gevult, seer dun, dat de beulingh maer halfvol is, sullen dan niet uytkoken. Sy moeten een uur stillekens zieden. Sommige nemen oock wel wat van dese toebereyde gort en wrijven daer varckens- of osselever onder, maer moeten dan wat meer gekruyt en gesouten zijn, oock vetter gevult.\n"
+  "instructions": "\nNeemt garstegort, sooveel kop als 't u belieft. Doet daerop heet water dat aen de soode is. Laet'et staen uytdyen totdat het gort wel geswollen is. Neemt dan varckensbloet, laeu gemaeckt en door een doecxken gegoten tot de gort wel root is. Neemt tot yder kop: een notemuskaet, een vierendeel loots kruytnagelen, kleyngestooten, en zout naer advenant, wel ondereengeroert met varkensreusel of osseniervet. In schoone darmen gevult, seer dun, dat de beulingh maer halfvol is, sullen dan niet uytkoken. Sy moeten een uur stillekens zieden. Sommige nemen oock wel wat van dese toebereyde gort en wrijven daer varckens- of osselever onder, maer moeten dan wat meer gekruyt en gesouten zijn, oock vetter gevult.\n",
+  "modernized": {
+   "title": "Gortebloedworst",
+   "recipe": "Neem gerstengort, zoveel kopjes als je wilt. Doe hier heet water op, net aan de kook. Laat het staan om uit te zetten totdat de gort goed gezwollen is.\n\nNeem dan varkensbloed, licht gezouten en door een doek gezeefd, totdat de gort goed rood is. Voeg voor elke kop: een nootmuskaat, een vierde loot kruidnagelen, fijngestampt, en zout naar smaak toe, goed vermengd met varkensreuzel of ossenvet.\n\nVul schone darmen, zeer dun, zodat de worst slechts halfvol is; ze zullen dan niet barsten bij het koken. Laat de worsten een uur zachtjes sudderen. Sommige mensen wrijven ook wat voorbereide gort met varkens- of ossenlever door de mix, maar dan moet het wat meer gekruid en gezouten zijn, en vetter gevuld.",
+   "ingredients": [
+    [
+     "200 g",
+     "gerstengort"
+    ],
+    [
+     "1 l",
+     "heet water"
+    ],
+    [
+     "200 ml",
+     "varkensbloed"
+    ],
+    [
+     "1",
+     "nootmuskaat"
+    ],
+    [
+     "2 g",
+     "kruidnagel"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "200 g",
+     "varkensreuzel of ossenvet"
+    ]
+   ],
+   "visualized": "Three-quarters angle view of blood sausage made with barley groats and pig's blood. The sausages are slender and slightly red in color, simmered delicately, with a shiny, moist texture. Served on a rustic wooden board, garnished with sprinkled spices and fresh herbs. Sigma 85 mm f/1.4.",
+   "tags": [
+    "vlees",
+    "worst",
+    "bijgerecht"
+   ],
+   "original": "Om gortbeulingen te maken\n\n\nNeemt garstegort, sooveel kop als 't u belieft. Doet daerop heet water dat aen de soode is. Laet'et staen uytdyen totdat het gort wel geswollen is. Neemt dan varckensbloet, laeu gemaeckt en door een doecxken gegoten tot de gort wel root is. Neemt tot yder kop: een notemuskaet, een vierendeel loots kruytnagelen, kleyngestooten, en zout naer advenant, wel ondereengeroert met varkensreusel of osseniervet. In schoone darmen gevult, seer dun, dat de beulingh maer halfvol is, sullen dan niet uytkoken. Sy moeten een uur stillekens zieden. Sommige nemen oock wel wat van dese toebereyde gort en wrijven daer varckens- of osselever onder, maer moeten dan wat meer gekruyt en gesouten zijn, oock vetter gevult.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-FR9CRCT1IKg3WFp25PKsLbKY.png?st=2024-07-17T18%3A39%3A18Z&se=2024-07-17T20%3A39%3A18Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A47%3A55Z&ske=2024-07-18T12%3A47%3A55Z&sks=b&skv=2023-11-03&sig=BprldGL63NITU3iosNtQEKFcIo/dgLV%2BYGqpckIha5s%3D"
+  }
  },
  {
   "id": 640,
   "title": "Om slabberaenbeulingen te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt haveregort. Maeckt de gort maer wat vochtigh met schoon, heet water. Neemt tot yder kop: een vierendeel korenten, een notemuskaet en een half loot caneel gestoten, wat zout en wel ossenvet - met kleynder stucxkens dan die andere beulingen - daeronder gemenght, en seer slap en dun in de darmen gevult, en een groot half uur stil laten zieden, want die seer licht uytbarsten.\n"
+  "instructions": "\nNeemt haveregort. Maeckt de gort maer wat vochtigh met schoon, heet water. Neemt tot yder kop: een vierendeel korenten, een notemuskaet en een half loot caneel gestoten, wat zout en wel ossenvet - met kleynder stucxkens dan die andere beulingen - daeronder gemenght, en seer slap en dun in de darmen gevult, en een groot half uur stil laten zieden, want die seer licht uytbarsten.\n",
+  "modernized": {
+   "title": "Slabberbaenbeulingen",
+   "recipe": "Neem havermout. Maak de havermout wat vochtig met schoon, heet water. Neem voor elke kop: een kwart kop krenten, een nootmuskaat en een halve theelepel gemalen kaneel, wat zout en een beetje ossenvet - in kleinere stukjes dan andere beulingen - en meng dit alles goed door elkaar. Vul de dunne darm met dit mengsel en laat het een groot half uur zachtjes koken, omdat ze anders makkelijk uit elkaar vallen.",
+   "ingredients": [
+    [
+     "200 g",
+     "havermout"
+    ],
+    [
+     "50 g",
+     "krenten"
+    ],
+    [
+     "1",
+     "nootmuskaat"
+    ],
+    [
+     "1/2 tl",
+     "gemalen kaneel"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "ossenvet"
+    ],
+    [
+     "",
+     "dunne darm"
+    ]
+   ],
+   "visualized": "A partially transparent intestines casing filled with a mixture of oatmeal, currants, minced nutmeg, ground cinnamon, salt, and small pieces of ox fat. It should be shown cooked, slightly expanded, and very delicate in appearance, to showcase that it can burst easily. The photo should be taken from a three-quarters angle, using a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "vlees",
+    "worst",
+    "traditioneel"
+   ],
+   "original": "Om slabberaenbeulingen te maken\n\n\nNeemt haveregort. Maeckt de gort maer wat vochtigh met schoon, heet water. Neemt tot yder kop: een vierendeel korenten, een notemuskaet en een half loot caneel gestoten, wat zout en wel ossenvet - met kleynder stucxkens dan die andere beulingen - daeronder gemenght, en seer slap en dun in de darmen gevult, en een groot half uur stil laten zieden, want die seer licht uytbarsten.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-saiFU6AQRLHnMBQNLYi2pQkV.png?st=2024-07-17T18%3A39%3A45Z&se=2024-07-17T20%3A39%3A45Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T00%3A33%3A26Z&ske=2024-07-18T00%3A33%3A26Z&sks=b&skv=2023-11-03&sig=lymZ2EpqNJW77VtMIXBzfpuQclymo074p3yAayZOdDE%3D"
+  }
  },
  {
   "id": 641,
   "title": "Om varckensleverbeulingen te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt varckenslever. Koocktse gaer. Schuymtse schoon alsse kout is. Rasptse kleyn. Neemt een half pintjen soetemelck, een stuyver outbacken wittebroot. Snijt er de korsten af, raspt het kleyn en doet'et in melck. Laet het samen zieden tot een dicke pap. Doet oock een goet stuck boter in de pap. Alsse dan bykans kout is, soo roertse onder de lever. Neemt dan 9 of 10 eyeren kleyngeklopt, een weynigh zout, peper, noten, nagelen en foelie, kleyngestoten, en wat gesmolten boter. Altesamen wel ondereengemenght, vult het in de darmen, sonder varckenreusel te vergeten, en laetse een uur koken.\n"
+  "instructions": "\nNeemt varckenslever. Koocktse gaer. Schuymtse schoon alsse kout is. Rasptse kleyn. Neemt een half pintjen soetemelck, een stuyver outbacken wittebroot. Snijt er de korsten af, raspt het kleyn en doet'et in melck. Laet het samen zieden tot een dicke pap. Doet oock een goet stuck boter in de pap. Alsse dan bykans kout is, soo roertse onder de lever. Neemt dan 9 of 10 eyeren kleyngeklopt, een weynigh zout, peper, noten, nagelen en foelie, kleyngestoten, en wat gesmolten boter. Altesamen wel ondereengemenght, vult het in de darmen, sonder varckenreusel te vergeten, en laetse een uur koken.\n",
+  "modernized": {
+   "title": "Varkensleverbuitelingen",
+   "recipe": "Neem varkenslever. Kook deze gaar. Schuim deze schoon als het koud is. Rasp de lever fijn.\n\nNeem een halve liter melk en een oud wit broodje. Snijd de korsten eraf, rasp het fijn en doe het in de melk. Laat het samen koken tot een dikke pap. Voeg ook een stuk boter toe aan de pap. Als het mengsel bijna koud is, roer het dan door de lever.\n\nNeem dan 9 of 10 eieren, klop deze goed, en voeg een beetje zout, peper, nootmuskaat, kruidnagel en foelie (allemaal fijn gemalen) en wat gesmolten boter toe. Meng alles goed samen.\n\nVul hiermee de darmen en vergeet niet om varkensvet toe te voegen. Laat de gevulde darmen een uur koken.",
+   "ingredients": [
+    [
+     "500 g",
+     "varkenslever"
+    ],
+    [
+     "500 ml",
+     "melk"
+    ],
+    [
+     "2",
+     "oude witte broodjes"
+    ],
+    [
+     "100 g",
+     "boter"
+    ],
+    [
+     "9",
+     "eieren"
+    ],
+    [
+     "",
+     "zout"
+    ],
+    [
+     "",
+     "peper"
+    ],
+    [
+     "",
+     "nootmuskaat"
+    ],
+    [
+     "",
+     "kruidnagel"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "",
+     "gesmolten boter"
+    ],
+    [
+     "",
+     "varkensdarmen"
+    ],
+    [
+     "",
+     "varkensvet"
+    ]
+   ],
+   "visualized": "A rustic dish featuring traditionally prepared varkensleverbuitelingen (pork liver sausages). The sausages are filled with a mixture of finely grated pork liver, a thick bread and milk pudding, eggs, and spices, encased in pork intestines. The sausages are boiled and displayed prominently in a rustic dish. The sausages have a light brown color with a slightly glossy finish from the cooking process. The texture looks firm yet tender. Sigma 85 mm f/1.4, three-quarters angle.",
+   "tags": [
+    "vlees",
+    "hoofdgerecht",
+    "gefrituurd",
+    "traditioneel"
+   ],
+   "original": "Om varckensleverbeulingen te maken\n\n\nNeemt varckenslever. Koocktse gaer. Schuymtse schoon alsse kout is. Rasptse kleyn. Neemt een half pintjen soetemelck, een stuyver outbacken wittebroot. Snijt er de korsten af, raspt het kleyn en doet'et in melck. Laet het samen zieden tot een dicke pap. Doet oock een goet stuck boter in de pap. Alsse dan bykans kout is, soo roertse onder de lever. Neemt dan 9 of 10 eyeren kleyngeklopt, een weynigh zout, peper, noten, nagelen en foelie, kleyngestoten, en wat gesmolten boter. Altesamen wel ondereengemenght, vult het in de darmen, sonder varckenreusel te vergeten, en laetse een uur koken.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-8xdy26fiG7Bwa6CQVxIzc3Z8.png?st=2024-07-17T18%3A40%3A09Z&se=2024-07-17T20%3A40%3A09Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T14%3A13%3A31Z&ske=2024-07-18T14%3A13%3A31Z&sks=b&skv=2023-11-03&sig=4w59ir5WtWb2i7%2BH6Lm/EVt2HjYpOng7uff1hHuHsWo%3D"
+  }
  },
  {
   "id": 642,
   "title": "Om confituren te maken",
   "bookRef": "N1669",
-  "instructions": "\n't Suycker ofte den honingh daer men mede confijten wil, moet men klaren of suyveren met wit van eyeren en regenwater, wel schuymen en koocken, totdat het begint te lijmen of spinnen.\n"
+  "instructions": "\n't Suycker ofte den honingh daer men mede confijten wil, moet men klaren of suyveren met wit van eyeren en regenwater, wel schuymen en koocken, totdat het begint te lijmen of spinnen.\n",
+  "modernized": {
+   "title": "Om confituren te maken",
+   "recipe": "De suiker of honing die je wilt gebruiken om te konfijten, moet je klaren of zuiveren met eiwitten en regenwater. Schuim het mengsel goed af en kook het, totdat het begint te lijmen of spinnen.",
+   "ingredients": [
+    [
+     "500 g",
+     "suiker of honing"
+    ],
+    [
+     "2",
+     "eiwitten"
+    ],
+    [
+     "500 ml",
+     "regenwater"
+    ]
+   ],
+   "visualized": "A close-up of a saucepan from a three-quarters angle, containing a golden sugar or honey mixture being clarified. Visible are egg whites being stirred into the mixture, and some foam forming on the top. The mixture appears thick and slightly syrupy, indicating it has reached the right consistency. Sigma 85 mm f/1.4.",
+   "tags": [
+    "conserveren",
+    "dessert",
+    "zoet",
+    "confituren"
+   ],
+   "original": "Om confituren te maken\n\n\n't Suycker ofte den honingh daer men mede confijten wil, moet men klaren of suyveren met wit van eyeren en regenwater, wel schuymen en koocken, totdat het begint te lijmen of spinnen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-AkHh6cTV9T9BRS7Rn6Tepuqy.png?st=2024-07-17T18%3A40%3A37Z&se=2024-07-17T20%3A40%3A37Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A08%3A16Z&ske=2024-07-18T13%3A08%3A16Z&sks=b&skv=2023-11-03&sig=4gybtf36kUQKOuh0%2Bahb1gTGosJcq3FcsWH4mNtE6og%3D"
+  }
  },
  {
   "id": 643,
   "title": "Om groene ockernoten te confijten",
   "bookRef": "N1669",
-  "instructions": "\nPluckt de noten af te Sint Jan, eer de pit hart is. Steeckt daer met een penneken verscheyde gaten in. Leghtse negen of thien dagen te weeck en dickmalen ververscht. Daernaer een weynigh in water gesoden en dan in suycker of syroop gesoden, doch wel 4 mael soolangh als limoenen of oranje, naer 't vlies afgedaen is en nagelen of caneel ingesteken zijnde, temets in 't koocken met wat honingh of suycker verversschende voor 't weghkoocken. Dan in de syroop laten leggen. Soo kondt ghyse lange bewaren.\n"
+  "instructions": "\nPluckt de noten af te Sint Jan, eer de pit hart is. Steeckt daer met een penneken verscheyde gaten in. Leghtse negen of thien dagen te weeck en dickmalen ververscht. Daernaer een weynigh in water gesoden en dan in suycker of syroop gesoden, doch wel 4 mael soolangh als limoenen of oranje, naer 't vlies afgedaen is en nagelen of caneel ingesteken zijnde, temets in 't koocken met wat honingh of suycker verversschende voor 't weghkoocken. Dan in de syroop laten leggen. Soo kondt ghyse lange bewaren.\n",
+  "modernized": {
+   "title": "Gesuikerde groene okkernoten",
+   "recipe": "Pluk de noten rond Sint Jan, voordat de pitten hard zijn. Steek met een klein pennetje verschillende gaten in de noten.\nLeg ze negen tot tien dagen in water en ververs het water regelmatig.\nKook de noten daarna kort in water en kook ze vervolgens in suiker of siroop, minstens vier keer zo lang als limoenen of sinaasappels. Voeg nagel of kaneel toe na het verwijderen van het vliesje.\nVervang tijdens het koken af en toe de honing of suiker, zodat het niet aanbrandt.\nLaat de noten in de siroop liggen. Zo kun je ze lange tijd bewaren.",
+   "ingredients": [
+    [
+     "500 g",
+     "groene okkernoten"
+    ],
+    [
+     "",
+     "water"
+    ],
+    [
+     "300 g",
+     "suiker"
+    ],
+    [
+     "",
+     "siroop"
+    ],
+    [
+     "",
+     "nagel"
+    ],
+    [
+     "",
+     "kaneel"
+    ],
+    [
+     "100 g",
+     "honing"
+    ]
+   ],
+   "visualized": "A close-up of green walnuts being candied. The walnuts, pierced with tiny holes, are glistening in a thick, amber-colored syrup. There are visible pieces of clove and cinnamon sticks mixed in the syrup. The dish looks decadent and sticky, with the syrup coating each walnut generously. Taken from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "nagerecht",
+    "noten",
+    "zoet",
+    "traditioneel"
+   ],
+   "original": "Om groene ockernoten te confijten\n\n\nPluckt de noten af te Sint Jan, eer de pit hart is. Steeckt daer met een penneken verscheyde gaten in. Leghtse negen of thien dagen te weeck en dickmalen ververscht. Daernaer een weynigh in water gesoden en dan in suycker of syroop gesoden, doch wel 4 mael soolangh als limoenen of oranje, naer 't vlies afgedaen is en nagelen of caneel ingesteken zijnde, temets in 't koocken met wat honingh of suycker verversschende voor 't weghkoocken. Dan in de syroop laten leggen. Soo kondt ghyse lange bewaren.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-OTYx2YGRtTd1gKdusK4AIBL9.png?st=2024-07-17T18%3A41%3A06Z&se=2024-07-17T20%3A41%3A06Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A09%3A20Z&ske=2024-07-18T13%3A09%3A20Z&sks=b&skv=2023-11-03&sig=UmBJPZa/5MGZuRHen3tb36agUW%2BbFY1tlNhN8kPxA6U%3D"
+  }
  },
  {
   "id": 644,
   "title": "Om agurckes of kleyne comcommertjes in te leggen die delicaet zijn",
   "bookRef": "N1669",
-  "instructions": "\nNeemt kleyne comcommers als die in de tijdt zijn en neemt 2 of 3 handen vol sout. Doet die in 't water, daer ghy de comcommers een half uur sult in leggen om die te wassen, en dan schoongewassen sonder veel te handelen, ander gaet'er de fleur af. Dan uyt het water op een vergiettest gedaen en als die wel verleckt zijn, doet die in een vlesse of graeuwe aerden pot. Tusschen yeder lage comcommers doet men foelie, peper, nagelen en schijven van peperwortelen, venckel en lauwerbladen, totdat u vlesse of pot vol is. Doet dan daerby van de beste wijnazijn, sooveel datse bedeckt zijn. Men moet die in geen kelder setten, maer zijn beter op een drooge plaets.\n"
+  "instructions": "\nNeemt kleyne comcommers als die in de tijdt zijn en neemt 2 of 3 handen vol sout. Doet die in 't water, daer ghy de comcommers een half uur sult in leggen om die te wassen, en dan schoongewassen sonder veel te handelen, ander gaet'er de fleur af. Dan uyt het water op een vergiettest gedaen en als die wel verleckt zijn, doet die in een vlesse of graeuwe aerden pot. Tusschen yeder lage comcommers doet men foelie, peper, nagelen en schijven van peperwortelen, venckel en lauwerbladen, totdat u vlesse of pot vol is. Doet dan daerby van de beste wijnazijn, sooveel datse bedeckt zijn. Men moet die in geen kelder setten, maer zijn beter op een drooge plaets.\n",
+  "modernized": {
+   "title": "Ingelegde komkommers",
+   "recipe": "Neem kleine komkommers die in het seizoen zijn en neem 2 of 3 handen vol zout. Doe dit in water waarin je de komkommers een half uur zult leggen om ze te wassen. Was de komkommers daarna schoon zonder te veel te hanteren, anders verliezen ze hun fleur. Nadat ze uit het water zijn, doe je ze in een vergiet om uit te lekken. Wanneer ze goed uitgelekt zijn, doe ze dan in een fles of een aardewerken pot. Tussen elke laag komkommers doe je foelie, peper, kruidnagels en schijven mierikswortel, venkel en laurierbladen, totdat je fles of pot vol is. Voeg de beste wijnazijn toe, zoveel dat de komkommers bedekt zijn. Je moet ze niet in een kelder zetten, maar op een droge plaats bewaren.",
+   "ingredients": [
+    [
+     "1 kg",
+     "kleine komkommers"
+    ],
+    [
+     "150 g",
+     "zout"
+    ],
+    [
+     "500 ml",
+     "wijnazijn"
+    ],
+    [
+     "",
+     "foelie"
+    ],
+    [
+     "",
+     "peperkorrels"
+    ],
+    [
+     "",
+     "kruidnagels"
+    ],
+    [
+     "",
+     "mierikswortel"
+    ],
+    [
+     "",
+     "venkel"
+    ],
+    [
+     "",
+     "laurierbladen"
+    ]
+   ],
+   "visualized": "A rustic earthenware pot filled with pickled baby cucumbers, arranged in layers. Between each layer, you can see spices like cloves, whole peppercorns, and slices of horseradish. Sprigs of fennel and bay leaves are also visible. The cucumbers are submerged in a clear, slightly amber-tinted liquid, which is the wine vinegar. The presentation is from a three-quarters angle, shot with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "bijgerecht",
+    "groente",
+    "inleggen",
+    "pickles"
+   ],
+   "original": "Om agurckes of kleyne comcommertjes in te leggen die delicaet zijn\n\n\nNeemt kleyne comcommers als die in de tijdt zijn en neemt 2 of 3 handen vol sout. Doet die in 't water, daer ghy de comcommers een half uur sult in leggen om die te wassen, en dan schoongewassen sonder veel te handelen, ander gaet'er de fleur af. Dan uyt het water op een vergiettest gedaen en als die wel verleckt zijn, doet die in een vlesse of graeuwe aerden pot. Tusschen yeder lage comcommers doet men foelie, peper, nagelen en schijven van peperwortelen, venckel en lauwerbladen, totdat u vlesse of pot vol is. Doet dan daerby van de beste wijnazijn, sooveel datse bedeckt zijn. Men moet die in geen kelder setten, maer zijn beter op een drooge plaets.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-1XnQ8Icx2bbC1JquORibMJhH.png?st=2024-07-17T18%3A41%3A36Z&se=2024-07-17T20%3A41%3A36Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A58%3A44Z&ske=2024-07-18T13%3A58%3A44Z&sks=b&skv=2023-11-03&sig=CVCAaPp4I/ZvPmh0BP08gRNU0E9oB0dFHdYoBWDJbBY%3D"
+  }
  },
  {
   "id": 645,
   "title": "Om halve appelen droogh te confijten",
   "bookRef": "N1669",
-  "instructions": "\nNeemt goede en vaste appelen. Snijtse ten halven door, schiltse, doet'et klockhuys uyt, doch niet in 't ront geschilt, maer langhwerpigh. Neemt dan schoongeklaerde suyckersyroop, daer de halve appelen in gedaen en laet t'samen soetjens opzieden tot de syroop dick wort. De appelen sullen schijnen plamey te worden, maer sy moeten met een lepel uyt den syroop genomen worden, soo droogh ghy keunt en op blicken geleght in een warme stoof. En boven droogh zijnde, met een mes omgekeert en soo ghelaten totse heel droogh zijn. Ghy kuntse met poeyersuycker oversiften om beter te droogen. Bewaertse in een drooge plaets, tusschen schoon papier geleght.\n"
+  "instructions": "\nNeemt goede en vaste appelen. Snijtse ten halven door, schiltse, doet'et klockhuys uyt, doch niet in 't ront geschilt, maer langhwerpigh. Neemt dan schoongeklaerde suyckersyroop, daer de halve appelen in gedaen en laet t'samen soetjens opzieden tot de syroop dick wort. De appelen sullen schijnen plamey te worden, maer sy moeten met een lepel uyt den syroop genomen worden, soo droogh ghy keunt en op blicken geleght in een warme stoof. En boven droogh zijnde, met een mes omgekeert en soo ghelaten totse heel droogh zijn. Ghy kuntse met poeyersuycker oversiften om beter te droogen. Bewaertse in een drooge plaets, tusschen schoon papier geleght.\n",
+  "modernized": {
+   "title": "Halve Appels Geconfijt",
+   "recipe": "Neem goede en stevige appels. Snijd ze doormidden, schil ze en verwijder het klokhuis, maar schil ze niet rond, schil ze langwerpig. Neem dan schoongemaakte suikersiroop, doe de halve appels erin en laat het samen zachtjes koken tot de siroop dik wordt. De appels zullen lijken te gaan smelten, maar ze moeten met een lepel uit de siroop worden genomen, zo droog mogelijk en op blikken gelegd in een warme oven. Wanneer ze bovenaan droog zijn, keer ze om met een mes en laat ze staan tot ze helemaal droog zijn. Je kunt er poedersuiker overheen zeven om beter te drogen. Bewaar ze op een droge plek, tussen schoon papier gelegd.",
+   "ingredients": [
+    [
+     "4",
+     "appels"
+    ],
+    [
+     "200 ml",
+     "suikersiroop"
+    ],
+    [
+     "",
+     "poedersuiker"
+    ]
+   ],
+   "visualized": "The dish contains halved apples that are shriveled and slightly glossy, with a light sugary coating. They are placed on a baking sheet that has a metallic finish, suggesting their preparation in an oven. The apples appear dense and chewy. There is a sprinkling of powdered sugar on top of the apples, which lends a subtle white dusting. From a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "fruit",
+    "dessert",
+    "confit",
+    "zoet"
+   ],
+   "original": "Om halve appelen droogh te confijten\n\n\nNeemt goede en vaste appelen. Snijtse ten halven door, schiltse, doet'et klockhuys uyt, doch niet in 't ront geschilt, maer langhwerpigh. Neemt dan schoongeklaerde suyckersyroop, daer de halve appelen in gedaen en laet t'samen soetjens opzieden tot de syroop dick wort. De appelen sullen schijnen plamey te worden, maer sy moeten met een lepel uyt den syroop genomen worden, soo droogh ghy keunt en op blicken geleght in een warme stoof. En boven droogh zijnde, met een mes omgekeert en soo ghelaten totse heel droogh zijn. Ghy kuntse met poeyersuycker oversiften om beter te droogen. Bewaertse in een drooge plaets, tusschen schoon papier geleght.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-xUix71YwV1xiFIFO9w7gcl40.png?st=2024-07-17T18%3A42%3A00Z&se=2024-07-17T20%3A42%3A00Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A09%3A27Z&ske=2024-07-18T12%3A09%3A27Z&sks=b&skv=2023-11-03&sig=bzB6FDDlyRNl%2BpUIt5ZSmVODEbUubi%2Be6baN0VTykNk%3D"
+  }
  },
  {
   "id": 646,
   "title": "Om peeren nat te confijten",
   "bookRef": "N1669",
-  "instructions": "\nNeemt muscadelle-peeren of andere die geen steen van binnen hebben en oock wat droogh van aert zijn. Schilt deselve, maer de steel moet'eraen blijven. Ziedt of koockt die in klaer water, maer niet te sacht of te murruw. Doet die uyt het water en laetse verlecken. Giet daerover geklaert poeyersuycker totdatse overdeckt zijn. Laetse een dagh samen staen. Giet de syroop af, alsse dun is geworden. Koockt die wederom tot dicke syroop, dan weder op de peeren gedaen. Doet dit soo dickmael tot de syroop dik blijft. Laetse daerin blijven. Sy zijn goet.\n\n"
+  "instructions": "\nNeemt muscadelle-peeren of andere die geen steen van binnen hebben en oock wat droogh van aert zijn. Schilt deselve, maer de steel moet'eraen blijven. Ziedt of koockt die in klaer water, maer niet te sacht of te murruw. Doet die uyt het water en laetse verlecken. Giet daerover geklaert poeyersuycker totdatse overdeckt zijn. Laetse een dagh samen staen. Giet de syroop af, alsse dun is geworden. Koockt die wederom tot dicke syroop, dan weder op de peeren gedaen. Doet dit soo dickmael tot de syroop dik blijft. Laetse daerin blijven. Sy zijn goet.\n\n",
+  "modernized": {
+   "title": "Gekonfijte Peren",
+   "recipe": "Neem muskaatperen of andere peren die geen pit in het midden hebben en ook wat droog van aard zijn. Schil de peren, maar laat de steel eraan. Kook de peren in helder water, maar niet te zacht of te gaar. Haal de peren uit het water en laat ze uitlekken. Giet gebleekte poedersuiker over de peren totdat ze bedekt zijn. Laat een dag staan. Giet de siroop af als deze dun is geworden. Kook de siroop opnieuw tot een dikke siroop en giet deze weer over de peren. Herhaal dit proces totdat de siroop dik blijft. Laat de peren in de siroop staan. Ze zijn klaar om te eten.",
+   "ingredients": [
+    [
+     "8",
+     "muskaatperen"
+    ],
+    [
+     "1 liter",
+     "water"
+    ],
+    [
+     "500 gram",
+     "gebleekte poedersuiker"
+    ]
+   ],
+   "visualized": "The dish features whole muscat pears that are poached and then candied in a thick, clear syrup. The stems are intact on the pears. The syrup glistens and thickly coats the surface of the pears, making them appear glossy. The pears are arranged in a shallow dish with the syrup partially pooling around them. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "nagerecht",
+    "fruit",
+    "zoet"
+   ],
+   "original": "Om peeren nat te confijten\n\n\nNeemt muscadelle-peeren of andere die geen steen van binnen hebben en oock wat droogh van aert zijn. Schilt deselve, maer de steel moet'eraen blijven. Ziedt of koockt die in klaer water, maer niet te sacht of te murruw. Doet die uyt het water en laetse verlecken. Giet daerover geklaert poeyersuycker totdatse overdeckt zijn. Laetse een dagh samen staen. Giet de syroop af, alsse dun is geworden. Koockt die wederom tot dicke syroop, dan weder op de peeren gedaen. Doet dit soo dickmael tot de syroop dik blijft. Laetse daerin blijven. Sy zijn goet.\n\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-5eL8tq78gpB2HQrTFtxc96pb.png?st=2024-07-17T18%3A42%3A29Z&se=2024-07-17T20%3A42%3A29Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A59%3A43Z&ske=2024-07-18T12%3A59%3A43Z&sks=b&skv=2023-11-03&sig=WkWdiYkvJmGUhM%2B8Cvp2xbdjM3lBfdubgYvvIgse74A%3D"
+  }
  },
  {
   "id": 647,
   "title": "Om peeren droogh te confijten",
   "bookRef": "N1669",
-  "instructions": "\nNeemt peeren en doetse als voren verhaelt. Maeckt de syroop weder met water wat dun. Laetse weynigh t'samen zieden. Neemt de peeren daer soo heet uyt. Leghtse op blicken als vooren van de appelen is verhaelt.\nNoteert, dat soohaest de confituren met suyker doordronken zijn, dat het dan tijdt is, want worden anders vetachtigh, waerdoor niet wel konnen droogen en de vettigheyt niet wel kan afgaen; verliesen oock daerdoor de klaerheyt.\n"
+  "instructions": "\nNeemt peeren en doetse als voren verhaelt. Maeckt de syroop weder met water wat dun. Laetse weynigh t'samen zieden. Neemt de peeren daer soo heet uyt. Leghtse op blicken als vooren van de appelen is verhaelt.\nNoteert, dat soohaest de confituren met suyker doordronken zijn, dat het dan tijdt is, want worden anders vetachtigh, waerdoor niet wel konnen droogen en de vettigheyt niet wel kan afgaen; verliesen oock daerdoor de klaerheyt.\n",
+  "modernized": {
+   "title": "Gedroogde Gekonfijte Peren",
+   "recipe": "Neem peren en behandel ze zoals eerder beschreven. Maak de siroop weer met wat water dun. Laat het even samen koken. Neem de peren er heet uit. Leg ze op blikken zoals eerder bij de appels beschreven. Let op, zodra de confituren doordrenkt zijn met suiker, is het tijd om ze eruit te halen. Anders worden ze vettig, waardoor ze niet goed kunnen drogen en de vettigheid er niet goed af gaat. Ze verliezen hierdoor ook hun helderheid.",
+   "ingredients": [
+    [
+     "4",
+     "peren"
+    ],
+    [
+     "250 g",
+     "suiker"
+    ],
+    [
+     "500 ml",
+     "water"
+    ]
+   ],
+   "visualized": "A tray of dried, candied pears lying on a baking sheet. The pears have a glossy, caramelized surface with a light golden-brown color. Some sugar crystals are visible on the edges. The arrangement is neat, with each pear maintaining its natural shape. The photo should be from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "fruit",
+    "dessert",
+    "snoep",
+    "confituren"
+   ],
+   "original": "Om peeren droogh te confijten\n\n\nNeemt peeren en doetse als voren verhaelt. Maeckt de syroop weder met water wat dun. Laetse weynigh t'samen zieden. Neemt de peeren daer soo heet uyt. Leghtse op blicken als vooren van de appelen is verhaelt.\nNoteert, dat soohaest de confituren met suyker doordronken zijn, dat het dan tijdt is, want worden anders vetachtigh, waerdoor niet wel konnen droogen en de vettigheyt niet wel kan afgaen; verliesen oock daerdoor de klaerheyt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-uEVAqQlg2B4E34h1piRRGiQt.png?st=2024-07-17T18%3A42%3A51Z&se=2024-07-17T20%3A42%3A51Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A34%3A35Z&ske=2024-07-18T11%3A34%3A35Z&sks=b&skv=2023-11-03&sig=4QaiNuyXHxgiynhlAWIXtqnJf4rdF2BRA9tEm404358%3D"
+  }
  },
  {
   "id": 648,
   "title": "Om peeren te kandeliseeren",
   "bookRef": "N1669",
-  "instructions": "\nNeemt peeren, geschilt. Stroytse met fijngestoten suycker. Leghtse op een planck in een tinne schotel. Doetse in den oven. De vochtigheyt die daeraf komt, giet af, keertse om, stroyt'er meer gesift suycker op, besprenghtse met rooswater. Aldus 3 of 4 mael keerende en suykerende totse byna droogh zijn. Leghtse op een omgekeerde seef in een warmen oven daer 't broot uytgehaelt is, totse droogh zijn. Dan kunt gyse een heel jaer bewaren.\n"
+  "instructions": "\nNeemt peeren, geschilt. Stroytse met fijngestoten suycker. Leghtse op een planck in een tinne schotel. Doetse in den oven. De vochtigheyt die daeraf komt, giet af, keertse om, stroyt'er meer gesift suycker op, besprenghtse met rooswater. Aldus 3 of 4 mael keerende en suykerende totse byna droogh zijn. Leghtse op een omgekeerde seef in een warmen oven daer 't broot uytgehaelt is, totse droogh zijn. Dan kunt gyse een heel jaer bewaren.\n",
+  "modernized": {
+   "title": "Gekonfijte Peren",
+   "recipe": "Neem geschilde peren.\nBestrooi ze met fijngestampte suiker.\nLeg ze op een plank in een tinnen schotel.\nZet ze in de oven.\nHet vocht dat vrijkomt, giet je af.\nKeer de peren om en bestrooi ze opnieuw met gezeefde suiker.\nBesprenkel ze met rozenwater.\nHerhaal dit proces 3 of 4 keer, totdat de peren bijna droog zijn.\nLeg de peren vervolgens op een omgekeerde zeef in een warme oven waar het brood uit is gehaald, totdat ze droog zijn.\nBewaar de peren in een afgesloten pot; zo blijven ze een heel jaar goed.",
+   "ingredients": [
+    [
+     "4",
+     "peren"
+    ],
+    [
+     "200 gram",
+     "suiker"
+    ],
+    [
+     "20 ml",
+     "rozenwater"
+    ]
+   ],
+   "visualized": "A tin dish with four peeled pears, slightly wrinkled and sugar-coated, sitting on a wooden plank. The pears appear to be partially dried and have a glossy texture from the rozenwater. The image should capture the deep contrast between the caramelized sugar and the pale color of the pears, from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "fruit",
+    "zoet",
+    "dessert",
+    "conserveren"
+   ],
+   "original": "Om peeren te kandeliseeren\n\n\nNeemt peeren, geschilt. Stroytse met fijngestoten suycker. Leghtse op een planck in een tinne schotel. Doetse in den oven. De vochtigheyt die daeraf komt, giet af, keertse om, stroyt'er meer gesift suycker op, besprenghtse met rooswater. Aldus 3 of 4 mael keerende en suykerende totse byna droogh zijn. Leghtse op een omgekeerde seef in een warmen oven daer 't broot uytgehaelt is, totse droogh zijn. Dan kunt gyse een heel jaer bewaren.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-LJ8rd3XHIwgTZerkpg1c80dR.png?st=2024-07-17T18%3A43%3A17Z&se=2024-07-17T20%3A43%3A17Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A53%3A54Z&ske=2024-07-18T12%3A53%3A54Z&sks=b&skv=2023-11-03&sig=vyyu8qJ%2BHVNq9Dd%2BKtPl4I7ZFl67sac4X8AzLJuciG8%3D"
+  }
  },
  {
   "id": 649,
   "title": "Om queepeeren te confijten",
   "bookRef": "N1669",
-  "instructions": "\nNeemt sooveel queepeeren - gesuyvert van schillen en kernen - als suyker. Kooktse in een toegedeckte pot op sacht vuur, daerby doende wat caneel, kleyngesneden. Deselve temets omroerende, totdatse aen alle kanten koleur hebben. Als de suycker tot de dickte van gestolt vleeschnat gekoockt is, neemt die van 't vuur. Hoe de syroop dicker is, hoe de queen langer sullen duuren en hoese langer kooken, hoe hooger van koleur sy worden.\n"
+  "instructions": "\nNeemt sooveel queepeeren - gesuyvert van schillen en kernen - als suyker. Kooktse in een toegedeckte pot op sacht vuur, daerby doende wat caneel, kleyngesneden. Deselve temets omroerende, totdatse aen alle kanten koleur hebben. Als de suycker tot de dickte van gestolt vleeschnat gekoockt is, neemt die van 't vuur. Hoe de syroop dicker is, hoe de queen langer sullen duuren en hoese langer kooken, hoe hooger van koleur sy worden.\n",
+  "modernized": {
+   "title": "Gekonfijte Kweeperen",
+   "recipe": "Neem zoveel kweeperen - geschild en ontdaan van kernen - als suiker. Kook ze in een afgedekte pot op laag vuur, waarbij je wat fijngesneden kaneel toevoegt. Roer regelmatig om, totdat ze overal een kleur hebben. Als de suiker de dikte heeft van gestold vleessap, neem het van het vuur. Hoe dikker de siroop, hoe langer de kweeperen houdbaar zijn en hoe langer je kookt, hoe donkerder ze van kleur worden.",
+   "ingredients": [
+    [
+     "500 g",
+     "kweepeer"
+    ],
+    [
+     "500 g",
+     "suiker"
+    ],
+    [
+     "1 theelepel",
+     "kaneel"
+    ]
+   ],
+   "visualized": "A close-up of a dish of candied quinces. The quinces are sliced and have a rich golden-red color, glistening with a thick syrup. The syrup has a sheen and is slightly darker. Small pieces of cinnamon can be seen distributed throughout the dish. The dish is presented in a rustic bowl. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "fruit",
+    "dessert",
+    "zoet",
+    "traditioneel"
+   ],
+   "original": "Om queepeeren te confijten\n\n\nNeemt sooveel queepeeren - gesuyvert van schillen en kernen - als suyker. Kooktse in een toegedeckte pot op sacht vuur, daerby doende wat caneel, kleyngesneden. Deselve temets omroerende, totdatse aen alle kanten koleur hebben. Als de suycker tot de dickte van gestolt vleeschnat gekoockt is, neemt die van 't vuur. Hoe de syroop dicker is, hoe de queen langer sullen duuren en hoese langer kooken, hoe hooger van koleur sy worden.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-nejxCfXnL4WwELbUpqD1Gls4.png?st=2024-07-17T18%3A43%3A43Z&se=2024-07-17T20%3A43%3A43Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A38%3A52Z&ske=2024-07-18T13%3A38%3A52Z&sks=b&skv=2023-11-03&sig=y/VSv3DtYojgXFlofk1rj8if/RQdAtryl3BH%2BiZXcQ4%3D"
+  }
  },
  {
   "id": 650,
   "title": "Om halve queepeeren te confijten op een ander manier",
   "bookRef": "N1669",
-  "instructions": "\nNeemt queen, niet t'eenemael geel ofte rijp, versch afgepluckt. Snijtse temidden door. Suyvertse van de kernen en schiltse. Klaert drie pont poeyersuycker met drie pinten waters. Doet daerby vijf pont halve queen. Laetse soolange t'samen zieden tot een of twee druppels van de syroop, op een tailjoor latende koelen, kunt oplichten als een geley. Leght dan de halve queen in potten. Giet de syroop, kout wesende, daerover, bint die toe en bewaertse.\n"
+  "instructions": "\nNeemt queen, niet t'eenemael geel ofte rijp, versch afgepluckt. Snijtse temidden door. Suyvertse van de kernen en schiltse. Klaert drie pont poeyersuycker met drie pinten waters. Doet daerby vijf pont halve queen. Laetse soolange t'samen zieden tot een of twee druppels van de syroop, op een tailjoor latende koelen, kunt oplichten als een geley. Leght dan de halve queen in potten. Giet de syroop, kout wesende, daerover, bint die toe en bewaertse.\n",
+  "modernized": {
+   "title": "Geconfijte kweeperen",
+   "recipe": "Neem kweeperen die niet helemaal geel of rijp zijn, vers geplukt. Snijd ze doormidden. Verwijder de kernen en schil ze. Kook drie pond poedersuiker met drie pinten water. Voeg vijf pond halve kweeperen toe. Laat het geheel zo lang koken totdat een of twee druppels van de siroop, op een bord laat afkoelen, opstijven als een gelei. Leg de halve kweeperen in potten. Giet de afgekoelde siroop eroverheen, bind de potten dicht en bewaar ze.",
+   "ingredients": [
+    [
+     "5 kg",
+     "kweeperen"
+    ],
+    [
+     "1.5 kg",
+     "poedersuiker"
+    ],
+    [
+     "1.7 liter",
+     "water"
+    ]
+   ],
+   "visualized": "A jar filled with perfectly halved quince slices, suspended in a clear, amber-colored syrup. The halves are neatly arranged in layers, showing their light golden-yellow flesh. The jar is sealed with a tied cloth or lid. The image is taken from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "fruit",
+    "dessert",
+    "suiker",
+    "ingemaakt"
+   ],
+   "original": "Om halve queepeeren te confijten op een ander manier\n\n\nNeemt queen, niet t'eenemael geel ofte rijp, versch afgepluckt. Snijtse temidden door. Suyvertse van de kernen en schiltse. Klaert drie pont poeyersuycker met drie pinten waters. Doet daerby vijf pont halve queen. Laetse soolange t'samen zieden tot een of twee druppels van de syroop, op een tailjoor latende koelen, kunt oplichten als een geley. Leght dan de halve queen in potten. Giet de syroop, kout wesende, daerover, bint die toe en bewaertse.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-XvfuWU5qUjWI7rFzbFgTLwI0.png?st=2024-07-17T18%3A44%3A06Z&se=2024-07-17T20%3A44%3A06Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A25%3A28Z&ske=2024-07-18T11%3A25%3A28Z&sks=b&skv=2023-11-03&sig=q5hdLYOuqXHaHXPxEzm0sI8jsx7deuU2jh/WPLOepAE%3D"
+  }
  },
  {
   "id": 651,
   "title": "Om roode marmelade van queepeeren te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt queepeeren. Schiltse en snijdtse in stucken. Doet'er de kernen en steenachtigheyt wel uyt. Ziedt het altesamen met een weynigh wijns tot pap. En tot twaelf pont paps neemt acht pont suyckers, geklaert. Menght dat wel tesamen. Laet het zieden. Roert'et gestadigh totdat het dick genoegh is. 'Tselve moet van een tinne schotel afgaen. Doet'et dan in doosen. 't Is bequaem.\n"
+  "instructions": "\nNeemt queepeeren. Schiltse en snijdtse in stucken. Doet'er de kernen en steenachtigheyt wel uyt. Ziedt het altesamen met een weynigh wijns tot pap. En tot twaelf pont paps neemt acht pont suyckers, geklaert. Menght dat wel tesamen. Laet het zieden. Roert'et gestadigh totdat het dick genoegh is. 'Tselve moet van een tinne schotel afgaen. Doet'et dan in doosen. 't Is bequaem.\n",
+  "modernized": {
+   "title": "Rode Marmelade van Kweepeeren",
+   "recipe": "Neem kweeperen. Schil ze en snijd ze in stukken. Verwijder de kernen en het steenachtige gedeelte. Kook alles samen met een beetje wijn totdat het een pap wordt.\nVoor twaalf pond pap neem acht pond geklaarde suiker. Meng dit goed samen. Laat het koken en roer constant totdat het dik genoeg is. Het moet van een dunne schotel afkomen. Doe het dan in dozen. Het is klaar.",
+   "ingredients": [
+    [
+     "",
+     "kweeperen"
+    ],
+    [
+     "100 ml",
+     "wijn"
+    ],
+    [
+     "1200 g",
+     "suiker"
+    ]
+   ],
+   "visualized": "A ruby-red marmalade from quinces presented in a small porcelain bowl. The marmalade is thick and glossy, with a slightly coarse texture from the fruit. It resembles a dense fruit jam with a rich, deep red color. The bowl is simple and elegant, perfectly highlighting the vibrant marmalade. The dish should be depicted from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "zoet",
+    "fruitig",
+    "dessert",
+    "marmelade"
+   ],
+   "original": "Om roode marmelade van queepeeren te maken\n\n\nNeemt queepeeren. Schiltse en snijdtse in stucken. Doet'er de kernen en steenachtigheyt wel uyt. Ziedt het altesamen met een weynigh wijns tot pap. En tot twaelf pont paps neemt acht pont suyckers, geklaert. Menght dat wel tesamen. Laet het zieden. Roert'et gestadigh totdat het dick genoegh is. 'Tselve moet van een tinne schotel afgaen. Doet'et dan in doosen. 't Is bequaem.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-6zydSQ5JAol180N4ZXNuJxFC.png?st=2024-07-17T18%3A44%3A30Z&se=2024-07-17T20%3A44%3A30Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A54%3A44Z&ske=2024-07-18T13%3A54%3A44Z&sks=b&skv=2023-11-03&sig=jlER1dl8CmrRHEZ09QuXwZiy8Nd/NuHhW%2BErmumecBY%3D"
+  }
  },
  {
   "id": 652,
   "title": "Een ander manier om roode marmelade te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt thien pont queen, half deurgesneden, de zaden en schillen daeraf gedaen. Neemt dan negen pont geklaerde suycker met een mingele regenwater. Dit altesamen in een pan doende, laet'et koken op een sacht vuur, deselve temet omkeerende en decktse toe, doch dat wat wasem uyt kan. Hoese langer koocken, hoese hooger rooder sullen zijn. En alsse murruw zijn, snijdtse dwars over, opdat de syroop doordringen mach en eenparigh koleur krijgen. Set dan een weynigh van 't syroop te koelen en als 't begint dick te worden, breeckt uwe queen kleyn sooveel doenlijck is. Proeft, als wat opgeschept is, of ghy die met een mes kunt snijden dat niet aenkleeft. Dan isse bequaem in doosen te doen om te bewaren.\n"
+  "instructions": "\nNeemt thien pont queen, half deurgesneden, de zaden en schillen daeraf gedaen. Neemt dan negen pont geklaerde suycker met een mingele regenwater. Dit altesamen in een pan doende, laet'et koken op een sacht vuur, deselve temet omkeerende en decktse toe, doch dat wat wasem uyt kan. Hoese langer koocken, hoese hooger rooder sullen zijn. En alsse murruw zijn, snijdtse dwars over, opdat de syroop doordringen mach en eenparigh koleur krijgen. Set dan een weynigh van 't syroop te koelen en als 't begint dick te worden, breeckt uwe queen kleyn sooveel doenlijck is. Proeft, als wat opgeschept is, of ghy die met een mes kunt snijden dat niet aenkleeft. Dan isse bequaem in doosen te doen om te bewaren.\n",
+  "modernized": {
+   "title": "Rode Marmelade",
+   "recipe": "Neem tien pond kweeperen, halverwege doorgesneden, verwijder de zaden en schillen. Neem vervolgens negen pond geklaarde suiker met een mengsel regenwater. Doe dit alles samen in een pan en laat het koken op een zacht vuur, regelmatig omroeren en bedek deels, zodat er wat stoom kan ontsnappen. Hoe langer het kookt, hoe donkerder en roder de kleur zal zijn. Als ze zacht zijn, snijd ze dwars over, zodat de siroop goed kan doordringen en een egale kleur krijgt. Laat dan een beetje van de siroop afkoelen en als het begint dikker te worden, breek de kweeperen zo klein mogelijk. Proef, als je wat opschept, of je het met een mes kunt snijden zonder dat het mes kleeft. Dan is het geschikt om in dozen te doen om te bewaren.",
+   "ingredients": [
+    [
+     "5000 g",
+     "kweeperen"
+    ],
+    [
+     "4500 g",
+     "geklaarde suiker"
+    ],
+    [
+     "1 l",
+     "regenwater"
+    ]
+   ],
+   "visualized": "A deep, glossy red marmalade with a semi-transparent, jelly-like consistency. The marmalade is contained in a glass jar, showcasing its rich color. The texture appears to be smooth with small, evenly distributed chunks of quince. A small knife rests beside the jar, hinting at the perfect non-stick consistency. The image is captured from a three-quarters angle using a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "zoet",
+    "conserven",
+    "dessert",
+    "marmelade",
+    "fruit"
+   ],
+   "original": "Een ander manier om roode marmelade te maken\n\n\nNeemt thien pont queen, half deurgesneden, de zaden en schillen daeraf gedaen. Neemt dan negen pont geklaerde suycker met een mingele regenwater. Dit altesamen in een pan doende, laet'et koken op een sacht vuur, deselve temet omkeerende en decktse toe, doch dat wat wasem uyt kan. Hoese langer koocken, hoese hooger rooder sullen zijn. En alsse murruw zijn, snijdtse dwars over, opdat de syroop doordringen mach en eenparigh koleur krijgen. Set dan een weynigh van 't syroop te koelen en als 't begint dick te worden, breeckt uwe queen kleyn sooveel doenlijck is. Proeft, als wat opgeschept is, of ghy die met een mes kunt snijden dat niet aenkleeft. Dan isse bequaem in doosen te doen om te bewaren.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-a4zCRQOJ8KypjactUsffVm3E.png?st=2024-07-17T18%3A44%3A54Z&se=2024-07-17T20%3A44%3A54Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T11%3A37%3A59Z&ske=2024-07-18T11%3A37%3A59Z&sks=b&skv=2023-11-03&sig=ODQ4BU0prSkKXlxQqB5%2BJMMRAu5kNrMgMNF1dnPUie4%3D"
+  }
  },
  {
   "id": 653,
   "title": "Noch een ander manier van roode marmelade",
   "bookRef": "N1669",
-  "instructions": "\nDe queen, geschilt en aen stucken gesneden, en dan geraspt en uytgeparst. Dat nat genomen met een halve kanne water en twee pont broodtsuycker. Dat t'samen gesoden met die suycker tot syroop, en wel geschuymt zijnde, de queen daerin gedaen. Deckt het wel toe. Laet het zieden totdat'et root wert. Wrijft het dan kleen. Set het weder te koocken. Schept op. Hoe weyniger teffens, hoe beter.\n"
+  "instructions": "\nDe queen, geschilt en aen stucken gesneden, en dan geraspt en uytgeparst. Dat nat genomen met een halve kanne water en twee pont broodtsuycker. Dat t'samen gesoden met die suycker tot syroop, en wel geschuymt zijnde, de queen daerin gedaen. Deckt het wel toe. Laet het zieden totdat'et root wert. Wrijft het dan kleen. Set het weder te koocken. Schept op. Hoe weyniger teffens, hoe beter.\n",
+  "modernized": {
+   "title": "Rode Marmelade",
+   "recipe": "Schil de kwee appels en snijd ze in stukken. Rasp de stukken en pers het sap eruit.\nNeem het sap en meng het met 500 ml water en 1 kg broodsuiker.\nKook het mengsel samen met de suiker tot het een siroop wordt en goed schuimt.\nVoeg de geraspte kwee appels toe aan de siroop.\nDek het goed af en laat het koken tot het rood wordt.\nWrijf het fijn en kook het opnieuw.\nSchep het op.\nHoe minder je tegelijk opschept, hoe beter.",
+   "ingredients": [
+    [
+     "2 kg",
+     "kwee appels"
+    ],
+    [
+     "500 ml",
+     "water"
+    ],
+    [
+     "1 kg",
+     "broodsuiker"
+    ]
+   ],
+   "visualized": "A vibrant red marmalade displayed in a small glass jar with a metallic lid. The marmalade is thick, with visible fine pieces of fruit throughout. The jar is open, showing the glossy and smooth texture of the spread. The marmalade has bubbles on the surface indicating it was recently cooked. Three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "zoet",
+    "fruit",
+    "smeersel",
+    "dessert"
+   ],
+   "original": "Noch een ander manier van roode marmelade\n\n\nDe queen, geschilt en aen stucken gesneden, en dan geraspt en uytgeparst. Dat nat genomen met een halve kanne water en twee pont broodtsuycker. Dat t'samen gesoden met die suycker tot syroop, en wel geschuymt zijnde, de queen daerin gedaen. Deckt het wel toe. Laet het zieden totdat'et root wert. Wrijft het dan kleen. Set het weder te koocken. Schept op. Hoe weyniger teffens, hoe beter.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-LqEDNgr2X5pWmrUtzteX3GCg.png?st=2024-07-17T18%3A45%3A19Z&se=2024-07-17T20%3A45%3A19Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A36%3A19Z&ske=2024-07-18T12%3A36%3A19Z&sks=b&skv=2023-11-03&sig=N93d1HTJzw6%2BCjxiw01TJb9BAitZu/ToCCHrXIDyEXQ%3D"
+  }
  },
  {
   "id": 654,
   "title": "Om witte marmelade of queevlees te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt ongeschilde queen, koocktse in een becken met water tot de schil berst. Neemtse dan uyt, schiltse en snijdt al 't vlees af tot 't klockhuys toe. Dit dan gestampt en door een niet al te fijne teems gedaen. Opdat de steenachtigheyt daeruyt blijve, sult ghy in een becken op 't vuur laten droogen, doch stadigh roerende. Wat gedrooght zijnde, sult tot yder pont nemen een pont suycker dat met water geklaert is en tot een matelijcke dicke syroop. Van 't vuur gedaen zijnde, sult'et ondereenmengen en laten't maer een weynigh opzieden. Schept het in doosen, noch warm zijnde, en steltse in een warme stove tot daer een korst boven komt. De doosen mogen oock niet geslooten zijn. Bewaertse dan tot 't gebruyck. Sommige nemen vijf vierendeel fijngestampt broodtsuycker en mengen dat slechts met een pont van 't vlees, dat als boven door de teems gedaen is, ongedrooght, ende laten 't maer een walleken samen zieden. Dese marmelade valt witter, maer moet langer in de stoof staen.\n"
+  "instructions": "\nNeemt ongeschilde queen, koocktse in een becken met water tot de schil berst. Neemtse dan uyt, schiltse en snijdt al 't vlees af tot 't klockhuys toe. Dit dan gestampt en door een niet al te fijne teems gedaen. Opdat de steenachtigheyt daeruyt blijve, sult ghy in een becken op 't vuur laten droogen, doch stadigh roerende. Wat gedrooght zijnde, sult tot yder pont nemen een pont suycker dat met water geklaert is en tot een matelijcke dicke syroop. Van 't vuur gedaen zijnde, sult'et ondereenmengen en laten't maer een weynigh opzieden. Schept het in doosen, noch warm zijnde, en steltse in een warme stove tot daer een korst boven komt. De doosen mogen oock niet geslooten zijn. Bewaertse dan tot 't gebruyck. Sommige nemen vijf vierendeel fijngestampt broodtsuycker en mengen dat slechts met een pont van 't vlees, dat als boven door de teems gedaen is, ongedrooght, ende laten 't maer een walleken samen zieden. Dese marmelade valt witter, maer moet langer in de stoof staen.\n",
+  "modernized": {
+   "title": "Witte Marmelade van Kweepeer",
+   "recipe": "Neem ongeschilde kweeperen en kook ze in een pan met water tot de schil barst. Haal ze er dan uit, schil ze en snijd al het vruchtvlees eraf tot aan het klokhuis. Stamp het vruchtvlees fijn en haal het door een niet al te fijne zeef om de steentjes te verwijderen. Laat het vruchtvlees in een pan op het vuur drogen, roer regelmatig. \n\nAls het enigszins gedroogd is, neem je per pond vruchtvlees een pond suiker die je met water hebt opgelost tot een redelijk dikke siroop. Meng het vruchtvlees met de siroop en laat het een beetje opkoken. Schep het mengsel in doosjes terwijl het nog warm is en zet de doosjes in een warme oven tot er een korst bovenop komt. De doosjes mogen niet gesloten zijn. Bewaar de marmelade tot gebruik. Sommige mensen nemen vijf vierdeel fijngemalen broodsuiker en mengen dat met een pond van het vruchtvlees zonder het te drogen. Laat dit mengsel even doorkoken zodat het dikker wordt. Deze marmelade wordt witter maar moet langer in de oven staan.",
+   "ingredients": [
+    [
+     "4",
+     "kweeperen"
+    ],
+    [
+     "200 g",
+     "suiker"
+    ],
+    [
+     "100 ml",
+     "water"
+    ]
+   ],
+   "visualized": "A bowl filled with a smooth, white marmalade made from quince, with a slightly shiny, thick texture. The marmalade appears spreadable and has a slight crust on top from being dried in the oven. The dish is photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "jam",
+    "zoet",
+    "nagerecht",
+    "fruit"
+   ],
+   "original": "Om witte marmelade of queevlees te maken\n\n\nNeemt ongeschilde queen, koocktse in een becken met water tot de schil berst. Neemtse dan uyt, schiltse en snijdt al 't vlees af tot 't klockhuys toe. Dit dan gestampt en door een niet al te fijne teems gedaen. Opdat de steenachtigheyt daeruyt blijve, sult ghy in een becken op 't vuur laten droogen, doch stadigh roerende. Wat gedrooght zijnde, sult tot yder pont nemen een pont suycker dat met water geklaert is en tot een matelijcke dicke syroop. Van 't vuur gedaen zijnde, sult'et ondereenmengen en laten't maer een weynigh opzieden. Schept het in doosen, noch warm zijnde, en steltse in een warme stove tot daer een korst boven komt. De doosen mogen oock niet geslooten zijn. Bewaertse dan tot 't gebruyck. Sommige nemen vijf vierendeel fijngestampt broodtsuycker en mengen dat slechts met een pont van 't vlees, dat als boven door de teems gedaen is, ongedrooght, ende laten 't maer een walleken samen zieden. Dese marmelade valt witter, maer moet langer in de stoof staen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-DKKm9IKetTQTTMX88twzUEKA.png?st=2024-07-17T18%3A45%3A44Z&se=2024-07-17T20%3A45%3A44Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A38%3A39Z&ske=2024-07-18T13%3A38%3A39Z&sks=b&skv=2023-11-03&sig=LGz6rSP/VMdEo9tAmA/juxfJqQ4lQ7Kb1T0BeyRo/jg%3D"
+  }
  },
  {
   "id": 655,
   "title": "Om queekoeckjens te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt heele queen, wrijft die schoon af, doch koockt die in water. Laetse soo met de schillen zieden totse murruw zijn. Neemtse uyt, decktse toe met een doeck totse lauw zijn. Doet de schillen af, ook de kernen en het harde, en wrijftse heel kleyn. Neemt sooveel suycker als queen, fijngestoten. Menght samen en set het op 't vuur. Latet opkooken. Gekoockt zijnde, stroyt op een schoone planck suycker en leght het daerop. Maeckt koeckjens. Laetse kout worden. Set die op een stoof met vuur totse droogh zijn. Gy kuntse in schoon papier bewaren, soolange het u belieft.\n"
+  "instructions": "\nNeemt heele queen, wrijft die schoon af, doch koockt die in water. Laetse soo met de schillen zieden totse murruw zijn. Neemtse uyt, decktse toe met een doeck totse lauw zijn. Doet de schillen af, ook de kernen en het harde, en wrijftse heel kleyn. Neemt sooveel suycker als queen, fijngestoten. Menght samen en set het op 't vuur. Latet opkooken. Gekoockt zijnde, stroyt op een schoone planck suycker en leght het daerop. Maeckt koeckjens. Laetse kout worden. Set die op een stoof met vuur totse droogh zijn. Gy kuntse in schoon papier bewaren, soolange het u belieft.\n",
+  "modernized": {
+   "title": "Kweepeercookies",
+   "recipe": "Neem hele kweeperen en wrijf ze schoon, maar kook ze in water. Laat ze met schil koken totdat ze zacht zijn. Haal ze eruit en dek ze af met een doek totdat ze lauw zijn. Verwijder de schil, de kern en het harde deel en wrijf ze fijn. Neem evenveel suiker als kweeperen, fijngestoten. Meng het samen en zet het op het vuur. Laat het koken. Zodra het gekookt is, strooi suiker op een schone plank en leg het mengsel erop. Maak koekjes. Laat ze afkoelen. Zet ze op een stoof met vuur totdat ze droog zijn. Je kunt ze in schoon papier bewaren zolang je wilt.",
+   "ingredients": [
+    [
+     "500 g",
+     "kweeperen"
+    ],
+    [
+     "500 g",
+     "suiker"
+    ]
+   ],
+   "visualized": "A wooden board with neatly shaped, golden brown cookies made from quinces. The cookies are round and have a slightly rough texture, with visible sugar crystals glistening on the surface. The background is neutral to keep the focus on the cookies. The cookies are viewed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "koekjes",
+    "fruit",
+    "zoet"
+   ],
+   "original": "Om queekoeckjens te maken\n\n\nNeemt heele queen, wrijft die schoon af, doch koockt die in water. Laetse soo met de schillen zieden totse murruw zijn. Neemtse uyt, decktse toe met een doeck totse lauw zijn. Doet de schillen af, ook de kernen en het harde, en wrijftse heel kleyn. Neemt sooveel suycker als queen, fijngestoten. Menght samen en set het op 't vuur. Latet opkooken. Gekoockt zijnde, stroyt op een schoone planck suycker en leght het daerop. Maeckt koeckjens. Laetse kout worden. Set die op een stoof met vuur totse droogh zijn. Gy kuntse in schoon papier bewaren, soolange het u belieft.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-gYWB2ZRzJhXye3i7tHu3Zyhc.png?st=2024-07-17T18%3A46%3A09Z&se=2024-07-17T20%3A46%3A09Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T00%3A32%3A17Z&ske=2024-07-18T00%3A32%3A17Z&sks=b&skv=2023-11-03&sig=iEgoCBuAmxb4j6ZgopE4g/pesTsdmDw9gPvzsH0L/Mk%3D"
+  }
  },
  {
   "id": 656,
   "title": "Om queestucken met citroenen te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een pont sap van queen, sap van twee citroenen, en drie pont brootsuycker. Laet het zieden tot het wel is geschuymt. Dan neemt men vijf pont schoone queen, geschilt, soo groot gesneden als men wil, de geele schil van twee citroenen, geraspt. Dan samen in schoon water gekoockt totdat het spint en in de syroop gelaten. Is seer goet.\n"
+  "instructions": "\nNeemt een pont sap van queen, sap van twee citroenen, en drie pont brootsuycker. Laet het zieden tot het wel is geschuymt. Dan neemt men vijf pont schoone queen, geschilt, soo groot gesneden als men wil, de geele schil van twee citroenen, geraspt. Dan samen in schoon water gekoockt totdat het spint en in de syroop gelaten. Is seer goet.\n",
+  "modernized": {
+   "title": "Kweepeermoes met Citroen",
+   "recipe": "Neem 500 ml sap van kweeperen, sap van twee citroenen en 1,5 kg witte suiker. Laat het koken tot het goed heeft geschuimd. Neem dan 2,5 kg mooie kweeperen, geschild en in stukjes gesneden naar wens, de gele schil van twee citroenen, geraspt. Kook dit samen in schoon water totdat het mengsel dik wordt en voeg het toe aan de siroop. Het is zeer goed.",
+   "ingredients": [
+    [
+     "500 ml",
+     "kweeperensap"
+    ],
+    [
+     "",
+     "sap van twee citroenen"
+    ],
+    [
+     "1,5 kg",
+     "suiker"
+    ],
+    [
+     "2,5 kg",
+     "kweeperen"
+    ],
+    [
+     "",
+     "geraspte citroenschil van twee citroenen"
+    ]
+   ],
+   "visualized": "A bowl of golden-yellow quince puree with lemon zest, appearing thick and slightly glossy. The puree has visible small chunks of quince and is placed in a white porcelain bowl. The lemon zest is sprinkled on top, giving a slight contrast in color. The dish is viewed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "fruit",
+    "zoet"
+   ],
+   "original": "Om queestucken met citroenen te maken\n\n\nNeemt een pont sap van queen, sap van twee citroenen, en drie pont brootsuycker. Laet het zieden tot het wel is geschuymt. Dan neemt men vijf pont schoone queen, geschilt, soo groot gesneden als men wil, de geele schil van twee citroenen, geraspt. Dan samen in schoon water gekoockt totdat het spint en in de syroop gelaten. Is seer goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-2uuu3ACKpBes1rmTVhKvqfn1.png?st=2024-07-17T18%3A46%3A38Z&se=2024-07-17T20%3A46%3A38Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T00%3A26%3A57Z&ske=2024-07-18T00%3A26%3A57Z&sks=b&skv=2023-11-03&sig=SJtysTBZDJ/nIxO9xgqXGPq5ZTC1y%2BYld4QbqZF4FyE%3D"
+  }
  },
  {
   "id": 657,
   "title": "Om abricosen, persen en pruymen te confijten",
   "bookRef": "N1669",
-  "instructions": "\nNeemt abricosen, persen of pruymen, van yder een pondt, geklaert als vooren en koockt het tesamen tot de dickte van een matige syroop. Laet het kout worden en in potten bewaert. Is goet.\n"
+  "instructions": "\nNeemt abricosen, persen of pruymen, van yder een pondt, geklaert als vooren en koockt het tesamen tot de dickte van een matige syroop. Laet het kout worden en in potten bewaert. Is goet.\n",
+  "modernized": {
+   "title": "Gesuikerde Abrikozen, Perziken en Pruimen",
+   "recipe": "Neem 500 gram abrikozen, perziken of pruimen, elk schoongemaakt zoals eerder beschreven. Kook alles samen tot een matige siroopdikte. Laat afkoelen en bewaar in potten. Het is lekker.",
+   "ingredients": [
+    [
+     "500 g",
+     "abrikozen"
+    ],
+    [
+     "500 g",
+     "perziken"
+    ],
+    [
+     "500 g",
+     "pruimen"
+    ]
+   ],
+   "visualized": "A beautiful glass jar filled with a mixture of golden apricots, red plums, and orange peaches in a thick syrup. The fruits look glossy and slightly translucent from being candied. The jar is from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "fruit",
+    "nagerecht",
+    "zoet"
+   ],
+   "original": "Om abricosen, persen en pruymen te confijten\n\n\nNeemt abricosen, persen of pruymen, van yder een pondt, geklaert als vooren en koockt het tesamen tot de dickte van een matige syroop. Laet het kout worden en in potten bewaert. Is goet.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-F9Rgul9o8lwjPj9c5w2LZgVX.png?st=2024-07-17T18%3A46%3A59Z&se=2024-07-17T20%3A46%3A59Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T14%3A07%3A30Z&ske=2024-07-18T14%3A07%3A30Z&sks=b&skv=2023-11-03&sig=/M4iHt0gxAhBb9B5pw4KBNSCnjofr/DTFenSzRVmQ4M%3D"
+  }
  },
  {
   "id": 658,
   "title": "Om kriecken, morellen en karssen te confijten",
   "bookRef": "N1669",
-  "instructions": "\nTot 6 pont morellen of karssen - daer de stelen half afgesneden zijn - neemt vier pont suycker, geklaert als is aengewesen met water en wit van ey. Dan samen sachtjes in de syroop gekookt - maer datse niet barsten - totdat de suycker begint te spinnen. Dan warm in verglaesde potten geset met de steeltjes omhoogh en de syroop daerop gegoten.\n"
+  "instructions": "\nTot 6 pont morellen of karssen - daer de stelen half afgesneden zijn - neemt vier pont suycker, geklaert als is aengewesen met water en wit van ey. Dan samen sachtjes in de syroop gekookt - maer datse niet barsten - totdat de suycker begint te spinnen. Dan warm in verglaesde potten geset met de steeltjes omhoogh en de syroop daerop gegoten.\n",
+  "modernized": {
+   "title": "Om kersen, morellen en krieken te konfijten",
+   "recipe": "Voor 6 pond morellen of kersen - waarvan de stelen half zijn afgesneden - neem 4 pond suiker, geklaard zoals aangegeven met water en eiwit. Kook de suiker zachtjes in de siroop, maar zorg dat de vruchten niet barsten, totdat de suiker begint te spinnen. Zet ze dan warm in geglazuurde potten met de steeltjes omhoog en giet de siroop erover.",
+   "ingredients": [
+    [
+     "2700 gram",
+     "morellen of kersen"
+    ],
+    [
+     "1800 gram",
+     "suiker"
+    ],
+    [
+     "",
+     "water"
+    ],
+    [
+     "",
+     "eiwit"
+    ]
+   ],
+   "visualized": "A glass jar filled with preserved cherries or morello cherries. The cherries' stems are cut halfway and are pointing upwards, submerged in a thick syrup. The syrup has a shiny texture and slightly amber hue. The photo is taken from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "fruit",
+    "dessert",
+    "confijten"
+   ],
+   "original": "Om kriecken, morellen en karssen te confijten\n\n\nTot 6 pont morellen of karssen - daer de stelen half afgesneden zijn - neemt vier pont suycker, geklaert als is aengewesen met water en wit van ey. Dan samen sachtjes in de syroop gekookt - maer datse niet barsten - totdat de suycker begint te spinnen. Dan warm in verglaesde potten geset met de steeltjes omhoogh en de syroop daerop gegoten.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-bDxGlRxLkuajTIsJSiqFdtEr.png?st=2024-07-17T18%3A47%3A21Z&se=2024-07-17T20%3A47%3A21Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A49%3A54Z&ske=2024-07-18T13%3A49%3A54Z&sks=b&skv=2023-11-03&sig=geXNjTvBi7Z1lTCA7KqqUlwof3gl9EhUoEcSJKP9WiU%3D"
+  }
  },
  {
   "id": 659,
   "title": "Ander manier van karssen, kriecken en morellen te confijten",
   "bookRef": "N1669",
-  "instructions": "\nNeemt een pont sap van kriecken, 3 pont broodtsuycker, dat samen gesoden tot geschuymt is, dan 6 pont schoone karssen met de steelen. Latet sacht koocken totdat het lijmt en dan uyt gedaen.\nMen moet by geenige confituren met tin ofte koper by komen.\n"
+  "instructions": "\nNeemt een pont sap van kriecken, 3 pont broodtsuycker, dat samen gesoden tot geschuymt is, dan 6 pont schoone karssen met de steelen. Latet sacht koocken totdat het lijmt en dan uyt gedaen.\nMen moet by geenige confituren met tin ofte koper by komen.\n",
+  "modernized": {
+   "title": "Kersen, Krieken en Morellen Confijten",
+   "recipe": "Neem een pond sap van krieken en 3 pond broodsuioker. Laat dit samen koken totdat het schuimt. Voeg dan 6 pond schoongemaakte kersen met steeltjes toe. Laat zachtjes koken totdat het mengsel begint te plakken en haal dan van het vuur.\n\nMen moet bij geen enkele confituur tin of koper gebruiken.",
+   "ingredients": [
+    [
+     "500 ml",
+     "kriekensap"
+    ],
+    [
+     "1500 g",
+     "broodsuioker"
+    ],
+    [
+     "3000 g",
+     "kersen met steeltjes"
+    ]
+   ],
+   "visualized": "A pot filled with a rich, dark red, thick liquid. Within the liquid, whole cherries with stems are visible, giving a luscious and glossy appearance. The photo should be taken from a three-quarters angle with a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "fruit",
+    "dessert",
+    "zoet"
+   ],
+   "original": "Ander manier van karssen, kriecken en morellen te confijten\n\n\nNeemt een pont sap van kriecken, 3 pont broodtsuycker, dat samen gesoden tot geschuymt is, dan 6 pont schoone karssen met de steelen. Latet sacht koocken totdat het lijmt en dan uyt gedaen.\nMen moet by geenige confituren met tin ofte koper by komen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-1sYbqw8YxMX7FxDTDkR2xKKV.png?st=2024-07-17T18%3A47%3A41Z&se=2024-07-17T20%3A47%3A41Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A03%3A15Z&ske=2024-07-18T13%3A03%3A15Z&sks=b&skv=2023-11-03&sig=sKPoUl1LVNnFQPRgV4AjPygbsz3kKI1v2WkSTJ/QXC8%3D"
+  }
  },
  {
   "id": 660,
   "title": "Om morellensap te maken",
   "bookRef": "N1669",
-  "instructions": "\nParst't sap uyt de morellen. Neemt tegens 5 pont sap anderhalf pont suycker en koockt het t'samen. Schuymt het schoon. Dan in flessen gegoten, en kout zijnde, dicht toegemaeckt. Blijft langh goet. Soo doet men oock moerbesien.\n"
+  "instructions": "\nParst't sap uyt de morellen. Neemt tegens 5 pont sap anderhalf pont suycker en koockt het t'samen. Schuymt het schoon. Dan in flessen gegoten, en kout zijnde, dicht toegemaeckt. Blijft langh goet. Soo doet men oock moerbesien.\n",
+  "modernized": {
+   "title": "Morellensap",
+   "recipe": "Pers het sap uit de morellen. Neem voor 5 pond (circa 2,27 kg) sap anderhalf pond (circa 680 gram) suiker en kook het samen.\nSchuim het schoon.\nGiet het sap dan in flessen en sluit ze goed af als het sap afgekoeld is.\nMorellensap blijft lang goed. Op dezelfde manier kan ook moerbeiensap gemaakt worden.",
+   "ingredients": [
+    [
+     "2.27 kg",
+     "morellen"
+    ],
+    [
+     "680 g",
+     "suiker"
+    ]
+   ],
+   "visualized": "A bottle of morellensap with a rich, deep red color. The liquid looks clear and slightly viscous, hinting at its sweet nature. The bottle is sealed tightly and there may be a small amount of foam residue at the neck. Capture from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "sap",
+    "drank",
+    "fruit"
+   ],
+   "original": "Om morellensap te maken\n\n\nParst't sap uyt de morellen. Neemt tegens 5 pont sap anderhalf pont suycker en koockt het t'samen. Schuymt het schoon. Dan in flessen gegoten, en kout zijnde, dicht toegemaeckt. Blijft langh goet. Soo doet men oock moerbesien.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-HXzOTOQfTZZf1QZ4c7jooqBX.png?st=2024-07-17T18%3A48%3A04Z&se=2024-07-17T20%3A48%3A04Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A12%3A03Z&ske=2024-07-18T13%3A12%3A03Z&sks=b&skv=2023-11-03&sig=M8aboQJJxLgWMvzBr4uSyShb7F%2BmyETuPfq1fZgANYs%3D"
+  }
  },
  {
   "id": 661,
   "title": "Om karssenmoes te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt zwarte kriecken. Laetse in wijn wel zieden. Doetse door een stremijn. Dan weder zieden tot het dick wort, die stadigh roerende. Tot 3 pont sulck moes neemt derdehalf pont suycker. Ziet dat dan samen op tot matige dickte. Oock maeckt men met speceryen: in een pont - als noch warm is - doet men een loot poeyer van muskaten en caneel, gember en galiga, van elcks een vierendeel loots, nagelen, foelie en paradijshout, van elcks een half vierendeel loots. Dit krieckmoes versterckt 't herte.\n"
+  "instructions": "\nNeemt zwarte kriecken. Laetse in wijn wel zieden. Doetse door een stremijn. Dan weder zieden tot het dick wort, die stadigh roerende. Tot 3 pont sulck moes neemt derdehalf pont suycker. Ziet dat dan samen op tot matige dickte. Oock maeckt men met speceryen: in een pont - als noch warm is - doet men een loot poeyer van muskaten en caneel, gember en galiga, van elcks een vierendeel loots, nagelen, foelie en paradijshout, van elcks een half vierendeel loots. Dit krieckmoes versterckt 't herte.\n",
+  "modernized": {
+   "title": "Kriekenmoes",
+   "recipe": "Neem zwarte krieken en laat ze in wijn zachtjes koken. Doe ze door een zeef. Kook vervolgens opnieuw tot het dik wordt, roer regelmatig. Voor 3 pond van deze moes neem je anderhalf pond suiker. Kook dit samen tot een matige dikte. Voeg ook kruiden toe: in een pond van de warme moes doe je een halve gram poeder van muskaat en kaneel, gember en galanga, van elk een kwart gram; kruidnagel, foelie en paradijskorrel, van elk een halve kwart gram. Dit kriekenmoes versterkt het hart.",
+   "ingredients": [
+    [
+     "900 g",
+     "zwarte krieken"
+    ],
+    [
+     "500 ml",
+     "wijn"
+    ],
+    [
+     "700 g",
+     "suiker"
+    ],
+    [
+     "0,5 g",
+     "muskaatpoeder"
+    ],
+    [
+     "0,5 g",
+     "kaneelpoeder"
+    ],
+    [
+     "0,5 g",
+     "gemberpoeder"
+    ],
+    [
+     "0,5 g",
+     "galangapoeder"
+    ],
+    [
+     "0,25 g",
+     "kruidnagel"
+    ],
+    [
+     "0,25 g",
+     "foelie"
+    ],
+    [
+     "0,25 g",
+     "paradijskorrel"
+    ]
+   ],
+   "visualized": "A thick, dark cherry sauce in a bowl with a glossy surface, with visible flecks of spices such as cinnamon and nutmeg. The sauce has a rich, deep red color and looks smooth yet thick enough to coat the spoon. Presented from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "saus",
+    "fruit",
+    "kruidig"
+   ],
+   "original": "Om karssenmoes te maken\n\n\nNeemt zwarte kriecken. Laetse in wijn wel zieden. Doetse door een stremijn. Dan weder zieden tot het dick wort, die stadigh roerende. Tot 3 pont sulck moes neemt derdehalf pont suycker. Ziet dat dan samen op tot matige dickte. Oock maeckt men met speceryen: in een pont - als noch warm is - doet men een loot poeyer van muskaten en caneel, gember en galiga, van elcks een vierendeel loots, nagelen, foelie en paradijshout, van elcks een half vierendeel loots. Dit krieckmoes versterckt 't herte.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-iKt7jLwgFwogsAjBFhvnw7qE.png?st=2024-07-17T18%3A48%3A28Z&se=2024-07-17T20%3A48%3A28Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A46%3A40Z&ske=2024-07-18T13%3A46%3A40Z&sks=b&skv=2023-11-03&sig=PiCU%2BzEOUaGXSSNin6oqlLf0PSn/dMELGne1iwIJnLk%3D"
+  }
  },
  {
   "id": 662,
   "title": "Om 't mergh van karssen, pruymen, abrikosen etc. een heel jaer goet te houden",
   "bookRef": "N1669",
-  "instructions": "\nNeemt karssen die wat amper zijn. Pluckt de steelen af. Koocktse in een aerde pot sonder nat daerby op een sacht vuur. Alsse in haer eygen sap beginnen te koken, roertse dan om, datse niet aenbranden. Sy zijn genoegh alst buytenste vel afgaet en 't mergh tot dicke pap is geworden. Laetse dan koelen en wrijftse door een omgekeerde zeef. Neemt de deurgedane pap en spreyt die op verglaesde betielen. Laet het soo drogen in de son of in een oven, als 't broot daeruyt is. Doet het dan uyt de schael en bewaert het.\n't Is goet om appetijt te verwecken en in heete koortsen te verkoelen.\n"
+  "instructions": "\nNeemt karssen die wat amper zijn. Pluckt de steelen af. Koocktse in een aerde pot sonder nat daerby op een sacht vuur. Alsse in haer eygen sap beginnen te koken, roertse dan om, datse niet aenbranden. Sy zijn genoegh alst buytenste vel afgaet en 't mergh tot dicke pap is geworden. Laetse dan koelen en wrijftse door een omgekeerde zeef. Neemt de deurgedane pap en spreyt die op verglaesde betielen. Laet het soo drogen in de son of in een oven, als 't broot daeruyt is. Doet het dan uyt de schael en bewaert het.\n't Is goet om appetijt te verwecken en in heete koortsen te verkoelen.\n",
+  "modernized": {
+   "title": "Het Marque van Kersen, Pruimen en Abrikozen een Heel Jaar Goed Houden",
+   "recipe": "Neem kersen die nog een beetje stevig zijn. Pluk de steeltjes eraf. Kook ze in een aardewerken pot zonder water erbij op een zacht vuur. Zodra ze in hun eigen sap beginnen te koken, roer je ze om zodat ze niet aanbranden. Ze zijn klaar wanneer het buitenste vel loskomt en het vruchtvlees een dikke pap is geworden. Laat het dan afkoelen en wrijf het door een omgekeerde zeef. Neem de doorgewreven pap en spreid die uit over geglazuurde tegeltjes. Laat het zo drogen in de zon of in een oven nadat het brood eruit is gehaald. Haal het daarna van de tegel en bewaar het.\n\nHet is goed om de eetlust op te wekken en om af te koelen tijdens hoge koortsen.",
+   "ingredients": [
+    [
+     "",
+     "kersen op sap"
+    ]
+   ],
+   "visualized": "A thick, pasty spread made from cherries is evenly spread on small, square glazed tiles. The spread has a deep red color and a smooth texture. The scene is portrayed from a three-quarters angle, showcasing the thick consistency and glossy surface of the spread. Sigma 85 mm f/1.4.",
+   "tags": [
+    "fruit",
+    "bewaring",
+    "dessert"
+   ],
+   "original": "Om 't mergh van karssen, pruymen, abrikosen etc. een heel jaer goet te houden\n\n\nNeemt karssen die wat amper zijn. Pluckt de steelen af. Koocktse in een aerde pot sonder nat daerby op een sacht vuur. Alsse in haer eygen sap beginnen te koken, roertse dan om, datse niet aenbranden. Sy zijn genoegh alst buytenste vel afgaet en 't mergh tot dicke pap is geworden. Laetse dan koelen en wrijftse door een omgekeerde zeef. Neemt de deurgedane pap en spreyt die op verglaesde betielen. Laet het soo drogen in de son of in een oven, als 't broot daeruyt is. Doet het dan uyt de schael en bewaert het.\n't Is goet om appetijt te verwecken en in heete koortsen te verkoelen.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-mT6cxZPrpJXkW1P60fRathkV.png?st=2024-07-17T18%3A48%3A59Z&se=2024-07-17T20%3A48%3A59Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A13%3A23Z&ske=2024-07-18T12%3A13%3A23Z&sks=b&skv=2023-11-03&sig=1za6xMO79M8PXJ%2Bq0f4zrXJ3iHTyiCAF4kDCF3ICUiQ%3D"
+  }
  },
  {
   "id": 663,
   "title": "Om heele aelbesien te confijten",
   "bookRef": "N1669",
-  "instructions": "\nNeemt besien, plucktse van de steelen. Doetse in een kanne, laet die zieden in een ketel met water. Doet de kanne wel toe. Als de besien gaer zijn, doetse dan door een teems. Neemt tegens anderhalf pont sap, twee pont suyker en een kommetje regenwater. Laet dat koocken. Doet de heele besien daerin. Laet het sachtjens koken tot'et begint te lijmen en dan al voorts tot het wel lijmt.\n"
+  "instructions": "\nNeemt besien, plucktse van de steelen. Doetse in een kanne, laet die zieden in een ketel met water. Doet de kanne wel toe. Als de besien gaer zijn, doetse dan door een teems. Neemt tegens anderhalf pont sap, twee pont suyker en een kommetje regenwater. Laet dat koocken. Doet de heele besien daerin. Laet het sachtjens koken tot'et begint te lijmen en dan al voorts tot het wel lijmt.\n",
+  "modernized": {
+   "title": "Gekonfijte Aalbesjes",
+   "recipe": "Neem aalbesjes en pluk ze van de steeltjes. Doe ze in een kan en laat die in een ketel met water koken. Sluit de kan goed af. Als de besjes gaar zijn, zeef ze door een doek. Neem voor elke 675 ml sap, 1 kg suiker en een kommetje regenwater. Laat dit koken. Doe de hele aalbesjes erin. Laat het zachtjes koken tot het begint te lijmen en dan verder koken tot het goed lijmt.",
+   "ingredients": [
+    [
+     "675 ml",
+     "aalbessensap"
+    ],
+    [
+     "1 kg",
+     "suiker"
+    ],
+    [
+     "100 ml",
+     "regenwater"
+    ]
+   ],
+   "visualized": "A jar of bright red currant jelly with whole red currants suspended inside. The jelly is glossy and smooth, with the ripe red currants giving a textured appearance within the clear red substance. Photographed from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "dessert",
+    "fruit",
+    "zoet"
+   ],
+   "original": "Om heele aelbesien te confijten\n\n\nNeemt besien, plucktse van de steelen. Doetse in een kanne, laet die zieden in een ketel met water. Doet de kanne wel toe. Als de besien gaer zijn, doetse dan door een teems. Neemt tegens anderhalf pont sap, twee pont suyker en een kommetje regenwater. Laet dat koocken. Doet de heele besien daerin. Laet het sachtjens koken tot'et begint te lijmen en dan al voorts tot het wel lijmt.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-K3VhjGj2EsdOKAmZYCYfblti.png?st=2024-07-17T18%3A49%3A21Z&se=2024-07-17T20%3A49%3A21Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A52%3A40Z&ske=2024-07-18T13%3A52%3A40Z&sks=b&skv=2023-11-03&sig=Z7D%2By9ejTZZzT37ICp/IxdeGQc2UHq6B948e99fVyWE%3D"
+  }
  },
  {
   "id": 664,
   "title": "Om conserf van aelbesien of rob de rubes te maken",
   "bookRef": "N1669",
-  "instructions": "\nPluckt de aelbesien van de steelen. Wringhtse door een dicke gasien doeck, opdat ghy niet dan suyver sap hebben meught, daer geen steentjes of onsuyverheydt by is. Neemt tot elcke pint sap drie vierendeel suycker. Laet dat t'samen op een kleyn vuur koken, staegh roerende met een spatel, totdat het bovenaen de spatel begint aen te kleven, en dan in potten gedaen. Is goet in heete koortsen, en is geen beter verkoelinge als dit op de tonge bevonden.\n"
+  "instructions": "\nPluckt de aelbesien van de steelen. Wringhtse door een dicke gasien doeck, opdat ghy niet dan suyver sap hebben meught, daer geen steentjes of onsuyverheydt by is. Neemt tot elcke pint sap drie vierendeel suycker. Laet dat t'samen op een kleyn vuur koken, staegh roerende met een spatel, totdat het bovenaen de spatel begint aen te kleven, en dan in potten gedaen. Is goet in heete koortsen, en is geen beter verkoelinge als dit op de tonge bevonden.\n",
+  "modernized": {
+   "title": "Conserf van aalbessen",
+   "recipe": "Pluk de aalbessen van de steeltjes.\n\nKnijp ze door een dikke kaasdoek, zodat je alleen zuiver sap hebt, zonder pitjes of onzuiverheden.\n\nNeem voor elke halve liter sap drie kwart liter suiker.\n\nLaat dit samen op een klein vuur koken, voortdurend roerend met een spatel, totdat het aan de bovenkant van de spatel begint te kleven.\n\nGiet het sap in potten. Dit is goed bij koorts als verkoeling en werkt verfrissend op de tong.",
+   "ingredients": [
+    [
+     "500 ml",
+     "aalbessensap"
+    ],
+    [
+     "375 g",
+     "suiker"
+    ]
+   ],
+   "visualized": "A glass jar filled with a deep red, glossy liquid sitting on a wooden table. The liquid appears thick and sticky, slightly clinging to the sides of the jar. In the background, another open jar reveals a smooth, jam-like texture. A few scattered red currants and a fresh green leaf are artfully placed around the jars. The image is taken from a three-quarters angle, Sigma 85 mm f/1.4.",
+   "tags": [
+    "fruit",
+    "conserf",
+    "zoet",
+    "verfrissend"
+   ],
+   "original": "Om conserf van aelbesien of rob de rubes te maken\n\n\nPluckt de aelbesien van de steelen. Wringhtse door een dicke gasien doeck, opdat ghy niet dan suyver sap hebben meught, daer geen steentjes of onsuyverheydt by is. Neemt tot elcke pint sap drie vierendeel suycker. Laet dat t'samen op een kleyn vuur koken, staegh roerende met een spatel, totdat het bovenaen de spatel begint aen te kleven, en dan in potten gedaen. Is goet in heete koortsen, en is geen beter verkoelinge als dit op de tonge bevonden.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-RXibdMmGhc0GTccf8uiSYN8S.png?st=2024-07-17T18%3A49%3A48Z&se=2024-07-17T20%3A49%3A48Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T12%3A21%3A20Z&ske=2024-07-18T12%3A21%3A20Z&sks=b&skv=2023-11-03&sig=UL6WSWhTt9m%2BG/t3pukdGW/OokuRF2bfyaHla/3Y0II%3D"
+  }
  },
  {
   "id": 665,
   "title": "Om syroop van aelbesien te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt drie pont14 sap van aelbesien en twee pont suycker. Ziedt het tesamen tot een dunne syroop.\nDese syroop is goet in alle heete koortsen, in de pest. Sy verslaet den dorst, sy sterckt 't herte, de mage en de lever in alle heete sieckte.\n\n 14 In de druk is de letter o van pont beschadigd en lijkt op een a.\n"
+  "instructions": "\nNeemt drie pont14 sap van aelbesien en twee pont suycker. Ziedt het tesamen tot een dunne syroop.\nDese syroop is goet in alle heete koortsen, in de pest. Sy verslaet den dorst, sy sterckt 't herte, de mage en de lever in alle heete sieckte.\n\n 14 In de druk is de letter o van pont beschadigd en lijkt op een a.\n",
+  "modernized": {
+   "title": "Siroop van Aelbessen",
+   "recipe": "Neem 1,5 liter sap van aalbessen en 1 kilo suiker. Kook het samen tot een dunne siroop.\nDeze siroop is goed bij alle koortsen en de pest. Het lest de dorst, versterkt het hart, de maag en de lever bij alle hete ziektes.",
+   "ingredients": [
+    [
+     "1,5 liter",
+     "sap van aalbessen"
+    ],
+    [
+     "1 kg",
+     "suiker"
+    ]
+   ],
+   "visualized": "A glass bottle filled with a light red, slightly thick syrup. The bottle has a cork stopper. The syrup is smooth and glossy with no visible solids. The photo is taken from a three-quarters angle using a Sigma 85 mm f/1.4 lens.",
+   "tags": [
+    "siroop",
+    "medicinaal",
+    "zoet"
+   ],
+   "original": "Om syroop van aelbesien te maken\n\n\nNeemt drie pont14 sap van aelbesien en twee pont suycker. Ziedt het tesamen tot een dunne syroop.\nDese syroop is goet in alle heete koortsen, in de pest. Sy verslaet den dorst, sy sterckt 't herte, de mage en de lever in alle heete sieckte.\n\n 14 In de druk is de letter o van pont beschadigd en lijkt op een a.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-XhrrlAiqsPd3eCIY8SBa9qQb.png?st=2024-07-17T18%3A50%3A09Z&se=2024-07-17T20%3A50%3A09Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T10%3A39%3A40Z&ske=2024-07-18T10%3A39%3A40Z&sks=b&skv=2023-11-03&sig=LGrWMiAQq2gLhKHFSm14Bfn17qtb24Nr6CT2AsQtUBU%3D"
+  }
  },
  {
   "id": 666,
   "title": "Om roo aelbesiensap te maken",
   "bookRef": "N1669",
-  "instructions": "\nNeemt roo aelbesien. Suyvert die van steelen en wrijft die in een kom kleyn. Dan door een doeck gewrongen. Neemt dat sap en doet het in een vlesse. Set het in de sonne te distilleren - maer de vlesse moet vol wesen - en doet bovenop de mont van de vlesse een mispel met een kruys gesneden, en de vlesse sal geduurigh overkoocken. En wat uytgekoockt zijnde, doet men daer telckens weer wat sap by, tot het geheel klaer is. Doet dan in de flesse wat candysyroop en bewaert het om appelen, peeren, queen of yet anders mede te stooven. Oock maeckt het een aengename smaeck om in wijn te doen of om karpers te stooven.\n"
+  "instructions": "\nNeemt roo aelbesien. Suyvert die van steelen en wrijft die in een kom kleyn. Dan door een doeck gewrongen. Neemt dat sap en doet het in een vlesse. Set het in de sonne te distilleren - maer de vlesse moet vol wesen - en doet bovenop de mont van de vlesse een mispel met een kruys gesneden, en de vlesse sal geduurigh overkoocken. En wat uytgekoockt zijnde, doet men daer telckens weer wat sap by, tot het geheel klaer is. Doet dan in de flesse wat candysyroop en bewaert het om appelen, peeren, queen of yet anders mede te stooven. Oock maeckt het een aengename smaeck om in wijn te doen of om karpers te stooven.\n",
+  "modernized": {
+   "title": "Rode Aalbessensap",
+   "recipe": "Neem rode aalbessen. Verwijder de steeltjes en wrijf de bessen fijn in een kom. Pers de puree door een doek. Neem het sap en doe het in een fles. Zet de fles in de zon om te distilleren - maar de fles moet vol zijn. Doe bovenop de opening van de fles een mispel met een kruis erin gesneden, en de fles zal continu overkoken. Voeg telkens wat sap toe als er iets is overgekookt, tot het sap volledig helder is. Voeg dan wat kandijstroop toe aan het sap in de fles en bewaar het. Gebruik het om appels, peren, kweeperen of iets anders mee te stoven. Het sap geeft ook een aangename smaak aan wijn of kan gebruikt worden om karpers te stoven.",
+   "ingredients": [
+    [
+     "500 gram",
+     "rode aalbessen"
+    ],
+    [
+     "",
+     "mispel"
+    ],
+    [
+     "50 ml",
+     "kandijstroop"
+    ]
+   ],
+   "visualized": "A clear glass bottle filled with bright red currant juice. The bottle has a cross-sliced medlar fruit sitting at the top of the open neck, and it's positioned in a sunny area indicating the distillation process. The juice inside is deep red, and the bottle appears to be full. Reflective sunlight shimmers on the glass. The image is taken from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "saus",
+    "fruit",
+    "zoet"
+   ],
+   "original": "Om roo aelbesiensap te maken\n\n\nNeemt roo aelbesien. Suyvert die van steelen en wrijft die in een kom kleyn. Dan door een doeck gewrongen. Neemt dat sap en doet het in een vlesse. Set het in de sonne te distilleren - maer de vlesse moet vol wesen - en doet bovenop de mont van de vlesse een mispel met een kruys gesneden, en de vlesse sal geduurigh overkoocken. En wat uytgekoockt zijnde, doet men daer telckens weer wat sap by, tot het geheel klaer is. Doet dan in de flesse wat candysyroop en bewaert het om appelen, peeren, queen of yet anders mede te stooven. Oock maeckt het een aengename smaeck om in wijn te doen of om karpers te stooven.\n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-0eimGtDLjJ9MYBX7Snwl4o64.png?st=2024-07-17T18%3A50%3A33Z&se=2024-07-17T20%3A50%3A33Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T13%3A54%3A52Z&ske=2024-07-18T13%3A54%3A52Z&sks=b&skv=2023-11-03&sig=TGSJXXPzFu9uHiGWFqASqObZfHhp47QeFxu8WqAciuY%3D"
+  }
  },
  {
   "id": 667,
   "title": "Om queepeeren te sulten datse niet bederven",
   "bookRef": "N1669",
-  "instructions": "\nNeemt de kernen en schillen van queepeeren. Koockt die in stroom- of putwater tot een matelijcke dicke bry. Doet daer wat nagelen, caneel en foely in. En als ghy uwe queen schoon hebt afgevaeght van 't wollige dat'eraen is, soo packtse in een pot of vaetjen, giet daer dat sap op - met schillen met al - totse bedeckt zijn. Deckt dan dicht toe. Als ghyse besigen wilt, moet met een houte lepel uytnemen. Men koockt oock wel in 't sap de queepeeren een wal op, eer mense inleght, maer dan vallense bruynachtigh. \n"
+  "instructions": "\nNeemt de kernen en schillen van queepeeren. Koockt die in stroom- of putwater tot een matelijcke dicke bry. Doet daer wat nagelen, caneel en foely in. En als ghy uwe queen schoon hebt afgevaeght van 't wollige dat'eraen is, soo packtse in een pot of vaetjen, giet daer dat sap op - met schillen met al - totse bedeckt zijn. Deckt dan dicht toe. Als ghyse besigen wilt, moet met een houte lepel uytnemen. Men koockt oock wel in 't sap de queepeeren een wal op, eer mense inleght, maer dan vallense bruynachtigh. \n",
+  "modernized": {
+   "title": "Geconserveerde Kweeperen",
+   "recipe": "Neem de kernen en schillen van kweeperen.\nKook ze in kraan- of putwater tot een matige dikke brij.\nVoeg wat kruidnagel, kaneel en foelie toe.\nMaak de kweeperen schoon en verwijder het wollige deel.\nPlaats de kweeperen in een pot of vaatje en giet het sap (met schillen) over de kweeperen tot ze bedekt zijn.\nSluit de pot of het vaatje goed af.\nWanneer je de kweeperen wilt gebruiken, gebruik dan een houten lepel om ze eruit te halen.\nJe kunt ook de kweeperen kort mee laten koken in het sap voordat je ze inlegt, maar dan worden ze wat bruinig.",
+   "ingredients": [
+    [
+     "",
+     "kweeperen"
+    ],
+    [
+     "",
+     "kernen en schillen van kweeperen"
+    ],
+    [
+     "",
+     "water"
+    ],
+    [
+     "",
+     "kruidnagel"
+    ],
+    [
+     "",
+     "kaneel"
+    ],
+    [
+     "",
+     "foelie"
+    ]
+   ],
+   "visualized": "A jar filled with poached quinces, with a rich brown syrup covering them. The quinces are light golden and retain their shape but look tender. The jar has a tight lid and is surrounded by some cloves and a cinnamon stick. The image is from a three-quarters angle. Sigma 85 mm f/1.4.",
+   "tags": [
+    "fruit",
+    "inmaak",
+    "nagerecht"
+   ],
+   "original": "Om queepeeren te sulten datse niet bederven\n\n\nNeemt de kernen en schillen van queepeeren. Koockt die in stroom- of putwater tot een matelijcke dicke bry. Doet daer wat nagelen, caneel en foely in. En als ghy uwe queen schoon hebt afgevaeght van 't wollige dat'eraen is, soo packtse in een pot of vaetjen, giet daer dat sap op - met schillen met al - totse bedeckt zijn. Deckt dan dicht toe. Als ghyse besigen wilt, moet met een houte lepel uytnemen. Men koockt oock wel in 't sap de queepeeren een wal op, eer mense inleght, maer dan vallense bruynachtigh. \n",
+   "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-bzVNCdaOS15RJUfWuc5bbuDg/user-VAI24NDCuEUVK5sc7EJFvxmp/img-KWckFXoCz0KbWk7B9mG5gfxY.png?st=2024-07-17T18%3A51%3A00Z&se=2024-07-17T20%3A51%3A00Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-07-17T09%3A04%3A50Z&ske=2024-07-18T09%3A04%3A50Z&sks=b&skv=2023-11-03&sig=FdHFqS%2BGrrkq4VN%2BfFK6BahuvOv%2BFkh/fIBenIqYnKQ%3D"
+  }
  },
  {
   "id": 668,

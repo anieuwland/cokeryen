@@ -4,8 +4,8 @@
 <article id="recipeSection">
   <div id="recipeHeader">
     <div style="display: flex;">
-      <img src="/assets/gerechten/{{recipe.bookRef}}/{{recipe.bookRef}}-{{recipe.id}}.jpg" *ngIf="recipe.bookRef === 'Noot1514'" />
-      <img src="/assets/notabel.jpg" *ngIf="recipe.bookRef !== 'Noot1514'" />
+      <img src="/assets/gerechten/{{recipe.bookRef}}/{{recipe.bookRef}}-{{recipe.id}}.jpg" *ngIf="['Noot1514', 'N1669'].indexOf(recipe.bookRef) >= 0" />
+      <img src="/assets/notabel.jpg" *ngIf="['Noot1514', 'N1669'].indexOf(recipe.bookRef) < 0" />
     </div>
     <div id="recipeIntro">
       <h2>{{modernize && recipe.modernized ? recipe.modernized.title : recipe.title}}</h2>
