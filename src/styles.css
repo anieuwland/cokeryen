@@ -17,6 +17,12 @@ h1, h2, h3 {
     font-family: IndiraK, serif;
 }
 
+h3 {
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
 html, body, h1, h2, h3, div, p, section,article {
     margin: 0px;
     padding: 0px;

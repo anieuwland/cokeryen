@@ -7,8 +7,11 @@
       <book-teaser style="background: #e88230;" [book]="books['ESVELDT1752']"></book-teaser>
     </div>
 
-    <toolbar (modernize)="modernized = $event" [modernizableBook]="bookRef ? books[bookRef].modernized : true"></toolbar>
-    
+    <div style="gap: 16px; align-items: end;">
+      <toolbar (modernize)="modernized = $event" [modernizableBook]="bookRef ? books[bookRef].modernized : true"></toolbar>
+      <h3>{{bookRef ? books[bookRef].title : ""}}</h3>
+    </div>
+
     <div id="recipes">
       <div>
         <ng-container *ngFor="let recipe of recipes; let i = index">

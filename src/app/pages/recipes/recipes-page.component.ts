@@ -6,13 +6,13 @@ import { Book, DataService, Recipe } from '../../services/data.service';
 import { CommonModule } from '@angular/common';
 
 @Component({
-  selector: 'landing-page',
+  selector: 'recipes-page',
   standalone: true,
   imports: [BookTeaserComponent, RecipeTeaserComponent, CommonModule, ToolbarComponent],
-  templateUrl: './landing-page.component.html',
-  styleUrl: './landing-page.component.css'
+  templateUrl: './recipes-page.component.html',
+  styleUrl: './recipes-page.component.css'
 })
-export class LandingPage {
+export class RecipesPage {
   @Input() bookRef: string | undefined = undefined;
 
   _recipes: Recipe[] = [];

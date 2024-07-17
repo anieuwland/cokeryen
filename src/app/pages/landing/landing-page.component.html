@@ -7,23 +7,23 @@
       <book-teaser style="background: #e88230;" [book]="books['ESVELDT1752']"></book-teaser>
     </div>
 
-    <toolbar (modernize)="modernized = $event" [modernizableBook]="bookRef ? books[bookRef].modernized : true"></toolbar>
+    <div style="gap: 16px; align-items: end;">
+      <toolbar (modernize)="modernized = $event" [modernizableBook]="bookRef ? books[bookRef].modernized : true"></toolbar>
+      <h3>Aanraders</h3>
+    </div>
     
     <div id="recipes">
       <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser *ngIf="i % 3 === 0" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized"></recipe-teaser>
-        </ng-container> 
+        <recipe-teaser [recipe]="recipes[0][0]" [book]="recipes[0][1]" [modernize]="modernized"></recipe-teaser>
+        <recipe-teaser [recipe]="recipes[129][0]" [book]="recipes[129][1]" [modernize]="modernized"></recipe-teaser>
       </div>
       <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser *ngIf="i % 3 === 1" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized"></recipe-teaser>
-        </ng-container> 
+        <recipe-teaser [recipe]="recipes[27][0]" [book]="recipes[27][1]" [modernize]="modernized"></recipe-teaser>
+        <recipe-teaser [recipe]="recipes[171][0]" [book]="recipes[172][1]" [modernize]="modernized"></recipe-teaser>
       </div>
       <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser *ngIf="i % 3 === 2" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized"></recipe-teaser>
-        </ng-container> 
+        <recipe-teaser [recipe]="recipes[87][0]" [book]="recipes[87][1]" [modernize]="modernized"></recipe-teaser>
+        <recipe-teaser [recipe]="recipes[166][0]" [book]="recipes[166][1]" [modernize]="modernized"></recipe-teaser>
       </div>
 
       <!-- <div>
