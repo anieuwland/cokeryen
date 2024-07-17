@@ -25,15 +25,16 @@ export class RecipePage {
 
   public recipe: Recipe | null = null;
   public book: Book | null = null;
+  public books: {[key: string]: Book} = {};
 
   data: DataService
 
   constructor(data: DataService) {
     this.data = data;
+    this.books = data.getBooksAsMap();
   }
 
   ngAfterViewInit() {
-    console.log(this.bookRef, this.recipeId);
   }
 
   ngOnChanges(changes: SimpleChanges) {

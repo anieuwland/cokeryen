@@ -1,10 +1,20 @@
 .bookTeaser {
-    padding: 8px; 
-    gap: 8px; 
     font-weight: bold; 
     background: inherit;
+    color: inherit;
     /* flex-basis: calc((100% - 16px)/2 - 16px); */
     /* border-radius: 8px; */
+}
+
+a {
+    color: inherit;
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    gap: 8px; 
+    color: white;
+    text-decoration: none;
+    padding: 8px; 
 }
 
 /* .bookTeaser:nth-child(2n + 1) {
@@ -16,6 +26,7 @@
     padding: 4px 8px; 
     border-radius: 8px; 
     align-self: first baseline;
+    color: white;
 }
 
 .bookTeaser p:nth-child(2) {

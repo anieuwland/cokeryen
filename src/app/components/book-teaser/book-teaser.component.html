@@ -1,4 +1,6 @@
-<article class="bookTeaser" #bookTeaser>
-    <p [style.backgroundColor]="lightened"><ng-content select="[year]"></ng-content></p>
-    <p><ng-content select="[title]"></ng-content></p>
+<article class="bookTeaser" #bookTeaser [style.backgroundColor]="color">
+    <a routerLink="/recepten/{{book.ref}}">
+        <p [style.backgroundColor]="lightened">{{book.year}}</p>
+        <p>{{book.title}}</p>
+    </a>
 </article>

@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { ChangeDetectorRef, Component, EventEmitter, Output } from '@angular/core';
+import { ChangeDetectorRef, Component, EventEmitter, Input, Output } from '@angular/core';
 
 @Component({
   selector: 'toolbar',
@@ -10,6 +10,8 @@ import { ChangeDetectorRef, Component, EventEmitter, Output } from '@angular/cor
 })
 export class ToolbarComponent {
   label: string = "Historisch";
+
+  @Input() modernizableBook: boolean = false;
   @Output() modernize = new EventEmitter<boolean>();
 
   constructor(

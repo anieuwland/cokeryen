@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import { RecipeTeaserComponent } from '../../components/recipe-complete/recipe-teaser.component';
 import { BookTeaserComponent } from '../../components/book-teaser/book-teaser.component';
 import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
@@ -13,8 +13,10 @@ import { CommonModule } from '@angular/common';
   styleUrl: './landing-page.component.css'
 })
 export class LandingPage {
+  @Input() bookRef: string | undefined = undefined;
+
   _recipes: Recipe[] = [];
-  recipes: [Recipe, Book][];
+  recipes: [Recipe, Book][] = [];
   books: {[key: string]: Book} = {};
   modernized: boolean = false;
 
@@ -22,8 +24,11 @@ export class LandingPage {
     data: DataService
   ) {
     this._recipes = data.getRecipes();
-    data.getBooks().forEach(b => this.books[b.ref] = b);
+    this.books = data.getBooksAsMap();
+  }
 
-    this.recipes = this._recipes.map(r => [r, this.books[r.bookRef]])
+  ngOnChanges() {
+    const f = (r: Recipe) => this.bookRef === undefined || r.bookRef === this.bookRef;
+    this.recipes = this._recipes.filter(f).map(r => [r, this.books[r.bookRef]])
   }
 }
