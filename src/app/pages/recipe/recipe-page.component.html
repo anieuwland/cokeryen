@@ -1,20 +1,35 @@
 <div id="top">
-    <book-teasers [books]="books"></book-teasers>
-    
-    <toolbar (modernize)="modernized = $event" [modernizableBook]="!(!(recipe?.modernized))"></toolbar>
-    <div id="centerColumn">
-        <recipe-complete *ngIf="recipe && book" [recipe]="recipe" [book]="book"
-            [modernize]="modernized"></recipe-complete>
-    </div>
+  <book-teasers [books]="books" [weergave]="weergave"></book-teasers>
 
-    <div class="comment" *ngIf="recipe?.id === 1">
-        <p style="font-variant: small-caps; color: #aaa; flex-direction: row-reverse;">
-            <span>17 juli 2024</span>
-             &nbsp;&mdash;&nbsp; 
-            <span style="font-weight: bold;">Terranova</span>
-        </p>
-        <p>Zelf gemaakt en was echt lekker! Ook veel makkelijker dan gedacht. Wel citroensap gebruikt ipv verjus
-            en de amandelen voorgemalen gekocht (amandelmeel). Bij mij was de saus wel veel dikker/stuk</p>
-        <img src="/assets/usercontent/0123456789abcdef.jpg" style="max-width: 100%;" />
-    </div>
+  <toolbar
+    [(modernize)]="modernize"
+    [modernizable]="!!recipe?.modernized"
+  ></toolbar>
+  <div id="centerColumn">
+    <recipe-complete
+      *ngIf="recipe && book"
+      [recipe]="recipe"
+      [book]="book"
+      [modernize]="modernize"
+    ></recipe-complete>
+  </div>
+
+  <div class="comment" *ngIf="recipe?.id === 1">
+    <p
+      style="font-variant: small-caps; color: #aaa; flex-direction: row-reverse"
+    >
+      <span>17 juli 2024</span>
+      &nbsp;&mdash;&nbsp;
+      <span style="font-weight: bold">Terranova</span>
+    </p>
+    <p>
+      Zelf gemaakt en was echt lekker! Ook veel makkelijker dan gedacht. Wel
+      citroensap gebruikt ipv verjus en de amandelen voorgemalen gekocht
+      (amandelmeel). Bij mij was de saus wel veel dikker/stuk
+    </p>
+    <img
+      src="/assets/usercontent/0123456789abcdef.jpg"
+      style="max-width: 100%"
+    />
+  </div>
 </div>

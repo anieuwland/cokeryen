@@ -14,12 +14,12 @@ import { Book, DataService, Recipe } from '../../services/data.service';
   styleUrl: './landing-page.component.css'
 })
 export class LandingPage {
-  @Input() bookRef: string | undefined = undefined;
+  @Input() weergave: string = 'historiseer';
+  modernize: boolean = false;
 
   _recipes: Recipe[] = [];
   recipes: [Recipe, Book][] = [];
-  books: {[key: string]: Book} = {};
-  modernized: boolean = false;
+  books: { [key: string]: Book } = {};
 
   constructor(
     data: DataService
@@ -29,7 +29,7 @@ export class LandingPage {
   }
 
   ngOnChanges() {
-    const f = (r: Recipe) => this.bookRef === undefined || r.bookRef === this.bookRef;
-    this.recipes = this._recipes.filter(f).map(r => [r, this.books[r.bookRef]])
+    this.modernize = this.weergave === 'moderniseer';
+    this.recipes = this._recipes.map(r => [r, this.books[r.bookRef]])
   }
 }

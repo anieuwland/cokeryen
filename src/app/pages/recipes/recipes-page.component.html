@@ -1,27 +1,48 @@
 <div id="container">
   <div id="centerColumn">
-    <book-teasers [books]="books"></book-teasers>
+    <book-teasers [books]="books" [weergave]="weergave"></book-teasers>
 
-    <div style="gap: 16px; align-items: end;">
-      <toolbar (modernize)="modernized = $event" [modernizableBook]="bookRef ? books[bookRef].modernized : true"></toolbar>
-      <h3>{{bookRef ? books[bookRef].title : ""}}</h3>
+    <div style="gap: 16px; align-items: end">
+      <toolbar
+        [(modernize)]="modernize"
+        [modernizable]="bookRef ? books[bookRef].modernized : true"
+      ></toolbar>
+      <h3>{{ bookRef ? books[bookRef].title : "" }}</h3>
     </div>
 
     <div id="recipes">
       <div>
         <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser *ngIf="i % 3 === 0" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized" [tags]="tags"></recipe-teaser>
-        </ng-container> 
+          <recipe-teaser
+            *ngIf="i % 3 === 0"
+            [recipe]="recipe[0]"
+            [book]="recipe[1]"
+            [modernize]="modernize"
+            [tags]="tags"
+          ></recipe-teaser>
+        </ng-container>
       </div>
       <div>
         <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser *ngIf="i % 3 === 1" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized" [tags]="tags"></recipe-teaser>
-        </ng-container> 
+          <recipe-teaser
+            *ngIf="i % 3 === 1"
+            [recipe]="recipe[0]"
+            [book]="recipe[1]"
+            [modernize]="modernize"
+            [tags]="tags"
+          ></recipe-teaser>
+        </ng-container>
       </div>
       <div>
         <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser *ngIf="i % 3 === 2" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized" [tags]="tags"></recipe-teaser>
-        </ng-container> 
+          <recipe-teaser
+            *ngIf="i % 3 === 2"
+            [recipe]="recipe[0]"
+            [book]="recipe[1]"
+            [modernize]="modernize"
+            [tags]="tags"
+          ></recipe-teaser>
+        </ng-container>
       </div>
 
       <!-- <div>
@@ -37,7 +58,6 @@
     </div>
   </div>
 </div>
-
 
 <!--
   <p>Website naam / navigatie</p>
@@ -56,7 +76,6 @@
         calfvleessce</a></li>
   </ul>
 -->
-
 
 <!--
 

@@ -1,50 +1,102 @@
-<div style="position: relative;">
+<div style="position: relative">
   <span id="return"><a href="/" title="Terug naar de hoofdpagina">⮐</a></span>
 </div>
 <article id="recipeSection">
   <div id="recipeHeader">
-    <div style="display: flex;">
-      <img src="/assets/gerechten/{{recipe.bookRef}}/{{recipe.bookRef}}-{{recipe.id}}.jpg" *ngIf="['GENT1499', 'Noot1514', 'N1669'].indexOf(recipe.bookRef) >= 0" />
-      <img src="/assets/notabel.jpg" *ngIf="['Noot1514', 'N1669'].indexOf(recipe.bookRef) < 0" />
+    <div style="display: flex">
+      <img
+        src="/assets/gerechten/{{ recipe.bookRef }}/{{ recipe.bookRef }}-{{
+          recipe.id
+        }}.jpg"
+        *ngIf="['GENT1499', 'Noot1514', 'N1669'].indexOf(recipe.bookRef) >= 0"
+      />
+      <img
+        src="/assets/notabel.jpg"
+        *ngIf="['GENT1499', 'Noot1514', 'N1669'].indexOf(recipe.bookRef) < 0"
+      />
     </div>
     <div id="recipeIntro">
-      <h2>{{modernize && recipe.modernized ? recipe.modernized.title : recipe.title}}</h2>
-      <div style="flex-direction: column; gap: 2px;">
-        <p class="author"><a class="author" href="/boeken/{{book.ref}}">{{book.title}}</a></p>
-        <p class="author"><a class="author" href="/koks/Vander_noot">{{book.person}}</a>&nbsp;&mdash;&nbsp;<a class="author"
-            href="/transcribenten/{{book.transcriber}}">{{book.transcriber}}</a></p>
+      <h2>
+        {{
+          (modernize && recipe.modernized
+            ? recipe.modernized.title
+            : (recipe.title | normalizeRecipeText)
+          ) | toSentenceCase
+        }}
+      </h2>
+      <div style="flex-direction: column; gap: 2px">
+        <p class="author">
+          <a class="author" href="/boeken/{{ book.ref }}">{{ book.title }}</a>
+        </p>
+        <p class="author">
+          <a class="author" href="/koks/Vander_noot">{{ book.person }}</a
+          >&nbsp;&mdash;&nbsp;<a
+            class="author"
+            href="/transcribenten/{{ book.transcriber }}"
+            >{{ book.transcriber }}</a
+          >
+        </p>
       </div>
       <div id="recipeStatistics">
         <div class="recipeStatistic">
-          <span>{{book.year}}</span>
+          <span>{{ book.year }}</span>
           <span>gepubliceerd</span>
         </div>
         <div class="recipeStatistic inverted rounded">
-          <span>{{getNameSymbol()}}</span>
+          <span>{{ getNameSymbol() }}</span>
         </div>
       </div>
     </div>
   </div>
 
-  <div style="height: 1px; background: #cfcfcf;"></div>
+  <div style="height: 1px; background: #cfcfcf"></div>
 
-  <div style="flex-direction: column;">
-    <div id="recipeInstructions" style="gap: 48px;">
-      <div style="flex-direction: column;" *ngIf="modernize && recipe.modernized">
+  <div style="flex-direction: column">
+    <div id="recipeInstructions" style="gap: 48px">
+      <div
+        style="flex-direction: column"
+        *ngIf="modernize && recipe.modernized"
+      >
         <h3>Ingrediënten</h3>
-        <ul style="margin: 0px 0px 0px 16px; padding: 0px; min-width: 200px;">
-          <li *ngFor="let ingr of recipe.modernized.ingredients"><a routerLink="/recepten" [queryParams]="{ingredient: ingr[1]}">{{ingr[1]}}</a> &nbsp;<span *ngIf="ingr[0]">({{ingr[0]}})</span></li>
+        <ul style="margin: 0px 0px 0px 16px; padding: 0px; min-width: 200px">
+          <li *ngFor="let ingr of recipe.modernized.ingredients">
+            <a routerLink="/recepten" [queryParams]="{ ingredient: ingr[1] }">{{
+              ingr[1]
+            }}</a>
+            &nbsp;<span *ngIf="ingr[0]">({{ ingr[0] }})</span>
+          </li>
         </ul>
       </div>
-      <div style="flex-direction: column;">
+      <div style="flex-direction: column; flex-grow: 1">
         <h3>Handelingen</h3>
-        <p *ngFor="let par of (modernize && recipe.modernized ? recipe.modernized.recipe : recipe.instructions).split('\n')">{{par}}</p>
+        <p
+          *ngFor="
+            let par of (modernize && recipe.modernized
+              ? recipe.modernized.recipe
+              : (recipe.instructions | normalizeRecipeText)
+            ).split('\n')
+          "
+        >
+          {{ par }}
+        </p>
       </div>
     </div>
-  
-    <div style="margin-top: 16px;">
-      <ul style="display: flex; flex-direction: row; list-style: none; column-gap: 16px; margin: 0px; padding: 0px; flex-wrap: wrap;">
-        <li *ngFor="let tag of recipe?.modernized?.tags ?? []"><a routerLink="/recepten" [queryParams]="{tag: tag}">#{{tag}}</a></li>
+
+    <div style="margin-top: 16px">
+      <ul
+        style="
+          display: flex;
+          flex-direction: row;
+          list-style: none;
+          column-gap: 16px;
+          margin: 0px;
+          padding: 0px;
+          flex-wrap: wrap;
+        "
+      >
+        <li *ngFor="let tag of recipe?.modernized?.tags ?? []">
+          <a routerLink="/recepten" [queryParams]="{ tag: tag, weergave: modernize ? 'moderniseer' : 'historiseer' }">#{{ tag }}</a>
+        </li>
       </ul>
     </div>
   </div>

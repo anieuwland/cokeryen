@@ -1,27 +1,66 @@
 <div id="container">
   <div id="centerColumn">
-    <book-teasers [books]="books"></book-teasers>
+    <book-teasers [books]="books" [weergave]="weergave"></book-teasers>
 
-    <div style="gap: 16px; align-items: end;">
-      <toolbar (modernize)="modernized = $event" [modernizableBook]="bookRef ? books[bookRef].modernized : true"></toolbar>
+    <div style="gap: 16px; align-items: end">
+      <toolbar
+        [(modernize)]="modernize"
+        [modernizable]="true"
+      ></toolbar>
       <h3>Aanraders</h3>
     </div>
-    
+
     <div id="recipes">
       <div>
-        <recipe-teaser [recipe]="recipes[0][0]" [book]="recipes[0][1]" [modernize]="modernized"></recipe-teaser>
-        <recipe-teaser [recipe]="recipes[27][0]" [book]="recipes[27][1]" [modernize]="modernized"></recipe-teaser>
-        <recipe-teaser [recipe]="recipes[129][0]" [book]="recipes[129][1]" [modernize]="modernized"></recipe-teaser>
+        <recipe-teaser
+          [recipe]="recipes[0][0]"
+          [book]="recipes[0][1]"
+          [modernize]="modernize"
+        ></recipe-teaser>
+        <recipe-teaser
+          [recipe]="recipes[27][0]"
+          [book]="recipes[27][1]"
+          [modernize]="modernize"
+        ></recipe-teaser>
+        <recipe-teaser
+          [recipe]="recipes[129][0]"
+          [book]="recipes[129][1]"
+          [modernize]="modernize"
+        ></recipe-teaser>
       </div>
       <div>
-        <recipe-teaser [recipe]="recipes[171][0]" [book]="recipes[172][1]" [modernize]="modernized"></recipe-teaser>
-        <recipe-teaser [recipe]="recipes[483][0]" [book]="recipes[483][1]" [modernize]="modernized"></recipe-teaser>
-        <recipe-teaser [recipe]="recipes[473][0]" [book]="recipes[473][1]" [modernize]="modernized"></recipe-teaser>
+        <recipe-teaser
+          [recipe]="recipes[171][0]"
+          [book]="recipes[172][1]"
+          [modernize]="modernize"
+        ></recipe-teaser>
+        <recipe-teaser
+          [recipe]="recipes[483][0]"
+          [book]="recipes[483][1]"
+          [modernize]="modernize"
+        ></recipe-teaser>
+        <recipe-teaser
+          [recipe]="recipes[473][0]"
+          [book]="recipes[473][1]"
+          [modernize]="modernize"
+        ></recipe-teaser>
       </div>
       <div>
-        <recipe-teaser [recipe]="recipes[87][0]" [book]="recipes[87][1]" [modernize]="modernized"></recipe-teaser>
-        <recipe-teaser [recipe]="recipes[482][0]" [book]="recipes[482][1]" [modernize]="modernized"></recipe-teaser>
-        <recipe-teaser [recipe]="recipes[166][0]" [book]="recipes[166][1]" [modernize]="modernized"></recipe-teaser>
+        <recipe-teaser
+          [recipe]="recipes[87][0]"
+          [book]="recipes[87][1]"
+          [modernize]="modernize"
+        ></recipe-teaser>
+        <recipe-teaser
+          [recipe]="recipes[482][0]"
+          [book]="recipes[482][1]"
+          [modernize]="modernize"
+        ></recipe-teaser>
+        <recipe-teaser
+          [recipe]="recipes[166][0]"
+          [book]="recipes[166][1]"
+          [modernize]="modernize"
+        ></recipe-teaser>
       </div>
 
       <!-- <div>
@@ -37,7 +76,6 @@
     </div>
   </div>
 </div>
-
 
 <!--
   <p>Website naam / navigatie</p>
@@ -56,7 +94,6 @@
         calfvleessce</a></li>
   </ul>
 -->
-
 
 <!--
 

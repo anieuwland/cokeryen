@@ -11,4 +11,5 @@ import { Book } from '../../services/data.service';
 })
 export class BookTeasersComponent {
   @Input() books!: { [key: string]: Book; };
+  @Input() weergave: string = "";
 }

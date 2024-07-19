@@ -19,11 +19,12 @@ export class RecipesPage {
   tags: string[] = [];
   @Input() ingredient: string | string[] | undefined = undefined;
   ingredients: string[] = [];
+  @Input() weergave: string = "historiseer";
+  modernize: boolean = false;
 
   _recipes: Recipe[] = [];
   recipes: [Recipe, Book][] = [];
-  books: {[key: string]: Book} = {};
-  modernized: boolean = false;
+  books: { [key: string]: Book } = {};
 
   constructor(
     data: DataService
@@ -35,6 +36,7 @@ export class RecipesPage {
   ngOnChanges() {
     this.tags = normalizeToArray(this.tag);
     this.ingredients = normalizeToArray(this.ingredient);
+    this.modernize = this.weergave === 'moderniseer';
 
     const tagInArray = (tag: string, array: string[] | undefined) => (array ?? []).indexOf(tag) > -1
     const hasTags = (r: Recipe, tags: string[]) => tags.map((tag: string) => tagInArray(tag, r.modernized?.tags)).every(v => v);
@@ -44,8 +46,6 @@ export class RecipesPage {
     const f2 = (r: Recipe) => this.tags.length > 0 ? hasTags(r, this.tags) : true;
     const f3 = (r: Recipe) => this.ingredients.length > 0 ? hasIngr(r, this.ingredients) : true;
     this.recipes = this._recipes.filter(f1).filter(f2).filter(f3).map(r => [r, this.books[r.bookRef]])
-
-    this._recipes.filter(f1).forEach(r => console.warn(r.modernized?.tags, this.tag, normalizeToArray(this.tag), hasTags(r, normalizeToArray(this.tag))));
   }
 }
 

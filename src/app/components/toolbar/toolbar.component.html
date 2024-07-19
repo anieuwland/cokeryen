@@ -1,4 +1,12 @@
 <div id="toolbar">
-    <a routerLink="/"><button>⌂</button></a>
-    <button (click)="toggle()" [disabled]="!modernizableBook">{{label}}</button>
+  <a routerLink="/" queryParamsHandling="preserve"><button>⌂</button></a>
+  <button
+    (click)="toggle()"
+    [disabled]="!modernizable"
+    routerLink="./"
+    [queryParams]="{ weergave: label.toLowerCase() }"
+    queryParamsHandling="merge"
+  >
+    {{ label }}
+  </button>
 </div>

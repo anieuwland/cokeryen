@@ -12,6 +12,7 @@ import { RouterModule } from '@angular/router';
 export class BookTeaserComponent {
   @ViewChild("bookTeaser") teaser: ElementRef<HTMLElement> | undefined =  undefined;
   @Input() book!: Book;
+  @Input() weergave: string = ""
 
   origColor: string = "";
   color: string = "";

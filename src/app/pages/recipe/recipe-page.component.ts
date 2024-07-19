@@ -23,7 +23,8 @@ import { Book, DataService, Recipe } from '../../services/data.service';
 export class RecipePage {
   @Input() bookRef!: string;
   @Input() recipeId!: string;
-  modernized: boolean = false;
+  @Input() weergave: string = "historiseer";
+  modernize: boolean = false;
 
   public recipe: Recipe | null = null;
   public book: Book | null = null;
@@ -39,6 +40,8 @@ export class RecipePage {
   ngAfterViewInit() { }
 
   ngOnChanges(changes: SimpleChanges) {
+    this.modernize = this.weergave === 'moderniseer';
+
     if ('bookRef' in changes || 'recipeId' in changes) {
       if (
         this.bookRef === undefined ||

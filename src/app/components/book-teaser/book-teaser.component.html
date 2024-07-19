@@ -1,5 +1,5 @@
 <article class="bookTeaser" #bookTeaser [style.backgroundColor]="color">
-    <a routerLink="/recepten/{{book.ref}}">
+    <a routerLink="/recepten/{{book.ref}}" [queryParams]="{weergave: weergave}">
         <p [style.backgroundColor]="lightened">{{book.year}}</p>
         <p>{{book.title}}</p>
     </a>

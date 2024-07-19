@@ -8082,7 +8082,7 @@ var RECIPES = [
  },
  {
   "id": 172,
-  "title": "Om quecruyt kweemoes] te make",
+  "title": "Om quecruyt [kweemoes] te make",
   "bookRef": "Noot1514",
   "instructions": "\nNeemt queappelen [kwee-appelen of kweeperen] ende dye scelt. Dan doet hen die kernen [pitten] uute ende sietse [kook ze] in wijn, totdat mense duerslaen [zeven] mach. Als si doergheslaghen sijn, neemt alsoe veel goets ghescuymden honich ende dit ghesoden tot dattet seer dicke es. Ende ghi sullet proeven [beoordelen] op een saucier [sauskom]. Alst bicans ghenoech [genoeg gekookt] es, so sal men daer cruyt [specerijen] inne doen, ja, opdat [indien] ment ghecruyt wilt hebben ende dan suldijt sieden totdat weeck ghenoech es. Dye wyle [terwijl] dat heet es, so sal ment in doosen doen oft in bussen oft in glasen. Maer eerst sal men die doosen met poer [poeder] bestroyen doer daencleven [tegen het vastkleven].\nEnde somighe doen daer in honich, dat een vierendeel, ende dander voerts [de overige driekwart] suyckere. Die somighe nemen al gheheel suyckere voer den honich. Item dit navolghende cruyt [specerijen] sal men daerinne doen: caneele, naghelen [kruidnagel], noten [nootmuskaat], elcx [van elk] een vierendel, gimber, lancpeper [lange peper], folie [foelie], elcx een half onche.\n\n",
   "modernized": {
