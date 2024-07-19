@@ -4,11 +4,12 @@ import { BookTeaserComponent } from '../../components/book-teaser/book-teaser.co
 import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
 import { Book, DataService, Recipe } from '../../services/data.service';
 import { CommonModule } from '@angular/common';
+import { BookTeasersComponent } from "../../components/book-teasers/book-teasers.component";
 
 @Component({
   selector: 'recipes-page',
   standalone: true,
-  imports: [BookTeaserComponent, RecipeTeaserComponent, CommonModule, ToolbarComponent],
+  imports: [BookTeaserComponent, RecipeTeaserComponent, CommonModule, ToolbarComponent, BookTeasersComponent],
   templateUrl: './recipes-page.component.html',
   styleUrl: './recipes-page.component.css'
 })

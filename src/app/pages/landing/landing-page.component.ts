@@ -1,14 +1,15 @@
+import { CommonModule } from '@angular/common';
 import { Component, Input } from '@angular/core';
-import { RecipeTeaserComponent } from '../../components/recipe-complete/recipe-teaser.component';
 import { BookTeaserComponent } from '../../components/book-teaser/book-teaser.component';
+import { BookTeasersComponent } from "../../components/book-teasers/book-teasers.component";
+import { RecipeTeaserComponent } from '../../components/recipe-complete/recipe-teaser.component';
 import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
 import { Book, DataService, Recipe } from '../../services/data.service';
-import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'landing-page',
   standalone: true,
-  imports: [BookTeaserComponent, RecipeTeaserComponent, CommonModule, ToolbarComponent],
+  imports: [BookTeaserComponent, BookTeasersComponent, CommonModule, RecipeTeaserComponent, ToolbarComponent],
   templateUrl: './landing-page.component.html',
   styleUrl: './landing-page.component.css'
 })

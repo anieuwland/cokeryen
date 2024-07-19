@@ -1,0 +1,18 @@
+#bookTeaserContainer {
+    flex-direction: row; 
+    justify-content: space-between; 
+    gap: 16px; 
+    flex-wrap: wrap;
+}
+
+book-teaser {
+    flex-basis: calc((100% - 16px)/2);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 560px) {
+    book-teaser {
+        flex-basis: 100%;
+    }
+}

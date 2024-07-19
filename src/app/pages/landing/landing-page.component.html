@@ -1,11 +1,6 @@
 <div id="container">
   <div id="centerColumn">
-    <div id="bookTeaserContainer">
-      <book-teaser style="background: #e88230;" [book]="books['GENT1499']"></book-teaser>
-      <book-teaser style="background: green;" [book]="books['Noot1514']"></book-teaser>
-      <book-teaser style="background: #8b5161;" [book]="books['Baten1593']"></book-teaser>
-      <book-teaser style="background: hwb(46 26% 8%); color: #4a4a4a" [book]="books['N1669']"></book-teaser>
-    </div>
+    <book-teasers [books]="books"></book-teasers>
 
     <div style="gap: 16px; align-items: end;">
       <toolbar (modernize)="modernized = $event" [modernizableBook]="bookRef ? books[bookRef].modernized : true"></toolbar>
