@@ -12,7 +12,7 @@ export class DataService {
     return [
       {year: 1499, title: "Een Gents Handschrift", person: "Drie handen", transcriber: "", ref: "GENT1499", modernized: true},
       {year: 1514, title: "Een notabel boeckxen van cokeryen", person: "Vander Noot", transcriber: "Willebrands", ref: "Noot1514", modernized: true},
-      {year: 1593, title: "Eenen seer schoonen ende excellenten Cocboeck", person: "Baten", transcriber: null, ref: "Baten1593", modernized: false},
+      {year: 1593, title: "Eenen seer schoonen ende excellenten Cocboeck", person: "Baten", transcriber: null, ref: "Baten1593", modernized: true},
       {year: 1612, title: "Koocboek oft familieren keukenboec", person: "Magirus", transcriber: null, ref: "MAGIRUS1612", modernized: false},
       {year: 1669, title: "De verstandige kock", person: "N", transcriber: "Willebrands", ref: "N1669", modernized: true},
       {year: 1752, title: "Aaltje, de volmaakte Hollandsche keuken-meid", person: "Esveldt", transcriber: "Willebrands", ref: "ESVELDT1752", modernized: false},
