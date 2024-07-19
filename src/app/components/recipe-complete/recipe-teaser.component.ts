@@ -15,4 +15,5 @@ export class RecipeTeaserComponent {
   @Input() recipe!: Recipe;
   @Input() book!: Book;
   @Input() modernize: boolean = false;
+  @Input() tags: string[] = [];
 }

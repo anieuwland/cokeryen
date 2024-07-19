@@ -44,7 +44,7 @@
   
     <div style="margin-top: 16px;">
       <ul style="display: flex; flex-direction: row; list-style: none; column-gap: 16px; margin: 0px; padding: 0px; flex-wrap: wrap;">
-        <li *ngFor="let tag of recipe?.modernized?.tags ?? []">#{{tag}}</li>
+        <li *ngFor="let tag of recipe?.modernized?.tags ?? []"><a routerLink="/recepten" [queryParams]="{tags: tag}">#{{tag}}</a></li>
       </ul>
     </div>
   </div>

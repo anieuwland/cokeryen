@@ -1,11 +1,12 @@
 import { Component, Input } from '@angular/core';
 import { Book, Recipe } from '../../services/data.service';
 import { CommonModule } from '@angular/common';
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'recipe-complete',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, RouterModule],
   templateUrl: './recipe-complete.component.html',
   styleUrl: './recipe-complete.component.css'
 })

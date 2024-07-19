@@ -5,6 +5,7 @@ import { RecipesPage } from './pages/recipes/recipes-page.component';
 
 export const routes: Routes = [
     { "path": "", component: LandingPage },
+    { "path": "recepten", component: RecipesPage},
     { "path": "recepten/:bookRef", component: RecipesPage},
     { "path": "recepten/:bookRef/:recipeId", component: RecipePage },
 ];

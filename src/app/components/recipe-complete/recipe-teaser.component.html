@@ -9,7 +9,7 @@
 
   <div>
     <ul style="display: flex; flex-direction: row; list-style: none; column-gap: 16px; margin: 0px; padding: 0px; flex-wrap: wrap;">
-      <li *ngFor="let tag of recipe?.modernized?.tags ?? []">#{{tag}}</li>
+      <li *ngFor="let tag of recipe?.modernized?.tags ?? []"><a routerLink="./" [queryParams]="{tags: tags.concat([tag])}">#{{tag}}</a></li>
     </ul>
   </div>
 </article>

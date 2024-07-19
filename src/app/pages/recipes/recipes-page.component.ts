@@ -14,6 +14,8 @@ import { CommonModule } from '@angular/common';
 })
 export class RecipesPage {
   @Input() bookRef: string | undefined = undefined;
+  @Input() tags: string | string[] | undefined = undefined;
+  _tags: string[] = [];
 
   _recipes: Recipe[] = [];
   recipes: [Recipe, Book][] = [];
@@ -28,7 +30,21 @@ export class RecipesPage {
   }
 
   ngOnChanges() {
-    const f = (r: Recipe) => this.bookRef === undefined || r.bookRef === this.bookRef;
-    this.recipes = this._recipes.filter(f).map(r => [r, this.books[r.bookRef]])
+    this._tags = normalizeToArray(this.tags);
+
+    const tagInArray = (tag: string, array: string[] | undefined) => (array ?? []).indexOf(tag) > -1
+    const hasTags = (r: Recipe, tags: string[]) => tags.map((tag: string) => tagInArray(tag, r.modernized?.tags)).every(v => v);
+
+    const f1 = (r: Recipe) => this.bookRef === undefined || r.bookRef === this.bookRef;
+    const f2 = (r: Recipe) => this._tags.length > 0 ? hasTags(r, normalizeToArray(this.tags)) : true;
+    this.recipes = this._recipes.filter(f1).filter(f2).map(r => [r, this.books[r.bookRef]])
+
+    this._recipes.filter(f1).forEach(r => console.warn(r.modernized?.tags, this.tags, normalizeToArray(this.tags), hasTags(r, normalizeToArray(this.tags))));
   }
+}
+
+function normalizeToArray<T>(value: T | T[] | undefined): T[] {
+  const defined = value ?? [];
+  const array = Array.isArray(defined) ? defined : [defined];
+  return array;
 }
