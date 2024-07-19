@@ -15,17 +15,17 @@
     <div id="recipes">
       <div>
         <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser *ngIf="i % 3 === 0" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized" [tags]="_tags"></recipe-teaser>
+          <recipe-teaser *ngIf="i % 3 === 0" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized" [tags]="tags"></recipe-teaser>
         </ng-container> 
       </div>
       <div>
         <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser *ngIf="i % 3 === 1" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized" [tags]="_tags"></recipe-teaser>
+          <recipe-teaser *ngIf="i % 3 === 1" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized" [tags]="tags"></recipe-teaser>
         </ng-container> 
       </div>
       <div>
         <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser *ngIf="i % 3 === 2" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized" [tags]="_tags"></recipe-teaser>
+          <recipe-teaser *ngIf="i % 3 === 2" [recipe]="recipe[0]" [book]="recipe[1]" [modernize]="modernized" [tags]="tags"></recipe-teaser>
         </ng-container> 
       </div>
 
