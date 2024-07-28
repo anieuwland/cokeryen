@@ -1,6 +1,8 @@
 import { CommonModule } from '@angular/common';
-import { ChangeDetectorRef, Component, EventEmitter, Input, Output } from '@angular/core';
+import { Component, EventEmitter, Inject, Input, Output } from '@angular/core';
 import { RouterModule } from '@angular/router';
+import { AuthService } from '@auth0/auth0-angular';
+import { DOCUMENT } from '@angular/common';
 
 @Component({
   selector: 'toolbar',
@@ -15,10 +17,15 @@ export class ToolbarComponent {
   @Output() modernizeChange = new EventEmitter<boolean>();
 
   label: string = "Moderniseer";
+  authenticated: boolean | undefined = undefined;
 
   constructor(
-    private cdr: ChangeDetectorRef
-  ) { }
+    @Inject(DOCUMENT) public document: Document,
+    private auth: AuthService
+  ) {
+    this.auth.isAuthenticated$.subscribe(bool => this.authenticated = bool);
+    // this.auth.user$.subscribe(u => this.authenticated = (u !== null && u !== undefined));
+  }
 
   get historical(): boolean {
     return this.label === "Moderniseer";
@@ -35,6 +42,14 @@ export class ToolbarComponent {
 
   public toggle() {
     this.modernize = !this.modernize;
-    // this.modernizeChange.emit(this.modernize);
+  }
+
+  public login() {
+    this.auth.loginWithRedirect();
+  }
+
+  public logout() {
+    const options = {logoutParams: {returnTo: this.document.location.origin}};
+    this.auth.logout(options);
   }
 }

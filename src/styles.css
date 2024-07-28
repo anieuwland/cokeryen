@@ -70,3 +70,21 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+#container {
+    flex-direction: column;   
+}
+
+#centerColumn {
+    flex-direction: column;
+    gap: 16px;
+}
+
+.content {
+    background: white;
+    color: #4a4a4a;
+    border-radius: 8px;
+    padding: 32px;
+    flex-direction: column;
+}
+

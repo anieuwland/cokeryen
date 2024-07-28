@@ -1,0 +1,18 @@
+<div id="container">
+  <div id="centerColumn">
+    <book-teasers [books]="books"></book-teasers>
+
+    <toolbar [modernizable]="false"></toolbar>
+
+    <div *ngIf="user" class="content" style="gap: 6px;">
+      <h2>{{user.name ?? ""}}</h2>
+      <div style="flex-direction: row; gap: 12px;">
+        <img *ngIf="user.picture" [src]="user.picture" />
+        <div style="flex-direction: column; gap: 6px;">
+          <p>Bijnaam: {{user.nickname}}</p>
+          <p>E-mail: {{user.email}} &nbsp;<span *ngIf="user.email_verified">✅</span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
