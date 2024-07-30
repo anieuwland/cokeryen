@@ -16,7 +16,7 @@ export class ToolbarComponent {
   @Input() modernize: boolean = false;
   @Output() modernizeChange = new EventEmitter<boolean>();
 
-  label: string = "Moderniseer";
+  label: string = "Moderniseren";
   authenticated: boolean | undefined = undefined;
 
   constructor(
@@ -28,16 +28,16 @@ export class ToolbarComponent {
   }
 
   get historical(): boolean {
-    return this.label === "Moderniseer";
+    return this.label === "Moderniseren";
   }
 
   get modernized(): boolean {
-    return this.label === "Historiseer";
+    return this.label === "Historiseren";
   }
 
   ngOnChanges() {
-    if (this.modernize) this.label = "Historiseer";
-    else this.label = "Moderniseer";
+    if (this.modernize) this.label = "Historiseren";
+    else this.label = "Moderniseren";
   }
 
   public toggle() {

@@ -4,6 +4,12 @@
 }
 
 @font-face {
+    font-family: "Manuskript";
+    /* src: url(/assets/fonts/deutschische.otf) format("opentype"); */
+    src: url(/assets/fonts/manuskript.ttf) format("truetype");
+}
+
+@font-face {
     font-family: "HumanisticCursive";
     src: url(/assets/fonts/humanistic-cursive.ttf) format("truetype");
 }
@@ -13,8 +19,15 @@
     src: url(/assets/fonts/indira-k.ttf) format("truetype");
 }
 
-h1, h2, h3 { 
-    font-family: IndiraK, serif;
+h1 {
+    font-family: "Manuskript";
+    text-shadow: #BC5347 2px 3px; 
+    font-size: 100pt; 
+    margin-top: 48px !important;
+}
+
+h2, h3, p, a, button { 
+    font-family: Humanistic, serif;
 }
 
 h3 {
@@ -27,7 +40,7 @@ html, body, h1, h2, h3, div, p, section,article {
     margin: 0px;
     padding: 0px;
     display: flex;
-    /* color: #4a4a4a; */
+    /* color: #5F5053; */
 }
 
 html {
@@ -53,18 +66,18 @@ p, li {
 }
 
 html {
-    background: #bfbf58;
-    color: white;
+    background: #F1E4D3;
+    color: #5F5053;
 }
 
 .box {
     background: white;
-    color: #4a4a4a;
+    color: #5F5053;
 }
 
 a {
     text-decoration: none;
-    color: #4a4a4a;
+    color: #5F5053;
 }
 
 a:hover {
@@ -82,7 +95,7 @@ a:hover {
 
 .content {
     background: white;
-    color: #4a4a4a;
+    color: #5F5053;
     border-radius: 8px;
     padding: 32px;
     flex-direction: column;

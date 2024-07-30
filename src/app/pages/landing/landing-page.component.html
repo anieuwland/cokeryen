@@ -1,13 +1,17 @@
+<h1>Cokeryen</h1>
+
 <div id="container">
   <div id="centerColumn">
     <book-teasers [books]="books" [weergave]="weergave"></book-teasers>
 
-    <div style="gap: 16px; align-items: end">
+    <div style="gap: 16px;">
       <toolbar
         [(modernize)]="modernize"
         [modernizable]="true"
       ></toolbar>
-      <h3>Aanraders</h3>
+      <div style="flex-direction: row-reverse; flex-grow: 1; align-self: center">
+        <h3>Aanraders</h3>
+      </div>
     </div>
 
     <div id="recipes">

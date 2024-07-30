@@ -9,6 +9,8 @@ book-teaser {
     flex-basis: calc((100% - 16px)/2);
     border-radius: 8px;
     overflow: hidden;
+    border: 2px solid #BC5347;
+    box-sizing: border-box;
 }
 
 @media screen and (max-width: 560px) {

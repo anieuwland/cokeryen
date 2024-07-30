@@ -126,7 +126,7 @@ a.author:hover {
     text-align: center;
     /* color: #512630; */
     /* color: #e88230; */
-    color: #8b5161;
+    color: #BC5347;
 }
 
 .recipeStatistic span:first-child {
@@ -136,10 +136,10 @@ a.author:hover {
 
 .inverted {
     color: white;
-    /* background: #4a4a4a; */
+    /* background: #5F5053; */
     /* background: #512630; */
     /* background: #e88230; */
-    background: #8b5161;
+    background: #BC5347;
     padding: 12px;
 }
 
