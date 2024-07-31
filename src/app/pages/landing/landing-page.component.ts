@@ -23,7 +23,7 @@ export class LandingPage {
   recipes: [Recipe, Book][] = [];
   books: { [key: string]: Book } = {};
 
-  pageTitle = "Smaak van de redactie - Cokeryen";
+  pageTitle = "Smaak van de redactie";
 
   constructor(
     data: DataService,
@@ -31,7 +31,7 @@ export class LandingPage {
   ) {
     this._recipes = data.getRecipes();
     this.books = data.getBooksAsMap();
-    title.setTitle(this.pageTitle);
+    title.setTitle(this.pageTitle + " - Cokeryen");
   }
 
   ngOnChanges() {

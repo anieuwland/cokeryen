@@ -9,7 +9,7 @@
     src: url(/assets/fonts/manuskript.ttf) format("truetype");
 }
 
-@font-face {
+/* @font-face {
     font-family: "HumanisticCursive";
     src: url(/assets/fonts/humanistic-cursive.ttf) format("truetype");
 }
@@ -17,7 +17,7 @@
 @font-face {
     font-family: "IndiraK";
     src: url(/assets/fonts/indira-k.ttf) format("truetype");
-}
+} */
 
 h1 {
     font-family: "Manuskript";
@@ -45,12 +45,11 @@ html, body, h1, h2, h3, div, p, section,article {
 html {
     justify-content: center;
     width: 100vw;
-    overflow-x: hidden;
 }
 
 @media screen and (max-width: 1000px) {
     body, body > * {
-        width: calc(100vw - 64px);
+        width: calc(100vw - 32px);
     }
 
     h1 {
