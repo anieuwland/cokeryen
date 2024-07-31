@@ -39,6 +39,11 @@ book-teaser {
     gap: 16px;
 }
 
+@media screen and (min-width: 700px) {
+  #centerColumn > div:nth-child(2) {
+    flex-direction: row;
+  }
+}
 
 @media screen and (max-width: 700px) {
     #recipes {
@@ -48,6 +53,22 @@ book-teaser {
     #recipes > div {
         width: calc(100%);
     }
+
+    #centerColumn > div:nth-child(2) {
+      flex-direction: column;
+      text-align: center;
+    }
+}
+
+.pageTitleContainer {
+  flex-grow: 1; 
+  align-self: center;
+  flex-direction: row-reverse;
+  text-shadow: 
+     1px  1px 0 #F1E4D3,
+    -1px -1px 0 #F1E4D3,
+     1px -1px 0 #F1E4D3,
+    -1px  1px #F1E4D3;
 }
 
 recipe-teaser {

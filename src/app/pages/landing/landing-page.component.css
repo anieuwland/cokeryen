@@ -21,6 +21,15 @@
 }
 
 
+#toolbarContainer {
+  gap: 16px;
+  text-shadow: 
+     1px  1px 0 #F1E4D3,
+    -1px -1px 0 #F1E4D3,
+     1px -1px 0 #F1E4D3,
+    -1px  1px #F1E4D3;
+}
+
 @media screen and (max-width: 700px) {
     #recipes {
         flex-direction: column;
@@ -28,6 +37,11 @@
 
     #recipes > div {
         width: calc(100%);
+    }
+
+    #toolbarContainer {
+      flex-direction: column;
+      text-align: center;
     }
 }
 

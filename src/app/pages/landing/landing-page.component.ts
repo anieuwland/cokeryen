@@ -14,7 +14,7 @@ import { Book, DataService, Recipe } from '../../services/data.service';
   styleUrl: './landing-page.component.css'
 })
 export class LandingPage {
-  @Input() weergave: string = 'historiseer';
+  @Input() weergave: string = 'historiseren';
   modernize: boolean = false;
 
   _recipes: Recipe[] = [];
@@ -29,7 +29,7 @@ export class LandingPage {
   }
 
   ngOnChanges() {
-    this.modernize = this.weergave === 'moderniseer';
+    this.modernize = this.weergave === 'moderniseren';
     this.recipes = this._recipes.map(r => [r, this.books[r.bookRef]])
   }
 }

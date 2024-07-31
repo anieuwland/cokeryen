@@ -19,7 +19,7 @@ export class RecipesPage {
   tags: string[] = [];
   @Input() ingredient: string | string[] | undefined = undefined;
   ingredients: string[] = [];
-  @Input() weergave: string = "historiseer";
+  @Input() weergave: string = "historiseren";
   modernize: boolean = false;
 
   _recipes: Recipe[] = [];
@@ -36,7 +36,7 @@ export class RecipesPage {
   ngOnChanges() {
     this.tags = normalizeToArray(this.tag);
     this.ingredients = normalizeToArray(this.ingredient);
-    this.modernize = this.weergave === 'moderniseer';
+    this.modernize = this.weergave === 'moderniseren';
 
     const tagInArray = (tag: string, array: string[] | undefined) => (array ?? []).indexOf(tag) > -1
     const hasTags = (r: Recipe, tags: string[]) => tags.map((tag: string) => tagInArray(tag, r.modernized?.tags)).every(v => v);

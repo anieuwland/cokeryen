@@ -95,7 +95,7 @@
         "
       >
         <li *ngFor="let tag of recipe?.modernized?.tags ?? []">
-          <a routerLink="/recepten" [queryParams]="{ tag: tag, weergave: modernize ? 'moderniseer' : 'historiseer' }">#{{ tag }}</a>
+          <a routerLink="/recepten" [queryParams]="{ tag: tag, weergave: modernize ? 'moderniseren' : 'historiseren' }">#{{ tag }}</a>
         </li>
       </ul>
     </div>

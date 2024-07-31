@@ -3,10 +3,16 @@
 <div id="top">
   <book-teasers [books]="books" [weergave]="weergave"></book-teasers>
 
-  <toolbar
-    [(modernize)]="modernize"
-    [modernizable]="!!recipe?.modernized"
-  ></toolbar>
+  <div id="toolbarContainer">
+    <toolbar
+      [(modernize)]="modernize"
+      [modernizable]="bookRef ? books[bookRef].modernized : true"
+    ></toolbar>
+    <div class="pageTitleContainer">
+      <h3>{{ bookRef ? books[bookRef].title : "" }}</h3>
+    </div>
+  </div>
+
   <div id="centerColumn">
     <recipe-complete
       *ngIf="recipe && book"

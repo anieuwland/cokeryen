@@ -2,6 +2,10 @@
     gap: 4px;
 }
 
+button:nth-child(4) {
+    margin-left: 8px;
+}
+
 button {
     /* border: 2px solid #BC5347;
     color: #BC5347;
@@ -19,4 +23,11 @@ button:hover {
     background: #BC5347;
     /* text-decoration: underline; */
     cursor: pointer;
+}
+
+button[disabled] {
+    /* background: #C3B8BA; */
+    background: #948185;
+    /* color: #948185; */
+    cursor: auto;
 }

@@ -14,7 +14,7 @@
   <h2>
     <a
       routerLink="/recepten/{{ recipe.bookRef }}/{{ recipe.id }}"
-      [queryParams]="{weergave: modernize ? 'moderniseer' : 'historiseer'}"
+      [queryParams]="{weergave: modernize ? 'moderniseren' : 'historiseren'}"
       >{{
         (modernize && recipe.modernized
           ? recipe.modernized.title
@@ -25,7 +25,7 @@
   </h2>
   <a
     routerLink="/recepten/{{ recipe.bookRef }}/{{ recipe.id }}"
-    [queryParams]="{weergave: modernize ? 'moderniseer' : 'historiseer'}"
+    [queryParams]="{weergave: modernize ? 'moderniseren' : 'historiseren'}"
     *ngIf="['GENT1499', 'Noot1514', 'N1669', 'Baten1593'].indexOf(recipe.bookRef) >= 0"
     ><img
       src="/assets/gerechten/{{ recipe.bookRef }}/{{ recipe.bookRef }}-{{

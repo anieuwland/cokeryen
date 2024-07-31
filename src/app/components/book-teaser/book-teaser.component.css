@@ -4,8 +4,9 @@
     color: inherit;
     border: 1px solid #F1E4D3;
     border-radius: 8px;
+    display: flex;
+    flex-grow: 1;
     /* flex-basis: calc((100% - 16px)/2 - 16px); */
-    /* border-radius: 8px; */
 }
 
 a {

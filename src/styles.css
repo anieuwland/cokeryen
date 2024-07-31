@@ -22,7 +22,6 @@
 h1 {
     font-family: "Manuskript";
     text-shadow: #BC5347 2px 3px; 
-    font-size: 100pt; 
     margin-top: 48px !important;
 }
 
@@ -46,17 +45,26 @@ html, body, h1, h2, h3, div, p, section,article {
 html {
     justify-content: center;
     width: 100vw;
+    overflow-x: hidden;
 }
 
 @media screen and (max-width: 1000px) {
     body, body > * {
-        width: calc(100vw - 32px);
+        width: calc(100vw - 64px);
+    }
+
+    h1 {
+        font-size: 60pt;
     }
 }
 
 @media screen and (min-width: 1000px) {
     body, body > * {
         width: 984px;
+    }
+
+    h1 {
+        font-size: 92pt;
     }
 }
 

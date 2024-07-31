@@ -136,11 +136,10 @@ a.author:hover {
 
 .inverted {
     color: white;
-    /* background: #5F5053; */
-    /* background: #512630; */
-    /* background: #e88230; */
     background: #BC5347;
     padding: 12px;
+    outline: 2px solid #BC5347;
+    border: 1px solid white;
 }
 
 .rounded {

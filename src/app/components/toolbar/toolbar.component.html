@@ -9,7 +9,7 @@
   >
     {{ label }}
   </button>
+  <button [disabled]="!authenticated" routerLink="/profiel">Profiel</button>
   <button *ngIf="!authenticated" [disabled]="authenticated === undefined" (click)="login()">Inloggen</button>
   <button *ngIf="authenticated" [disabled]="authenticated === undefined" (click)="logout()">Uitloggen</button>
-  <button [disabled]="!authenticated" routerLink="/profiel">Profiel</button>
 </div>
