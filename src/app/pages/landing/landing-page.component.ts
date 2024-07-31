@@ -5,6 +5,7 @@ import { BookTeasersComponent } from "../../components/book-teasers/book-teasers
 import { RecipeTeaserComponent } from '../../components/recipe-complete/recipe-teaser.component';
 import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
 import { Book, DataService, Recipe } from '../../services/data.service';
+import { Title } from '@angular/platform-browser';
 
 @Component({
   selector: 'landing-page',
@@ -15,17 +16,22 @@ import { Book, DataService, Recipe } from '../../services/data.service';
 })
 export class LandingPage {
   @Input() weergave: string = 'historiseren';
+
   modernize: boolean = false;
 
   _recipes: Recipe[] = [];
   recipes: [Recipe, Book][] = [];
   books: { [key: string]: Book } = {};
 
+  pageTitle = "Smaak van de redactie - Cokeryen";
+
   constructor(
-    data: DataService
+    data: DataService,
+    title: Title,
   ) {
     this._recipes = data.getRecipes();
     this.books = data.getBooksAsMap();
+    title.setTitle(this.pageTitle);
   }
 
   ngOnChanges() {

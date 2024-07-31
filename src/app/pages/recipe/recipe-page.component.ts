@@ -6,6 +6,7 @@ import { BookTeasersComponent } from '../../components/book-teasers/book-teasers
 import { RecipeCompleteComponent } from '../../components/recipe-complete/recipe-complete.component';
 import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
 import { Book, DataService, Recipe } from '../../services/data.service';
+import { Title } from '@angular/platform-browser';
 
 @Component({
   selector: 'recipe-page',
@@ -24,7 +25,9 @@ export class RecipePage {
   @Input() bookRef!: string;
   @Input() recipeId!: string;
   @Input() weergave: string = "historiseren";
+
   modernize: boolean = false;
+  title: Title;
 
   public recipe: Recipe | null = null;
   public book: Book | null = null;
@@ -32,9 +35,13 @@ export class RecipePage {
 
   data: DataService;
 
-  constructor(data: DataService) {
+  constructor(
+    data: DataService,
+    title: Title,
+  ) {
     this.data = data;
     this.books = data.getBooksAsMap();
+    this.title = title;
   }
 
   ngAfterViewInit() { }
@@ -58,6 +65,8 @@ export class RecipePage {
       const book = this.data.getBooks().find((b) => b.ref === recipe?.bookRef);
       this.recipe = recipe ?? null;
       this.book = book ?? null;
+
+      this.title.setTitle((this.recipe?.title ?? "") + " - Cokeryen");
     }
   }
 }

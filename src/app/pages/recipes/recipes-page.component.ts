@@ -5,6 +5,7 @@ import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
 import { Book, DataService, Recipe } from '../../services/data.service';
 import { CommonModule } from '@angular/common';
 import { BookTeasersComponent } from "../../components/book-teasers/book-teasers.component";
+import { Title } from '@angular/platform-browser';
 
 @Component({
   selector: 'recipes-page',
@@ -20,17 +21,25 @@ export class RecipesPage {
   @Input() ingredient: string | string[] | undefined = undefined;
   ingredients: string[] = [];
   @Input() weergave: string = "historiseren";
+
   modernize: boolean = false;
+  title: Title;
 
   _recipes: Recipe[] = [];
   recipes: [Recipe, Book][] = [];
   books: { [key: string]: Book } = {};
 
   constructor(
-    data: DataService
+    data: DataService,
+    title: Title,
   ) {
     this._recipes = data.getRecipes();
     this.books = data.getBooksAsMap();
+    this.title = title;
+  }
+
+  public get pageTitle(): string {
+    return this.bookRef ? this.books[this.bookRef].title : "";
   }
 
   ngOnChanges() {
@@ -46,6 +55,8 @@ export class RecipesPage {
     const f2 = (r: Recipe) => this.tags.length > 0 ? hasTags(r, this.tags) : true;
     const f3 = (r: Recipe) => this.ingredients.length > 0 ? hasIngr(r, this.ingredients) : true;
     this.recipes = this._recipes.filter(f1).filter(f2).filter(f3).map(r => [r, this.books[r.bookRef]])
+
+    this.title.setTitle(this.pageTitle + " - Cokeryen");
   }
 }
 
