@@ -1,9 +1,10 @@
-import { Component, Input } from '@angular/core';
-import { Book, Recipe } from '../../services/data.service';
+import { Component, Input, OnChanges } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { NormalizeRecipeTextPipe } from "../../pipes/normalize-recipe-text.pipe";
 import { ToSentenceCasePipe } from "../../pipes/to-sentence-case.pipe";
+import { RecipeBook } from '../../domain/recipe-book';
+import { RecipeEntry } from '../../domain/recipe-entry';
 
 @Component({
   selector: 'recipe-complete',
@@ -12,12 +13,14 @@ import { ToSentenceCasePipe } from "../../pipes/to-sentence-case.pipe";
   templateUrl: './recipe-complete.component.html',
   styleUrl: './recipe-complete.component.css'
 })
-export class RecipeCompleteComponent {
-  @Input() recipe!: Recipe;
-  @Input() book!: Book;
+export class RecipeCompleteComponent implements OnChanges {
+  @Input() recipe!: RecipeEntry;
+  @Input() book!: RecipeBook;
   @Input() modernize: boolean = false;
 
   constructor() { }
+
+  ngOnChanges() { }
 
   getNameSymbol(): string {
     const words = this.book.person.split(' ').map(word => word.trim())

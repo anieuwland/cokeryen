@@ -5,14 +5,14 @@
   <div id="recipeHeader">
     <div style="display: flex">
       <img
-        src="/assets/gerechten/{{ recipe.bookRef }}/{{ recipe.bookRef }}-{{
-          recipe.id
-        }}.jpg"
-        *ngIf="['GENT1499', 'Noot1514', 'N1669', 'Baten1593'].indexOf(recipe.bookRef) >= 0"
+        src="/assets/gerechten/{{ recipe.book.reference }}/{{
+          recipe.book.reference
+        }}-{{ recipe.number }}.jpg"
+        *ngIf="book.modernized"
       />
       <img
         src="/assets/notabel.jpg"
-        *ngIf="['GENT1499', 'Noot1514', 'N1669', 'Baten1593'].indexOf(recipe.bookRef) < 0"
+        *ngIf="!book.modernized"
       />
     </div>
     <div id="recipeIntro">
@@ -20,16 +20,18 @@
         {{
           (modernize && recipe.modernized
             ? recipe.modernized.title
-            : (recipe.title | normalizeRecipeText)
+            : (recipe.historical.title | normalizeRecipeText)
           ) | toSentenceCase
         }}
       </h2>
       <div style="flex-direction: column; gap: 2px">
         <p class="author">
-          <a class="author" href="/boeken/{{ book.ref }}">{{ book.title }}</a>
+          <a class="author" href="/boeken/{{ book.reference }}">{{
+            book.title
+          }}</a>
         </p>
         <p class="author">
-          <a class="author" href="/koks/Vander_noot">{{ book.person }}</a
+          <a class="author" href="/koks/{{ book.person }}">{{ book.person }}</a
           >&nbsp;&mdash;&nbsp;<a
             class="author"
             href="/transcribenten/{{ book.transcriber }}"
@@ -72,8 +74,8 @@
         <p
           *ngFor="
             let par of (modernize && recipe.modernized
-              ? recipe.modernized.recipe
-              : (recipe.instructions | normalizeRecipeText)
+              ? recipe.modernized.instructions
+              : (recipe.historical.instructions | normalizeRecipeText)
             ).split('\n')
           "
         >
@@ -95,7 +97,14 @@
         "
       >
         <li *ngFor="let tag of recipe?.modernized?.tags ?? []">
-          <a routerLink="/recepten" [queryParams]="{ tag: tag, weergave: modernize ? 'moderniseren' : 'historiseren' }">#{{ tag }}</a>
+          <a
+            routerLink="/recepten"
+            [queryParams]="{
+              tag: tag,
+              weergave: modernize ? 'moderniseren' : 'historiseren'
+            }"
+            >#{{ tag }}</a
+          >
         </li>
       </ul>
     </div>

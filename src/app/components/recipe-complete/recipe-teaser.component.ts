@@ -1,10 +1,11 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, OnChanges, SimpleChanges } from '@angular/core';
 import { RecipeShortInstructionsPipe } from '../../pipes/recipe-short-instructions.pipe';
-import { Book, Recipe } from '../../services/data.service';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { NormalizeRecipeTextPipe } from "../../pipes/normalize-recipe-text.pipe";
 import { ToSentenceCasePipe } from "../../pipes/to-sentence-case.pipe";
+import { RecipeEntry } from '../../domain/recipe-entry';
+import { RecipeBook } from '../../domain/recipe-book';
 
 @Component({
   selector: 'recipe-teaser',
@@ -14,8 +15,8 @@ import { ToSentenceCasePipe } from "../../pipes/to-sentence-case.pipe";
   styleUrl: './recipe-complete.component.css'
 })
 export class RecipeTeaserComponent {
-  @Input() recipe!: Recipe;
-  @Input() book!: Book;
+  @Input() recipe!: RecipeEntry;
+  @Input() book!: RecipeBook;
   @Input() modernize: boolean = false;
   @Input() tags: string[] = [];
 }

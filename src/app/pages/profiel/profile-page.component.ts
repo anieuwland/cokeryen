@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
-import { Book, DataService } from '../../services/data.service';
+import { DataService } from '../../services/data.service';
 import { AuthService, User } from '@auth0/auth0-angular';
 import { BookTeasersComponent } from "../../components/book-teasers/book-teasers.component";
 import { ToolbarComponent } from "../../components/toolbar/toolbar.component";
 import { CommonModule } from '@angular/common';
+import { RecipeBook } from '../../domain/recipe-book';
 
 @Component({
   selector: 'profile-page',
@@ -13,14 +14,14 @@ import { CommonModule } from '@angular/common';
   styleUrl: './profile-page.component.css'
 })
 export class ProfilePage {
-  books: { [key: string]: Book; };
+  books: { [key: string]: RecipeBook; } = {};
   user: User | null | undefined;
   
   constructor(
     private data: DataService,
     private auth: AuthService,
   ) {
-    this.books = this.data.getBooksAsMap();
+    this.data.getBooksAsMap().then(books => this.books = books);
     this.auth.user$.subscribe(user => this.user = user);
   }
 }

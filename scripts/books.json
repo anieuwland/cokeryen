@@ -1,0 +1,50 @@
+[
+  {
+    "year": 1499,
+    "title": "Een Gents Handschrift",
+    "person": "Drie handen",
+    "transcriber": "",
+    "reference": "GENT1499",
+    "modernized": true
+  },
+  {
+    "year": 1514,
+    "title": "Een notabel boeckxen van cokeryen",
+    "person": "Vander Noot",
+    "transcriber": "Marleen Willebrands",
+    "reference": "NOOT1514",
+    "modernized": true
+  },
+  {
+    "year": 1593,
+    "title": "Eenen seer schoonen ende excellenten Cocboeck",
+    "person": "Baten",
+    "transcriber": "Marleen Willebrands",
+    "reference": "BATEN1593",
+    "modernized": true
+  },
+  {
+    "year": 1612,
+    "title": "Koocboek oft familieren keukenboec",
+    "person": "Magirus",
+    "transcriber": "Marleen Willebrands",
+    "reference": "MAGIRUS1612",
+    "modernized": false
+  },
+  {
+    "year": 1669,
+    "title": "De verstandige kock",
+    "person": "N",
+    "transcriber": "Marleen Willebrands",
+    "reference": "N1669",
+    "modernized": true
+  },
+  {
+    "year": 1752,
+    "title": "Aaltje, de volmaakte Hollandsche keuken-meid",
+    "person": "Esveldt",
+    "transcriber": "",
+    "reference": "ESVELDT1752",
+    "modernized": false
+  }
+]

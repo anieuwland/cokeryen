@@ -2,6 +2,8 @@
 
 src/assets/gerechten
 src/assets/usercontent
+.vscode
+.venv
 
 # Compiled output
 /dist

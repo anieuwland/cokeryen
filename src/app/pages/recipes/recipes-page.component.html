@@ -7,7 +7,7 @@
     <div style="gap: 16px;">
       <toolbar
         [(modernize)]="modernize"
-        [modernizable]="bookRef ? books[bookRef].modernized : true"
+        [modernizable]="bookRef && books.hasOwnProperty(bookRef) ? books[bookRef].modernized : true"
       ></toolbar>
       <div class="pageTitleContainer">
         <h3>{{ pageTitle }}</h3>
@@ -48,43 +48,6 @@
           ></recipe-teaser>
         </ng-container>
       </div>
-
-      <!-- <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index; let even = even">
-          <recipe-teaser *ngIf="even" [recipe]="recipe[0]" [book]="recipe[1]"></recipe-teaser>
-        </ng-container> 
-      </div>
-      <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index; let odd = odd">
-          <recipe-teaser *ngIf="odd" [recipe]="recipe[0]" [book]="recipe[1]"></recipe-teaser>
-        </ng-container> 
-      </div> -->
     </div>
   </div>
 </div>
-
-<!--
-  <p>Website naam / navigatie</p>
-  
-  <p>Honderden vergeten, historische en excentrieke recepten!</p>
-  
-  <div>
-    <p>Uitgelicht recept</p>
-  </div>
-  
-  <p>boeken</p>
-  
-  <ul>
-    <li>Catchy Headline: number, specific, strong words</li>
-    <li><a href="recepten">In den eersten wildi maken een wit bruwet tot capuynen ofte tot kieckenen oft tot
-        calfvleessce</a></li>
-  </ul>
--->
-
-<!--
-
-Power words
-https://optinmonster.com/700-power-words-that-will-boost-your-conversions/
-
-
--->

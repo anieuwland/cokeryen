@@ -1,17 +1,18 @@
 import { ChangeDetectorRef, Component, ElementRef, HostListener, Input, ViewChild } from '@angular/core';
-import { Book } from '../../services/data.service';
 import { RouterModule } from '@angular/router';
+import { CommonModule } from '@angular/common';
+import { RecipeBook } from '../../domain/recipe-book';
 
 @Component({
   selector: 'book-teaser',
   standalone: true,
-  imports: [RouterModule],
+  imports: [CommonModule, RouterModule],
   templateUrl: './book-teaser.component.html',
   styleUrl: './book-teaser.component.css'
 })
 export class BookTeaserComponent {
   @ViewChild("bookTeaser") teaser: ElementRef<HTMLElement> | undefined =  undefined;
-  @Input() book!: Book;
+  @Input() book!: RecipeBook;
   @Input() weergave: string = ""
 
   origColor: string = "";

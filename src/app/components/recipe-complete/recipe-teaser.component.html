@@ -9,28 +9,27 @@
   "
 >
   <p class="author">
-    <a class="author" href="/boeken/{{ recipe.bookRef }}">{{ book.title }}</a>
+    <a class="author" href="/boeken/{{ recipe.book.reference }}">{{ book.title }}</a>
   </p>
   <h2>
     <a
-      routerLink="/recepten/{{ recipe.bookRef }}/{{ recipe.id }}"
+      routerLink="/recepten/{{ recipe.book.reference }}/{{ recipe.number }}"
       [queryParams]="{weergave: modernize ? 'moderniseren' : 'historiseren'}"
       >{{
-        (modernize && recipe.modernized
+        (modernize && recipe.modernized 
           ? recipe.modernized.title
-          : (recipe.title | normalizeRecipeText)
+          : (recipe.historical.title | normalizeRecipeText)
         ) | toSentenceCase
       }}</a
     >
   </h2>
   <a
-    routerLink="/recepten/{{ recipe.bookRef }}/{{ recipe.id }}"
+    routerLink="/recepten/{{ recipe.book.reference }}/{{ recipe.number }}"
     [queryParams]="{weergave: modernize ? 'moderniseren' : 'historiseren'}"
-    *ngIf="['GENT1499', 'Noot1514', 'N1669', 'Baten1593'].indexOf(recipe.bookRef) >= 0"
+    *ngIf="book.modernized"
     ><img
-      src="/assets/gerechten/{{ recipe.bookRef }}/{{ recipe.bookRef }}-{{
-        recipe.id
-      }}.jpg"
+      loading="lazy"
+      src="/assets/gerechten/{{ recipe.book.reference }}/{{ recipe.book.reference }}-{{ recipe.number }}.jpg"
       style="
         width: calc(100% + 32px);
         position: relative;
@@ -51,7 +50,7 @@
         flex-wrap: wrap;
       "
     >
-      <li *ngFor="let tag of recipe?.modernized?.tags ?? []">
+      <li *ngFor="let tag of recipe.tags ?? []">
         <a routerLink="/recepten" [queryParams]="{ tag: tags.concat([tag]) }" queryParamsHandling="merge"
           >#{{ tag }}</a
         >

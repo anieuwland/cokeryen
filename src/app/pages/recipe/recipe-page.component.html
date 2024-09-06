@@ -6,10 +6,10 @@
   <div id="toolbarContainer">
     <toolbar
       [(modernize)]="modernize"
-      [modernizable]="bookRef ? books[bookRef].modernized : true"
+      [modernizable]="bookRef && books.hasOwnProperty(bookRef) ? books[bookRef].modernized : true"
     ></toolbar>
     <div class="pageTitleContainer">
-      <h3>{{ bookRef ? books[bookRef].title : "" }}</h3>
+      <h3>{{ bookRef && books.hasOwnProperty(bookRef) ? books[bookRef].title : "" }}</h3>
     </div>
   </div>
 
@@ -22,7 +22,7 @@
     ></recipe-complete>
   </div>
 
-  <div class="comment" *ngIf="recipe?.id === 1">
+  <div class="comment" *ngIf="recipe?.number === 1">
     <p
       style="font-variant: small-caps; color: #aaa; flex-direction: row-reverse"
     >
@@ -41,7 +41,7 @@
     />
   </div>
 
-  <div class="comment" *ngIf="recipe?.id == 28">
+  <div class="comment" *ngIf="recipe?.number == 28">
     <p
       style="font-variant: small-caps; color: #aaa; flex-direction: row-reverse"
     >
@@ -82,7 +82,7 @@
     />
   </div>
 
-  <div class="comment" *ngIf="recipe?.id === 379">
+  <div class="comment" *ngIf="recipe?.number === 379">
     <p
       style="font-variant: small-caps; color: #aaa; flex-direction: row-reverse"
     >

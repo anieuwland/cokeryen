@@ -1,6 +1,7 @@
 <div id="bookTeaserContainer">
-    <book-teaser style="background: #BC5347;" [book]="books['GENT1499']" [weergave]="weergave"></book-teaser>
+    <book-teaser *ngFor="let book of booksByYear" style="background: #BC5347;" [book]="book" [weergave]="weergave"></book-teaser>
+    <!-- <book-teaser style="background: #BC5347;" [book]="books['GENT1499']" [weergave]="weergave"></book-teaser>
     <book-teaser style="background: #BC5347;" [book]="books['Noot1514']" [weergave]="weergave"></book-teaser>
     <book-teaser style="background: #BC5347;" [book]="books['Baten1593']" [weergave]="weergave"></book-teaser>
-    <book-teaser style="background: #BC5347;" [book]="books['N1669']" [weergave]="weergave"></book-teaser>
+    <book-teaser style="background: #BC5347;" [book]="books['N1669']" [weergave]="weergave"></book-teaser> -->
 </div>
