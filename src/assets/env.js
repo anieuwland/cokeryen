@@ -1,0 +1,4 @@
+var ENV = {
+    COKERYEN_DB_AUTH: "Bearer nbwt1_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGIuZC5hbGwiOnRydWUsImVkYi5pIjpbImFuaWV1d2xhbmQvY29rZXJ5ZW4iXSwiZWRiLnIuYWxsIjp0cnVlLCJpYXQiOjE3MjUyMTQwMzMsImlzcyI6ImF3cy5lZGdlZGIuY2xvdWQiLCJqdGkiOiJCQXg3aUdpTkVlLXhtZDlXRVVreUlnIiwic3ViIjoiSVJnZHBFMElFZS1EUWFldDZEUnphZyJ9.ih7FZ37c-KUuuBZrDHzWtl3veB34rWp-5GPR0YhwvuZ3DBmESYWaGjGj95oH7lOsdW9RDbR5TZS0AcQR0ZjaKg",
+    COKERYEN_DB_URL: "https://cokeryen--anieuwland.c-21.i.aws.edgedb.cloud:5656/branch/dev/edgeql",
+}

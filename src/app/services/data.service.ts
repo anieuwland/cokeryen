@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { RecipeBook } from '../domain/recipe-book';
 import { RecipeEntry } from '../domain/recipe-entry';
+import { ENV } from '../app.env';
 
 const SUPPORT_BOOKS = ['GENT1499', 'NOOT1514', 'BATEN1593', 'N1669'];
 
@@ -71,11 +72,6 @@ interface ApiResult<T> {
 }
 
 class ApiClient {
-  private URL = "https://cokeryen--anieuwland.c-21.i.aws.edgedb.cloud:5656/branch/dev/edgeql";
-  private AUTH_STR = "Bearer nbwt1_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGIuZC5hbGwiOnRydWUsImVkYi5pIjpbImFuaWV1d2xhbmQvY29rZXJ5ZW4iXSwiZWRiLnIuYWxsIjp0cnVlLCJpYXQiOjE3MjUyMTQwMzMsImlzcyI6ImF3cy5lZGdlZGIuY2xvdWQiLCJqdGkiOiJCQXg3aUdpTkVlLXhtZDlXRVVreUlnIiwic3ViIjoiSVJnZHBFMElFZS1EUWFldDZEUnphZyJ9.ih7FZ37c-KUuuBZrDHzWtl3veB34rWp-5GPR0YhwvuZ3DBmESYWaGjGj95oH7lOsdW9RDbR5TZS0AcQR0ZjaKg";
-  // private URL = "http://localhost:10702/branch/dev/edgeql";
-  // private AUTH_STR = "Basic ZWRnZWRiOmJ1YUpkYmFySnBpSEVsZTN6c0tlNmlZOA=="
-
   private cache = new Map<string, any>();
 
   constructor(
@@ -88,16 +84,11 @@ class ApiClient {
       return Promise.resolve(cached)
     }
 
-    const cors = {
-      "content-type": "application/json",
-    };
-    const authorization = this.AUTH_STR;
+    const cors = { "content-type": "application/json" };
+    const authorization = ENV.COKERYEN_DB_AUTH;
     const headers = { authorization, ...cors };
-    // const headers = {...cors };
-    // const httpOptions = { headers };
     const payload = { query }
-    return this.http.post<ApiResult<T>>(this.URL, payload, {headers, responseType: "json"})
-    // return this.http.post<ApiResult<T>>(this.URL, payload, {headers, responseType: "text" })
+    return this.http.post<ApiResult<T>>(ENV.COKERYEN_DB_URL, payload, {headers, responseType: "json"})
       .toPromise()
       .then(r => r?.data)
       .then(data => {if (data) this.cache.set(query, data); return data})
