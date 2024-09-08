@@ -21,9 +21,7 @@
       </h2>
       <div style="flex-direction: column; gap: 2px">
         <p class="author">
-          <a class="author" href="/boeken/{{ book.reference }}">{{
-            book.title
-          }}</a>
+          <a class="author" href="/boeken/{{ book.reference }}">{{ book.title }}</a>
         </p>
         <p class="author">
           <a class="author" href="/koks/{{ book.person }}">{{ book.person }}</a
@@ -34,7 +32,17 @@
           >
         </p>
       </div>
+      <div *ngIf="user" id="recipeInteractivities">
+        <div class="recipeInteractivity">
+          <button *ngIf="!(user | liked: recipe)" (click)="submitLike()">lekker</button>
+          <button *ngIf="user | liked: recipe" (click)="submitUnlike()">niet lekker</button>
+        </div>
+      </div>
       <div id="recipeStatistics">
+        <div class="recipeStatistic">
+          <span>{{ recipe | recipeNumLikes }}x</span>
+          <span>lekker</span>
+        </div>
         <div class="recipeStatistic">
           <span>{{ book.year }}</span>
           <span>gepubliceerd</span>
@@ -106,8 +114,3 @@
     </div>
   </div>
 </article>
-<!--
-  <a href="https://www.yummly.com/recipe/Cornmeal-Pancakes-with-Peach-Compote-9379826">Voorbeeld</a>
-  <a href="https://www.dbnl.org/tekst/_not001nota01_01/_not001nota01_01_0001.php">notabel beockxen</a>
-https://www.deslegte.com/images/cached/resample/jpg/data/uploads/954/1505/cms_visual_1527285.jpg_1608113140000_954x1505-92579279bd.jpg
-  -->

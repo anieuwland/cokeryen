@@ -2,7 +2,7 @@ import { CommonModule } from '@angular/common';
 import { Component, Input, OnChanges, OnInit } from '@angular/core';
 import { BookTeaserComponent } from '../../components/book-teaser/book-teaser.component';
 import { BookTeasersComponent } from "../../components/book-teasers/book-teasers.component";
-import { RecipeTeaserComponent } from '../../components/recipe-complete/recipe-teaser.component';
+import { RecipeTeaserComponent } from '../../components/recipe-teaser/recipe-teaser.component';
 import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
 import { DataService } from '../../services/data.service';
 import { Title } from '@angular/platform-browser';

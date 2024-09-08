@@ -1,3 +1,26 @@
 #container {
     margin-top: 16px;
 }
+
+#recipes {
+    gap: 16px;
+    justify-content: space-between;
+    margin-bottom: 256px;
+}
+
+#recipes > div {
+    width: calc(100% / 3 - 16px);
+    flex-direction: column;
+    gap: 16px;
+}
+
+.pageTitleContainer {
+  flex-grow: 1; 
+  align-self: center;
+  flex-direction: row-reverse;
+  text-shadow: 
+     1px  1px 0 #F1E4D3,
+    -1px -1px 0 #F1E4D3,
+     1px -1px 0 #F1E4D3,
+    -1px  1px #F1E4D3;
+}

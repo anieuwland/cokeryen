@@ -1,5 +1,5 @@
 import { Component, Input, OnChanges, OnInit } from '@angular/core';
-import { RecipeTeaserComponent } from '../../components/recipe-complete/recipe-teaser.component';
+import { RecipeTeaserComponent } from '../../components/recipe-teaser/recipe-teaser.component';
 import { BookTeaserComponent } from '../../components/book-teaser/book-teaser.component';
 import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
 import { DataService } from '../../services/data.service';

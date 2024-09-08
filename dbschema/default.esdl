@@ -22,9 +22,10 @@ module default {
         required number: int16 { constraint exclusive };
         required tags: array<str>;
         required visualization: str { default := "" };
-        multi user_likes := .<recipe[is UserLike];
+        multi likes := .<recipe[is UserLike];
         required historical: RecipeVariant { constraint exclusive };
         modernized: RecipeVariant { constraint exclusive };
+        required numLikes := (select count(.likes));
 
         access policy unauthenticated_full_read 
             allow select 
@@ -54,6 +55,8 @@ module default {
     type UserLike {
         required user: User;
         required recipe: RecipeEntry;
+
+        constraint exclusive on ((.user, .recipe));
         
         access policy unauthenticated_full_read 
             allow select 
@@ -76,7 +79,9 @@ module default {
     }
 
     type User {
-        required oauth2_sub: str;
+        required sub: str { constraint exclusive };
+        required name: str;
+        required picture: str;
         
         access policy unauthenticated_full_read 
             allow select 

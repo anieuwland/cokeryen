@@ -12,11 +12,11 @@ import { RecipeBook } from '../../domain/recipe-book';
   standalone: true,
   imports: [CommonModule, RecipeShortInstructionsPipe, RouterModule, NormalizeRecipeTextPipe, ToSentenceCasePipe, RecipeImageUrlPipe],
   templateUrl: './recipe-teaser.component.html',
-  styleUrl: './recipe-complete.component.css'
+  styleUrl: '../recipe-complete/recipe-complete.component.css'
 })
 export class RecipeTeaserComponent {
   @Input() recipe!: RecipeEntry;
-  @Input() book!: RecipeBook;
+  // @Input() book!: RecipeBook;
   @Input() modernize: boolean = false;
   @Input() tags: string[] = [];
 }

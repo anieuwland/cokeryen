@@ -9,7 +9,7 @@
   "
 >
   <p class="author">
-    <a class="author" href="/boeken/{{ recipe.book.reference }}">{{ book.title }}</a>
+    <a class="author" href="/boeken/{{ recipe.book.reference }}">{{ recipe.book.title }}</a>
   </p>
   <h2>
     <a
@@ -26,7 +26,7 @@
   <a
     routerLink="/recepten/{{ recipe.book.reference }}/{{ recipe.number }}"
     [queryParams]="{weergave: modernize ? 'moderniseren' : 'historiseren'}"
-    *ngIf="book.modernized"
+    *ngIf="recipe.modernized"
     ><img
       loading="lazy"
       src="{{ recipe | recipeImageUrl }}"
