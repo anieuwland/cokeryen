@@ -4,12 +4,12 @@ import { RouterModule } from '@angular/router';
 import { NormalizeRecipeTextPipe } from "../../pipes/normalize-recipe-text.pipe";
 import { ToSentenceCasePipe } from "../../pipes/to-sentence-case.pipe";
 import { RecipeBook } from '../../domain/recipe-book';
-import { RecipeEntry } from '../../domain/recipe-entry';
+import { RecipeEntry, RecipeImageUrlPipe } from '../../domain/recipe-entry';
 
 @Component({
   selector: 'recipe-complete',
   standalone: true,
-  imports: [CommonModule, RouterModule, NormalizeRecipeTextPipe, ToSentenceCasePipe],
+  imports: [CommonModule, RouterModule, NormalizeRecipeTextPipe, ToSentenceCasePipe, RecipeImageUrlPipe],
   templateUrl: './recipe-complete.component.html',
   styleUrl: './recipe-complete.component.css'
 })

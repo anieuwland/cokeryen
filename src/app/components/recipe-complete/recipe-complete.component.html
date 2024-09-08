@@ -4,12 +4,7 @@
 <article id="recipeSection">
   <div id="recipeHeader">
     <div style="display: flex">
-      <img
-        src="/assets/gerechten/{{ recipe.book.reference }}/{{
-          recipe.book.reference
-        }}-{{ recipe.number }}.jpg"
-        *ngIf="book.modernized"
-      />
+      <img src="{{ recipe | recipeImageUrl }}" *ngIf="book.modernized" />
       <img
         src="/assets/notabel.jpg"
         *ngIf="!book.modernized"

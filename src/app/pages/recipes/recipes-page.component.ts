@@ -5,7 +5,6 @@ import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
 import { DataService } from '../../services/data.service';
 import { CommonModule } from '@angular/common';
 import { BookTeasersComponent } from "../../components/book-teasers/book-teasers.component";
-import { Title } from '@angular/platform-browser';
 import { RecipeEntry } from '../../domain/recipe-entry';
 import { RecipeBook } from '../../domain/recipe-book';
 import { LinkPreviewService } from '../../services/link-preview.service';
