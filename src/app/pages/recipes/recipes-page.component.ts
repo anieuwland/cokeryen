@@ -54,13 +54,14 @@ export class RecipesPage implements OnInit, OnChanges {
     this.modernize = this.weergave === 'moderniseren';
 
     const tagInArray = (tag: string, array: string[] | undefined) => (array ?? []).indexOf(tag) > -1
-    const hasTags = (r: RecipeEntry, tags: string[]) => tags.map((tag: string) => tagInArray(tag, r.modernized?.tags)).every(v => v);
+    const hasTags = (r: RecipeEntry, tags: string[]) => tags.map((tag: string) => tagInArray(tag, r.tags)).every(v => v);
     const hasIngr = (r: RecipeEntry, tags: string[]) => tags.map((tag: string) => tagInArray(tag, (r.modernized?.ingredients ?? []).map(v => v[1]))).every(v => v);
 
     const f1 = (r: RecipeEntry) => this.bookRef === undefined || r.book.reference === this.bookRef;
     const f2 = (r: RecipeEntry) => this.tags.length > 0 ? hasTags(r, this.tags) : true;
     const f3 = (r: RecipeEntry) => this.ingredients.length > 0 ? hasIngr(r, this.ingredients) : true;
     this.recipes = this._recipes.filter(f1).filter(f2).filter(f3).map(r => [r, this.books[r.book.reference]])
+    console.debug(`View: Filtered ${this._recipes.length} recipes down to ${this.recipes.length}.`)
 
     const title = [this.pageTitle, "Cokeryen"].filter(s => s !== "").join(" - ");
     const firstRecipe = this.recipes.length > 0 ? this.recipes[0][0] : undefined;

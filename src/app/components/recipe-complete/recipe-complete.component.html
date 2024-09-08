@@ -62,9 +62,10 @@
         <h3>Ingrediënten</h3>
         <ul style="margin: 0px 0px 0px 16px; padding: 0px; min-width: 200px">
           <li *ngFor="let ingr of recipe.modernized.ingredients">
-            <a routerLink="/recepten" [queryParams]="{ ingredient: ingr[1] }">{{
-              ingr[1]
-            }}</a>
+            <a routerLink="/recepten" [queryParams]="{ 
+              ingredient: ingr[1],
+              weergave: modernize ? 'moderniseren' : 'historiseren'
+            }">{{ ingr[1] }}</a>
             &nbsp;<span *ngIf="ingr[0]">({{ ingr[0] }})</span>
           </li>
         </ul>
@@ -96,7 +97,7 @@
           flex-wrap: wrap;
         "
       >
-        <li *ngFor="let tag of recipe?.modernized?.tags ?? []">
+        <li *ngFor="let tag of recipe.tags">
           <a
             routerLink="/recepten"
             [queryParams]="{
