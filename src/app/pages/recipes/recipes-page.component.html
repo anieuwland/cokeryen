@@ -1,34 +1,8 @@
-<page-container [books]="books" [weergave]="weergave" [pageTitle]="pageTitle">
-    <div id="recipes">
-      <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser
-            *ngIf="i % 3 === 0"
-            [recipe]="recipe[0]"
-            [modernize]="modernize"
-            [tags]="tags"
-          ></recipe-teaser>
-        </ng-container>
-      </div>
-      <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser
-            *ngIf="i % 3 === 1"
-            [recipe]="recipe[0]"
-            [modernize]="modernize"
-            [tags]="tags"
-          ></recipe-teaser>
-        </ng-container>
-      </div>
-      <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser
-            *ngIf="i % 3 === 2"
-            [recipe]="recipe[0]"
-            [modernize]="modernize"
-            [tags]="tags"
-          ></recipe-teaser>
-        </ng-container>
-      </div>
-    </div>
+<page-container [books]="books" (modernize)="modernize" [pageTitle]="pageTitle" [weergave]="weergave">
+  <recipes-overview
+    [numColumns]="3"
+    [recipes]="recipes"
+    [modernize]="modernize"
+    [linkTags]="linkTags"
+  ></recipes-overview>
 </page-container>

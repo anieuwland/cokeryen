@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, EventEmitter, Input, Output, SimpleChange, SimpleChanges } from '@angular/core';
 import { RecipeBook } from '../../domain/recipe-book';
 import { BookTeasersComponent } from "../book-teasers/book-teasers.component";
 import { ToolbarComponent } from "../toolbar/toolbar.component";
@@ -17,4 +17,10 @@ export class PageContainerComponent {
   @Input() pageTitle = "";
 
   modernize: boolean = false;
+  @Output() modernizeChange = new EventEmitter<boolean>();
+
+  ngOnChanges(changes: SimpleChanges) {
+    this.modernize = this.weergave === "moderniseren";
+    this.modernizeChange.emit(this.modernize);
+  }
 }

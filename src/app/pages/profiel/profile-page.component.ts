@@ -9,11 +9,12 @@ import { RecipeEntry } from '../../domain/recipe-entry';
 import { isUser } from '../../domain/user';
 import { RecipeTeaserComponent } from "../../components/recipe-teaser/recipe-teaser.component";
 import { PageContainerComponent } from "../../components/page-container/page-container.component";
+import { RecipesOverviewComponent } from "../../components/recipes-overview/recipes-overview.component";
 
 @Component({
   selector: 'profile-page',
   standalone: true,
-  imports: [CommonModule, BookTeasersComponent, ToolbarComponent, RecipeTeaserComponent, PageContainerComponent],
+  imports: [CommonModule, BookTeasersComponent, ToolbarComponent, RecipeTeaserComponent, PageContainerComponent, RecipesOverviewComponent],
   templateUrl: './profile-page.component.html',
   styleUrl: './profile-page.component.css'
 })

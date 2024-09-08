@@ -1,7 +1,9 @@
 <page-container [books]="books" [modernizable]="recipes.length > 0" [weergave]="weergave" [pageTitle]="'Profiel van ' + (user?.name ?? '')">
   <div *ngIf="user" class="content" style="gap: 6px">
     <div style="flex-direction: row; gap: 12px">
-      <img *ngIf="user.picture" [src]="user.picture" />
+      <div style="flex-direction: column;">
+        <img *ngIf="user.picture"  style="max-width: 96px; max-height: 96px;" [src]="user.picture" />
+      </div>
       <div style="flex-direction: column; gap: 6px">
         <p>Weergavenaam: {{ user.name }}</p>
         <p>
@@ -14,36 +16,10 @@
     </div>
   </div>
 
-  <div id="recipes">
-    <div>
-      <ng-container *ngFor="let recipe of recipes; let i = index">
-        <recipe-teaser
-          *ngIf="i % 3 === 0"
-          [recipe]="recipe"
-          [modernize]="modernize"
-          [tags]="recipe.tags"
-        ></recipe-teaser>
-      </ng-container>
-    </div>
-    <div>
-      <ng-container *ngFor="let recipe of recipes; let i = index">
-        <recipe-teaser
-          *ngIf="i % 3 === 1"
-          [recipe]="recipe"
-          [modernize]="modernize"
-          [tags]="recipe.tags"
-        ></recipe-teaser>
-      </ng-container>
-    </div>
-    <div>
-      <ng-container *ngFor="let recipe of recipes; let i = index">
-        <recipe-teaser
-          *ngIf="i % 3 === 2"
-          [recipe]="recipe"
-          [modernize]="modernize"
-          [tags]="recipe.tags"
-        ></recipe-teaser>
-      </ng-container>
-    </div>
-  </div>
+  
+  <recipes-overview
+    [numColumns]="3"
+    [recipes]="recipes"
+    [modernize]="modernize"
+  ></recipes-overview>
 </page-container>

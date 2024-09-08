@@ -51,7 +51,7 @@
       "
     >
       <li *ngFor="let tag of recipe.tags ?? []">
-        <a routerLink="/recepten" [queryParams]="{ tag: tags.concat([tag]) }" queryParamsHandling="merge"
+        <a routerLink="/recepten" [queryParams]="{ tag: linkTags.concat([tag]) }" queryParamsHandling="merge"
           >#{{ tag }}</a
         >
       </li>

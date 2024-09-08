@@ -49,15 +49,13 @@ export class DataService {
   }
 
   public async getRecipesLikedBy(user: User): Promise<RecipeEntry[]> {
-    const query = `select RecipeEntry {id, book: {reference}, number, tags, historical: {*}, modernized: {*}} filter .likes.user.sub = '${user.sub}';`
+    const query = `select RecipeEntry {id, book: { reference, title }, number, tags, historical: {*}, modernized: {*}} filter .likes.user.sub = '${user.sub}';`
     return this.api.query<RecipeEntry>(query, false);
   }
 
-  public async getRecipesLandingPage(): Promise<[RecipeEntry, RecipeBook][]> {
-    const query = "select RecipeEntry {*, book: {*}, historical: {*}, likes: {user: {sub}}, modernized: {*}} filter .number in {1, 172, 88, 28, 484, 483, 130, 474, 167};";
-    const result = this.api.query<RecipeEntry>(query);
-    // @ts-ignore
-    return result.then(rs => rs.map(r => [r, r.book]));
+  public async getRecipesLandingPage(): Promise<RecipeEntry[]> {
+    const query = "select RecipeEntry {*, book: { reference, title }, historical: {*}, likes: {user: {sub}}, modernized: {*}} filter .number in {1, 172, 88, 28, 484, 483, 130, 474, 167};";
+    return this.api.query<RecipeEntry>(query);
   }
 
   public async getRecipes(): Promise<RecipeEntry[]> {
@@ -73,7 +71,7 @@ export class DataService {
 
   public async getRecipesAll(): Promise<RecipeEntry[]> {
     // const query = "select RecipeEntry {id, book: {reference} number, tags, variants: {*}} filter .reference in {'GENT1499', 'NOOT1514', 'BATEN1593', 'N1669'} order by .number;"
-    const query = "select RecipeEntry {id, book: {reference}, number, tags, historical: {*}, modernized: {*}} " +
+    const query = "select RecipeEntry {id, book: { reference, title }, number, tags, historical: {*}, modernized: {*}} " +
       `filter .book.reference in {${SUPPORT_BOOKS.map(s => `'${s}'`).join(", ")}} ` +
       "order by .number";
     return this.api.query<RecipeEntry>(query);

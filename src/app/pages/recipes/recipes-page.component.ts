@@ -9,18 +9,19 @@ import { RecipeEntry } from '../../domain/recipe-entry';
 import { RecipeBook } from '../../domain/recipe-book';
 import { LinkPreviewService } from '../../services/link-preview.service';
 import { PageContainerComponent } from "../../components/page-container/page-container.component";
+import { RecipesOverviewComponent } from "../../components/recipes-overview/recipes-overview.component";
 
 @Component({
   selector: 'recipes-page',
   standalone: true,
-  imports: [BookTeaserComponent, RecipeTeaserComponent, CommonModule, ToolbarComponent, BookTeasersComponent, PageContainerComponent],
+  imports: [BookTeaserComponent, RecipeTeaserComponent, CommonModule, ToolbarComponent, BookTeasersComponent, PageContainerComponent, RecipesOverviewComponent],
   templateUrl: './recipes-page.component.html',
   styleUrl: './recipes-page.component.css'
 })
 export class RecipesPage implements OnInit, OnChanges {
   @Input() bookRef: string | undefined = undefined;
   @Input() tag: string | string[] | undefined = undefined;
-  tags: string[] = [];
+  linkTags: string[] = [];
   @Input() ingredient: string | string[] | undefined = undefined;
   ingredients: string[] = [];
   @Input() weergave: string = "historiseren";
@@ -28,7 +29,7 @@ export class RecipesPage implements OnInit, OnChanges {
   modernize: boolean = false;
 
   _recipes: RecipeEntry[] = [];
-  recipes: [RecipeEntry, RecipeBook][] = [];
+  recipes: RecipeEntry[] = [];
   books: { [key: string]: RecipeBook } = {};
 
   constructor(
@@ -49,7 +50,7 @@ export class RecipesPage implements OnInit, OnChanges {
   }
 
   ngOnChanges() {
-    this.tags = normalizeToArray(this.tag);
+    this.linkTags = normalizeToArray(this.tag);
     this.ingredients = normalizeToArray(this.ingredient);
     this.modernize = this.weergave === 'moderniseren';
 
@@ -58,13 +59,13 @@ export class RecipesPage implements OnInit, OnChanges {
     const hasIngr = (r: RecipeEntry, tags: string[]) => tags.map((tag: string) => tagInArray(tag, (r.modernized?.ingredients ?? []).map(v => v[1]))).every(v => v);
 
     const f1 = (r: RecipeEntry) => this.bookRef === undefined || r.book.reference === this.bookRef;
-    const f2 = (r: RecipeEntry) => this.tags.length > 0 ? hasTags(r, this.tags) : true;
+    const f2 = (r: RecipeEntry) => this.linkTags.length > 0 ? hasTags(r, this.linkTags) : true;
     const f3 = (r: RecipeEntry) => this.ingredients.length > 0 ? hasIngr(r, this.ingredients) : true;
-    this.recipes = this._recipes.filter(f1).filter(f2).filter(f3).map(r => [r, this.books[r.book.reference]])
+    this.recipes = this._recipes.filter(f1).filter(f2).filter(f3);
     console.debug(`View: Filtered ${this._recipes.length} recipes down to ${this.recipes.length}.`)
 
     const title = [this.pageTitle, "Cokeryen"].filter(s => s !== "").join(" - ");
-    const firstRecipe = this.recipes.length > 0 ? this.recipes[0][0] : undefined;
+    const firstRecipe = this.recipes.length > 0 ? this.recipes[0] : undefined;
     this.linkPreview.updatePreviewTags(this.modernize, title, firstRecipe);
   }
 }

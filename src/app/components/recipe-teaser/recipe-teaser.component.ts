@@ -16,7 +16,6 @@ import { RecipeBook } from '../../domain/recipe-book';
 })
 export class RecipeTeaserComponent {
   @Input() recipe!: RecipeEntry;
-  // @Input() book!: RecipeBook;
   @Input() modernize: boolean = false;
-  @Input() tags: string[] = [];
+  @Input() linkTags: string[] = [];
 }

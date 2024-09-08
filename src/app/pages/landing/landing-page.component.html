@@ -4,14 +4,11 @@
 * Fold main menu buttons into 1
 -->
 
-<page-container [books]="books" [modernizable]="true" [weergave]="weergave">
-  <div id="recipes">
-    <div *ngFor="let column of recipes">
-      <recipe-teaser
-        *ngFor="let recipe of column"
-        [recipe]="recipe[0]"
-        [modernize]="modernize"
-      ></recipe-teaser>
-    </div>
-  </div>
+<page-container [books]="books" (modernize)="modernize" [modernizable]="true" [weergave]="weergave">
+  <recipes-overview
+    [numColumns]="3"
+    [recipes]="recipes"
+    [modernize]="modernize"
+  >
+  </recipes-overview>
 </page-container>

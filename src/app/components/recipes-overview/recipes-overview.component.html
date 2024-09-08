@@ -1,0 +1,12 @@
+<div id="recipes">
+    <div *ngFor="let column of columns">
+        <ng-container *ngFor="let recipe of recipes; let i = index">
+            <recipe-teaser
+              *ngIf="(i % numColumns) === column"
+              [recipe]="recipe"
+              [modernize]="modernize"
+              [linkTags]="[]"
+            ></recipe-teaser>
+        </ng-container>
+    </div>
+</div>
