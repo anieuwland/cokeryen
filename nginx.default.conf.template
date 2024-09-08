@@ -8,7 +8,11 @@ server {
 
     location /assets/env.js {
         add_header Content-Type text/javascript;
-        return 200 'var ENV = {"SRV_URL": "${SRV_URL}"}';
+        return 200 'var ENV = {
+            "COKERYEN_DB_AUTH": "${COKERYEN_DB_AUTH}",
+            "COKERYEN_DB_URL":  "${COKERYEN_DB_URL}",
+            "COKERYEN_SRV_URL": "${COKERYEN_SRV_URL}",
+        }';
     }
 
     location / {

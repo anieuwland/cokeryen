@@ -15,6 +15,10 @@ RUN npm run build
 FROM --platform=linux/amd64 nginx:1.25.3-alpine3.18-slim AS runtime
 ARG VERSION
 
+ENV COKERYEN_DB_AUTH=''
+ENV COKERYEN_DB_URL=''
+ENV COKERYEN_SRV_URL=''
+
 MAINTAINER Arthur Nieuwland <anieuwland@nimmerfort.eu>
 LABEL org.opencontainers.image.authors="Arthur Nieuwland <anieuwland@nimmerfort.eu>" \
 #      org.opencontainers.image.source="https://bitbucket.org/nimmerwoner/moneymoneymoney/" \
