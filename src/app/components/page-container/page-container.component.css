@@ -1,0 +1,82 @@
+#centerColumn {
+    margin: 16px auto 256px;
+}
+
+#bookTeaserContainer {
+    flex-direction: row; 
+    justify-content: space-between; 
+    gap: 16px; 
+    flex-wrap: wrap;
+}
+
+book-teaser {
+    flex-basis: calc((100% - 16px)/2);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 560px) {
+    book-teaser {
+        flex-basis: 100%;
+    }
+}
+
+#centerColumn {
+    box-sizing: content-box;
+    width: 100%;
+    gap: 16px;
+    flex-direction: column;
+}
+
+#recipes {
+    gap: 16px;
+    justify-content: space-between;
+}
+
+#recipes > div {
+    width: calc(100% / 3 - 16px);
+    flex-direction: column;
+    gap: 16px;
+}
+
+@media screen and (min-width: 700px) {
+  #centerColumn > div:nth-child(2) {
+    flex-direction: row;
+  }
+}
+
+@media screen and (max-width: 700px) {
+    #recipes {
+        flex-direction: column;
+    }
+
+    #recipes > div {
+        width: calc(100%);
+    }
+
+    #centerColumn > div:nth-child(2) {
+      flex-direction: column;
+      text-align: center;
+    }
+}
+
+.pageTitleContainer {
+  flex-grow: 1; 
+  align-self: center;
+  flex-direction: row-reverse;
+  text-shadow: 
+     1px  1px 0 #F1E4D3,
+    -1px -1px 0 #F1E4D3,
+     1px -1px 0 #F1E4D3,
+    -1px  1px #F1E4D3;
+}
+
+recipe-teaser {
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1000px) {
+    #centerColumn {
+        margin-top: 16px;
+    }
+}

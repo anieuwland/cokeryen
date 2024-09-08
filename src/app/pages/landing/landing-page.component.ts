@@ -5,17 +5,17 @@ import { BookTeasersComponent } from "../../components/book-teasers/book-teasers
 import { RecipeTeaserComponent } from '../../components/recipe-teaser/recipe-teaser.component';
 import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
 import { DataService } from '../../services/data.service';
-import { Title } from '@angular/platform-browser';
 import { RecipeBook } from '../../domain/recipe-book';
 import { RecipeEntry } from '../../domain/recipe-entry';
 import { LinkPreviewService } from '../../services/link-preview.service';
+import { PageContainerComponent } from "../../components/page-container/page-container.component";
 
 export const LANDING_PAGE_TITLE = "Smaak van de redactie - Cokeryen";
 
 @Component({
   selector: 'landing-page',
   standalone: true,
-  imports: [BookTeaserComponent, BookTeasersComponent, CommonModule, RecipeTeaserComponent, ToolbarComponent],
+  imports: [BookTeaserComponent, BookTeasersComponent, CommonModule, RecipeTeaserComponent, ToolbarComponent, PageContainerComponent],
   templateUrl: './landing-page.component.html',
   styleUrl: './landing-page.component.css'
 })

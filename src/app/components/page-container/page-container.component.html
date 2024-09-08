@@ -1,0 +1,19 @@
+<h1>Cokeryen</h1>
+
+<div id="container">
+  <div id="centerColumn">
+    <book-teasers [books]="books" [weergave]="weergave"></book-teasers>
+
+    <div style="gap: 16px;">
+      <toolbar
+        [(modernize)]="modernize"
+        [modernizable]="modernizable"
+      ></toolbar>
+      <div class="pageTitleContainer">
+        <h3>{{ pageTitle }}</h3>
+      </div>
+    </div>
+
+    <ng-content></ng-content>
+  </div>
+</div>

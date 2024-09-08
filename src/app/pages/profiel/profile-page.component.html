@@ -1,58 +1,49 @@
-<h1>Cokeryen</h1>
-
-<div id="container">
-  <div id="centerColumn">
-    <book-teasers [books]="books"></book-teasers>
-
-    <div style="gap: 16px;">
-      <toolbar [modernizable]="true" [(modernize)]="modernize"></toolbar>
-      <div class="pageTitleContainer">
-        <h3>Profiel van {{user?.name ?? ""}}</h3>
-      </div>
-    </div>
-
-    <div *ngIf="user" class="content" style="gap: 6px;">
-      <div style="flex-direction: row; gap: 12px;">
-        <img *ngIf="user.picture" [src]="user.picture" />
-        <div style="flex-direction: column; gap: 6px;">
-          <p>Weergavenaam: {{user.name}}</p>
-          <p>E-mail: {{user.email}} &nbsp;<span *ngIf="user.email_verified">✅</span></p>
-          <p>Je vindt {{recipes.length}} historische recepten lekker</p>
-        </div>
-      </div>
-    </div>
-    
-    <div id="recipes">
-      <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser
-            *ngIf="i % 3 === 0"
-            [recipe]="recipe"
-            [modernize]="modernize"
-            [tags]="recipe.tags"
-          ></recipe-teaser>
-        </ng-container>
-      </div>
-      <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser
-            *ngIf="i % 3 === 1"
-            [recipe]="recipe"
-            [modernize]="modernize"
-            [tags]="recipe.tags"
-          ></recipe-teaser>
-        </ng-container>
-      </div>
-      <div>
-        <ng-container *ngFor="let recipe of recipes; let i = index">
-          <recipe-teaser
-            *ngIf="i % 3 === 2"
-            [recipe]="recipe"
-            [modernize]="modernize"
-            [tags]="recipe.tags"
-          ></recipe-teaser>
-        </ng-container>
+<page-container [books]="books" [modernizable]="recipes.length > 0" [weergave]="weergave" [pageTitle]="'Profiel van ' + (user?.name ?? '')">
+  <div *ngIf="user" class="content" style="gap: 6px">
+    <div style="flex-direction: row; gap: 12px">
+      <img *ngIf="user.picture" [src]="user.picture" />
+      <div style="flex-direction: column; gap: 6px">
+        <p>Weergavenaam: {{ user.name }}</p>
+        <p>
+          E-mail: {{ user.email }} &nbsp;<span *ngIf="user.email_verified"
+            >✅</span
+          >
+        </p>
+        <p>Je vindt {{ recipes.length }} historische recepten lekker</p>
       </div>
     </div>
   </div>
-</div>
+
+  <div id="recipes">
+    <div>
+      <ng-container *ngFor="let recipe of recipes; let i = index">
+        <recipe-teaser
+          *ngIf="i % 3 === 0"
+          [recipe]="recipe"
+          [modernize]="modernize"
+          [tags]="recipe.tags"
+        ></recipe-teaser>
+      </ng-container>
+    </div>
+    <div>
+      <ng-container *ngFor="let recipe of recipes; let i = index">
+        <recipe-teaser
+          *ngIf="i % 3 === 1"
+          [recipe]="recipe"
+          [modernize]="modernize"
+          [tags]="recipe.tags"
+        ></recipe-teaser>
+      </ng-container>
+    </div>
+    <div>
+      <ng-container *ngFor="let recipe of recipes; let i = index">
+        <recipe-teaser
+          *ngIf="i % 3 === 2"
+          [recipe]="recipe"
+          [modernize]="modernize"
+          [tags]="recipe.tags"
+        ></recipe-teaser>
+      </ng-container>
+    </div>
+  </div>
+</page-container>

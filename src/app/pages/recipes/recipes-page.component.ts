@@ -8,11 +8,12 @@ import { BookTeasersComponent } from "../../components/book-teasers/book-teasers
 import { RecipeEntry } from '../../domain/recipe-entry';
 import { RecipeBook } from '../../domain/recipe-book';
 import { LinkPreviewService } from '../../services/link-preview.service';
+import { PageContainerComponent } from "../../components/page-container/page-container.component";
 
 @Component({
   selector: 'recipes-page',
   standalone: true,
-  imports: [BookTeaserComponent, RecipeTeaserComponent, CommonModule, ToolbarComponent, BookTeasersComponent],
+  imports: [BookTeaserComponent, RecipeTeaserComponent, CommonModule, ToolbarComponent, BookTeasersComponent, PageContainerComponent],
   templateUrl: './recipes-page.component.html',
   styleUrl: './recipes-page.component.css'
 })

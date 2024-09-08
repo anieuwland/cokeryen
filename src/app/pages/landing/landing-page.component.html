@@ -4,30 +4,14 @@
 * Fold main menu buttons into 1
 -->
 
-<h1>Cokeryen</h1>
-
-<div id="container">
-  <div id="centerColumn">
-    <book-teasers [books]="books" [weergave]="weergave"></book-teasers>
-
-    <div id="toolbarContainer">
-      <toolbar
-        [(modernize)]="modernize"
-        [modernizable]="true"
-      ></toolbar>
-      <div style="flex-direction: row-reverse; flex-grow: 1; align-self: center">
-        <h3>{{pageTitle}}</h3>
-      </div>
-    </div>
-
-    <div id="recipes">
-      <div *ngFor="let column of recipes">
-        <recipe-teaser
-          *ngFor="let recipe of column"
-          [recipe]="recipe[0]"
-          [modernize]="modernize"
-        ></recipe-teaser>
-      </div>
+<page-container [books]="books" [modernizable]="true" [weergave]="weergave">
+  <div id="recipes">
+    <div *ngFor="let column of recipes">
+      <recipe-teaser
+        *ngFor="let recipe of column"
+        [recipe]="recipe[0]"
+        [modernize]="modernize"
+      ></recipe-teaser>
     </div>
   </div>
-</div>
+</page-container>
