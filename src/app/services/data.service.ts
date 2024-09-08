@@ -35,6 +35,13 @@ export class DataService {
     return result.then(rs => rs.length !== 1 ? undefined : rs[0]);
   }
 
+  public async getRecipeHistoricalTitle(bookRef: string, number: string): Promise<string> {
+    interface TitleObject { historical: { title: string } };
+    const query = `select RecipeEntry {historical: {title}} filter .book.reference = '${bookRef}' and .number = ${number}`;
+    const result = this.api.query<TitleObject>(query);
+    return result.then(rs => rs.length !== 1 ? "" : rs[0].historical.title);
+  }
+
   public async getRecipesFrom(bookRef: string): Promise<RecipeEntry[]> {
     const query = `select RecipeEntry {id, book: {reference}, number, tags, historical: {*}, modernized: {*}} filter .book.reference = '${bookRef}';`
     return this.api.query<RecipeEntry>(query);
@@ -44,7 +51,7 @@ export class DataService {
     const query = "select RecipeEntry {*, book: {*}, historical: {*}, modernized: {*}} filter .number in {1, 172, 88, 28, 484, 483, 130, 474, 167};";
     const result = this.api.query<RecipeEntry>(query);
     // @ts-ignore
-    return result.then(rs => rs.map(r =>[r, r.book]));
+    return result.then(rs => rs.map(r => [r, r.book]));
   }
 
   public async getRecipes(): Promise<RecipeEntry[]> {
@@ -61,8 +68,8 @@ export class DataService {
   public async getRecipesAll(): Promise<RecipeEntry[]> {
     // const query = "select RecipeEntry {id, book: {reference} number, tags, variants: {*}} filter .reference in {'GENT1499', 'NOOT1514', 'BATEN1593', 'N1669'} order by .number;"
     const query = "select RecipeEntry {id, book: {reference}, number, tags, historical: {*}, modernized: {*}} " +
-                  `filter .book.reference in {${SUPPORT_BOOKS.map(s => `'${s}'`).join(", ")}} ` +
-                  "order by .number";
+      `filter .book.reference in {${SUPPORT_BOOKS.map(s => `'${s}'`).join(", ")}} ` +
+      "order by .number";
     return this.api.query<RecipeEntry>(query);
   }
 }
@@ -88,10 +95,10 @@ class ApiClient {
     const authorization = ENV.COKERYEN_DB_AUTH;
     const headers = { authorization, ...cors };
     const payload = { query }
-    return this.http.post<ApiResult<T>>(ENV.COKERYEN_DB_URL, payload, {headers, responseType: "json"})
+    return this.http.post<ApiResult<T>>(ENV.COKERYEN_DB_URL, payload, { headers, responseType: "json" })
       .toPromise()
       .then(r => r?.data)
-      .then(data => {if (data) this.cache.set(query, data); return data})
+      .then(data => { if (data) this.cache.set(query, data); return data })
       .then(data => data === undefined ? [] : data);
   }
 }

@@ -8,6 +8,9 @@ import { DataService } from '../../services/data.service';
 import { Title } from '@angular/platform-browser';
 import { RecipeBook } from '../../domain/recipe-book';
 import { RecipeEntry } from '../../domain/recipe-entry';
+import { LinkPreviewService } from '../../services/link-preview.service';
+
+export const LANDING_PAGE_TITLE = "Smaak van de redactie - Cokeryen";
 
 @Component({
   selector: 'landing-page',
@@ -24,15 +27,12 @@ export class LandingPage implements OnInit, OnChanges {
   _recipes: RecipeEntry[] = [];
   recipes: [RecipeEntry, RecipeBook][][] = [];
   books: { [key: string]: RecipeBook } = {};
-
-  pageTitle = "Smaak van de redactie";
+  pageTitle = LANDING_PAGE_TITLE;
 
   constructor(
     private data: DataService,
-    private title: Title,
-  ) {
-    title.setTitle([this.pageTitle, "Cokeryen"].join(" - "));
-  }
+    private linkPreview: LinkPreviewService,
+  ) { }
 
   ngOnInit() {
     const books = this.data.getBooksAsMap().then(bs => this.books = bs);
@@ -44,6 +44,8 @@ export class LandingPage implements OnInit, OnChanges {
 
   ngOnChanges() {
     this.modernize = this.weergave === 'moderniseren';
+    const firstRecipe = this._recipes.length > 0 ? this._recipes[0] : undefined;
+    this.linkPreview.updatePreviewTags(this.modernize, LANDING_PAGE_TITLE, firstRecipe);
   }
 }
 

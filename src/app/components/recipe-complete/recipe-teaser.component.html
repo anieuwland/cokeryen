@@ -29,7 +29,7 @@
     *ngIf="book.modernized"
     ><img
       loading="lazy"
-      src="/assets/gerechten/{{ recipe.book.reference }}/{{ recipe.book.reference }}-{{ recipe.number }}.jpg"
+      src="{{ recipe | recipeImageUrl }}"
       style="
         width: calc(100% + 32px);
         position: relative;

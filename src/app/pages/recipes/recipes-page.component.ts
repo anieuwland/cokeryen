@@ -8,6 +8,7 @@ import { BookTeasersComponent } from "../../components/book-teasers/book-teasers
 import { Title } from '@angular/platform-browser';
 import { RecipeEntry } from '../../domain/recipe-entry';
 import { RecipeBook } from '../../domain/recipe-book';
+import { LinkPreviewService } from '../../services/link-preview.service';
 
 @Component({
   selector: 'recipes-page',
@@ -32,7 +33,7 @@ export class RecipesPage implements OnInit, OnChanges {
 
   constructor(
     private data: DataService,
-    private title: Title,
+    private linkPreview: LinkPreviewService,
   ) {}
 
   public get pageTitle(): string {
@@ -61,8 +62,9 @@ export class RecipesPage implements OnInit, OnChanges {
     const f3 = (r: RecipeEntry) => this.ingredients.length > 0 ? hasIngr(r, this.ingredients) : true;
     this.recipes = this._recipes.filter(f1).filter(f2).filter(f3).map(r => [r, this.books[r.book.reference]])
 
-    const titleItems = [this.pageTitle, "Cokeryen"].filter(s => s !== "");
-    this.title.setTitle(titleItems.join(" - "));
+    const title = [this.pageTitle, "Cokeryen"].filter(s => s !== "").join(" - ");
+    const firstRecipe = this.recipes.length > 0 ? this.recipes[0][0] : undefined;
+    this.linkPreview.updatePreviewTags(this.modernize, title, firstRecipe);
   }
 }
 
@@ -71,3 +73,4 @@ function normalizeToArray<T>(value: T | T[] | undefined): T[] {
   const array = Array.isArray(defined) ? defined : [defined];
   return array;
 }
+

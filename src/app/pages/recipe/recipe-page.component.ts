@@ -13,6 +13,7 @@ import { DataService } from '../../services/data.service';
 import { Title } from '@angular/platform-browser';
 import { RecipeEntry } from '../../domain/recipe-entry';
 import { RecipeBook } from '../../domain/recipe-book';
+import { LinkPreviewService } from '../../services/link-preview.service';
 
 @Component({
   selector: 'recipe-page',
@@ -33,18 +34,15 @@ export class RecipePage implements OnInit, OnChanges {
   @Input() weergave: string = 'historiseren';
 
   modernize: boolean = false;
-  title: Title;
 
   public recipe: RecipeEntry | undefined = undefined;
   public book: RecipeBook | undefined = undefined;
   public books: { [key: string]: RecipeBook } = {};
 
-  data: DataService;
-
-  constructor(data: DataService, title: Title) {
-    this.data = data;
-    this.title = title;
-  }
+  constructor(
+    private data: DataService,
+    private linkPreview: LinkPreviewService,
+  ) { }
 
   ngOnInit() {
   }
@@ -60,10 +58,13 @@ export class RecipePage implements OnInit, OnChanges {
       this.books = books;
       this.book = books[this.bookRef];
       this.recipe = recipe;
-      
-      const variantTitle = this.modernize ? this.recipe?.modernized?.title : this.recipe?.historical.title;
-      const title = [variantTitle ?? '', 'Cokeryen'].filter(s => s !== "");
-      this.title.setTitle(title.join(" - "));
+      if (recipe === undefined) {
+        console.error("Failed to retrieve recipe, rendering interrupted");
+        return;
+      }
+
+      const title = phraseTitle(this.weergave, recipe);
+      this.linkPreview.updatePreviewTags(this.modernize, title, recipe);
     });
   }
 
@@ -72,4 +73,10 @@ export class RecipePage implements OnInit, OnChanges {
     if (!this.bookRef) return undefined;
     else return this.data.getRecipe(this.bookRef, this.recipeNumber)
   }
+}
+
+const phraseTitle = (modernize: string, recipe: RecipeEntry): string => {
+  const variantTitle = modernize ? recipe.modernized?.title : recipe.historical.title;
+  const title = [variantTitle ?? '', 'Cokeryen'].filter(s => s !== "");
+  return title.join(" - ");
 }
