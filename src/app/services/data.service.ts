@@ -4,6 +4,7 @@ import { RecipeBook } from '../domain/recipe-book';
 import { RecipeEntry } from '../domain/recipe-entry';
 import { ENV } from '../app.env';
 import { toEDBString, User } from '../domain/user';
+import { LikeLandingPage } from '../domain/like';
 
 const SUPPORT_BOOKS = ['GENT1499', 'NOOT1514', 'BATEN1593', 'N1669'];
 
@@ -54,8 +55,13 @@ export class DataService {
   }
 
   public async getRecipesLandingPage(): Promise<RecipeEntry[]> {
-    const query = "select RecipeEntry {*, book: { reference, title }, historical: {*}, likes: {user: {sub}}, modernized: {*}} filter .number in {1, 172, 88, 28, 484, 483, 130, 474, 167};";
+    const query = "select RecipeEntry {*, book: { reference, title }, historical: {*}, likes: {user: {sub}}, modernized: {*}} filter .number in {1, 172, 88, 28, 484, 483, 130, 474, 167, 491};";
     return this.api.query<RecipeEntry>(query);
+  }
+
+  public async getLikeLandingPage(max: number = 5): Promise<LikeLandingPage[]> {
+    const query = `select UserLike { recipe: { number, book: { reference }, historical: { title }, modernized: { title }}} order by .datetime desc limit ${max}`;
+    return this.api.query<LikeLandingPage>(query);
   }
 
   public async getRecipes(): Promise<RecipeEntry[]> {

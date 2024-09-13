@@ -1,5 +1,5 @@
-<div id="recipes">
-    <div *ngFor="let column of columns">
+<div id="recipes" responsive-column>
+    <div class="recipes-column" *ngFor="let column of columns">
         <ng-container *ngFor="let recipe of recipes; let i = index">
             <recipe-teaser
               *ngIf="(i % numColumns) === column"

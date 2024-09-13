@@ -55,6 +55,7 @@ module default {
     type UserLike {
         required user: User;
         required recipe: RecipeEntry;
+        required datetime: datetime { default := datetime_current() };
 
         constraint exclusive on ((.user, .recipe));
         

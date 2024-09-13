@@ -40,8 +40,8 @@
       </div>
       <div id="recipeStatistics">
         <div class="recipeStatistic">
-          <span>{{ recipe | recipeNumLikes }}x</span>
-          <span>lekker</span>
+          <span>{{ recipe | recipeNumLikes }}</span>
+          <span>{{ (recipe | recipeNumLikes) == 1 ? 'lecker' : 'leckers' }}</span>
         </div>
         <div class="recipeStatistic">
           <span>{{ book.year }}</span>

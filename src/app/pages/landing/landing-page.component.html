@@ -4,11 +4,32 @@
 * Fold main menu buttons into 1
 -->
 
-<page-container [books]="books" (modernize)="modernize" [modernizable]="true" [weergave]="weergave">
-  <recipes-overview
-    [numColumns]="3"
-    [recipes]="recipes"
-    [modernize]="modernize"
-  >
-  </recipes-overview>
+<page-container
+  [books]="books"
+  (modernize)="(modernize)"
+  [modernizable]="true"
+  [weergave]="weergave"
+>
+  <div class="responsive-column" id="test">
+    <div id="recently-liked">
+      <h3>Recent verleckerd</h3>
+      <div id="recently-liked-items">
+        <a *ngFor="let like of likes" href="{{ like.recipe | recipeUrl }}">
+          <img
+            src="{{ like.recipe | recipeImageUrl }}"
+            title="{{
+              modernize
+                ? like.recipe.modernized.title
+                : like.recipe.historical.title
+            }}"
+          />
+        </a>
+      </div>
+    </div>
+
+    <recipes-overview
+      [recipes]="recipes"
+      [modernize]="modernize"
+    />
+  </div>
 </page-container>

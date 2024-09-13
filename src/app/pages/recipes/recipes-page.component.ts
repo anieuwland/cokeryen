@@ -9,7 +9,8 @@ import { RecipeEntry } from '../../domain/recipe-entry';
 import { RecipeBook } from '../../domain/recipe-book';
 import { LinkPreviewService } from '../../services/link-preview.service';
 import { PageContainerComponent } from "../../components/page-container/page-container.component";
-import { RecipesOverviewComponent } from "../../components/recipes-overview/recipes-overview.component";
+import { changeRecipeColumns, RecipesOverviewComponent } from "../../components/recipes-overview/recipes-overview.component";
+import { fromEvent } from 'rxjs';
 
 @Component({
   selector: 'recipes-page',
@@ -28,14 +29,14 @@ export class RecipesPage implements OnInit, OnChanges {
 
   modernize: boolean = false;
 
+  books: { [key: string]: RecipeBook } = {};
   _recipes: RecipeEntry[] = [];
   recipes: RecipeEntry[] = [];
-  books: { [key: string]: RecipeBook } = {};
 
   constructor(
     private data: DataService,
     private linkPreview: LinkPreviewService,
-  ) {}
+  ) { }
 
   public get pageTitle(): string {
     const bookRef = this.bookRef;

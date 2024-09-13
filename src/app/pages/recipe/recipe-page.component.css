@@ -22,7 +22,7 @@
     flex-direction: row-reverse;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 774px) {
     #centerColumn {
         padding: 96px;
     }
@@ -38,7 +38,7 @@
     }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 774px) {
     #centerColumn {
         padding: 32px;
     }

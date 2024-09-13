@@ -19,7 +19,7 @@ export class PageContainerComponent {
   modernize: boolean = false;
   @Output() modernizeChange = new EventEmitter<boolean>();
 
-  ngOnChanges(changes: SimpleChanges) {
+  ngOnChanges() {
     this.modernize = this.weergave === "moderniseren";
     this.modernizeChange.emit(this.modernize);
   }

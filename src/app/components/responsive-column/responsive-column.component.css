@@ -1,0 +1,16 @@
+#responsive-column {
+    justify-content: space-between;
+    gap: 16px;
+}
+
+@media screen and (min-width: 774px) {
+    #responsive-column {
+        flex-direction: inherit;
+    }
+}
+
+@media screen and (max-width: 774px) {
+    #responsive-column {
+        flex-direction: column;
+    }
+}

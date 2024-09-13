@@ -6,28 +6,31 @@ import { RecipeTeaserComponent } from '../../components/recipe-teaser/recipe-tea
 import { ToolbarComponent } from '../../components/toolbar/toolbar.component';
 import { DataService } from '../../services/data.service';
 import { RecipeBook } from '../../domain/recipe-book';
-import { RecipeEntry } from '../../domain/recipe-entry';
+import { RecipeEntry, RecipeImageUrlPipe, RecipeUrlPipe } from '../../domain/recipe-entry';
 import { LinkPreviewService } from '../../services/link-preview.service';
 import { PageContainerComponent } from "../../components/page-container/page-container.component";
-import { RecipesOverviewComponent } from "../../components/recipes-overview/recipes-overview.component";
+import { changeRecipeColumns, RecipesOverviewComponent } from "../../components/recipes-overview/recipes-overview.component";
+import { ResponsiveColumn } from "../../components/responsive-column/responsive-column.component";
+import { LikeLandingPage } from '../../domain/like';
+import { fromEvent, Observable, Subscription } from 'rxjs';
 
 export const LANDING_PAGE_TITLE = "Smaak van de redactie - Cokeryen";
 
 @Component({
   selector: 'landing-page',
   standalone: true,
-  imports: [BookTeaserComponent, BookTeasersComponent, CommonModule, RecipeTeaserComponent, ToolbarComponent, PageContainerComponent, RecipesOverviewComponent],
+  imports: [BookTeaserComponent, BookTeasersComponent, CommonModule, RecipeTeaserComponent, ToolbarComponent, PageContainerComponent, RecipesOverviewComponent, RecipeImageUrlPipe, RecipeUrlPipe, ResponsiveColumn],
   templateUrl: './landing-page.component.html',
   styleUrl: './landing-page.component.css'
 })
 export class LandingPage implements OnInit, OnChanges {
   @Input() weergave: string = 'historiseren';
 
-  modernize: boolean = false;
-
-  recipes: RecipeEntry[] = [];
   books: { [key: string]: RecipeBook } = {};
+  likes: LikeLandingPage[] = []
+  modernize: boolean = false;
   pageTitle = LANDING_PAGE_TITLE;
+  recipes: RecipeEntry[] = [];
 
   constructor(
     private data: DataService,
@@ -40,6 +43,8 @@ export class LandingPage implements OnInit, OnChanges {
     const recipes = this.data.getRecipesLandingPage().then(rs => this.recipes = rs);
     const promises = [books, recipes];
     Promise.all(promises).then(_ => this.ngOnChanges());
+
+    this.data.getLikeLandingPage().then(ls => this.likes = ls).then(_ => this.ngOnChanges())
   }
 
   ngOnChanges() {
@@ -48,4 +53,3 @@ export class LandingPage implements OnInit, OnChanges {
     this.linkPreview.updatePreviewTags(this.modernize, LANDING_PAGE_TITLE, firstRecipe);
   }
 }
-

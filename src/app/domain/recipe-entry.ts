@@ -19,31 +19,35 @@ export interface RecipeEntry {
     // }[]
 };
 
-export const modernized = (r: {modernized?: RecipeVariant}) => r.modernized !== undefined;
-export const imageUrl = (r: RecipeEntry, baseHref: string | undefined = undefined): string => {
+export const imageUrl = (r: {book: {reference: string }, number: number}, baseHref: string | undefined = undefined): string => {
     if (baseHref === undefined) baseHref = window.location.origin;
     return `${baseHref}/assets/gerechten/${r.book.reference}/${r.book.reference}-${r.number}.jpg`;
 };
+export const modernized = (r: {modernized?: RecipeVariant}) => r.modernized !== undefined;
 export const numLikes = (r: RecipeEntry): number => {
     return r.likes.length;
 }
+export const recipeUrl = (r: {book: {reference: string }, number: number}) => {
+    return `/recepten/${r.book.reference}/${r.number}`;
+}
 
-@Pipe({
-    name: 'recipeImageUrl',
-    standalone: true
-})
+@Pipe({ name: 'recipeImageUrl', standalone: true })
 export class RecipeImageUrlPipe implements PipeTransform {
-    transform(recipe: RecipeEntry, baseHref: string | undefined = undefined) {
+    transform(recipe: {book: {reference: string }, number: number}, baseHref: string | undefined = undefined) {
         return imageUrl(recipe, baseHref);
     }
 }
 
-@Pipe({
-    name: 'recipeNumLikes',
-    standalone: true
-})
+@Pipe({ name: 'recipeNumLikes', standalone: true })
 export class recipeLekkerCountPipe implements PipeTransform {
     transform(recipe: RecipeEntry): number {
         return numLikes(recipe);
+    }
+}
+
+@Pipe({ name: 'recipeUrl', standalone: true })
+export class RecipeUrlPipe implements PipeTransform {
+    transform(recipe: {book: {reference: string }, number: number}) {
+        return recipeUrl(recipe);
     }
 }

@@ -39,13 +39,13 @@ book-teaser {
     gap: 16px;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 774px) {
   #centerColumn > div:nth-child(2) {
     flex-direction: row;
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 774px) {
     #recipes {
         flex-direction: column;
     }
