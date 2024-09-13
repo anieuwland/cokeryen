@@ -29,7 +29,6 @@ export class RecipesOverviewComponent {
   ngOnChanges() {
     this.columns = [...Array(this.numColumns).keys()];
     this.numColumns = changeRecipeColumns();
-    console.log(this.numColumns, this.columns);
   }
 }
 
