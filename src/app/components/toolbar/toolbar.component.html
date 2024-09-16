@@ -1,15 +1,15 @@
 <div id="toolbar">
-  <a routerLink="/" queryParamsHandling="preserve"><button>⌂</button></a>
-  <button
-    (click)="toggle()"
-    [disabled]="!modernizable"
+  <a routerLink="/" queryParamsHandling="preserve">
+    <button class="fa-solid fa-house"></button>
+  </a>
+  <a
     routerLink="./"
     [queryParams]="{ weergave: label.toLowerCase() }"
     queryParamsHandling="merge"
   >
-    {{ label }}
-  </button>
-  <button [disabled]="!authenticated" routerLink="/profiel">Profiel</button>
+    <button [disabled]="!modernizable">{{ label }}</button>
+  </a>
+  <a routerLink="/profiel"><button [disabled]="!authenticated">Profiel</button></a>
   <button *ngIf="!authenticated" [disabled]="authenticated === undefined" (click)="login()">Inloggen</button>
   <button *ngIf="authenticated" [disabled]="authenticated === undefined" (click)="logout()">Uitloggen</button>
 </div>

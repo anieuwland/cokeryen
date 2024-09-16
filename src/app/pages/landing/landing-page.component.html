@@ -14,7 +14,7 @@
     <div id="recently-liked">
       <h3>Recent verleckerd</h3>
       <div id="recently-liked-items">
-        <a *ngFor="let like of likes" href="{{ like.recipe | recipeUrl }}">
+        <a *ngFor="let like of likes" routerLink="{{ like.recipe | recipeUrl }}">
           <img
             src="{{ like.recipe | recipeImageUrl }}"
             title="{{
