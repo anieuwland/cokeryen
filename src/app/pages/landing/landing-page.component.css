@@ -15,11 +15,13 @@
 
 #recently-liked-items a {
     display: flex; 
-    aspect-ratio: 1;
+    aspect-ratio: 1 / 1;
 }
 
 #recently-liked-items img {
     border-radius: 8px;
+    aspect-ratio: 1 / 1;
+    width: 100%;
 }
 
 #recently-liked-items {
