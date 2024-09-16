@@ -53,9 +53,9 @@ module default {
     }
 
     type UserLike {
-        required user: User;
-        required recipe: RecipeEntry;
         required datetime: datetime { default := datetime_current() };
+        required recipe: RecipeEntry;
+        required user: User;
 
         constraint exclusive on ((.user, .recipe));
         
@@ -69,6 +69,8 @@ module default {
 
     type UserComment {
         required comment: str;
+        required datetime: datetime { default := datetime_current() };
+        required recipe: RecipeEntry;
         required user: User;
         
         access policy unauthenticated_full_read 

@@ -14,6 +14,10 @@ import { RecipeEntry } from '../../domain/recipe-entry';
 import { RecipeBook } from '../../domain/recipe-book';
 import { LinkPreviewService } from '../../services/link-preview.service';
 import { SpinnerComponent } from "../../components/spinner/spinner.component";
+import { AuthService } from '@auth0/auth0-angular';
+import { isUser, User } from '../../domain/user';
+import { RecipeComment } from '../../domain/comment';
+import { MarkdownToHtmlPipe } from "../../pipes/markdown-to-html.pipe";
 
 @Component({
   selector: 'recipe-page',
@@ -24,7 +28,8 @@ import { SpinnerComponent } from "../../components/spinner/spinner.component";
     CommonModule,
     RecipeCompleteComponent,
     ToolbarComponent,
-    SpinnerComponent
+    SpinnerComponent,
+    MarkdownToHtmlPipe
 ],
   templateUrl: './recipe-page.component.html',
   styleUrl: './recipe-page.component.css',
@@ -36,16 +41,20 @@ export class RecipePage implements OnInit, OnChanges {
 
   modernize: boolean = false;
 
-  public recipe: RecipeEntry | undefined = undefined;
   public book: RecipeBook | undefined = undefined;
   public books: { [key: string]: RecipeBook } = {};
+  public comments: RecipeComment[] = [];
+  public recipe: RecipeEntry | undefined = undefined;
+  public user: User | null | undefined;
 
   constructor(
+    private auth: AuthService,
     private data: DataService,
     private linkPreview: LinkPreviewService,
   ) { }
 
   ngOnInit() {
+    this.auth.user$.subscribe(u => this.user = isUser(u) ? u : undefined);
   }
 
   ngOnChanges() {
@@ -66,6 +75,7 @@ export class RecipePage implements OnInit, OnChanges {
 
       const title = phraseTitle(this.weergave, recipe);
       this.linkPreview.updatePreviewTags(this.modernize, title, recipe);
+      this.getComments().then(cs => this.comments = cs);
     });
   }
 
@@ -73,6 +83,24 @@ export class RecipePage implements OnInit, OnChanges {
     this.recipe = undefined;
     if (!this.bookRef) return undefined;
     else return this.data.getRecipe(this.bookRef, this.recipeNumber)
+  }
+
+  async getComments(): Promise<RecipeComment[]> {
+    this.comments = [];
+    if (!this.recipe) return [];
+    else return this.data.getRecipeComments(this.recipe.id);
+  }
+
+  async submitComment(recipe: RecipeEntry, user: User) {
+    const submissionSection = document.getElementById("userCommentSubmission");
+    const textAreas = submissionSection?.getElementsByTagName("textarea");
+    const comment = textAreas?.[0]?.value ?? "";
+    if (!comment) {
+      console.warn("Aborting attempt to submit empty comment.");
+      return;
+    }
+
+    this.data.insertComment(recipe.id, user, comment);
   }
 }
 

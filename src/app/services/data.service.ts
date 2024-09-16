@@ -5,6 +5,7 @@ import { RecipeEntry } from '../domain/recipe-entry';
 import { ENV } from '../app.env';
 import { toEDBString, User } from '../domain/user';
 import { LikeLandingPage } from '../domain/like';
+import { RecipeComment } from '../domain/comment';
 
 const SUPPORT_BOOKS = ['GENT1499', 'NOOT1514', 'BATEN1593', 'N1669'];
 
@@ -83,8 +84,22 @@ export class DataService {
     return this.api.query<RecipeEntry>(query);
   }
 
+  public async getRecipeComments(recipeId: string): Promise<RecipeComment[]> {
+    const query = `select UserComment { *, user: { * }, recipe: { * } } filter .recipe.id = <uuid>'${recipeId}'`;
+    return this.api.query<RecipeComment>(query);
+  }
+
+  public async insertComment(recipeId: string, user: User, comment: string) {
+    const commentedRecipe = `(select RecipeEntry filter .id = <uuid>'${recipeId}')`;
+    const upsertedUser = `(select (insert ${toEDBString(user)} unless conflict on .sub else User))`;
+    const query = `insert UserComment { comment := '${comment}', recipe := ${commentedRecipe}, user := ${upsertedUser} };`;
+    return this.api.query<Id>(query);
+  }
+
   public async insertLike(recipeId: string, user: User) {
-    const query = `insert UserLike { recipe := (select RecipeEntry filter .id = <uuid>'${recipeId}'), user := (select (insert ${toEDBString(user)} unless conflict on .sub else User))};`;
+    const commentedRecipe = `(select RecipeEntry filter .id = <uuid>'${recipeId}')`;
+    const upsertedUser = `(select (insert ${toEDBString(user)} unless conflict on .sub else User))`;
+    const query = `insert UserLike { recipe := ${commentedRecipe}, user := ${upsertedUser} };`;
     return this.api.query<Id>(query);
   }
 

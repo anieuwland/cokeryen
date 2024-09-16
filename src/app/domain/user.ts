@@ -8,7 +8,11 @@ export interface User {
 }
 
 export const isUser = (u: object | null | undefined): u is User => {
-    return u !== null && u !== undefined && "name" in u && "sub" in u && "picture" in u;
+    const real = u !== null && u !== undefined && "name" in u && "sub" in u && "picture" in u;
+    if (u !== null && u !== undefined && !real) {
+        console.warn("Encountered invalid user", u);
+    }
+    return real
 }
 
 export const toEDBString = (u: User): string => {

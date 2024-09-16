@@ -80,3 +80,15 @@
     margin-bottom: 96px; 
     gap: 16px;
 }
+
+.commentText {
+    flex-direction: column;
+    gap: 12px;
+}
+
+.commentText ::ng-deep p,
+.commentText ::ng-deep ul,
+.commentText ::ng-deep img {
+    max-width: 100%;
+    margin: 0px;
+}
