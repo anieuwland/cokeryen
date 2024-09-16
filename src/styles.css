@@ -19,10 +19,14 @@
     src: url(/assets/fonts/indira-k.ttf) format("truetype");
 } */
 
-h1 {
+h1, h1 a {
     font-family: "Manuskript";
     text-shadow: #BC5347 2px 3px; 
     margin-top: 48px !important;
+}
+
+h1, h1 a:hover {
+    text-decoration: none;
 }
 
 h2, h3, p, a, button, span, li { 
