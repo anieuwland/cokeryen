@@ -19,7 +19,7 @@
           ) | toSentenceCase
         }}
       </h2>
-      <div style="flex-direction: column; gap: 2px; margin-bottom: auto;">
+      <div style="flex-direction: column; gap: 2px;">
         <p class="author">
           <a class="author" routerLink="/recepten/{{ book.reference }}">{{ book.title }}</a>
         </p>
@@ -29,23 +29,25 @@
           <span  *ngIf="book.transcriber !== 'Marleen Willebrands'" class="author">{{book.transcriber}}</span>
         </p>
       </div>
-      <div *ngIf="user" id="recipeInteractivities">
-        <div class="recipeInteractivity">
-          <button *ngIf="!(user | liked: recipe)" (click)="submitLike()"><i class="fa-regular fa-bookmark"></i></button>
-          <button *ngIf="user | liked: recipe" (click)="submitUnlike()"><i class="fa-solid fa-bookmark"></i></button>
+      <div id="recipeInteractivities">
+        <div class="recipeInteractivity" *ngIf="user">
+          <button *ngIf="!(user | liked: recipe)" (click)="submitLike(user, recipe)"><i class="fa-regular fa-bookmark"></i></button>
+          <button *ngIf="user | liked: recipe" (click)="submitUnlike(user, recipe)"><i class="fa-solid fa-bookmark"></i></button>
         </div>
         <div class="recipeInteractivity">
           <modernize-button [modernize]="modernize" [modernizable]="recipe.modernized ? true : false"></modernize-button>
         </div>
       </div>
       <div id="recipeStatistics">
-        <div class="recipeStatistic">
+        <div class="recipeStatistic" [ngClass]="{'inverted': user && (user | liked: recipe)}" (click)="toggleLike(user, recipe)">
           <span>{{ recipe | recipeNumLikes }}</span>
           <span>{{ (recipe | recipeNumLikes) == 1 ? 'lecker' : 'leckers' }}</span>
         </div>
-        <div class="recipeStatistic">
-          <span>{{ book.year }}</span>
-          <span>gepubliceerd</span>
+        <div class="recipeStatistic" [ngClass]="{'inverted': modernize}" (click)="toggleModernize()">
+          <span *ngIf="!modernize">{{ book.year }}</span>
+          <span *ngIf="!modernize">gepubliceerd</span>
+          <span *ngIf="modernize">2024</span>
+          <span *ngIf="modernize">gemoderniseerd</span>
         </div>
         <!-- <div class="recipeStatistic inverted rounded">
           <span>{{ getNameSymbol() }}</span>

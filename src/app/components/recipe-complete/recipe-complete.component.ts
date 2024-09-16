@@ -39,9 +39,15 @@ export class RecipeCompleteComponent implements OnChanges {
     return initials.join("").toUpperCase();
   }
 
-  async submitLike() {
-    const user = this.user;
-    const recipe = this.recipe;
+  async toggleLike(user: User | null | undefined, recipe: RecipeEntry) {
+    if (user === null || user === undefined) {
+      return;
+    }
+
+    likedRecipe(user, recipe) ? this.submitUnlike(user, recipe) : this.submitLike(user, recipe);
+  }
+
+  async submitLike(user: User, recipe: RecipeEntry) {
     if (!isUser(user)) {
       console.warn("Attempted to submit a like while not logged in.")
       return;
@@ -57,9 +63,7 @@ export class RecipeCompleteComponent implements OnChanges {
     this.recipe = { ...recipe };
   }
 
-  async submitUnlike() {
-    const user = this.user;
-    const recipe = this.recipe;
+  async submitUnlike(user: User, recipe: RecipeEntry) {
     if (!isUser(user)) {
       console.warn("Attempted to submit a like while not logged in.")
       return;
@@ -74,5 +78,9 @@ export class RecipeCompleteComponent implements OnChanges {
     const i = recipe.likes.findIndex((l) => l.user.sub === user.sub);
     recipe.likes.splice(i, 1);
     this.recipe = { ...recipe };
+  }
+
+  async toggleModernize() {
+    this.modernize = !this.modernize;
   }
 }

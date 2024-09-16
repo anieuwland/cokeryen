@@ -88,6 +88,10 @@ button[disabled] {
 }
 
 @media screen and (min-width: 774px) {
+    #recipeInteractivities {
+        margin-bottom: auto;
+    }
+
     #recipeSection {
         gap: 96px;
     }
@@ -152,6 +156,10 @@ a.author:hover {
     /* color: #512630; */
     /* color: #e88230; */
     color: #BC5347;
+    padding: 12px;
+    border: 1px solid white;
+    outline: 2px solid white;
+    border-radius: 8px;
 }
 
 .recipeStatistic span:first-child {
@@ -162,9 +170,7 @@ a.author:hover {
 .inverted {
     color: white;
     background: #BC5347;
-    padding: 12px;
     outline: 2px solid #BC5347;
-    border: 1px solid white;
 }
 
 .rounded {
