@@ -21,15 +21,12 @@
       </h2>
       <div style="flex-direction: column; gap: 2px; margin-bottom: auto;">
         <p class="author">
-          <a class="author" href="/boeken/{{ book.reference }}">{{ book.title }}</a>
+          <a class="author" routerLink="/recepten/{{ book.reference }}">{{ book.title }}</a>
         </p>
         <p class="author">
-          <a class="author" href="/koks/{{ book.person }}">{{ book.person }}</a
-          >&nbsp;&mdash;&nbsp;<a
-            class="author"
-            href="/transcribenten/{{ book.transcriber }}"
-            >{{ book.transcriber }}</a
-          >
+          <span class="author">{{ book.person }}</span>&nbsp;&mdash;&nbsp;
+          <a *ngIf="book.transcriber === 'Marleen Willebrands'" class="author" href="https://www.kookhistorie.nl/" target="_blank">{{ book.transcriber }}</a>
+          <span  *ngIf="book.transcriber !== 'Marleen Willebrands'" class="author">{{book.transcriber}}</span>
         </p>
       </div>
       <div *ngIf="user" id="recipeInteractivities">
