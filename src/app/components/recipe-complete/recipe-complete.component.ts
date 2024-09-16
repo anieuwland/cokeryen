@@ -8,11 +8,12 @@ import { RecipeEntry, RecipeImageUrlPipe, recipeLekkerCountPipe } from '../../do
 import { AuthService } from '@auth0/auth0-angular';
 import { DataService } from '../../services/data.service';
 import { isUser, likedRecipe, User, UserLikedRecipePipe } from '../../domain/user';
+import { ModernizeButton } from "../toolbar/modernize-button/modernize-button.component";
 
 @Component({
   selector: 'recipe-complete',
   standalone: true,
-  imports: [CommonModule, RouterModule, NormalizeRecipeTextPipe, ToSentenceCasePipe, RecipeImageUrlPipe, recipeLekkerCountPipe, UserLikedRecipePipe],
+  imports: [CommonModule, RouterModule, NormalizeRecipeTextPipe, ToSentenceCasePipe, RecipeImageUrlPipe, recipeLekkerCountPipe, UserLikedRecipePipe, ModernizeButton],
   templateUrl: './recipe-complete.component.html',
   styleUrl: './recipe-complete.component.css'
 })

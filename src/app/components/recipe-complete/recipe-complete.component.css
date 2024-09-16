@@ -138,13 +138,12 @@ a.author:hover {
     gap: 8px;
 }
 
-#recipeStatistics {
-    justify-content: space-evenly;
+#recipeInteractivities {
+    gap: 4px;
 }
 
-#recipeIntro *:last-child {
-    margin-top: auto;
-    margin-top: auto;
+#recipeStatistics {
+    justify-content: space-evenly;
 }
 
 .recipeStatistic {

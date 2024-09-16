@@ -3,11 +3,12 @@ import { Component, EventEmitter, Inject, Input, Output } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { AuthService } from '@auth0/auth0-angular';
 import { DOCUMENT } from '@angular/common';
+import { ModernizeButton } from './modernize-button/modernize-button.component';
 
 @Component({
   selector: 'toolbar',
   standalone: true,
-  imports: [CommonModule, RouterModule],
+  imports: [CommonModule, RouterModule, ModernizeButton],
   templateUrl: './toolbar.component.html',
   styleUrl: './toolbar.component.css'
 })
@@ -16,7 +17,6 @@ export class ToolbarComponent {
   @Input() modernize: boolean = false;
   @Output() modernizeChange = new EventEmitter<boolean>();
 
-  label: string = "Moderniseren";
   authenticated: boolean | undefined = undefined;
 
   constructor(
@@ -25,19 +25,6 @@ export class ToolbarComponent {
   ) {
     this.auth.isAuthenticated$.subscribe(bool => this.authenticated = bool);
     // this.auth.user$.subscribe(u => this.authenticated = (u !== null && u !== undefined));
-  }
-
-  get historical(): boolean {
-    return this.label === "Moderniseren";
-  }
-
-  get modernized(): boolean {
-    return this.label === "Historiseren";
-  }
-
-  ngOnChanges() {
-    if (this.modernize) this.label = "Historiseren";
-    else this.label = "Moderniseren";
   }
 
   public toggle() {

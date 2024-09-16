@@ -2,13 +2,7 @@
   <a routerLink="/" queryParamsHandling="preserve">
     <button class="fa-solid fa-house"></button>
   </a>
-  <a
-    routerLink="./"
-    [queryParams]="{ weergave: label.toLowerCase() }"
-    queryParamsHandling="merge"
-  >
-    <button [disabled]="!modernizable">{{ label }}</button>
-  </a>
+  <modernize-button [modernizable]="modernizable" [(modernize)]="modernize"></modernize-button>
   <a routerLink="/profiel"><button [disabled]="!authenticated">Profiel</button></a>
   <button *ngIf="!authenticated" [disabled]="authenticated === undefined" (click)="login()">Inloggen</button>
   <button *ngIf="authenticated" [disabled]="authenticated === undefined" (click)="logout()">Uitloggen</button>

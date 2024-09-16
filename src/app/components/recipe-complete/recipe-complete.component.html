@@ -19,7 +19,7 @@
           ) | toSentenceCase
         }}
       </h2>
-      <div style="flex-direction: column; gap: 2px">
+      <div style="flex-direction: column; gap: 2px; margin-bottom: auto;">
         <p class="author">
           <a class="author" href="/boeken/{{ book.reference }}">{{ book.title }}</a>
         </p>
@@ -36,6 +36,9 @@
         <div class="recipeInteractivity">
           <button *ngIf="!(user | liked: recipe)" (click)="submitLike()"><i class="fa-regular fa-bookmark"></i></button>
           <button *ngIf="user | liked: recipe" (click)="submitUnlike()"><i class="fa-solid fa-bookmark"></i></button>
+        </div>
+        <div class="recipeInteractivity">
+          <modernize-button [modernize]="modernize" [modernizable]="recipe.modernized ? true : false"></modernize-button>
         </div>
       </div>
       <div id="recipeStatistics">

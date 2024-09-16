@@ -1,0 +1,7 @@
+<a
+  routerLink="./"
+  [queryParams]="{ weergave: label.toLowerCase() }"
+  queryParamsHandling="merge"
+>
+  <button [disabled]="!modernizable">{{ label }}</button>
+</a>
