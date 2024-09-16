@@ -1,4 +1,6 @@
-<div id="bookTeaserContainer">
+<div id="bookTeaserContainer" style="justify-content: center;">
+    <spinner *ngIf="booksByYear.length === 0"></spinner>
+
     <book-teaser *ngFor="let book of booksByYear" style="background: #BC5347;" [book]="book" [weergave]="weergave"></book-teaser>
     <!-- <book-teaser style="background: #BC5347;" [book]="books['GENT1499']" [weergave]="weergave"></book-teaser>
     <book-teaser style="background: #BC5347;" [book]="books['Noot1514']" [weergave]="weergave"></book-teaser>

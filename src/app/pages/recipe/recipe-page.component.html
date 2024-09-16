@@ -13,9 +13,10 @@
     </div>
   </div>
 
-  <div id="centerColumn">
+  <spinner [show]="!(recipe && book)" style="display: flex; justify-content: center;"></spinner>
+  
+  <div id="centerColumn" *ngIf="recipe && book">
     <recipe-complete
-      *ngIf="recipe && book"
       [recipe]="recipe"
       [book]="book"
       [modernize]="modernize"

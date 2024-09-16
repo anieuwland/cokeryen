@@ -13,6 +13,7 @@ import { DataService } from '../../services/data.service';
 import { RecipeEntry } from '../../domain/recipe-entry';
 import { RecipeBook } from '../../domain/recipe-book';
 import { LinkPreviewService } from '../../services/link-preview.service';
+import { SpinnerComponent } from "../../components/spinner/spinner.component";
 
 @Component({
   selector: 'recipe-page',
@@ -23,7 +24,8 @@ import { LinkPreviewService } from '../../services/link-preview.service';
     CommonModule,
     RecipeCompleteComponent,
     ToolbarComponent,
-  ],
+    SpinnerComponent
+],
   templateUrl: './recipe-page.component.html',
   styleUrl: './recipe-page.component.css',
 })

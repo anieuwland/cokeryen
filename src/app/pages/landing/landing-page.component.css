@@ -1,3 +1,7 @@
+recipes-overview {
+    flex: 1;
+}
+
 #recently-liked {
     flex-direction: column; 
     gap: 8px; 

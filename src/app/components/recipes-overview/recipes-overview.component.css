@@ -1,3 +1,7 @@
+#recipes {
+    justify-content: center;
+}
+
 .recipes-column {
     flex-direction: column;
     gap: 16px;

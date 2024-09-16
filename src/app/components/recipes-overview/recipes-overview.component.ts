@@ -3,11 +3,12 @@ import { RecipeTeaserComponent } from "../recipe-teaser/recipe-teaser.component"
 import { CommonModule } from '@angular/common';
 import { RecipeEntry } from '../../domain/recipe-entry';
 import { fromEvent, Observable, Subscription } from 'rxjs';
+import { SpinnerComponent } from "../spinner/spinner.component";
 
 @Component({
   selector: 'recipes-overview',
   standalone: true,
-  imports: [CommonModule, RecipeTeaserComponent],
+  imports: [CommonModule, RecipeTeaserComponent, SpinnerComponent],
   templateUrl: './recipes-overview.component.html',
   styleUrl: './recipes-overview.component.css'
 })
