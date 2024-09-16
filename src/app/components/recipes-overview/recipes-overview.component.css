@@ -1,7 +1,7 @@
 .recipes-column {
     flex-direction: column;
     gap: 16px;
-    flex-grow: 1;
+    flex: 1;
 }
 
 #recipes {
